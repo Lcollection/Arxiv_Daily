@@ -12,7 +12,7 @@ import random
 # DeepSeek API endpoint and key
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/translate"
 DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
-
+print(secrets.DEEPSEEK_API_KEY)
 # Email settings
 SMTP_SERVER = "smtp.163.com"
 SMTP_USERNAME = os.getenv('SMTP_USERNAME')
