@@ -1,4 +1,0 @@
-arxiv
-requests
-beautifulsoup4
-smtplib
