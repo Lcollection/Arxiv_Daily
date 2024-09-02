@@ -33,7 +33,7 @@ def get_arxiv_papers(query, delay=3):
     today = datetime.now().strftime("%Y-%m-%d")
     search = arxiv.Search(
         query=query,
-        max_results=1000,  # Increase max_results to get more papers
+        max_results=10,  # Increase max_results to get more papers
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
