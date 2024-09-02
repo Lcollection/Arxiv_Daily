@@ -2,3 +2,4 @@ arxiv
 requests
 beautifulsoup4
 py-emails
+mkdocs
