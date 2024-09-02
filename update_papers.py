@@ -7,17 +7,27 @@ import os
 import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
+import random
 
 # DeepSeek API endpoint and key
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1/translate"
-DEEPSEEK_API_KEY = "your_deepseek_api_key"
+DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
 
 # Email settings
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
-SMTP_USERNAME = "your_email@gmail.com"
-SMTP_PASSWORD = "your_email_password"
-EMAIL_RECIPIENT = "your_email@gmail.com"
+SMTP_USERNAME = os.getenv('SMTP_USERNAME')
+SMTP_PASSWORD = os.getenv('SMTP_PASSWORD')
+EMAIL_RECIPIENT = os.getenv('EMAIL_RECIPIENT')
+
+# List of famous quotes
+FAMOUS_QUOTES = [
+    "The only way to do great work is to love what you do. - Steve Jobs",
+    "Believe you can and you're halfway there. - Theodore Roosevelt",
+    "Success is not final, failure is not fatal: It is the courage to continue that counts. - Winston S. Churchill",
+    "The best way to predict the future is to invent it. - Alan Kay",
+    "Do not wait to strike till the iron is hot; but make it hot by striking. - William Butler Yeats"
+]
 
 # Function to get today's papers from Arxiv
 def get_arxiv_papers(query, delay=3):
@@ -162,9 +172,23 @@ def main():
 
     build_mkdocs_site()
 
-    # Send email notification
+    # Prepare email content
+    total_papers = len(arxiv_papers) + len(biorxiv_papers) + len(medrxiv_papers)
+    categories = {
+        "Arxiv": len(arxiv_papers),
+        "BioRxiv": len(biorxiv_papers),
+        "MedRxiv": len(medrxiv_papers)
+    }
+    category_summary = "\n".join([f"{category}: {count}" for category, count in categories.items()])
+    random_quote = random.choice(FAMOUS_QUOTES)
+
     subject = "Papers Update"
-    body = f"New papers have been updated. Check the website for details."
+    body = f"Today, we have collected {total_papers} papers.\n\n" \
+           f"Breakdown by source:\n{category_summary}\n\n" \
+           f"New papers have been updated. Check the website for details.\n\n" \
+           f"Random quote of the day: {random_quote}"
+
+    # Send email notification
     send_email(subject, body)
 
 if __name__ == "__main__":
