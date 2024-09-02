@@ -14,8 +14,7 @@ DEEPSEEK_API_URL = "https://api.deepseek.com/v1/translate"
 DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
 
 # Email settings
-SMTP_SERVER = "smtp.gmail.com"
-SMTP_PORT = 587
+SMTP_SERVER = "smtp.163.com"
 SMTP_USERNAME = os.getenv('SMTP_USERNAME')
 SMTP_PASSWORD = os.getenv('SMTP_PASSWORD')
 EMAIL_RECIPIENT = os.getenv('EMAIL_RECIPIENT')
@@ -147,7 +146,7 @@ def send_email(subject, body):
     msg['Subject'] = subject
     msg.attach(MIMEText(body, 'plain'))
 
-    server = smtplib.SMTP(SMTP_SERVER, SMTP_PORT)
+    server = smtplib.SMTP(SMTP_SERVER)
     server.starttls()
     server.login(SMTP_USERNAME, SMTP_PASSWORD)
     text = msg.as_string()
