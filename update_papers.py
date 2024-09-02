@@ -33,13 +33,14 @@ def get_arxiv_papers(query, delay=3):
     today = datetime.now().strftime("%Y-%m-%d")
     search = arxiv.Search(
         query=query,
-        max_results=10,  # Increase max_results to get more papers
+        max_results=1000,  # Increase max_results to get more papers
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
     
     papers = []
-    for result in search.results():
+    for result in search.get().results():  # Use client.results
+        # Ensure the paper is published today
         if result.published.strftime("%Y-%m-%d") == today:
             code_link = None
             # Try to find a code link in the links
