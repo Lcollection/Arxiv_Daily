@@ -228,7 +228,8 @@ def main():
     }
     category_summary = "\n".join([f"{category}: {count}" for category, count in categories.items()])
     random_quote = random.choice(FAMOUS_QUOTES)
-    j = json.loads(get_balance())
+    bal = get_balance()
+    j = json.loads(bal)
     Type = j["balance_infos"][0]["currency"]
     Total_balance = j["balance_infos"][0]["total_balance"]
     Granted_balance = j["balance_infos"][0]["granted_balance"]
