@@ -204,6 +204,7 @@ def get_balance():
     }
     response = requests.request("GET", url, headers=headers, data=payload)
     print(response.text)
+    return response.text
 
 # Main function
 def main():
