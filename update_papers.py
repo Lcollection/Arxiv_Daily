@@ -51,6 +51,7 @@ def get_arxiv_papers(query, delay=3):
         papers.append({
             "title": result.title,
             "summary": result.summary.replace('\n', ' '),
+            "auther": result.authors[0],
             "pdf_link": result.pdf_url,
             "code_link": code_link,
             "category": result.categories[0]
@@ -143,26 +144,12 @@ def translate(text):
     )
     return response.choices[0].message.content
 
-def summary_tags(text):
-    chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
-    cc = "请用几个关键词总结这段话,请以这种格式输出：关键词1、关键词2...., " + text
-    # print(cc)
-    response = chat.chat.completions.create(
-        model="deepseek-chat",
-        temperature=1.1,
-        messages=[
-            {"role": "system","content":"You are a helpful translator"},
-            {"role": "user", "content": cc},
-            ],
-        stream=False
-    )
-    return response.choices[0].message.content
 
 # Function to save papers as Markdown tables
 def save_as_markdown(papers, filename, topic):
     with open(filename, "w", encoding="utf-8") as file:
         file.write(f"# {topic} Papers\n\n")
-        file.write("| Title | Summary | PDF Link | Code Link | Translated Title | Translated Summary | Summary |\n")
+        file.write("| 标题  | 摘要 | 作者 | PDF链接 | 代码仓库 | Title | Abstract | \n")
         file.write("|-------|---------|----------|-----------|------------------|--------------------|---------|\n")
         for paper in papers:
             title = paper['title']
@@ -171,8 +158,8 @@ def save_as_markdown(papers, filename, topic):
             code_link = f"[Code]({paper['code_link']})" if paper['code_link'] else "N/A"
             translated_title = translate(title)
             translated_summary = translate(summary)
-            tags = summary_tags(translated_summary)
-            file.write(f"| {title} | {summary} | {pdf_link} | {code_link} | {translated_title} | {translated_summary} | {tags} |\n")
+            auther = paper['auther']
+            file.write(f"| {translated_title} | {translated_summary} | {auther} | {pdf_link} | {code_link} | {title} | {summary} |\n")
 
 # Function to send email notification
 def send_email(subject, body):
