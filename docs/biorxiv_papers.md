@@ -1,4 +1,4 @@
 # BioRxiv Papers
 
-| Title | Summary | PDF Link | Code Link | Translated Title | Translated Summary | Summary |
+| 标题  | 摘要 | 作者 | PDF链接 | 代码仓库 | Title | Abstract | 
 |-------|---------|----------|-----------|------------------|--------------------|---------|
