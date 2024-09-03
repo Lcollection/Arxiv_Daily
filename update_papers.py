@@ -1,3 +1,4 @@
+import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
@@ -8,9 +9,10 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import random
+from openai import OpenAI
 
 # DeepSeek API endpoint and key
-DEEPSEEK_API_URL = "https://api.deepseek.com/v1/translate"
+DEEPSEEK_API_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_API_KEY = os.getenv('DEEPSEEK_API_KEY')
 
 # Email settings
@@ -38,25 +40,43 @@ def get_arxiv_papers(query, delay=3):
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
-    
+    results = client.results(search)
     papers = []
-    for result in client.results(search):  # Use client.results
-        # Ensure the paper is published today
-        if result.published.strftime("%Y-%m-%d") == today:
-            code_link = None
-            # Try to find a code link in the links
-            for link in result.links:
-                if "github" in link.href or "gitlab" in link.href:
-                    code_link = link.href
-                    break
-            papers.append({
-                "title": result.title,
-                "summary": result.summary,
-                "pdf_link": result.pdf_url,
-                "code_link": code_link,
-                "category": result.categories[0]  # Assume the first category is the primary one
-            })
-        time.sleep(delay)  # Add delay between requests
+    for result in results:
+        code_link = None
+        for link in result.links:
+            if "github" in link.href or "gitlab" in link.href:
+                code_link = link.href
+                break
+        papers.append({
+            "title": result.title,
+            "summary": result.summary,
+            "pdf_link": result.pdf_url,
+            "code_link": code_link,
+            "category": result.categories[0]
+        })
+        print(result.summary)
+    time.sleep(3)
+    
+    # papers = []
+    # for result in client.results(search):  # Use client.results
+    #     # Ensure the paper is published today
+    #     if result.published.strftime("%Y-%m-%d") == today:
+    #         code_link = None
+    #         # Try to find a code link in the links
+    #         for link in result.links:
+    #             if "github" in link.href or "gitlab" in link.href:
+    #                 code_link = link.href
+    #                 break
+    #         papers.append({
+    #             "title": result.title,
+    #             "summary": result.summary,
+    #             "pdf_link": result.pdf_url,
+    #             "code_link": code_link,
+    #             "category": result.categories[0]  # Assume the first category is the primary one
+    #         })
+    #     time.sleep(delay)  # Add delay between requests
+    
     return papers
 
 # Function to get today's papers from biorxiv
@@ -108,22 +128,34 @@ def get_medrxiv_papers():
         raise Exception("Failed to fetch papers from medrxiv")
 
 # Function to translate and summarize using DeepSeek API
-def translate_and_summarize(text):
-    headers = {
-        "Authorization": f"Bearer {DEEPSEEK_API_KEY}",
-        "Content-Type": "application/json"
-    }
-    data = {
-        "text": text,
-        "target_language": "zh",  # Translate to Chinese
-        "summarize": True
-    }
-    response = requests.post(DEEPSEEK_API_URL, headers=headers, json=data)
-    if response.status_code == 200:
-        result = response.json()
-        return result.get("translated_text"), result.get("summary")
-    else:
-        return None, None
+chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
+def translate(text):
+    cc = "帮我把这段翻译成中文," + text
+    # print(cc)
+    response = chat.chat.completions.create(
+        model="deepseek-chat",
+        temperature=1.1,
+        messages=[
+            {"role": "system","content":"You are a helpful translator"},
+            {"role": "user", "content": cc},
+            ],
+        stream=False
+    )
+    return response.choices[0].message.content
+
+def summary_tags(text):
+    cc = "请用几个关键词总结这段话," + text
+    # print(cc)
+    response = chat.chat.completions.create(
+        model="deepseek-chat",
+        temperature=1.1,
+        messages=[
+            {"role": "system","content":"You are a helpful translator"},
+            {"role": "user", "content": cc},
+            ],
+        stream=False
+    )
+    return response.choices[0].message.content
 
 # Function to save papers as Markdown tables
 def save_as_markdown(papers, filename, topic):
@@ -136,9 +168,10 @@ def save_as_markdown(papers, filename, topic):
             summary = paper['summary']
             pdf_link = f"[PDF]({paper['pdf_link']})"
             code_link = f"[Code]({paper['code_link']})" if paper['code_link'] else "N/A"
-            translated_title, translated_summary = translate_and_summarize(title)
-            summary_text, summary_summary = translate_and_summarize(summary)
-            file.write(f"| {title} | {summary} | {pdf_link} | {code_link} | {translated_title} | {translated_summary} | {summary_summary} |\n")
+            translated_title = translate(title)
+            translated_summary = translate(summary)
+            tags = summary_tags(translated_summary)
+            file.write(f"| {title} | {summary} | {pdf_link} | {code_link} | {translated_title} | {translated_summary} | {tags} |\n")
 
 # Function to send email notification
 def send_email(subject, body):
@@ -158,6 +191,18 @@ def send_email(subject, body):
 # Function to build MkDocs site
 def build_mkdocs_site():
     os.system("mkdocs build")
+
+# Function to get DeepSeek account balance
+def get_balance():
+    url = "https://api.deepseek.com/user/balance"
+    payload={}
+    Token = "Bearer " + DEEPSEEK_API_KEY
+    headers = {
+        'Accept': 'application/json',
+        'Authorization': Token
+    }
+    response = requests.request("GET", url, headers=headers, data=payload)
+    print(response.text)
 
 # Main function
 def main():
@@ -182,10 +227,15 @@ def main():
     }
     category_summary = "\n".join([f"{category}: {count}" for category, count in categories.items()])
     random_quote = random.choice(FAMOUS_QUOTES)
+    j = json.loads(get_balance())
+    Type = j["balance_infos"][0]["currency"]
+    Total_balance = j["balance_infos"][0]["total_balance"]
+    Granted_balance = j["balance_infos"][0]["granted_balance"]
+    Topped_up_balance = j["balance_infos"][0]["topped_up_balance"]
 
     subject = "Papers Update"
     body = f"Today, we have collected {total_papers} papers.\n\n" \
-           f"Breakdown by source:\n{category_summary}\n\n" \
+           f"In your deepseek account balance: {Total_balance} {Type} ; In the acount Grandted: {Granted_balance} {Type}, Topped up: {Topped_up_balance} {Type}.\n\n" \
            f"New papers have been updated. Check the website for details.\n\n" \
            f"Random quote of the day: {random_quote}"
 
