@@ -238,6 +238,7 @@ def main():
 
     subject = "Papers Update"
     body = f"Today, we have collected {total_papers} papers.\n\n" \
+           f"Breakdown by source:\n{category_summary}\n\n" \
            f"In your deepseek account balance: {Total_balance} {Type} ; In the acount Grandted: {Granted_balance} {Type}, Topped up: {Topped_up_balance} {Type}.\n\n" \
            f"New papers have been updated. Check the website for details.\n\n" \
            f"Random quote of the day: {random_quote}"
