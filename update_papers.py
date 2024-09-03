@@ -42,8 +42,9 @@ def get_arxiv_papers(query, delay=3):
     )
     results = client.results(search)
     papers = []
-    if result.published.strftime("%Y-%m-%d") == today:
-        for result in results:
+    
+    for result in results:
+        if result.published.strftime("%Y-%m-%d") == today:
             code_link = None
             for link in result.links:
                 if "github" in link.href or "gitlab" in link.href:
