@@ -145,7 +145,7 @@ def translate(text):
 
 def summary_tags(text):
     chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
-    cc = "请用几个关键词总结这段话," + text
+    cc = "请用几个关键词总结这段话,请以这种格式输出：关键词1、关键词2...., " + text
     # print(cc)
     response = chat.chat.completions.create(
         model="deepseek-chat",
@@ -208,7 +208,7 @@ def get_balance():
 
 # Main function
 def main():
-    query = "cat:cs.AI OR cat:cs.LG"
+    query = "cs.AI OR cs.LG"
 
     arxiv_papers = get_arxiv_papers(query)
     biorxiv_papers = get_biorxiv_papers()
@@ -241,7 +241,7 @@ def main():
            f"Breakdown by source:\n{category_summary}\n\n" \
            f"In your deepseek account balance: {Total_balance} {Type} ; In the acount Grandted: {Granted_balance} {Type}, Topped up: {Topped_up_balance} {Type}.\n\n" \
            f"New papers have been updated. Check the website for details.\n\n" \
-           f"Random quote of the day: {random_quote}"
+           f"{random_quote}"
 
     # Send email notification
     send_email(subject, body)
