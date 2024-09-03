@@ -50,7 +50,7 @@ def get_arxiv_papers(query, delay=3):
                 break
         papers.append({
             "title": result.title,
-            "summary": result.summary,
+            "summary": result.summary.replace('\n', ' '),
             "pdf_link": result.pdf_url,
             "code_link": code_link,
             "category": result.categories[0]
