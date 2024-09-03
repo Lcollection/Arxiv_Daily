@@ -36,27 +36,28 @@ def get_arxiv_papers(query, delay=3):
     client = arxiv.Client()
     search = arxiv.Search(
         query=query,
-        max_results=2,  # Increase max_results to get more papers
+        max_results=200,  # Increase max_results to get more papers
         sort_by=arxiv.SortCriterion.SubmittedDate,
         sort_order=arxiv.SortOrder.Descending
     )
     results = client.results(search)
     papers = []
-    for result in results:
-        code_link = None
-        for link in result.links:
-            if "github" in link.href or "gitlab" in link.href:
-                code_link = link.href
-                break
-        papers.append({
-            "title": result.title,
-            "summary": result.summary.replace('\n', ' '),
-            "auther": result.authors[0],
-            "pdf_link": result.pdf_url,
-            "code_link": code_link,
-            "category": result.categories[0]
-        })
-    time.sleep(3)
+    if result.published.strftime("%Y-%m-%d") == today:
+        for result in results:
+            code_link = None
+            for link in result.links:
+                if "github" in link.href or "gitlab" in link.href:
+                    code_link = link.href
+                    break
+            papers.append({
+                "title": result.title,
+                "summary": result.summary.replace('\n', ' '),
+                "auther": result.authors[0],
+                "pdf_link": result.pdf_url,
+                "code_link": code_link,
+                "category": result.categories[0]
+            })
+        time.sleep(3)
     
     # papers = []
     # for result in client.results(search):  # Use client.results
@@ -195,7 +196,7 @@ def get_balance():
 
 # Main function
 def main():
-    query = "cs.AI OR cs.LG"
+    query = "cs.NE OR cs.MA OR cs.LG OR cs.IT OR cs.GT OR cs.GR OR cs.ET OR cs.DS OR cs.CV OR cs.CR OR cs.CL OR cs.CE OR cs.AI"
 
     arxiv_papers = get_arxiv_papers(query)
     biorxiv_papers = get_biorxiv_papers()
