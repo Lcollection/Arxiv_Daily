@@ -55,7 +55,6 @@ def get_arxiv_papers(query, delay=3):
             "code_link": code_link,
             "category": result.categories[0]
         })
-        print(result.summary)
     time.sleep(3)
     
     # papers = []
@@ -128,8 +127,9 @@ def get_medrxiv_papers():
         raise Exception("Failed to fetch papers from medrxiv")
 
 # Function to translate and summarize using DeepSeek API
-chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
+
 def translate(text):
+    chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
     cc = "帮我把这段翻译成中文," + text
     # print(cc)
     response = chat.chat.completions.create(
