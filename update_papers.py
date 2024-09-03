@@ -144,6 +144,7 @@ def translate(text):
     return response.choices[0].message.content
 
 def summary_tags(text):
+    chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
     cc = "请用几个关键词总结这段话," + text
     # print(cc)
     response = chat.chat.completions.create(
