@@ -1,8 +1,0 @@
-site_name: Arxiv Daily
-nav:
-    - Home: index.md
-    - Arxiv Papers: arxiv_papers.md
-    - BioRxiv Papers: biorxiv_papers.md
-    - MedRxiv Papers: medrxiv_papers.md
-theme:
-    name: 'material'
