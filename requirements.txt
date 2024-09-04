@@ -1,7 +1,0 @@
-arxiv
-requests
-beautifulsoup4
-py-emails
-mkdocs
-mkdocs-material
-openai
