@@ -35,7 +35,8 @@ FAMOUS_QUOTES = [
 def get_arxiv_papers(query, delay=3):
     now = datetime.date.today()
     today = now + relativedelta(days=-1)
-    print(today)
+    today = today.strftime("%Y-%m-%d")
+    print(type(today))
     client = arxiv.Client()
     search = arxiv.Search(
         query=query,
