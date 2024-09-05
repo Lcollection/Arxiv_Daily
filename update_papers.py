@@ -86,7 +86,8 @@ def get_arxiv_papers(query, delay=3):
 
 # Function to get today's papers from biorxiv
 def get_biorxiv_papers():
-    today = datetime.now().strftime("%Y-%m-%d")
+    # today = datetime.now().strftime("%Y-%m-%d")
+    today = "2024-09-04"
     url = f"https://www.biorxiv.org/archive/{today}"
     response = requests.get(url)
     if response.status_code == 200:
@@ -110,7 +111,8 @@ def get_biorxiv_papers():
 
 # Function to get today's papers from medrxiv
 def get_medrxiv_papers():
-    today = datetime.now().strftime("%Y-%m-%d")
+    #today = datetime.now().strftime("%Y-%m-%d")
+    today = "2024-09-04"
     url = f"https://www.medrxiv.org/archive/{today}"
     response = requests.get(url)
     if response.status_code == 200:
