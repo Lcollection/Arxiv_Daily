@@ -6,3 +6,5 @@ nav:
     - MedRxiv Papers: medrxiv_papers.md
 theme:
     name: 'material'
+extra_css:
+    - docs/new_style.css
