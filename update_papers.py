@@ -1,7 +1,8 @@
 import json
 import requests
 from bs4 import BeautifulSoup
-from datetime import datetime
+import datetime
+from dateutil.relativedelta import relativedelta
 import time
 import arxiv
 import os
@@ -32,7 +33,8 @@ FAMOUS_QUOTES = [
 
 # Function to get today's papers from Arxiv
 def get_arxiv_papers(query, delay=3):
-    today = datetime.now().strftime("%Y-%m-%d")
+    now = datetime.date.today()
+    today = now + relativedelta(days=-1)
     print(today)
     client = arxiv.Client()
     search = arxiv.Search(
