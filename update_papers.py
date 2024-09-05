@@ -32,7 +32,7 @@ FAMOUS_QUOTES = [
 
 # Function to get today's papers from Arxiv
 def get_arxiv_papers(query, delay=3):
-    today = datetime.now().strftime("%Y-%m-%d
+    today = datetime.now().strftime("%Y-%m-%d)
     print(today)
     client = arxiv.Client()
     search = arxiv.Search(
