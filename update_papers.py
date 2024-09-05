@@ -91,8 +91,8 @@ def get_arxiv_papers(query, delay=3):
 # Function to get today's papers from biorxiv
 def get_biorxiv_papers():
     # 2024-09-11
-    # biorxiv(begin_date=today, end_date=today, save_path="biorxiv.jsonl")
-    biorxiv(begin_date="2024-09-11", end_date="2024-09-11", save_path="biorxiv.jsonl")
+    biorxiv(begin_date=today, end_date=today, save_path="biorxiv.jsonl")
+    # biorxiv(begin_date="2024-09-11", end_date="2024-09-11", save_path="biorxiv.jsonl")
     jsonl_file = "biorxiv.jsonl"
     papers = []
     with open(jsonl_file, "r") as file:
@@ -109,8 +109,8 @@ def get_biorxiv_papers():
 
 # Function to get today's papers from medrxiv
 def get_medrxiv_papers():
-    # medrxiv(begin_date=today, end_date=today, save_path="medrxiv.jsonl")
-    medrxiv(begin_date="2024-09-11", end_date="2024-09-11", save_path="medrxiv.jsonl")
+    medrxiv(begin_date=today, end_date=today, save_path="medrxiv.jsonl")
+    # medrxiv(begin_date="2024-09-11", end_date="2024-09-11", save_path="medrxiv.jsonl")
     jsonl_file = "medrxiv.jsonl"
     papers = []
     with open(jsonl_file, "r") as file:
