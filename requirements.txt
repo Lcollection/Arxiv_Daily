@@ -5,3 +5,4 @@ py-emails
 mkdocs
 mkdocs-material
 openai
+python-dateutil
