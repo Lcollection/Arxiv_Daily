@@ -1,3 +1,12 @@
+# Arxiv 2024-09-04 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| RoboTwin：配备生成式数字孪生的双臂机器人基准测试（早期版本） | Yao Mu | [PDF](http://arxiv.org/pdf/2409.02920v1) | N/A | RoboTwin: Dual-Arm Robot Benchmark with Generative Digital Twins (early version) |
+| HiPrompt：使用分层多语言大型语言模型提示实现无调优的高分辨率生成 | Xinyu Liu | [PDF](http://arxiv.org/pdf/2409.02919v1) | N/A | HiPrompt: Tuning-free Higher-Resolution Generation with Hierarchical MLLM Prompts |
+| UC-NeRF：从内窥镜稀疏视角实现不确定性感知的条件神经辐射场 | Jiaxin Guo | [PDF](http://arxiv.org/pdf/2409.02917v1) | N/A | UC-NeRF: Uncertainty-aware Conditional Neural Radiance Fields from Endoscopic Sparse Views |
+| 大型语言模型能否获得驾照？一个面向自动驾驶可靠通用智能的基准测试 | Yuhang Lu | [PDF](http://arxiv.org/pdf/2409.02914v1) | N/A | Can LVLMs Obtain a Driver's License? A Benchmark Towards Reliable AGI for Autonomous Driving |
+| SITAR：用于动作识别的半监督图像变换器 | Owais Iqbal | [PDF](http://arxiv.org/pdf/2409.02910v1) | N/A | SITAR: Semi-supervised Image Transformer for Action Recognition |
 # Arxiv Papers
 
 | 标题  | 摘要 | 作者 | PDF链接 | 代码仓库 | Title | Abstract | 
