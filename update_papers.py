@@ -10,7 +10,13 @@ import smtplib
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 import random
+from paperscraper.get_dumps import biorxiv,medrxiv
 from openai import OpenAI
+
+# Get today date
+now = datetime.date.today()
+today = now + relativedelta(days=-1)
+today = today.strftime("%Y-%m-%d")
 
 # DeepSeek API endpoint and key
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1"
@@ -33,10 +39,6 @@ FAMOUS_QUOTES = [
 
 # Function to get today's papers from Arxiv
 def get_arxiv_papers(query, delay=3):
-    now = datetime.date.today()
-    today = now + relativedelta(days=-1)
-    today = today.strftime("%Y-%m-%d")
-    print(type(today))
     client = arxiv.Client()
     search = arxiv.Search(
         query=query,
@@ -54,9 +56,10 @@ def get_arxiv_papers(query, delay=3):
                 if "github" in link.href or "gitlab" in link.href:
                     code_link = link.href
                     break
+
+            # "summary": result.summary.replace('\n', ' '),
             papers.append({
                 "title": result.title,
-                "summary": result.summary.replace('\n', ' '),
                 "auther": result.authors[0],
                 "pdf_link": result.pdf_url,
                 "code_link": code_link,
@@ -87,54 +90,39 @@ def get_arxiv_papers(query, delay=3):
 
 # Function to get today's papers from biorxiv
 def get_biorxiv_papers():
-    # today = datetime.now().strftime("%Y-%m-%d")
-    today = "2024-09-04"
-    url = f"https://www.biorxiv.org/archive/{today}"
-    response = requests.get(url)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
-        papers = []
-        for article in soup.find_all("article", class_="highwire-article"):
-            title = article.find("span", class_="highwire-article-title").text.strip()
-            summary = article.find("p", class_="highwire-article-summary").text.strip()
-            pdf_link = article.find("a", class_="highwire-article-pdf-download")["href"]
-            code_link = None
-            if "artificial intelligence" in title.lower() or "machine learning" in title.lower():
-                papers.append({
-                    "title": title,
-                    "summary": summary,
-                    "pdf_link": pdf_link,
-                    "code_link": code_link
-                })
-        return papers
-    else:
-        raise Exception("Failed to fetch papers from biorxiv")
+    biorxiv(begin_date=today, end_date=today, save_path="biorxiv.jsonl")
+    jsonl_file = "biorxiv.jsonl"
+    papers = []
+    with open(jsonl_file, "r") as file:
+        for line in file:
+            json_obj = json.loads(line)
+            papers.append({
+                "title": json_obj["title"],
+                "auther":json_obj["authors"].split(';')[0],
+                "pdf_link": "https://doi.org/" + json_obj["doi"],
+                "code_link": None,
+            })
+    os.remove("biorxiv.jsonl")
+    return papers
 
 # Function to get today's papers from medrxiv
 def get_medrxiv_papers():
-    #today = datetime.now().strftime("%Y-%m-%d")
-    today = "2024-09-04"
-    url = f"https://www.medrxiv.org/archive/{today}"
-    response = requests.get(url)
-    if response.status_code == 200:
-        soup = BeautifulSoup(response.text, "html.parser")
-        papers = []
-        for article in soup.find_all("article", class_="highwire-article"):
-            title = article.find("span", class_="highwire-article-title").text.strip()
-            summary = article.find("p", class_="highwire-article-summary").text.strip()
-            pdf_link = article.find("a", class_="highwire-article-pdf-download")["href"]
-            code_link = None
-            if "artificial intelligence" in title.lower() or "machine learning" in title.lower():
-                papers.append({
-                    "title": title,
-                    "summary": summary,
-                    "pdf_link": pdf_link,
-                    "code_link": code_link
-                })
-        return papers
-    else:
-        raise Exception("Failed to fetch papers from medrxiv")
+    medrxiv(begin_date=today, end_date=today, save_path="medrxiv.jsonl")
+    jsonl_file = "medrxiv.jsonl"
+    papers = []
+    with open(jsonl_file, "r") as file:
+        for line in file:
+            json_obj = json.loads(line)
+            papers.append({
+                "title": json_obj["title"],
+                "auther":json_obj["authors"].split(';')[0],
+                "pdf_link": "https://doi.org/" + json_obj["doi"],
+                "code_link": None,
+            })
+    os.remove("medrxiv.jsonl")
+    return papers
 
+    
 # Function to translate and summarize using DeepSeek API
 
 def translate(text):
@@ -155,19 +143,20 @@ def translate(text):
 
 # Function to save papers as Markdown tables
 def save_as_markdown(papers, filename, topic):
-    with open(filename, "w", encoding="utf-8") as file:
-        file.write(f"# {topic} Papers\n\n")
-        file.write("| 标题  | 摘要 | 作者 | PDF链接 | 代码仓库 | Title | Abstract | \n")
-        file.write("|-------|---------|----------|-----------|------------------|--------------------|---------|\n")
+    with open(filename, "r+", encoding="utf-8") as file:
+        old = file.read()
+        file.seek(0)
+        file.write(f"# {topic} {today} Papers\n\n")
+        file.write("| 标题 | 作者 | PDF链接 | 代码仓库 | Title | \n")
+        file.write("|-------|----------|-----------|---------|--------------| \n")
         for paper in papers:
             title = paper['title']
-            summary = paper['summary']
             pdf_link = f"[PDF]({paper['pdf_link']})"
             code_link = f"[Code]({paper['code_link']})" if paper['code_link'] else "N/A"
             translated_title = translate(title)
-            translated_summary = translate(summary)
             auther = paper['auther']
-            file.write(f"| {translated_title} | {translated_summary} | {auther} | {pdf_link} | {code_link} | {title} | {summary} |\n")
+            file.write(f"| {translated_title} | {auther} | {pdf_link} | {code_link} | {title} |\n")        
+        file.write(old)
 
 # Function to send email notification
 def send_email(subject, body):
@@ -203,7 +192,7 @@ def get_balance():
 
 # Main function
 def main():
-    query = "cs.NE OR cs.MA OR cs.LG OR cs.IT OR cs.GT OR cs.GR OR cs.ET OR cs.DS OR cs.CV OR cs.CR OR cs.CL OR cs.CE OR cs.AI"
+    query = "cs.NE OR cs.MA OR cs.LG OR cs.CV OR cs.CL OR cs.AI OR q-bio.BM OR q-bio.CB OR q-bio.GN OR q-bio.MN"
 
     arxiv_papers = get_arxiv_papers(query)
     biorxiv_papers = get_biorxiv_papers()
