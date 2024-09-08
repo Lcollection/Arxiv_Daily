@@ -1,3 +1,21 @@
+# MedRxiv 2024-09-07 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 大血管闭塞性卒中患者在血管内治疗期间及治疗后3个月的动态脑自动调节 | Heiberg, A. V. | [PDF](https://doi.org/10.1101/2024.09.05.24313166) | N/A | Dynamic cerebral autoregulation during and 3 months after endovascular treatment in large-vessel occlusion stroke |
+| 南亚人和欧洲人中准确测量肥胖程度与健康状况、血液蛋白质和胰岛素敏感性之间的关联 | Kho, P. F. | [PDF](https://doi.org/10.1101/2024.09.06.24313199) | N/A | Associations between accurate measures of adiposity and fitness, blood proteins, and insulin sensitivity among South Asians and Europeans |
+| 日本COVID-19阴谋论信仰的相关因素：一项全国代表性的横断面调查 | Sato, Y. | [PDF](https://doi.org/10.1101/2024.09.06.24313228) | N/A | Correlates of COVID-19 conspiracy theory beliefs in Japan: A nationally-representative cross-sectional survey |
+| 对寻求治疗的青少年样本中维度强迫症量表的心理测量评估 | Farrell, N. R. | [PDF](https://doi.org/10.1101/2024.09.06.24313128) | N/A | A Psychometric Examination of the Dimensional Obsessive Compulsive Scale in a Treatment-Seeking Youth Sample |
+| 卢旺达成年人艾滋病结果数学模型的开发与校准：为卢旺达实现公平目标提供信息 | Kimmel, A. | [PDF](https://doi.org/10.1101/2024.09.06.24313223) | N/A | Development and calibration of a mathematical model of HIV outcomes among Rwandan adults: informing equitable achievement of targets in Rwanda |
+| 大血管血管炎谱系的蛋白质组学分析揭示了先天免疫激活和基质重塑的共享特征 | Maughan, R. T. | [PDF](https://doi.org/10.1101/2024.09.06.24313218) | N/A | Proteomic profiling of the large vessel vasculitis spectrum identifies shared signatures of innate immune activation and stromal remodelling |
+| 知识动员与研究中致力于公平的社区：范围综述协议 | Barhouche, R. | [PDF](https://doi.org/10.1101/2024.09.06.24313221) | N/A | Knowledge mobilization with and for equity-deserving communities invested in research: A scoping review protocol |
+| 评估HIV预防级联方法以改进HIV预防目标：来自东津巴布韦一般人群试点研究的经验教训 | Moorhouse, L. R. | [PDF](https://doi.org/10.1101/2024.09.07.24310075) | N/A | Appraising the HIV Prevention Cascade methodology to improve HIV prevention targets: Lessons learned from a general population pilot study in east Zimbabwe |
+| SYNE1基因的新型变异与有早发性动脉粥样硬化家族史的年轻人心肌梗死相关。 | Ambroziak, M. | [PDF](https://doi.org/10.1101/2024.09.06.24313220) | N/A | SYNE1 gene novel variant is associated with myocardial infarction in young people with a family history of premature atherosclerosis. |
+| ATTRv 患者家属的表型表现及后续疾病外显率 | Fazzini, L. | [PDF](https://doi.org/10.1101/2024.09.06.24313219) | N/A | Phenotypic presentation of family members of ATTRv probands and subsequent disease penetrance |
+| 他汀类药物治疗在股腘病变患者接受药物洗脱和药物涂层支架治疗中的效果：STAR-FP研究结果 | Takei, T. | [PDF](https://doi.org/10.1101/2024.09.06.24313216) | N/A | Effects of Statin Therapy in Patients Treated with Drug-Eluting and Drug-Coated Stents for Femoropopliteal Lesions: STAR-FP Study Outcomes |
+| 建立肌酸转运蛋白缺乏症和胍基乙酸甲基转移酶缺乏症的核心结局集 | Nasseri Moghaddam, Z. | [PDF](https://doi.org/10.1101/2024.09.06.24313213) | N/A | Establishing a Core Outcome Set for Creatine Transporter Deficiency and Guanidinoacetate Methyltransferase Deficiency |
+| 疫苗接种对英国SARS-CoV-2传播的影响：一项建模研究 | Derqui, N. | [PDF](https://doi.org/10.1101/2024.09.06.24313210) | N/A | Impact of vaccination on SARS-CoV-2 transmission in the UK: a modelling study |
+| 不同行业管理者对患有常见精神障碍员工工作能力的体验差异：一项针对瑞典劳动力市场的横断面研究 | Bjork, L. | [PDF](https://doi.org/10.1101/2024.09.06.24313226) | N/A | Industry differences in managers experiences of work capacity in employees with common mental disorders: a cross-sectional study on the Swedish labour market |
 # MedRxiv 2024-09-05 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
