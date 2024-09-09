@@ -1,3 +1,19 @@
+# MedRxiv 2024-09-08 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 使用深度神经网络疾病责任度的遗传关联研究 | Yang, L. | [PDF](https://doi.org/10.1101/2023.01.18.23284383) | N/A | Genetic association studies using disease liabilities from deep neural networks |
+| 经皮耳迷走神经刺激对蛛网膜下腔出血患者心血管功能的影响：一项安全性研究 | Tan, G. | [PDF](https://doi.org/10.1101/2024.04.03.24304759) | N/A | The effect of transcutaneous auricular vagus nerve stimulation on cardiovascular function in subarachnoid hemorrhage patients: a safety study |
+| 对乳糜泻孟德尔随机化研究的系统综述。 | Omar, M. | [PDF](https://doi.org/10.1101/2024.07.03.24309885) | N/A | A Systematic Review of Mendelian Randomization Studies on Celiac Disease. |
+| 2024年，哥伦比亚亚马逊盆地奥罗波切病毒两个谱系的共同循环 | Usuga, J. | [PDF](https://doi.org/10.1101/2024.09.04.24312892) | N/A | Co-circulation of two lineages of Oropouche virus in the Amazon basin, Colombia, 2024 |
+| 丹麦登记册中饮食失调诊断转变和假定缓解的描述性和遗传相关性。 | Abdulkadir, M. | [PDF](https://doi.org/10.1101/2024.09.05.24313142) | N/A | Descriptives and genetic correlates of eating disorder diagnostic transitions and presumed remission in the Danish registry. |
+| 探究趋化因子诱导的视网膜细胞NF-κB激活及其在年龄相关性黄斑变性发病机制中的贡献：一项系统综述 | Siddiqui, I. | [PDF](https://doi.org/10.1101/2024.09.07.24313230) | N/A | Investigating Chemokine-Induced NF-κB Activation in Retinal Cells and Its Contribution to Age-Related Macular Degeneration Pathogenesis: A Systematic Review |
+| 运动诱导的骨骼肌基因表达性别特异性反应揭示了胰岛素敏感性变化的新型直接介质 | Ma, S. | [PDF](https://doi.org/10.1101/2024.09.07.24313236) | N/A | Sex-Specific Skeletal Muscle Gene Expression Responses to Exercise Reveal Novel Direct Mediators of Insulin Sensitivity Change |
+| 生活方式因素和遗传风险在夜班工作与胆石症关联中的作用：一项前瞻性队列研究。 | He, W. | [PDF](https://doi.org/10.1101/2024.09.06.24313160) | N/A | The roles of lifestyle factors and genetic risk in the association between night shift work and cholelithiasis: a prospective cohort study. |
+| 预测英格兰2023/24年冬季COVID-19、流感及RSV住院情况 | Mellor, J. | [PDF](https://doi.org/10.1101/2024.09.07.24313175) | N/A | Forecasting COVID-19, Influenza and RSV hospitalisations over winter 2023/24 in England |
+| 脂肪型体征在识别非洲土著和非土著人群中的心血管代谢疾病方面的辨别能力 | Kufe, C. N. | [PDF](https://doi.org/10.1101/2024.09.07.24313232) | N/A | Discriminatory ability of adiposity phenotypes in identifying cardiometabolic disorders in indigenous and non-indigenous African populations |
+| 在ABCD研究中，患有广泛性焦虑症的青少年的静息状态皮层网络与皮层下超连接性 | Sievertsen, S. A. | [PDF](https://doi.org/10.1101/2024.09.07.24313237) | N/A | Resting State Cortical Network and Subcortical Hyperconnectivity in Youth With Generalized Anxiety Disorder in the ABCD Study |
+| 使用符合性生存分析预测心力衰竭重症患者的生存时间 | Wang, X. | [PDF](https://doi.org/10.1101/2024.09.07.24313245) | N/A | Predicting survival time for critically ill patients with heart failure using conformalized survival analysis |
 # MedRxiv 2024-09-07 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
