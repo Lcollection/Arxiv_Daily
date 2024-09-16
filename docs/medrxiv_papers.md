@@ -1,3 +1,29 @@
+# MedRxiv 2024-09-15 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 评估YiDiXie™-SS和YiDiXie™-HS在前列腺癌诊断中的价值 | Li, X. | [PDF](https://doi.org/10.1101/2024.06.26.24309554) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS and YiDiXie™-HS in prostate cancer |
+| 评估YiDiXie™-SS和YiDiXie™-HS在乳腺癌诊断中的价值 | Wu, Y. | [PDF](https://doi.org/10.1101/2024.07.02.24309738) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS and YiDiXie™-HS in breast cancer |
+| 评估YiDiXie™-SS和YiDiXie™-HS在甲状腺癌诊断中的价值 | Zhou, H. | [PDF](https://doi.org/10.1101/2024.07.03.24309931) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS and YiDiXie™-HS in thyroid cancer |
+| 供者HLA I类分子进化分歧与儿童肝移植后晚期移植物排斥反应：一项模拟目标试验。 | Dumortier, J. | [PDF](https://doi.org/10.1101/2024.09.13.24313304) | N/A | Donor HLA class 1 evolutionary divergence and late allograft rejection after liver transplantation in children: an emulated target trial. |
+| 表观遗传时钟的纵向变化预测了InCHIANTI队列中的生存情况 | Kuo, P.-L. | [PDF](https://doi.org/10.1101/2024.09.13.24313620) | N/A | Longitudinal changes in epigenetic clocks predict survival in the InCHIANTI cohort |
+| 人类遗传学证据为指导白细胞介素-6信号抑制在腹主动脉瘤临床开发中的应用提供信息 | Burgess, S. | [PDF](https://doi.org/10.1101/2024.09.14.24313670) | N/A | Human genetic evidence to inform clinical development of interleukin-6 signaling inhibition for abdominal aortic aneurysm |
+| 循环生物标志物作为预测住院老年患者（患有老年综合征）身体功能改善的指标：REHAB-HF试验的发现 | Damluji, A. | [PDF](https://doi.org/10.1101/2024.09.13.24313662) | N/A | Circulating Biomarkers as Predictors of Improvement in Physical Function in Hospitalized Older Adults with Geriatric Syndromes: Findings from the REHAB-HF Trial |
+| 低收入和中等收入国家残疾人现代避孕措施使用率及其决定因素：系统综述与荟萃分析 | Chowdhury, A. R. | [PDF](https://doi.org/10.1101/2024.09.13.24313669) | N/A | Prevalence and determinants of modern contraception use among persons with disabilities in low- and middle-income countries: a systematic review and meta-analysis |
+| 巴哈马新普罗维登斯岛初级保健医生评估和管理慢性肾脏疾病的实践及障碍 | Bain, W. A. | [PDF](https://doi.org/10.1101/2024.09.13.24313661) | N/A | Primary Care Physicians' Practices and Barriers in Evaluating and Managing Chronic Kidney Disease in New Providence, The Bahamas |
+| 科学文献和科学工作者的“新冠化”与“去新冠化” | Ioannidis, J. | [PDF](https://doi.org/10.1101/2024.09.13.24313660) | N/A | Covidization and decovidization of the scientific literature and scientific workforce |
+| 使用主成分分析对全身关节运动进行降维后表达的正常进食动作 | Nakatake, J. | [PDF](https://doi.org/10.1101/2024.09.14.24313686) | N/A | Normal feeding movements expressed by dimensionality reduction of whole-body joint motions using principal component analysis |
+| 莫桑比克马普托市卫生设施中青少年女孩和年轻女性在使用性与生殖健康及艾滋病服务方面的知识和经验 | Muchanga, V. A. | [PDF](https://doi.org/10.1101/2024.09.14.24313688) | N/A | Knowledge and experiences of adolescent girls and young women in the use of sexual reproductive health and HIV services at health facilities in Maputo City, Mozambique |
+| 皮肤电活动与阵发性交感神经过度活动患者心脏肌钙蛋白之间的关系 | Beers, L. | [PDF](https://doi.org/10.1101/2024.09.14.24313588) | N/A | The Relationship Between Electrodermal Activity and Cardiac Troponin in Patients with Paroxysmal Sympathetic Hyperactivity |
+| 编辑委员会成员是否会在自己的期刊上发表文章？对主要足踝期刊中作为作者的编辑委员会成员的审查 | Fa-Binefa, M. | [PDF](https://doi.org/10.1101/2024.09.14.24312929) | N/A | Do editorial board members publish in their own journal? Review of editorial board members as authors in the main foot and ankle journals |
+| 一种用于预测英国生物样本库队列中动脉粥样硬化性心血管疾病风险的血浆蛋白质组学特征 | Gupte, T. P. | [PDF](https://doi.org/10.1101/2024.09.13.24313652) | N/A | A plasma proteomic signature for atherosclerotic cardiovascular disease risk prediction in the UK Biobank cohort |
+| 英国生物银行队列中2型糖尿病及其相关特征的血浆蛋白质组学特征 | Gupte, T. P. | [PDF](https://doi.org/10.1101/2024.09.13.24313501) | N/A | Plasma proteomic signatures for type 2 diabetes mellitus and related traits in the UK Biobank cohort |
+| 提高加拿大四个省份急性缺血性卒中治疗的可达性和效率：一项阶梯楔形试验 | Kamal, N. | [PDF](https://doi.org/10.1101/2024.09.13.24313666) | N/A | Improving Access and Efficiency of Acute Ischemic Stroke Treatment Across Four Canadian Provinces: A Stepped-Wedge Trial |
+| 我是一名四分卫：一项针对死亡调查人员与疑似遗传性原因导致的年轻猝死受害者家属沟通的混合方法研究 | Mason, K. L. | [PDF](https://doi.org/10.1101/2024.09.13.24313665) | N/A | I am a quarterback: A mixed methods study of death investigators' communication with family members of young sudden cardiac death victims from suspected heritable causes |
+| 腺病毒5型载体COVID-19疫苗雾化或肌肉注射加强剂在中国多中心、部分随机、平台试验中对具有混合免疫的成年人中对抗COVID-19的有效性 | Jia, S. | [PDF](https://doi.org/10.1101/2024.09.14.24313671) | N/A | Effectiveness of a booster dose of aerosolized or intramuscular adenovirus type 5 vectored COVID-19 vaccine in adults with hybrid immunity against COVID-19: a multicenter, partially randomized, platform trial in China |
+| 南非人群中血管紧张素转换酶抑制剂诱导的血管性水肿的全基因组关联研究。 | Mugo, J. W. | [PDF](https://doi.org/10.1101/2024.09.13.24313664) | N/A | A GWAS of ACE Inhibitor-Induced Angioedema in a South African Population. |
+| 金属感知是一种味道、香气还是风味？ | Buiret, G. | [PDF](https://doi.org/10.1101/2024.09.13.24313668) | N/A | is metallic perception a taste, an aroma or a flavor? |
+| 建模COVID-19流动性中断对华盛顿州西雅图市RSV传播的影响 | Srinivas Duddu, A. | [PDF](https://doi.org/10.1101/2024.09.13.24313667) | N/A | Modeling the effects of COVID-19 mobility disruptions on RSV transmission in Seattle, Washington |
 # MedRxiv 2024-09-14 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
