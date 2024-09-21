@@ -1,3 +1,17 @@
+# MedRxiv 2024-09-20 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 对20,979名癫痫患者进行外显子测序，揭示了不同癫痫亚型之间共享及独特的超罕见遗传风险 | Epi25 Collaborative,   | [PDF](https://doi.org/10.1101/2023.02.22.23286310) | N/A | Exome sequencing of 20,979 individuals with epilepsy reveals shared and distinct ultra-rare genetic risk across disorder subtypes |
+| 使用健康系统数据预测自残行为时不同时间框架变量的重要性 | Wolock, C. J. | [PDF](https://doi.org/10.1101/2024.04.29.24306260) | N/A | Importance of variables from different time frames for predicting self-harm using health system data |
+| 儿童精神障碍与父母后续精神障碍的关联：来自芬兰和丹麦的全国队列研究 | Hakulinen, C. | [PDF](https://doi.org/10.1101/2024.05.31.24308106) | N/A | The Associations of Mental Disorders in Children With Parents' Subsequent Mental Disorders: A Nationwide Cohort Study From Finland and Denmark |
+| 在墨西哥三级护理环境中，人工智能工具与第一年住院医师在视网膜疾病检测和青光眼评估中的比较表现：一项研究 | Camacho-Garcia-Formenti, D. | [PDF](https://doi.org/10.1101/2024.08.26.24311677) | N/A | Comparative Performance of an AI Tool and First-Year Residents in Retinal Disease Detection and Glaucoma Assessment: A Study in a Mexican Tertiary Care Setting |
+| 胰高血糖素样肽-1受体激动剂与心血管疾病风险：基于AI驱动的真实世界数据研究结果 | Prakash, S. | [PDF](https://doi.org/10.1101/2024.09.17.24313797) | N/A | Glucagon-Like Peptide 1 Receptor Agonists and Cardiovascular Disease Risk: Findings from Real-World Data using AI-Powered Outcomes |
+| 超越光谱：通过综合转录组分析深入了解自闭症谱系障碍的亚型特异性分子机制 | Zahiri, J. | [PDF](https://doi.org/10.1101/2024.09.17.24313857) | N/A | Beyond the Spectrum: Subtype-Specific Molecular Insights into Autism Spectrum Disorder Via Integrated Transcriptomic Analysis |
+| DHIS2时代下的健康数据报告挑战：乌干达Teso次区域混合方法综述 | Lawrence, M. R. | [PDF](https://doi.org/10.1101/2024.09.18.24313921) | N/A | Health Data Reporting Challenges in the Age of DHIS2: a Mixed-Methods Review in the Teso Sub-Region of Uganda |
+| 瑞士基于医院的流感与COVID-19全国监测系统（CH-SUR）概述与评估：2018-2023年 | Sobel, J. A. | [PDF](https://doi.org/10.1101/2024.09.18.24313869) | N/A | Overview and evaluation of a nationwide hospital-based surveillance system for Influenza and COVID-19 in Switzerland (CH-SUR): 2018-2023 |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在胆囊癌诊断中的价值 | Zhou, H. | [PDF](https://doi.org/10.1101/2024.09.18.24313930) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in gallbladder cancer |
+| ExonViz：一个用于可视化转录本和遗传变异的网站及Python包 | van den Berg, R. R. | [PDF](https://doi.org/10.1101/2024.09.18.24313945) | N/A | ExonViz: A website and Python package to visualize transcripts and genetic variants |
 # MedRxiv 2024-09-19 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
