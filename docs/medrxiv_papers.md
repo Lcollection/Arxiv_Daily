@@ -1,3 +1,56 @@
+# MedRxiv 2024-09-28 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 估计SARS-CoV-2同源序列集群大小中的二次病例数和过度分散性 | Hodcroft, E. B. | [PDF](https://doi.org/10.1101/2024.05.26.24307940) | N/A | Estimating Re and overdispersion in secondary cases from the size of identical sequence clusters of SARS-CoV-2 |
+| 采用网络医学方法研究重症患者ME/CFS发病机制的试点研究 | Hung, L.-Y. | [PDF](https://doi.org/10.1101/2024.09.26.24314417) | N/A | A Network Medicine Approach to Investigating ME/CFS Pathogenesis in Severely Ill Patients: A Pilot Study |
+| JAK抑制剂托法替尼纠正CEACAM6的过度表达，并限制由IBD相关基因PTPN2活性降低引起的对AIEC的易感性。 | Chatterjee, P. | [PDF](https://doi.org/10.1101/2024.09.26.24314341) | N/A | The JAK inhibitor, Tofacitinib, Corrects the Overexpression of CEACAM6 and Limits Susceptibility to AIEC Caused by Reduced Activity of the IBD Associated Gene, PTPN2 |
+| 行为变异型额颞叶痴呆中的神经精神症状群随时间推移而聚集和波动 | Morrow, C. B. | [PDF](https://doi.org/10.1101/2024.09.26.24314180) | N/A | Neuropsychiatric Symptoms Cluster and Fluctuate Over Time in Behavioral Variant Frontotemporal Dementia |
+| 基于组织学指导的脑干核磁共振成像分割对意识至关重要的区域 | Olchanyi, M. D. | [PDF](https://doi.org/10.1101/2024.09.26.24314117) | N/A | Histology-guided MRI segmentation of brainstem nuclei critical to consciousness |
+| 年龄相关性黄斑变性中网状假硬化的遗传风险：HTRA1/lncRNA BX842242.1占主导地位，未发现补体级联参与的证据 | Farashi, S. | [PDF](https://doi.org/10.1101/2024.09.26.24314339) | N/A | Genetic Risk of Reticular Pseudodrusen in Age-Related Macular Degeneration: HTRA1/lncRNA BX842242.1 dominates, with no evidence for Complement Cascade involvement |
+| 纽约市代表性不足的创始人群体的遗传疾病风险 | Isshiki, M. | [PDF](https://doi.org/10.1101/2024.09.27.24314513) | N/A | Genetic disease risks of under-represented founder populations in New York City |
+| 罕见变异聚集突显出与脑容量变异相关的罕见疾病基因 | Wightman, D. P. | [PDF](https://doi.org/10.1101/2024.09.26.24314187) | N/A | Rare variant aggregation highlights rare disease genes associated with brain volume variation |
+| 减轻大型语言模型中的幻觉：RAG增强与人类生成医学模板的比较研究 | Li, A. | [PDF](https://doi.org/10.1101/2024.09.27.24314506) | N/A | Mitigating Hallucinations in Large Language Models: A Comparative Study of RAG-enhanced vs. Human-Generated Medical Templates |
+| 合成数据蒸馏技术能够大规模提取临床信息 | Woo, E. G. | [PDF](https://doi.org/10.1101/2024.09.27.24314517) | N/A | Synthetic Data Distillation Enables the Extraction of Clinical Information at Scale |
+| 在埃塞俄比亚南部，如何分散对皮肤利什曼病和其他皮肤疾病的护理：需要是什么？ | Tadesse, D. | [PDF](https://doi.org/10.1101/2024.09.27.24314478) | N/A | Decentralizing care for cutaneous leishmaniasis and other skin diseases in Southern Ethiopia: What are the needs? |
+| 2024年7月至9月布隆迪确诊猴痘病例的流行病学分析 | Nizigiyimana, A. | [PDF](https://doi.org/10.1101/2024.09.27.24314511) | N/A | Epidemiological Analysis of Confirmed Mpox Cases in Burundi, July to September 2024 |
+| 印度疟疾发病率的预测时间序列建模：20年回顾与5年预测。 | Soni, A. | [PDF](https://doi.org/10.1101/2024.09.26.24314440) | N/A | Predictive Time Series Modeling of Malaria Incidence in India: A 20-Year Retrospective and 5-Year Forecast. |
+| Galar - 一个大型多标签视频胶囊内窥镜数据集 | Le Floch, M. | [PDF](https://doi.org/10.1101/2024.09.26.24314265) | N/A | Galar - a large multi-label video capsule endoscopy dataset |
+| 在初级保健中筛查回避限制性食物摄入障碍（ARFID）：临床表现及在瑞典学龄前儿童中验证ARFID-简短筛查工具 | Dinkler, L. | [PDF](https://doi.org/10.1101/2024.09.26.24314270) | N/A | Screening for avoidant restrictive food intake disorder (ARFID) in primary care: clinical presentation and validation of the ARFID-Brief Screener in Swedish preschoolers |
+| 推动急性期后精神分裂症谱系障碍临床改善的神经和躯体机制 | Roell, L. | [PDF](https://doi.org/10.1101/2024.09.27.24314427) | N/A | Neural and Somatic Mechanisms Driving Clinical Improvements in Post-Acute Schizophrenia Spectrum Disorders |
+| 黎巴嫩叙利亚难民的法律居留身份及其与健康指标的关系：一项嵌套横断面研究 | Ragi, M.-E. | [PDF](https://doi.org/10.1101/2024.09.27.24314488) | N/A | Legal residency status and its relationship with health indicators among Syrian refugees in Lebanon: a nested cross-sectional study |
+| 用进废退：一项为期四年的跟踪研究，评估在接近个人体能极限的情况下进行体育活动是否能保护老年人免受身体功能下降的影响。 | Löppönen, A. | [PDF](https://doi.org/10.1101/2024.09.27.24314462) | N/A | Use it or lose it: A four-year follow-up to assess whether engagement with physical activity close to one's physical capacity may protect against decline in physical functioning among older adults |
+| 评估高风险、低资源社区对心肺复苏术和公共除颤的看法和态度 | Hirsch, C. | [PDF](https://doi.org/10.1101/2024.09.26.24314460) | N/A | Assessing Attitudes and Perceptions of High-risk, Low-resource Communities towards Cardiopulmonary Resuscitation and Public-access Defibrillation |
+| 利益相关者对成人脑瘫社区登记处的看法：一项定性研究 | Sarmiento, C. A. | [PDF](https://doi.org/10.1101/2024.09.26.24314382) | N/A | Stakeholder Perspectives on an Adult Cerebral Palsy Community Registry: A Qualitative Study |
+| 影响系统性硬化症随机临床试验20年累积率的试验层面因素。 | RUSSO, B. | [PDF](https://doi.org/10.1101/2024.09.26.24314451) | N/A | Trial-level factors affecting accrual rate of systemic sclerosis randomized clinical trials over 20 years. |
+| 一种识别精英冬季运动运动员运动相关能量缺乏风险（REDs）的新方法 | Smith, E. M. | [PDF](https://doi.org/10.1101/2024.09.27.24314508) | N/A | A New Approach to Identifying Elite Winter Sport Athletes' Risk of Relative Energy Deficiency in Sport (REDs) |
+| 血浆置换在蛇咬伤中毒中的作用：系统评价 | Prasad, H. | [PDF](https://doi.org/10.1101/2024.09.27.24314476) | N/A | The role of plasmapheresis in snake envenoming: a systematic review |
+| 脂质轨迹改善了阿尔茨海默病和轻度认知障碍的风险模型 | Chase, B. A. | [PDF](https://doi.org/10.1101/2024.09.27.24314494) | N/A | Lipid trajectories improve risk models for Alzheimer's disease and mild cognitive impairment |
+| 用于口腔鳞状细胞癌诊断的干燥唾液微滴光学成像 | Foiani, L. M. C. | [PDF](https://doi.org/10.1101/2024.09.27.24314396) | N/A | Optical imaging of micro-droplets of dried saliva for oral squamous cell carcinoma diagnosis |
+| 癌症放疗后不确定潜能克隆性造血的风险 | Crants, S. A. | [PDF](https://doi.org/10.1101/2024.09.27.24314321) | N/A | Risk of Clonal Hematopoiesis of Indeterminate Potential after Cancer Radiation Therapy |
+| 术后淋巴液渗漏是ctDNA的近端来源，并能在HPV阴性头颈部癌症中检测到复发 | Lazare, S. S. | [PDF](https://doi.org/10.1101/2024.09.27.24314491) | N/A | Postoperative Lymphatic Exudate is a Proximal Source of ctDNA and Detects Recurrence in HPV-negative Head and Neck Cancer |
+| 基于泪液的纳米孔测序快速鉴定角膜溃疡中细菌病原体的方法 | Dibbs, M. | [PDF](https://doi.org/10.1101/2024.09.26.24314375) | N/A | A Tear-Based Approach for Rapid Identification of Bacterial Pathogens in Corneal Ulcers Using Nanopore Sequencing |
+| 赋能慢性腰痛的自我管理：以人为中心的设计研究——针对美国西班牙语和粤语偏好患者的研究 | Zheng, P. | [PDF](https://doi.org/10.1101/2024.09.27.24314504) | N/A | Empowering Self-Management for Chronic Low Back Pain: A Human-Centered Design Study of Spanish- and Cantonese-Preferring Patients in the United States |
+| 步态到接触（G2C）：一种新颖的深度学习框架，用于从步态模式预测全膝关节置换术的磨损情况 | Perrone, M. | [PDF](https://doi.org/10.1101/2024.09.27.24314383) | N/A | Gait-to-Contact (G2C): A novel deep learning framework to predict total knee replacement wear from gait patterns |
+| 运动分析中的合成数据生成：一种生成式深度学习框架 | Perrone, M. | [PDF](https://doi.org/10.1101/2024.09.27.24314497) | N/A | Synthetic Data Generation in Motion Analysis: A Generative Deep Learning Framework |
+| 基于祖先多样性的全基因组关联分析凸显了遗传调控血浆蛋白水平在不同祖先间的特异性差异 | Sarnowski, C. | [PDF](https://doi.org/10.1101/2024.09.27.24314500) | N/A | Ancestrally diverse genome-wide association analysis highlights ancestry-specific differences in genetic regulation of plasma protein levels |
+| 用于反义寡核苷酸治疗的有害变异资格评估的共识指南 | Cheerie, D. | [PDF](https://doi.org/10.1101/2024.09.27.24314122) | N/A | Consensus guidelines for eligibility assessment of pathogenic variants to antisense oligonucleotide treatments |
+| 衡量加拿大对健康不平等的厌恶程度：一项公平与效率权衡实验 | Iragorri, N. | [PDF](https://doi.org/10.1101/2024.09.27.24314482) | N/A | Measuring aversion to health inequality in Canada: an equity-efficiency trade-off experiment |
+| 系统表征对齐在大语言模型中对分类决策的有效性 | Kohane, I. S. | [PDF](https://doi.org/10.1101/2024.09.27.24314486) | N/A | SYSTEMATIC CHARACTERIZATION OF THE EFFECTIVENESS OF ALIGNMENT IN LARGE LANGUAGE MODELS FOR CATEGORICAL DECISIONS |
+| 评估在家中以自我为中心的视频中获取的手部表现信息在门诊神经康复中的临床应用价值 | Kadambi, A. | [PDF](https://doi.org/10.1101/2024.09.27.24314512) | N/A | Evaluating the clinical utility of hand performance information from at-home egocentric video in outpatient neurorehabilitation |
+| 医疗组织中质量检查表开发的设计方法：范围综述 | Kwong, E. | [PDF](https://doi.org/10.1101/2024.09.27.24314468) | N/A | Design Approaches for Developing Quality Checklists in Healthcare Organizations: A Scoping Review. |
+| 美国成年人高血压亚型的患病率和死亡率趋势 | Tang, K. S. | [PDF](https://doi.org/10.1101/2024.09.27.24314521) | N/A | Prevalence and Mortality Trends of Hypertension Subtypes Among US Adults |
+| 美国五种种族和族裔群体中中年人心血管风险因素的流行趋势：两项队列研究的纵向分析 | Pedamallu, H. | [PDF](https://doi.org/10.1101/2024.09.27.24314520) | N/A | Prevalence and Trends in Cardiovascular Risk Factors Among Middle Aged Persons from Five Race and Ethnic Groups in the United States: A Longitudinal Analysis of Two Cohort Studies |
+| 创伤后应激障碍相关的静息态功能连接差异及其与性激素的关联 | Noble, N. C. | [PDF](https://doi.org/10.1101/2024.09.26.24314301) | N/A | PTSD-related differences in resting-state functional connectivity and associations with sex hormones |
+| COMET-LF：一种针对淋巴丝虫病感染、疾病及消除策略动态的隔室模型 | Ghosh, I. | [PDF](https://doi.org/10.1101/2024.09.27.24314480) | N/A | COMET-LF: A Compartmental Model of Dynamics of Infection, Disease, and Elimination Strategies for Lymphatic Filariasis |
+| 识别基因变异及其与自闭症谱系障碍的因果关联 | Yadav, P. | [PDF](https://doi.org/10.1101/2024.09.27.24314463) | N/A | Identification of genetic variants and their causal association underlying autism spectrum disorder |
+| 白质高信号与阿尔茨海默病之间的遗传相互作用：一种脑-体视角 | Singh, M. | [PDF](https://doi.org/10.1101/2024.09.27.24314431) | N/A | Genetic Interplay Between White Matter Hyperintensities and Alzheimer Disease: A Brain-Body Perspective |
+| 使用深度临床表型分析和果蝇模型解决多代家族中SLC6A1变异表达的问题 | Jay, K. | [PDF](https://doi.org/10.1101/2024.09.27.24314092) | N/A | Resolution of SLC6A1 variable expressivity in a multi-generational family using deep clinical phenotyping and Drosophila models |
+| 评估大型语言模型在临床决策支持中的工作流程：转诊、分诊和诊断 | Gaber, F. | [PDF](https://doi.org/10.1101/2024.09.27.24314505) | N/A | Evaluating large language model workflows in clinical decision support: referral, triage, and diagnosis |
+| Graves病的结果及其相关遗传易感性：文献的系统综述 | Mokoagow, I. | [PDF](https://doi.org/10.1101/2024.09.27.24314519) | N/A | Outcome of Graves' Disease and Associated Genetic Predisposition: A Systematic Review of Literature |
+| 认知健康的年轻APOEe4基因携带者表现出多个静息状态网络中图属性功能连接的紊乱。 | Kucikova, L. | [PDF](https://doi.org/10.1101/2024.09.27.24314481) | N/A | Cognitively healthy young adults with APOEe4 gene show disrupted functional connectivity of graph properties in multiple resting-state networks |
+| 一个南部非洲血流调控变异图谱助力全基因组关联研究解读 | Castel, S. E. | [PDF](https://doi.org/10.1101/2024.09.27.24314510) | N/A | A Southern African Map of Blood Regulatory Variation Enables GWAS Interpretation |
+| PP在非糖尿病患者中调节了METS-IR与AIS之间的关系 | Li, Z. | [PDF](https://doi.org/10.1101/2024.09.26.24314461) | N/A | PP mediated the relationship between METS-IR and AIS in non-diabetic patients |
 # MedRxiv 2024-09-27 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
