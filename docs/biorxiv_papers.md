@@ -1,3 +1,111 @@
+# BioRxiv 2024-09-29 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 后顶叶皮层中的分隔树突可塑性整合了跨越时间的记忆 | Sehgal, M. | [PDF](https://doi.org/10.1101/2021.10.28.466343) | N/A | Compartmentalized dendritic plasticity in the retrosplenial cortex integrates memories across time |
+| 呼叫模式在狨猴中编码和传递情感 | Huang, J. | [PDF](https://doi.org/10.1101/2022.08.03.502601) | N/A | Call patterns encode and transmit emotion in marmoset monkeys |
+| 活跃的树突能够在时间抖动的情况下实现鲁棒的尖峰计算 | Burger, T. S. | [PDF](https://doi.org/10.1101/2023.03.22.533815) | N/A | Active Dendrites Enable Robust Spiking Computations despite Timing Jitter |
+| AAA+蛋白Msp1通过疏水性错配识别底物。 | Fresenius, H. L. | [PDF](https://doi.org/10.1101/2023.07.11.548587) | N/A | The AAA+ protein Msp1 recognizes substrates by a hydrophobic mismatch |
+| 氯霉素和庆大霉素通过抑制大肠杆菌C LPS突变体的一个子集，减少了噬菌体{Phi}X174的抗性进化。 | Parab, L. | [PDF](https://doi.org/10.1101/2023.08.28.552763) | N/A | Chloramphenicol and gentamicin reduce resistance evolution to phage {Phi}X174 by suppressing a subset of E. coli C LPS mutants |
+| KaryoTap 实现数千个单个人类细胞的非整倍体检测 | Mays, J. C. | [PDF](https://doi.org/10.1101/2023.09.08.555746) | N/A | KaryoTap Enables Aneuploidy Detection in Thousands of Single Human Cells |
+| 将恐惧重新引入边际价值理论：风险-边际价值理论与最佳胆量 | Calcagno, V. | [PDF](https://doi.org/10.1101/2023.10.31.564970) | N/A | Taking fear back into the Marginal Value Theorem: the risk-MVT and optimal boldness |
+| 定量全基因组模型揭示可解释的全基因组关联 | Ruzickova, N. | [PDF](https://doi.org/10.1101/2024.02.01.578486) | N/A | Quantitative omnigenic model discovers interpretable genome-wide associations |
+| 上皮力学的贝叶斯参数推断 | Yan, X. | [PDF](https://doi.org/10.1101/2024.04.24.590933) | N/A | Bayesian parameter inference for epithelial mechanics |
+| 特定的有丝分裂事件驱动细胞骨架重塑，这是左右器官发育所必需的 | Wu, Y. | [PDF](https://doi.org/10.1101/2024.05.12.593765) | N/A | Specific Mitotic Events Drive Cytoskeletal Remodeling Required for Left-Right Organizer Development |
+| 级联反向积分反馈基序用于提高鲁棒稳定性和性能 | M. Zand, A. | [PDF](https://doi.org/10.1101/2024.07.31.605983) | N/A | Cascaded Antithetic Integral Feedback Motifs for Robust Stability and Performance Improvement |
+| Lphn1敲除抑制结直肠癌机制的研究 | wang, Y. | [PDF](https://doi.org/10.1101/2024.08.07.606975) | N/A | Research on the Mechanism of Lphn1 Knockout in Inhibiting Colorectal Cancer |
+| 果蝇母体向合子转变过程中先锋因子结合动力学的批量级图谱 | Dima, S. S. | [PDF](https://doi.org/10.1101/2024.09.06.611749) | N/A | Bulk-level maps of pioneer factor binding dynamics during Drosophila maternal-to-zygotic transition |
+| 猴子预测美国大选 | Jiang, Y. | [PDF](https://doi.org/10.1101/2024.09.17.613526) | N/A | Monkeys Predict US Elections |
+| 波兰乳牛中分离出的多杀性巴氏杆菌和溶血性曼海姆菌的抗菌药物抗性和毒力相关基因，这些乳牛表现出牛呼吸道疾病的症状 | Lachowicz-Wolak, A. | [PDF](https://doi.org/10.1101/2024.09.25.614927) | N/A | Antimicrobial Resistance and Virulence-Associated Genes of Pasteurella multocida and Mannheimia haemolytica Isolated from Polish Dairy Calves with Symptoms of Bovine Respiratory Disease |
+| 视觉雪花综合征患者的定向运动敏感性受到拖尾型后像存在的影响而发生调节。 | Obukhova, T. S. | [PDF](https://doi.org/10.1101/2024.09.25.614880) | N/A | Directional motion sensitivity in people with Visual Snow Syndrome is modulated by the presence of trailing-type palinopsia |
+| 在人为影响下的农产品中发现了“不为人知”的抗生素抗性 | Davidovich, C. | [PDF](https://doi.org/10.1101/2024.09.26.615221) | N/A | Occurrence of "under-the-radar" antibiotic resistance in anthropogenically affected produce |
+| CCR5拮抗剂作为神经保护和卒中恢复增强剂：一项临床前系统评价和荟萃分析 | Sharif, A. | [PDF](https://doi.org/10.1101/2024.09.25.614925) | N/A | CCR5 antagonists as neuroprotective and stroke recovery enhancing agents: a preclinical systematic review and meta-analysis |
+| 解开睫状衣：睫状糖萼的高分辨率结构与功能 | Hoepfner, L. M. | [PDF](https://doi.org/10.1101/2024.09.28.615573) | N/A | Unwrapping the ciliary coat: high-resolution structure and function of the ciliary glycocalyx |
+| 连接酶介导的可编程基因组整合（L-PGI）：一种克服逆转录酶为基础的编辑系统局限性的高效位点特异性基因编辑系统 | Nan, A. X. | [PDF](https://doi.org/10.1101/2024.09.27.615478) | N/A | Ligase-mediated programmable genomic integration (L-PGI): an efficient site-specific gene editing system that overcomes the limitations of reverse transcriptase-based editing systems |
+| 母亲行为的自然变化会影响后代特质焦虑和海马神经发生 | Grieco, F. | [PDF](https://doi.org/10.1101/2024.09.28.615571) | N/A | Natural variations in maternal behaviour shape trait anxiety and hippocampal neurogenesis in offspring |
+| Dnmt1在腹侧苍白球中间神经元中的缺失会改变皮层回路功能，并导致类似抑郁的行为。 | Linde, J. | [PDF](https://doi.org/10.1101/2024.09.28.615593) | N/A | Dnmt1-deficiency in PV interneurons alters cortical circuit function and leads to depression-like behavior |
+| 评估美国模拟非洲猪瘟疫情中的采样和实验室能力 | Galvis, J. A. | [PDF](https://doi.org/10.1101/2024.09.26.615206) | N/A | Estimating sampling and laboratory capacity for a simulated African swine fever outbreak in the United States |
+| 利用金属诱导能量转移成像/光谱技术测量活细胞中膜的三维动力学 | Chen, T. | [PDF](https://doi.org/10.1101/2024.09.27.614973) | N/A | Measuring 3-dimensional dynamics of membrane in living cell with metal-induced energy transfer imaging/spectroscopy |
+| 安非他命通过破坏前额叶的渐进活动来增加时间变异性。 | Weber, M. A. | [PDF](https://doi.org/10.1101/2024.09.26.615252) | N/A | Amphetamine increases timing variability by degrading prefrontal ramping activity |
+| HIV感染和治疗中免疫细胞的代谢重编程 | Wu, D. | [PDF](https://doi.org/10.1101/2024.09.26.615098) | N/A | Metabolic reprogramming of immune cells in HIV infection and treatment |
+| 结核分枝杆菌在病原体特异性免疫下生存的遗传需求 | James, K. S. | [PDF](https://doi.org/10.1101/2024.09.26.615000) | N/A | Genetic requirements of Mycobacterium tuberculosis for survival under pathogen-specific immunity |
+| 跨王国互动与环境对重度低龄儿童龋齿口腔微生物群的影响 | Weng, L. | [PDF](https://doi.org/10.1101/2024.09.26.615216) | N/A | Inter-Kingdom Interactions and Environmental Influences on the Oral Microbiome in Severe Early Childhood Caries |
+| 功能性状预测了在气候变暖条件下当前和新颖竞争的结果 | Lyu, S. | [PDF](https://doi.org/10.1101/2024.09.26.615168) | N/A | Functional traits predict outcomes of current and novel competition under warmer climate |
+| mTORC1和STAT3信号通路对于体外TGFβ1依赖的三维（3D）肌腱构建体的形成是不可或缺的。 | Koo, B. | [PDF](https://doi.org/10.1101/2024.09.26.615201) | N/A | mTORC1 and STAT3 signalings are indispensable for in vitro TGFβ1-dependent Three-Dimensional (3D) tendon construct. |
+| p53Y217C的致癌和致畸效应，这是一种模拟人类热点突变p53Y220C的小鼠模型 | Jaber, S. | [PDF](https://doi.org/10.1101/2024.09.26.615223) | N/A | Oncogenic and teratogenic effects of p53Y217C, a mouse model of the human hotspot mutant p53Y220C |
+| 透明细胞肾细胞癌肿瘤血栓相关mRNA可变剪接的特征分析 | Cohen, Z. | [PDF](https://doi.org/10.1101/2024.09.26.615158) | N/A | Characterization of alternative mRNA splicing associated with tumor thrombus in clear-cell renal cell carcinoma |
+| 癌症中热力学失稳酪氨酸磷酸化的快速预测 | Woodard, J. C. | [PDF](https://doi.org/10.1101/2024.09.26.614998) | N/A | Rapid prediction of thermodynamically destabilizing tyrosine phosphorylations in cancers |
+| 大麻烟雾和口服Δ9THC能增强老年受试者的工作记忆，但对年轻成年受试者则无此效果。 | Zequeira, S. | [PDF](https://doi.org/10.1101/2024.09.26.615028) | N/A | Cannabis smoke and oral Δ9THC enhance working memory in aged but not young adult subjects |
+| 洞穴适应有利于墨西哥脂鲤的衰老韧性 | Cobham, A. E. | [PDF](https://doi.org/10.1101/2024.09.26.615235) | N/A | Cave Adaptation Favors Aging Resilience in the Mexican Tetra |
+| 敲除SfVipR1基因可使甜菜夜蛾对苏云金芽孢杆菌Vip3Aa毒素产生高水平抗性。 | Zhang, Z. | [PDF](https://doi.org/10.1101/2024.09.26.615236) | N/A | Knockout of the SfVipR1 gene confers high-level resistance to Bacillus thuringiensis Vip3Aa toxin in Spodoptera frugiperda |
+| 衰老的食管上皮细胞中，先前的NOTCH1突变改变了体细胞突变的选择。 | Jones, P. H. | [PDF](https://doi.org/10.1101/2024.09.26.615123) | N/A | Somatic mutant selection is altered by prior NOTCH1 mutation in aging esophageal epithelium |
+| 软骨下骨髓脂肪组织脂解作用调控手骨关节炎中的骨形成 | Maniglio, M. | [PDF](https://doi.org/10.1101/2024.09.26.615232) | N/A | Subchondral bone marrow adipose tissue lipolysis regulates bone formation in hand osteoarthritis |
+| 代谢应激加速了骨关节炎中失调的滑膜巨噬细胞-成纤维细胞通讯及Htra1的过度产生 | Blackler, G. | [PDF](https://doi.org/10.1101/2024.09.26.615231) | N/A | Metabolic Stress Accelerates Dysregulated Synovial Macrophage-Fibroblast Communication and Htra1 Overproduction in Osteoarthritis |
+| 延长IKK激活的时间变化刺激促进了核重塑和NF-κB动力学的机制转换 | Smeal, S. W. | [PDF](https://doi.org/10.1101/2024.09.26.615244) | N/A | Time-varying stimuli that prolong IKK activation promote nuclear remodeling and mechanistic switching of NF-κB dynamics |
+| 旁系同源蛋白补偿在癌症中基因丢失后维持蛋白质相互作用网络 | Venkatesh, A. | [PDF](https://doi.org/10.1101/2024.09.26.615228) | N/A | Paralog protein compensation preserves protein-protein interaction networks following gene loss in cancer |
+| 增强型AAV工具箱，用于访问和扰动纹状体细胞类型及回路 | Hunker, A. C. | [PDF](https://doi.org/10.1101/2024.09.27.615553) | N/A | Enhancer AAV toolbox for accessing and perturbing striatal cell types and circuits |
+| 分子与神经回路机制：果蝇性经验依赖的长时记忆 | Sun, D. | [PDF](https://doi.org/10.1101/2024.09.28.615582) | N/A | Molecular and Neural Circuit Mechanisms Underlying Sexual Experience-dependent Long-Term Memory in Drosophila. |
+| 青年时期个性化功能网络地形中可重复的性别差异 | Keller, A. S. | [PDF](https://doi.org/10.1101/2024.09.26.615061) | N/A | Reproducible Sex Differences in Personalized Functional Network Topography in Youth |
+| 用于评估啮齿动物前肢功能的运动偏差指数（KDI） | Espin, A. T. | [PDF](https://doi.org/10.1101/2024.09.26.615237) | N/A | A Kinematic Deviation Index (KDI) for Evaluation of Forelimb Function in Rodents |
+| 同源异型结构域蛋白编码在果蝇视觉系统的第一神经节中规定了神经元的多样性 | Xu, C. | [PDF](https://doi.org/10.1101/2024.09.27.615552) | N/A | Homeodomain protein codes specify neuronal diversity in the first ganglion of the Drosophila visual system |
+| 人类乳腺癌中转座元件的可变剪接 | Nesta, A. V. | [PDF](https://doi.org/10.1101/2024.09.26.615242) | N/A | Alternative splicing of transposable elements in human breast cancer |
+| EmbedSimScore：通过结构和上下文嵌入推进蛋白质相似性分析 | Saha, G. | [PDF](https://doi.org/10.1101/2024.09.26.615264) | N/A | EmbedSimScore: Advancing Protein Similarity Analysis with Structural and Contextual Embeddings |
+| 果蝇在特征贫乏环境中的空间学习 | Chen, Y. | [PDF](https://doi.org/10.1101/2024.09.28.615625) | N/A | Spatial learning in feature-impoverished environments in Drosophila |
+| 绘制并构建多相核仁的RNA调控结构 | Quinodoz, S. A. | [PDF](https://doi.org/10.1101/2024.09.28.615444) | N/A | Mapping and engineering RNA-controlled architecture of the multiphase nucleolus |
+| 微流控调节显微解剖肿瘤中的微血管 | Nguyen, T. N. H. | [PDF](https://doi.org/10.1101/2024.09.26.615278) | N/A | Microfluidic Modulation of Microvasculature in Microdissected Tumors |
+| 柠檬黄不能使活体组织变得透明 | Inagaki, S. | [PDF](https://doi.org/10.1101/2024.09.29.615648) | N/A | Tartrazine cannot make live tissues transparent |
+| ABA调控的JAZ1蛋白通过结合NAC42转录因子抑制植物中植保素生物合成的激活 | Lin, J. | [PDF](https://doi.org/10.1101/2024.09.26.615281) | N/A | ABA-regulated JAZ1 Proteins Bind NAC42 Transcription Factors to Suppress the Activation of Phytoalexin Biosynthesis in Plants |
+| 生物学启发的皮层模型预测光遗传学扰动 | Sourmpis, C. | [PDF](https://doi.org/10.1101/2024.09.27.615361) | N/A | Biologically informed cortical models predict optogenetic perturbations |
+| 运动检测任务中的目标与干扰项的节奏采样与竞争 | Xiong, C. | [PDF](https://doi.org/10.1101/2024.09.26.615254) | N/A | Rhythmic Sampling and Competition of Target and Distractor in a Motion Detection Task |
+| 病毒性流行病的潜在风险在蝙蝠的系统发育树上并非均匀分布 | Cummings, C. A. | [PDF](https://doi.org/10.1101/2024.09.26.615197) | N/A | Viral epidemic potential is not uniformly distributed across the bat phylogeny |
+| 无目标的CUT&Tag和BG4 CUT&Tag均在G四链体和可接近的染色质区域富集。 | Thompson, M. D. | [PDF](https://doi.org/10.1101/2024.09.26.615263) | N/A | Untargeted CUT&Tag and BG4 CUT&Tag are both enriched at G-quadruplexes and accessible chromatin |
+| 用于引导组织组织和再生的具有微观形貌的多尺度支架的3D打印 | Fu, R. | [PDF](https://doi.org/10.1101/2024.09.26.615287) | N/A | 3D Printing of Multiscale Scaffolds with Microtopography for Guiding Tissue Organization and Regeneration |
+| 使用从人脑死后组织中分离的微血管构建的解剖学和生理学上准确的工程化神经血管单元和血脑屏障模型 | O'Grady, B. | [PDF](https://doi.org/10.1101/2024.09.26.615283) | N/A | Anatomically and Physiologically Accurate Engineered Neurovascular Unit and Blood-Brain Barrier Model Using Microvessels Isolated from Postmortem Human Brain Tissue |
+| 使用单细胞多组学数据集对拷贝数畸变推断工具进行基准测试 | Song, M. | [PDF](https://doi.org/10.1101/2024.09.26.615284) | N/A | Benchmarking copy number aberrations inference tools using single-cell multi-omics datasets |
+| 研究超声驱动激励微泡产生的复杂微流场中剪切应力下的细胞活力 | Bakhtiari, A. | [PDF](https://doi.org/10.1101/2024.09.27.615272) | N/A | Investigating Cell Viability under Shear Stress in Complex Microstreaming Flows Generated by Ultrasound-Driven Actuated Microbubbles |
+| 异常血管系统减少了肿瘤计算模型中药物与氧气的重叠：对治疗效果的影响 | Enjalbert, R. | [PDF](https://doi.org/10.1101/2024.09.27.615320) | N/A | Abnormal vasculature reduces overlap between drugs and oxygen in a tumour computational model: implications for therapeutic efficacy |
+| 没有超螺旋扭曲的胶原蛋白三螺旋 | Kreutzberger, M. A. B. | [PDF](https://doi.org/10.1101/2024.09.26.615199) | N/A | A Collagen Triple Helix without the Super Helical Twist |
+| 经过田间试验的HaHB11和HaHB4大豆品种表现出增加的籽粒数量和在生殖阶段增强的耐热性。 | Raineri, J. | [PDF](https://doi.org/10.1101/2024.09.26.615293) | N/A | Field-tested HaHB11 and HaHB4 soybean exhibit increased grain number and heat tolerance at the reproductive stage |
+| 通过比较不同行为群体的雄性和雌性个体，高估了性差异在精神兴奋剂活性中的作用。 | Tigano, A. M. | [PDF](https://doi.org/10.1101/2024.09.26.615282) | N/A | Overestimation of sex differences in psychostimulant activity via comparisons of males and females from different behavioral groups. |
+| AMPK激动剂优化了嵌合抗原受体T细胞在体内的持久性和抗白血病疗效。 | Braverman, E. | [PDF](https://doi.org/10.1101/2024.09.26.615290) | N/A | AMPK agonism optimizes the in vivo persistence and anti-leukemia efficacy of chimeric antigen receptor T cells |
+| 用于昆虫运动中肢体运动学本体感觉的尖峰神经网络模型 | van der Veen, T. | [PDF](https://doi.org/10.1101/2024.09.27.615365) | N/A | A spiking neural network model for proprioception of limb kinematics in insect locomotion |
+| 在存在竞争性细菌病原体的情况下进行噬菌体引导 | Gurney, J. | [PDF](https://doi.org/10.1101/2024.09.28.615603) | N/A | Phage Steering in the Presence of a Competing Bacterial Pathogen |
+| 硝唑酮通过DNA损伤和应激反应途径对棘阿米巴卡氏虫具有杀阿米巴活性 | Chen, L. | [PDF](https://doi.org/10.1101/2024.09.29.615638) | N/A | Nitroxoline evidence Amoebicidal Activity against Acanthamoeba castellanii through DNA damage and the stress response pathways |
+| 流感病毒感染细胞的病毒液滴中，段间相互作用的形成依赖于浓度 | Takizawa, N. | [PDF](https://doi.org/10.1101/2024.09.29.615319) | N/A | Concentration-dependent formation of intersegment interactions in viral droplets of influenza A virus infected cells |
+| 体外研究洛雷斯坦特有植物阿月浑子叶水醇提取物的化学成分及抗龋齿细菌的抗菌活性 | Rahimi, M. | [PDF](https://doi.org/10.1101/2024.09.29.615670) | N/A | In vitro study of chemical compositions and antibacterial activity of Lorestan endemic plant, Pistacia atlantica leaf hydroalcoholic extract against cariogenic bacteria |
+| 组蛋白残基H3K56与错配修复蛋白MutSβ之间的相互作用驱动CAG重复序列的扩展 | Guo, J. | [PDF](https://doi.org/10.1101/2024.09.29.615664) | N/A | Interaction between histone residue H3K56 and mismatch repair protein MutSβ drives CAG repeat expansion |
+| VirtualIce: 半合成冷冻电镜显微图生成器 | Noble, A. J. | [PDF](https://doi.org/10.1101/2024.09.28.615520) | N/A | VirtualIce: Half-synthetic CryoEM Micrograph Generator |
+| H3K9甲基化非依赖性活性在异染色质焦点、基因抑制和器官发生中的HPL-2/HP1作用 | Delaney, C. E. | [PDF](https://doi.org/10.1101/2024.09.29.615660) | N/A | H3K9 methylation-independent activity for HPL-2/HP1 in heterochromatin foci, gene repression, and organogenesis |
+| 近端H3K14泛素化对组蛋白H3K9甲基转移酶Clr4的刺激机制探究 | Du, Y. | [PDF](https://doi.org/10.1101/2024.09.28.615623) | N/A | Mechanistic Insights into the Stimulation of the Histone H3K9 Methyltransferase Clr4 by Proximal H3K14 Ubiquitination |
+| 拟南芥减数分裂中MutL复合体的遗传解剖 | Kbiri, N. | [PDF](https://doi.org/10.1101/2024.09.28.615604) | N/A | Genetic dissection of MutL complexes in Arabidopsis meiosis |
+| 对跨越生命树的118,065个基因组中的发夹环和十字形结构进行特征分析 | Chantzi, N. | [PDF](https://doi.org/10.1101/2024.09.29.615628) | N/A | Characterization of hairpin loops and cruciforms across 118,065 genomes spanning the tree of life |
+| Sirtuin 6是一种组蛋白去乙酰化酶。 | Nickel, G. A. | [PDF](https://doi.org/10.1101/2024.09.28.615627) | N/A | Sirtuin 6 is a histone delactylase |
+| FID与否：在HPC中应用GANs进行MRI图像生成 | Cepa, B. | [PDF](https://doi.org/10.1101/2024.09.27.615343) | N/A | To FID or not to FID: Applying GANs for MRI Image Generation in HPC |
+| 计算机模拟识别和建模针对T型钙通道的FDA批准药物 | Pedro, F. | [PDF](https://doi.org/10.1101/2024.09.27.615366) | N/A | In Silico identification and modelling of FDA-approved drugs targeting T-type calcium channels |
+| 谷氨酸盐转运蛋白和代谢酶是浸润性乳腺小叶癌的不良预后因素 | Young, T. A. | [PDF](https://doi.org/10.1101/2024.09.29.615681) | N/A | Glutamate Transport Proteins and Metabolic Enzymes are Poor Prognostic Factors in Invasive Lobular Carcinoma |
+| GERMIN3在马铃薯中通过调节质膜孔门的开关，参与调控与块茎形成、块茎休眠释放及茎分枝相关的分生组织激活过程。 | Campbell, R. | [PDF](https://doi.org/10.1101/2024.09.28.615581) | N/A | GERMIN3 plays a role in plasmodesmatal gating to regulate meristem activation related to tuberisation, tuber dormancy release and stem branching in potato |
+| 比较组织特异性转录组学揭示了两个独立进化的稻属杂草谱系中种子脱粒进化趋同的遗传基础 | Li, X. | [PDF](https://doi.org/10.1101/2024.09.28.615632) | N/A | Comparative tissue-specific transcriptomics reveal the genetic bases underlying evolutionary convergence of seed shattering in two independently evolved weedy rice lineages |
+| 鉴定孤儿作物Gynandropsis gynandra中的农艺、营养和叶脉数量性状位点 | Simpson, C. J. C. | [PDF](https://doi.org/10.1101/2024.09.28.615607) | N/A | Identifying Agronomic, Nutrition and Leaf Vein Quantitative Trait Loci in the Orphan Crop Gynandropsis gynandra |
+| 碳源-汇反馈对植物生长对环境因素响应的影响 | Friend, A. D. | [PDF](https://doi.org/10.1101/2024.09.27.615358) | N/A | Implications of carbon source-sink feedbacks for plant growth responses to environmental factors |
+| 微胶质细胞中肌动蛋白解聚因子ADF/Cfl1的缺乏会降低其迁移能力并损害记忆功能。 | Crux, S. | [PDF](https://doi.org/10.1101/2024.09.27.615114) | N/A | Deficiency of actin depolymerizing factors ADF/Cfl1 in microglia decreases motility and impairs memory |
+| 星形胶质细胞衍生的PEA116增强了成年海马神经发生，并赋予了抗压能力 | Carron, C. | [PDF](https://doi.org/10.1101/2024.09.27.615330) | N/A | Astrocyte-derived PEA116 increases adult hippocampal neurogenesis and confers stress resilience |
+| 由CD28或4-1BB共刺激驱动的平衡CAR-T细胞代谢与淋巴瘤患者的临床成功相关 | Cook, M. | [PDF](https://doi.org/10.1101/2024.09.27.615167) | N/A | A balanced CAR-T cell metabolism driven by CD28 or 4-1BB co-stimulation correlates with clinical success in lymphoma patients |
+| 在囊性纤维化儿童新发感染中分离出的铜绿假单胞菌菌株中，逃避中性粒细胞介导的细菌清除 | Kwong, K. | [PDF](https://doi.org/10.1101/2024.09.29.615549) | N/A | Evasion of neutrophil-mediated bacterial clearance in Pseudomonas aeruginosa isolates from new-onset infections in cystic fibrosis children |
+| 古代环境DNA显示，在工业化前的冰岛，人类对海洋生物多样性的影响有限。 | Holman, L. E. | [PDF](https://doi.org/10.1101/2024.09.29.615643) | N/A | Ancient environmental DNA indicates limited human impact on marine biodiversity in pre-industrial Iceland |
+| 哺乳动物全血中的激进蛋白质足迹分析 | Tobin, L. | [PDF](https://doi.org/10.1101/2024.09.29.615683) | N/A | Radical Protein Footprinting in Mammalian Whole Blood |
+| 在不进行数据整合的情况下，识别独立单细胞研究中的相似群体 | Gonzalez-Velasco, O. | [PDF](https://doi.org/10.1101/2024.09.27.615367) | N/A | Identifying similar populations across independent single cell studies without data integration |
+| 质粒接合驱动患者内部质粒多样性 | Grayson, F. | [PDF](https://doi.org/10.1101/2024.09.27.615342) | N/A | Plasmid conjugation drives within-patient plasmid diversity |
+| gLinDA：微生物群的全球差异丰度分析 | Fehse, L. | [PDF](https://doi.org/10.1101/2024.09.29.615668) | N/A | gLinDA: global differential abundance analysis ofmicrobiomes |
+| stFormer：一种用于空间转录组学的基础模型 | Cao, S. | [PDF](https://doi.org/10.1101/2024.09.27.615337) | N/A | stFormer: a foundation model for spatial transcriptomics |
+| 核纤层网络通过被动响应主动或被动的细胞运动来适应限制环境。 | Amiri, S. | [PDF](https://doi.org/10.1101/2024.09.27.615360) | N/A | The nuclear lamin network passively responds to both active or passive cell movement through confinements |
+| Pexidartinib联合FLT3定向CAR-巨噬细胞在FLT3-ITD突变急性髓系白血病临床前模型中的治疗研究 | Chen, F. | [PDF](https://doi.org/10.1101/2024.09.27.615313) | N/A | Pexidartinib plus FLT3-directed CAR-Macrophage for the treatment of FLT3-ITD-mutated acute myeloid leukemia in preclinical model |
+| CPK3介导的bHLH107胞质-核转位招募HY5以调节Cu2+触发的ACS8上调 | Yu, Y. | [PDF](https://doi.org/10.1101/2024.09.27.615457) | N/A | CPK3-mediated cytosolic-nuclear translocation of bHLH107 recruits HY5 to regulate the Cu2+-triggered upregulation of ACS8 |
+| 通过分布式本体感受实现行走和攀爬昆虫的运动原语和身体姿态编码 | van der Veen, T. | [PDF](https://doi.org/10.1101/2024.09.27.615364) | N/A | Encoding of movement primitives and body posture through distributed proprioception in walking and climbing insects |
+| FASER：一种用于模拟STED显微镜中点扩散函数畸变的工具 | Bancelin, S. | [PDF](https://doi.org/10.1101/2024.09.27.615327) | N/A | FASER: A TOOL TO SIMULATE PSF DISTORTIONS IN STEDMICROSCOPY |
+| 新西兰及其亚南极群岛的禽流感病毒监测在迁徙的海鸟中检测到了H1N9病毒，但未发现2.3.4.4b高致病性H5N1禽流感病毒。 | Waller, S. J. | [PDF](https://doi.org/10.1101/2024.09.29.615640) | N/A | Avian influenza virus surveillance across New Zealand and its subantarctic islands detects H1N9 in migratory shorebirds, but not 2.3.4.4b HPAI H5N1 |
+| 枕叶皮层的功能重组导致视觉注意信息在后顶叶皮层中的功能重组。 | Yang, F. | [PDF](https://doi.org/10.1101/2024.09.29.615686) | N/A | Pulvinar perturbation causes functional reorganization of visual attentional information in posterior parietal cortex |
+| Hurst指数作为发育中大脑抑制作用的标志 | Nishio, M. | [PDF](https://doi.org/10.1101/2024.09.29.615675) | N/A | The Hurst exponent as a marker of inhibition in the developing brain |
+| 杏仁核中间神经元在联想学习和消退中的异质可塑性 | Favila, N. | [PDF](https://doi.org/10.1101/2024.09.29.612271) | N/A | Heterogeneous plasticity of amygdala interneurons in associative learning and extinction |
 # BioRxiv 2024-09-28 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 

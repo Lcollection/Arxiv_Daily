@@ -1,3 +1,19 @@
+# MedRxiv 2024-09-29 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 多中心胎儿脑部MRI中的生物测量和体积测量：评估超分辨率重建的偏差 | Sanchez, T. | [PDF](https://doi.org/10.1101/2024.09.23.24313965) | N/A | Biometry and volumetry in multi-centric fetal brain MRI: assessing the bias of super-resolution reconstruction |
+| 预测南卡罗来纳州移动健康诊所的COVID-19疫苗接种利用率：战略资源分配的统计框架 | Gezer, F. | [PDF](https://doi.org/10.1101/2024.09.27.24314475) | N/A | Predicting Mobile Health Clinic Utilization for COVID-19 Vaccination in South Carolina: A Statistical Framework for Strategic Resource Allocation |
+| 青蒿素联合疗法、非青蒿素类及8-氨基喹啉类抗疟药物的传播阻断活性：个体参与者数据的汇总分析。 | Vanheer, L. N. | [PDF](https://doi.org/10.1101/2024.09.27.24314479) | N/A | The transmission blocking activity of artemisinin-combination, non-artemisinin, and 8-aminoquinoline antimalarial therapies: a pooled analysis of individual participant data. |
+| 社会经济不平等与糖尿病并发症：对匈牙利行政数据的分析 | Elek, P. | [PDF](https://doi.org/10.1101/2024.09.28.24314540) | N/A | Socioeconomic inequalities and diabetes complications: An analysis of administrative data from Hungary |
+| 远程认知测试预测Insight 46队列中的神经退行性生物标志物 | Del Giovane, M. | [PDF](https://doi.org/10.1101/2024.09.28.24314472) | N/A | Remote cognitive tests predict neurodegenerative biomarkers in the Insight 46 cohort |
+| 感染性颅内动脉瘤住院干预方式的趋势：一项全国性分析 | Dawod, G. | [PDF](https://doi.org/10.1101/2024.09.27.24314522) | N/A | Trends in Intervention Modality for Hospitalizations with Infectious Intracranial Aneurysms: A Nationwide Analysis |
+| COVID-19与分化型甲状腺癌的共同致病机制：一项蛋白质组学分析 | Liu, H. | [PDF](https://doi.org/10.1101/2024.09.28.24314528) | N/A | Common pathogenic mechanisms for COVID-19 and differentiated thyroid cancer: a proteomic analysis |
+| 创伤质量改善计划实施对印度城市创伤患者生活质量的影响 | Kapitan, E. | [PDF](https://doi.org/10.1101/2024.09.28.24314529) | N/A | The effect of trauma quality improvement programme implementation on quality of life among trauma patients in urban India |
+| 加纳2型糖尿病患者健康相关生活质量（HRQoL）评估 | Ahiale, C. | [PDF](https://doi.org/10.1101/2024.09.28.24314542) | N/A | Assessment of Health-Related Quality of Life (HRQoL) of Type 2 Diabetic Patients in Ghana |
+| 基层卫生中心医务人员潜伏性结核感染的负担及其与临床实验室参数的关联 | Selvavinayagam, S. T. | [PDF](https://doi.org/10.1101/2024.09.27.24314525) | N/A | Burden of Latent Tuberculosis Infection among Healthcare Workers of Primary Health Centres and its Association with Clinical Laboratory Parameters |
+| 调查加拿大安大略省医疗机构中可持续食品计划的整合：灰色文献范围审查协议 | Blank, L. L. | [PDF](https://doi.org/10.1101/2024.09.28.24314378) | N/A | Investigating the integration of sustainable food initiatives in healthcare institutions in Ontario, Canada: A grey literature scoping review protocol |
+| 从不吸烟者中通过筛查发现的肺癌具有异常长的前导时间 | Gao, W. | [PDF](https://doi.org/10.1101/2024.09.28.24314527) | N/A | The extraordinarily long lead times of screen-detected lung cancer in never-smokers |
 # MedRxiv 2024-09-28 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
