@@ -1,3 +1,27 @@
+# MedRxiv 2024-10-03 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 折叠的内直肌移位术治疗A型或V型外斜视的疗效（一项埃及比较研究） | El-aidy, L. A. | [PDF](https://doi.org/10.1101/2024.01.24.24301578) | N/A | Efficacy of Transposition of Plicated Medial Rectus Muscles in the Treatment of A- or V- Pattern Exotropia (An Egyptian Comparative Study) |
+| 增强测试可以显著提升对多种呼吸道病毒大流行的防御能力。 | Petrie, J. | [PDF](https://doi.org/10.1101/2024.02.11.24302649) | N/A | Enhanced testing can substantially improve defence against several types of respiratory virus pandemic |
+| 多中心开发和前瞻性验证eCARTv5：一种梯度提升机器学习早期预警评分 | Churpek, M. M. | [PDF](https://doi.org/10.1101/2024.03.18.24304462) | N/A | Multicenter Development and Prospective Validation of eCARTv5: A Gradient Boosted Machine Learning Early Warning Score |
+| 海马旁回神经生物标志物在抑郁症深部脑刺激治疗期间同时追踪每周和每日症状变化 | Liu, S. | [PDF](https://doi.org/10.1101/2024.07.29.24310966) | N/A | A Habenula Neural Biomarker Simultaneously Tracks Weekly and Daily Symptom Variations during Deep Brain Stimulation Therapy for Depression |
+| 巴西16年来下肢血管创伤的流行病学分析 - 全国视角 | Sorbello, C. C. J. | [PDF](https://doi.org/10.1101/2024.09.02.24312947) | N/A | Epidemiological Analysis of Lower Limb Vascular Trauma over 16 years in Brazil - A Nationwide View |
+| 创伤性截肢 - 对一个发展中国家16年的全国流行病学分析 | Ceratti, M. M. | [PDF](https://doi.org/10.1101/2024.09.05.24313153) | N/A | Traumatic Amputations - A Nationwide Epidemiological Analysis of a developing country over 16 years |
+| 开源大语言模型在具有挑战性的放射学病例中的表现——基于1,933份Eurorad病例报告的基准研究 | Kim, S. H. | [PDF](https://doi.org/10.1101/2024.09.04.24313026) | N/A | Performance of Open-Source LLMs in Challenging Radiological Cases -- A Benchmark Study on 1,933 Eurorad Case Reports |
+| 通过优化基于云的研究分析平台的使用，在英国生物银行全基因组测序数据中精细定位冠状动脉疾病位点 | Sng, L. M. F. | [PDF](https://doi.org/10.1101/2024.09.23.24313932) | N/A | Fine Mapping Coronary Artery Disease Loci in the UK Biobank Whole Genome Sequencing Data by Optimising Usage of the Cloud Based Research Analysis Platform |
+| 多组学分析揭示的伴有嗜酸性粒细胞增多症的阵发性血管性水肿（Gleich综合征）的新病理机制 | Koreeda, T. | [PDF](https://doi.org/10.1101/2024.09.29.24313285) | N/A | A newly identified pathology of Episodic Angioedema with Hypereosinophilia (Gleich's Syndrome) revealed by Multi-Omics Analysis |
+| 多维度父母教养量表：住院和部分住院环境下的青少年报告表 | Hogan, C. M. | [PDF](https://doi.org/10.1101/2024.10.02.24314779) | N/A | The Multidimensional Assessment of Parenting Scale: Youth Report Form in Inpatient and Partial Hospital Settings |
+| 赞比亚两所医学院学生对沟通技能课程学习模式的看法：一项基于访谈的描述性研究。 | Ezeala, M. I. O. | [PDF](https://doi.org/10.1101/2024.10.02.24314393) | N/A | Students perspectives on communication skills course learning modes in two medical schools in Zambia: An interview-based descriptive study. |
+| 使用可解释人工智能进行癌症数据分类中的不一致性检测 | Mortezaagha, P. | [PDF](https://doi.org/10.1101/2024.10.02.24314783) | N/A | Inconsistency Detection In Cancer Data Classification Using Explainable-AI |
+| 外周血白细胞特征作为接受NSGO-OV-UMB1/ENGOT-OV30试验A组中联合抗CD73/抗PD-L1免疫治疗的复发性卵巢癌患者的生物标志物 | Tandaric, L. | [PDF](https://doi.org/10.1101/2024.10.02.24314755) | N/A | Peripheral blood leukocyte signatures as biomarkers in relapsed ovarian cancer patients receiving combined anti-CD73/anti-PD-L1 immunotherapy in Arm A of the NSGO-OV-UMB1/ENGOT-OV30 trial |
+| 利用大型语言模型对多发病轨迹进行纵向建模 | Yang, L. | [PDF](https://doi.org/10.1101/2024.10.02.24314786) | N/A | Longitudinal modeling of multimorbidity trajectories using large language models |
+| 在以白人为主的学术医学中心，将健康公平作为研究重点的理由正在不断发展 | Bonney, E. A. | [PDF](https://doi.org/10.1101/2024.10.02.24314778) | N/A | An evolving case for centering health equity as a research priority in predominantly White academic medical centers |
+| 2010年至2019年全球美国军事卫生系统中细菌血流感染的人口统计学、流行病学、死亡率及难治性耐药模式：一项回顾性队列研究 | Vostal, A. | [PDF](https://doi.org/10.1101/2024.10.02.24314780) | N/A | Demographics, Epidemiology, Mortality, and Difficult-To-Treat Resistance Patterns of Bacterial Bloodstream Infections in the Global United States Military Health System from 2010-2019: A Retrospective Cohort Study |
+| SARS-CoV-2重组S蛋白疫苗S-268019-b在1/2期初次接种和加强接种研究中的B细胞和T细胞反应的纵向分析 | Fujitani, M. | [PDF](https://doi.org/10.1101/2024.10.01.24314659) | N/A | Longitudinal analysis of B- and T-cell responses to SARS-CoV-2 recombinant S-protein vaccine S-268019-b in phase 1/2 priming and booster study |
+| CD206+IL-4Ralpha+ 巨噬细胞是缺血性心肌病中不良心脏重塑的驱动因素 | Wang, Q. | [PDF](https://doi.org/10.1101/2024.10.01.24314741) | N/A | CD206+IL-4Ralpha+ MACROPHAGES ARE DRIVERS OF ADVERSE CARDIAC REMODELING IN ISCHEMIC CARDIOMYOPATHY |
+| SARS-CoV-2与中风之间的关联：一项元伞形综述的观点。 | Baldo de Souza, A. M. L. | [PDF](https://doi.org/10.1101/2024.10.01.24314742) | N/A | Association between SARS-CoV-2 and Stroke: Perspectives from a metaumbrella-review. |
+| 胰岛素抵抗、体重指数和内脏脂肪在空腹和餐后状态下的性别特异性代谢特征 | Ebrahimi, P. | [PDF](https://doi.org/10.1101/2024.10.03.24314825) | N/A | Sex-specific Metabolic Signatures of Insulin Resistance, Body Mass Index, and Visceral Adiposity in Fasting and Postprandial States |
 # MedRxiv 2024-10-02 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
