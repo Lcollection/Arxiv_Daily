@@ -1,3 +1,9 @@
+# MedRxiv 2024-10-05 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 使用具有自主性的LLM提升精准肿瘤学问答的准确性 | Das, R. | [PDF](https://doi.org/10.1101/2024.09.20.24314076) | N/A | Improved precision oncology question-answering using agentic LLM |
+| 解开肿瘤位置对胶质母细胞瘤患者生存影响之谜：基因组学与放射组学方法 | Kundal, K. | [PDF](https://doi.org/10.1101/2024.10.02.24314823) | N/A | Unravelling the Impact of Tumor Location on Patient Survival in Glioblastoma: A Genomics and Radiomics Approach |
 # MedRxiv 2024-10-04 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
