@@ -1,3 +1,35 @@
+# MedRxiv 2024-10-06 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 量化真实世界证据的影响：沙库巴曲/缬沙坦的经验 | Epstein, A. J. | [PDF](https://doi.org/10.1101/2024.09.27.24314305) | N/A | Quantifying the impact of real-world evidence: the sacubitril/valsartan experience |
+| 使用SurgeryLLM减轻外科医生的日常任务负担，提升手术决策能力，并确保患者安全 | Ong, C. S. | [PDF](https://doi.org/10.1101/2024.10.05.24314932) | N/A | Reducing Surgeons' Routine Task Burden, Enhancing Surgical Decision Making, and Ensuring Patient Safety Using SurgeryLLM |
+| SNP rs7549881，位于1p31.3的SGIP1附近，与女性消化系统疾病和帕金森病显著相关。 | Lehrer, S. | [PDF](https://doi.org/10.1101/2024.10.04.24314910) | N/A | SNP rs7549881, near SGIP1 at 1p31.3, is significantly associated with digestive disorders and Parkinsonism in women |
+| 诱发电位特征解释了深部脑刺激的结果 | Bahners, B. H. | [PDF](https://doi.org/10.1101/2024.10.04.24314308) | N/A | Evoked response signatures explain deep brain stimulation outcomes |
+| 消失双胎综合征患者体验：患者满意度及流产信息混合方法探索 | Cubbage, N. M. | [PDF](https://doi.org/10.1101/2024.10.04.24314916) | N/A | The Experiences of Patients with Vanishing Twin Syndrome: A Mixed-Methods Exploration of Patient Satisfaction and Miscarriage Information |
+| 1.25%毛果芸香碱用于未矫正老视的管理效果（PILE-UP研究） | Saxena, R. | [PDF](https://doi.org/10.1101/2024.10.04.24314877) | N/A | PILocarpine 1.25% Efficacy for management of Uncorrected Presbyopia (PILE-UP Study) |
+| 揭示普通人群中精神病学和胰岛素相关性状的联合遗传结构 | Sakic, B. | [PDF](https://doi.org/10.1101/2024.10.04.24314905) | N/A | Unravelling the joint genetic architecture between psychiatric and insulin-related traits in the general population |
+| R-loop形成区域的分析鉴定出RNU2-2P和RNU5B-1为神经发育障碍基因 | Jackson, A. | [PDF](https://doi.org/10.1101/2024.10.04.24314692) | N/A | Analysis of R-loop forming regions identifies RNU2-2P and RNU5B-1 as neurodevelopmental disorder genes |
+| 感染后轴索性神经病变的遗传风险 | Harkness, R. | [PDF](https://doi.org/10.1101/2024.10.04.24314535) | N/A | Genetic Risk of Axonal Neuropathy Following Infection |
+| 自监督学习在生物医学信号处理中的应用：关于心电图和光电容积描记信号的系统综述 | Wu, C. | [PDF](https://doi.org/10.1101/2024.09.30.24314588) | N/A | Self-Supervised Learning for Biomedical SignalProcessing: A Systematic Review on ECG andPPG Signals |
+| 提升乳腺癌分类：基于DenseNet-121的少样本元学习框架以改进诊断 | Upadhyay, N. | [PDF](https://doi.org/10.1101/2024.10.04.24314684) | N/A | Enhancing Breast Cancer Classification: A Few-Shot Meta-Learning Framework with DenseNet-121 for Improved Diagnosis |
+| 如何通过利用预测的表观基因组特征来提高全基因组测序数据的多基因预测？ | Zeng, W. | [PDF](https://doi.org/10.1101/2024.10.04.24314860) | N/A | How to improve polygenic prediction from whole-genome sequencing data by leveraging predicted epigenomic features? |
+| 提升患者护理：用于预测接受高剂量率近距离放射治疗的妇科癌症患者3级及以上毒性的机器学习模型 | Portocarrero Bonifaz, A. | [PDF](https://doi.org/10.1101/2024.10.04.24314917) | N/A | Advancing patient care: Machine learning models for predicting grade 3+ toxicities in gynecologic cancer patients treated with HDR brachytherapy |
+| 制定支持新西兰可持续饮食的政策，由贡献者参与 | Kidd, B. | [PDF](https://doi.org/10.1101/2024.10.05.24314489) | N/A | Developing policy to support sustainable diets in Aotearoa New Zealand with contributors |
+| 一份关于新兴病毒病原体标准协调的手册 | Suliman, S. | [PDF](https://doi.org/10.1101/2024.10.05.24314949) | N/A | A playbook for harmonization of standards for emergent viral pathogens |
+| 利拉地区转诊医院住院COVID-19患者的死亡率及相关因素：一项横断面研究。 | Ongoli, A. | [PDF](https://doi.org/10.1101/2024.10.05.24314935) | N/A | Mortality and associated factors among hospitalized COVID 19 patients in Lira regional referral hospital, a cross sectional study. |
+| 自然灾害导致的生理盐水供应链中断：分析生理盐水短缺对大型医院系统麻醉实践的影响及提升韧性的模型 | Hussain, R. | [PDF](https://doi.org/10.1101/2024.10.03.24312030) | N/A | Disruption of Normal Saline Supply Chain due to Natural Disaster: an analysis of the impact of normal saline shortage on anesthesia practice in a large hospital system and models towards resiliency |
+| 流感样疾病先兆与特发性扩张型心肌病的发病：DCM精准医学研究。 | Ni, H. | [PDF](https://doi.org/10.1101/2024.10.04.24314926) | N/A | Antecedent flu-like illness and onset of idiopathic dilated cardiomyopathy: The DCM Precision Medicine Study. |
+| 原发性高血压中的心脏变化和皮质醇水平 | Cao, G. | [PDF](https://doi.org/10.1101/2024.10.04.24314927) | N/A | Cardiac Changes and Cortisol in Essential Hypertension |
+| 青少年网络社交联系与焦虑抑郁相关性的研究。 | Li, M. X. | [PDF](https://doi.org/10.1101/2024.10.04.24314915) | N/A | A study on the correlation between adolescents' online social connections and anxiety and depression. |
+| 创伤影响成年人的全球创伤后症状量表-乌干达的开发与验证 | Murphy Michalopoulos, L. | [PDF](https://doi.org/10.1101/2024.10.04.24314918) | N/A | The Development and Validation of the Global Post Trauma Symptom Scale-Uganda among Trauma-Affected Adults |
+| 没有心理健康就没有母婴健康：全球监测围产期心理健康的建议指标 | Palestra, F. | [PDF](https://doi.org/10.1101/2024.10.04.24314919) | N/A | No maternal health without mental health: suggested indicators to monitor perinatal mental health globally |
+| 中年时期心血管风险因素与多民族人群脑血流之间的关联 | Vriend, E. M. C. | [PDF](https://doi.org/10.1101/2024.10.04.24314929) | N/A | Mid-life association between cardiovascular risk factors and cerebral blood flow in the multi-ethnic population |
+| 2004-2018年，基于种族的生殖、孕产妇、新生儿和儿童健康干预中的公平性与覆盖率：从厄瓜多尔综合政策中汲取的经验教训 | Rios-Quituizaca, P. B. | [PDF](https://doi.org/10.1101/2024.10.04.24314912) | N/A | Equity and coverage in RMNCH health interventions by ethnicity, 2004- 2018: lessons learned from integral policies in Ecuador |
+| 全基因组扫描Flortaucipir PET水平发现JARID2与脑内tau沉积相关 | Gunasekaran, T. I. | [PDF](https://doi.org/10.1101/2024.10.04.24314853) | N/A | Genome-wide scan of Flortaucipir PET levels finds JARID2 associated with cerebral tau deposition |
+| 个性化丘脑电刺激治疗局灶性癫痫 | Damiani, A. | [PDF](https://doi.org/10.1101/2024.10.04.24314797) | N/A | Personalized Thalamic Electrical Stimulation for Focal Epilepsy |
+| 抗生素试验中确定最佳治疗持续时间的比较方法 | Dufault, S. M. | [PDF](https://doi.org/10.1101/2024.10.04.24314913) | N/A | Comparison of methods for identifying the optimal treatment duration in trials for antibiotics |
+| SAMSN1通过诱导巨噬细胞表达共抑制分子，导致T细胞衰竭，从而引发脓毒症免疫抑制，这一过程涉及KEAP1-NRF2信号通路。 | Li, Y. | [PDF](https://doi.org/10.1101/2024.10.03.24314746) | N/A | SAMSN1 causes sepsis immunosuppression by inducing macrophages to express coinhibitory molecules that causes T cell exhaustion via KEAP1-NRF2 signaling |
 # MedRxiv 2024-10-05 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
