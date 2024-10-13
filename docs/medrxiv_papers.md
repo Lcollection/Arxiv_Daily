@@ -1,3 +1,25 @@
+# MedRxiv 2024-10-12 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 在线46：老年人群的在线认知评估——以英国1946年出生队列为例 | Cai, Z. | [PDF](https://doi.org/10.1101/2024.09.19.24313984) | N/A | Online46: online cognitive assessments in elderly cohorts - the British 1946 birth cohort case study |
+| 比较神经调节靶点以减少吸烟渴望和戒断症状：一项随机临床试验 | Petersen, N. | [PDF](https://doi.org/10.1101/2024.10.10.24315204) | N/A | Comparing neuromodulation targets to reduce cigarette craving and withdrawal: A randomized clinical trial |
+| 可穿戴式感知在饮食事件监测中的应用：系统性综述协议的更新 | Zhou, J. | [PDF](https://doi.org/10.1101/2024.10.11.24315295) | N/A | Wearable Sensing in Eating Episode Monitoring: An Updated Systematic Review Protocol |
+| 探索撒哈拉以南非洲地区人乳头瘤病毒疫苗接种率低的多重决定因素及干预措施：范围综述协议 | KAILEMIA, P. N. | [PDF](https://doi.org/10.1101/2024.10.11.24315319) | N/A | Exploring intersectional determinants of, and interventions for, low uptake of human papillomavirus vaccine in Sub-Saharan Africa: A scoping review protocol |
+| 巴西东北部传统基隆博拉社区中对人类乳头瘤病毒的认知与感知 | Campos, M. R. | [PDF](https://doi.org/10.1101/2024.10.11.24315317) | N/A | KNOWLEDGE AND PERCEPTION ABOUT HUMAN PAPILLOMAVIRUS IN TRADITIONAL QUILOMBOLA COMMUNITIES IN NORTHEAST BRAZIL |
+| 流感病毒在生牛奶中的传染性和持久性 | Zulli, A. | [PDF](https://doi.org/10.1101/2024.10.10.24315269) | N/A | Infectivity and persistence of influenza viruses in raw milk |
+| 美国中年及老年人群中大麻使用的流行病学 | Livne, O. | [PDF](https://doi.org/10.1101/2024.10.11.24315329) | N/A | Epidemiology of Cannabis Use Among Middle-Aged and Older Adults in the United States |
+| 室内空气无目标病毒宏基因组学作为一种新型监测工具用于呼吸、肠道和皮肤病毒 | Karatas, M. | [PDF](https://doi.org/10.1101/2024.10.11.24315306) | N/A | Untargeted viral metagenomics of indoor air as a novel surveillance tool for respiratory, enteric and skin viruses |
+| 感染并不相同：个体易感性和传播性之间的协变对流行病动态的影响 | Harris, J. D. | [PDF](https://doi.org/10.1101/2024.10.11.24315334) | N/A | Infections are not alike: the effects of covariation between individual susceptibility and transmissibility on epidemic dynamics |
+| 新型数字化培训包增强基层医疗从业者临床共情与现实乐观沟通能力的可行性试验 | Bishop, F. L. | [PDF](https://doi.org/10.1101/2024.10.11.24315303) | N/A | Feasibility trial of a new digital training package to enhance primary care practitioners' communication of clinical empathy and realistic optimism |
+| 学术家庭医学教员倦怠的预测因素：回顾过去，规划未来 | Antao, V. | [PDF](https://doi.org/10.1101/2024.10.11.24315325) | N/A | Predictors of Burnout Among Academic Family Medicine Faculty: Looking Back to Plan forward |
+| 了解终端用户对手部卫生启用技术的偏好：一项在卢萨卡郊区进行的混合方法研究 | Kazimbaya, K. | [PDF](https://doi.org/10.1101/2024.10.11.24315333) | N/A | Understanding end-user preferences for hand hygiene enabling technologies: a mixed-methods study in peri-urban Lusaka |
+| N-乙酰左旋亮氨酸在成人和儿科尼曼-皮克病C型患者中的疾病修饰和神经保护作用 | Patterson, M. C. | [PDF](https://doi.org/10.1101/2024.10.11.24315318) | N/A | Disease Modifying, Neuroprotective Effect of N-acetylLleucine in Adult and Pediatric Patients with Niemann Pick disease type C |
+| 妊娠期糖尿病孕妇中胎盘炎症的一些标志物 | De Luccia, T. P. d. B. | [PDF](https://doi.org/10.1101/2024.10.11.24315095) | N/A | Some markers of placental inflammation in pregnant women with gestational diabetes |
+| 剖析谵妄的遗传和蛋白质组学风险因素 | Raptis, V. | [PDF](https://doi.org/10.1101/2024.10.11.24315324) | N/A | Dissecting the genetic and proteomic risk factors for delirium |
+| 基因变异类型和位置与一般人群中乳腺癌风险的相关性 | Akamandisa, M. P. | [PDF](https://doi.org/10.1101/2024.10.11.24315237) | N/A | Association of Gene Variant Type and Location with Breast Cancer Risk in the General Population |
+| 准确初始出院计划和住院期间转诊对出院延误的影响：一项回顾性队列研究 | Burns, D. | [PDF](https://doi.org/10.1101/2024.10.11.24315330) | N/A | Impact of accurate initial discharge planning and in-patient transfers of care on discharge delays: a retrospective cohort study |
+| 高剂量与标准剂量流感疫苗在预防住院方面的相对有效性：法国2022/23季节全国回顾性队列研究 | Bricout, H. | [PDF](https://doi.org/10.1101/2024.10.11.24315085) | N/A | Relative effectiveness of high-dose vs standard-dose influenza vaccines in preventing hospitalizations: a national retrospective cohort study in France, 2022/23 season |
 # MedRxiv 2024-10-11 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
