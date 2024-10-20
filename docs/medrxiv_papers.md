@@ -1,3 +1,33 @@
+# MedRxiv 2024-10-19 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 通过临床知识图谱预测人群的药物结果 | Brbic, M. | [PDF](https://doi.org/10.1101/2024.03.06.24303800) | N/A | Predicting drug outcome of population via clinical knowledge graph |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在前列腺癌诊断中的价值 | Li, X. | [PDF](https://doi.org/10.1101/2024.06.26.24309554) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in prostate cancer |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在乳腺癌诊断中的价值 | Wu, Y. | [PDF](https://doi.org/10.1101/2024.07.02.24309738) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in breast cancer |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在甲状腺癌诊断中的价值 | Zhou, H. | [PDF](https://doi.org/10.1101/2024.07.03.24309931) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in thyroid cancer |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在尿路上皮癌诊断中的价值 | Zhou, H. | [PDF](https://doi.org/10.1101/2024.08.08.24311656) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in uroepithelial carcinoma |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在子宫内膜癌诊断中的价值 | Wu, Y. | [PDF](https://doi.org/10.1101/2024.09.18.24313873) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in endometrial carcinoma |
+| "全美研究计划"中参与偏倚对疾病患病率估计的影响：以缺血性心脏病和中风为例的案例研究 | Lee, Y. H. | [PDF](https://doi.org/10.1101/2024.10.15.24315558) | N/A | Impact of Participation Bias on Disease Prevalence Estimation in the All of Us Research Program: A Case Study of Ischemic Heart Disease and Stroke |
+| 西非初级医疗中使用常规脉搏血氧仪的IMCI儿童中，根据低氧血症的严重病例的流行病学、途径、护理模式和第14天死亡率：布基纳法索、几内亚、马里和尼日尔的AIRE队列研究，2021-2022年 | HEDIBLE, G. B. | [PDF](https://doi.org/10.1101/2024.10.18.24315758) | N/A | Epidemiology, pathways, patterns of care and Day-14 mortality of severe cases according to hypoxemia among IMCI children using routine Pulse Oximeter decentralized at Primary Healthcare in West Africa: the AIRE cohort study in Burkina Faso, Guinea, Mali and Niger, 2021 - 2022 |
+| 我们是否正处于多发性硬化症的大数据时代？将临床试验和观察性研究数据整合到PRIMUS精准医学平台中的经验教训 | Demuth, S. | [PDF](https://doi.org/10.1101/2024.10.17.24315655) | N/A | Are we in a Big Data era for multiple sclerosis? Lessons from integrating clinical trials and observational studies data into the PRIMUS precision medicine platform |
+| 世界贸易中心应急人员创伤后应激障碍的脑龄磁共振成像特征 | Invernizzi, A. | [PDF](https://doi.org/10.1101/2024.10.18.24315761) | N/A | MRI signature of brain age underlying post-traumatic stress disorder in World Trade Center responders |
+| 视网膜色素变性中的周边视网膜血管丧失 | Ameri, H. | [PDF](https://doi.org/10.1101/2024.10.18.24315764) | N/A | Loss of Peripheral Retinal Vessels in Retinitis Pigmentosa |
+| 临床背景下全外显子组测序的变异检测流程 | Stepanian, J. | [PDF](https://doi.org/10.1101/2024.10.18.24315708) | N/A | Variant calling pipelines for whole exome sequencing in clinical context |
+| 针对SARS-CoV-2的唾液IgG抗体反应在接种疫苗的儿童与成人之间存在差异 | Badano, M. N. | [PDF](https://doi.org/10.1101/2024.10.18.24315700) | N/A | Salivary IgG antibody response against SARS-CoV-2 differs between vaccinated children and adults |
+| 循环心血管蛋白质组与遗传和疾病的相关性 | McGurk, K. A. | [PDF](https://doi.org/10.1101/2024.10.18.24315790) | N/A | Circulating cardiovascular proteomic associations with genetics and disease |
+| 医疗可及性与2型糖尿病患者血糖状态的关联：台湾农村人口回顾性研究 | Sun, C.-F. | [PDF](https://doi.org/10.1101/2024.10.18.24315733) | N/A | The association between medical accessibility and glycemic status in patients with type 2 diabetes mellitus: A retrospective study in Taiwan rural population |
+| 高度自适应LASSO：在现实模型中提供有效非参数推断的机器学习方法 | Butzin-Dozier, Z. | [PDF](https://doi.org/10.1101/2024.10.18.24315778) | N/A | Highly adaptive LASSO: Machine learning that provides valid nonparametric inference in realistic models |
+| 初级保健中根据健康和社会护理需求使用人工智能衍生聚类的价值：一项定性访谈研究 | Holt, S. Z. | [PDF](https://doi.org/10.1101/2024.10.17.24315657) | N/A | Value of using artificial intelligence derived clusters by health and social care need in Primary Care: A qualitative interview study |
+| 掌控你的功能性认知症状手册：一种新型干预方法 | Cotton, E. | [PDF](https://doi.org/10.1101/2024.10.15.24315532) | N/A | Taking Control of Your Functional Cognitive Symptoms Workbook: A Novel Intervention |
+| 基于全国免疫调查数据探讨儿童疫苗接种的社会决定因素 | Pabon-Rodriguez, F. M. | [PDF](https://doi.org/10.1101/2024.10.18.24315767) | N/A | Exploring social determinants of childhood vaccination based on the National Immunization Surveys Data |
+| 乌干达东部女性性工作者宫颈癌筛查的接受度和可接受性：一项横断面研究。 | Opito, R. | [PDF](https://doi.org/10.1101/2024.10.18.24315734) | N/A | Uptake and acceptability of cervical cancer screening among female sex workers in Eastern Uganda: A cross-sectional study. |
+| 加纳辅助生殖技术（ART）中的公平、正义与自主性 | Damalie, F. | [PDF](https://doi.org/10.1101/2024.10.19.24315805) | N/A | ASSISTED REPRODUCTIVE TECHNOLOGIES (ART) EQUITY, JUSTICE AND AUTONOMY IN GHANA |
+| 泛癌种NGS液体活检测试常规医院应用的验证：一项国际多中心临床性能评估 | Lescuyer, G. | [PDF](https://doi.org/10.1101/2024.10.17.24313324) | N/A | Validation of a Pan-Cancer NGS Liquid Biopsy Test for Routine Hospital Use: An International Multicenter Clinical Performance Evaluation |
+| 减少1型糖尿病精英运动员高血糖相关焦虑的策略：一项定性分析 | Katz, A. | [PDF](https://doi.org/10.1101/2024.10.19.24315806) | N/A | Strategies to Reduce Hyperglycemia-Related Anxiety in Elite Athletes with Type 1 Diabetes: A Qualitative Analysis |
+| 印度Phenome-CSIR健康队列知识库（PI-CHeCK）研究方案：一项针对全国性员工队列的前瞻性多模式随访研究。 | Phenome India Consortium,   | [PDF](https://doi.org/10.1101/2024.10.17.24315252) | N/A | Study Research Protocol for Phenome India-CSIR Health Cohort Knowledgebase (PI-CHeCK): A Prospective multi-modal follow-up study on a nationwide employee cohort. |
+| Cenobamate作为附加治疗用于SCN8A发育性和癫痫性脑病 | Gjerulfsen, C. E. | [PDF](https://doi.org/10.1101/2024.10.17.24312949) | N/A | Cenobamate as add-on treatment for SCN8A development and epileptic encephalopathy |
+| 马来西亚某监狱中被剥夺自由者潜伏性结核感染的高流行率 | Zhang, L. | [PDF](https://doi.org/10.1101/2024.10.19.24315804) | N/A | High Prevalence of Latent Tuberculosis Infection among Persons Deprived of Liberty in a Malaysian Prison |
 # MedRxiv 2024-10-18 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
