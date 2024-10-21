@@ -1,3 +1,12 @@
+# MedRxiv 2024-10-20 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 初级保健咨询所需时间：使用综合儿童疾病管理（IMCI）临床算法在低收入和中等收入国家进行的首次儿童就诊 | Carter, A. T. | [PDF](https://doi.org/10.1101/2023.06.03.23290926) | N/A | The Time Required for Primary Care Consultations: Initial Sick Child Visits in Low- and Middle-income Countries Using the Integrated Management of Childhood Illness (IMCI) Clinical Algorithm |
+| 173名申请实验性反义寡核苷酸治疗的极罕见致病突变患者的基因型和表型分析 | Crooke, S. T. | [PDF](https://doi.org/10.1101/2024.08.05.24310862) | N/A | Genotypic and phenotypic analysis of 173 patients with extremely rare pathogenic mutations who applied for experimental antisense oligonucleotide treatment |
+| 使用ClinGen临床有效性框架评估溶酶体疾病相关基因 | Groopman, E. | [PDF](https://doi.org/10.1101/2024.08.09.24311755) | N/A | Assessment of genes involved in lysosomal diseases using the ClinGen Clinical Validity framework |
+| 评估YiDiXie™-SS、YiDiXie™-HS和YiDiXie™-D在胃癌诊断中的价值 | Zhou, H. | [PDF](https://doi.org/10.1101/2024.08.21.24312336) | N/A | Evaluation of the diagnostic value of YiDiXie™-SS, YiDiXie™-HS and YiDiXie™-D in gastric cancer |
+| 针灸对中风后下肢运动功能障碍的疗效：随机对照试验的系统综述和荟萃分析。 | Chen, P. | [PDF](https://doi.org/10.1101/2024.10.18.24315720) | N/A | Efficacy of Acupuncture on Lower Limb Motor Dysfunction Following Stroke: A Systematic Review and Meta-Analysis of Randomized Controlled Trials. |
 # MedRxiv 2024-10-19 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
