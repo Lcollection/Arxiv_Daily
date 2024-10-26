@@ -1,3 +1,36 @@
+# MedRxiv 2024-10-25 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 遗传学视角下的炎症性肠病与阿尔茨海默病关联研究 | Zeng, L. | [PDF](https://doi.org/10.1101/2023.04.17.23286845) | N/A | Genetic insights into the association between inflammatory bowel disease and Alzheimer's disease |
+| 早期生活领域作为肥胖与高血压共病的预测因素：来自1970年英国队列研究（BCS70）的发现 | Stannard, S. | [PDF](https://doi.org/10.1101/2024.05.13.24307277) | N/A | Early Life Domains as Predictors of Obesity and Hypertension Comorbidity: Findings from the 1970 British Cohort Study (BCS70) |
+| 评估社交接触结构对肺炎球菌结合疫苗效果的影响 | Wong, A. | [PDF](https://doi.org/10.1101/2024.08.13.24311931) | N/A | Assessing the effect of social contact structure on the impact of pneumococcal conjugate vaccines |
+| 超越言语：阿尔茨海默病痴呆中的非言语听觉认知障碍 | Lad, M. | [PDF](https://doi.org/10.1101/2024.09.02.24312935) | N/A | Beyond Words: Non-verbal auditory cognitive impairments in Alzheimer's Disease dementia |
+| 已撤回：EpiSemoLLM：一种基于癫痫发作症状学进行癫痫灶定位的微调大型语言模型，其性能可与癫痫学家相媲美 | Yang, S. | [PDF](https://doi.org/10.1101/2024.09.16.24313764) | N/A | WITHDRAWN: EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists |
+| 一种新的α-突触核蛋白G14R错义变异体与非典型神经病理学特征相关 | Brücke, C. | [PDF](https://doi.org/10.1101/2024.09.23.24313864) | N/A | A novel alpha-synuclein G14R missense variant is associated with atypical neuropathological features |
+| 泛癌种NGS检测方法的分析验证：一项国际多中心研究用于内部液体活检测试 | Lescuyer, G. | [PDF](https://doi.org/10.1101/2024.10.17.24313324) | N/A | Analytical Validation of a Pan-Cancer NGS Assay for In-House Liquid Biopsy Testing: An International Multicenter Study |
+| 步数与身体活动趋势：一项针对30名女性参与者的3个月步行挑战分析 | Esan, O. M. | [PDF](https://doi.org/10.1101/2024.10.23.24315952) | N/A | Step Counts and Physical Activity Trends: A 3-Month Analysis of a Walking Challenge Among 30 Female Participants |
+| PD-1/PD-L1阻断联合AbnobaViscum疗法与晚期或转移性非小细胞肺癌患者生存期改善相关：ESMO-GROW相关真实世界数据登记研究 | Schad, F. | [PDF](https://doi.org/10.1101/2024.10.24.24316043) | N/A | PD-1/PD-L1 Blockade Combined with AbnobaViscum Therapy is Linked to Improved Survival in Advanced or Metastatic NSCLC Patients, an ESMO-GROW Related Real-World Data Registry Study |
+| 尼古丁代谢物比率作为优化针灸戒烟的知情生物标志物：随机对照试验 | Chen, s. m. | [PDF](https://doi.org/10.1101/2024.10.23.24315983) | N/A | Nicotine metabolite ratio as an informed biomarker to optimize acupuncture for smoking cessation: randomised controlled trial |
+| 评估骨髓中造血干细胞层吸收的剂量，假设其在骨髓血管内皮周围的分布不均匀。 | Kobayashi, N. | [PDF](https://doi.org/10.1101/2024.10.19.24315800) | N/A | Assessment of absorbed dose in the hematopoietic stem cell layer of the bone marrow, assuming non-uniform distribution around the vascular endothelium of the bone marrow |
+| 利用卢旺达常规卫生信息系统评估卫生系统质量 | Hategeka, C. | [PDF](https://doi.org/10.1101/2024.10.24.24316072) | N/A | Measuring health system quality with routine health information systems in Rwanda |
+| 卢旺达培训、支持与获取模式（TSAM）对患者健康结果的影响：对照纵向研究 | Hategeka, C. | [PDF](https://doi.org/10.1101/2024.10.24.24316071) | N/A | Impact of the training, support and access model (TSAM) on patient health outcomes in Rwanda: controlled longitudinal study |
+| 极端天气事件与东南亚登革热：1998年至2021年291个地点的区域代表性分析 | Ith, S. | [PDF](https://doi.org/10.1101/2024.10.24.24316055) | N/A | Extreme weather events and dengue in Southeast Asia: a regionally-representative analysis of 291 locations from 1998 to 2021 |
+| 基孔肯雅病毒的全球负担及其疫苗的潜在益处 | Ribeiro dos Santos, G. | [PDF](https://doi.org/10.1101/2024.10.24.24315872) | N/A | The global burden of chikungunya virus and the potential benefit of vaccines |
+| 1990年至2021年中国心力衰竭变化模式：2021年全球疾病负担研究的二次分析 | Yang, Q. | [PDF](https://doi.org/10.1101/2024.10.24.24316080) | N/A | Changing patterns of heart failure in China from 1990 to 2021: a secondary analysis of the Global Burden of Disease study 2021 |
+| 预测儿童癌症长期幸存者10年内心肌病的风险：来自圣裘德终身队列和儿童癌症幸存者研究的报告 | Petrykey, K. | [PDF](https://doi.org/10.1101/2024.10.24.24316064) | N/A | Predicting the 10-year risk of cardiomyopathy in long-term survivors of childhood cancer: a report from the St. Jude Lifetime Cohort and the Childhood Cancer Survivor Study |
+| 使用大型语言模型大规模识别和表征临床笔记中的偏差 | Apakama, D. U. | [PDF](https://doi.org/10.1101/2024.10.24.24316073) | N/A | Identifying and Characterizing Bias at Scale in Clinical Notes Using Large Language Models |
+| 基于智能手机的老年急诊患者认知和身体功能测量：一项可行性研究 | Leroux, A. | [PDF](https://doi.org/10.1101/2024.10.24.24316067) | N/A | Smartphone-based measurement of cognition and physical function in older emergency department patients: A Feasibility Study |
+| 肥胖流行前及流行期间高体重指数的遗传风险：四项英国出生队列研究的跨队列分析 | Wright, L. | [PDF](https://doi.org/10.1101/2024.10.24.24315860) | N/A | Genetic Risk for High Body Mass Index Before and Amidst the Obesity Epidemic: Cross-Cohort Analysis of Four British Birth Cohort Studies |
+| 内侧前额叶θ波（MFT）作为焦虑敏感性治疗反应的预测指标 | Ellis, J. | [PDF](https://doi.org/10.1101/2024.10.23.24313013) | N/A | MEDIAL FRONTAL THETA (MFT) AS A PREDICTOR OF ANXIETY SENSITIVITY TREATMENT RESPONSE |
+| 冲动性方面与物质使用参与：基因组结构方程建模的见解 | Ribo, L. V. | [PDF](https://doi.org/10.1101/2024.10.24.24315331) | N/A | Impulsivity Facets and Substance Use Involvement: Insights from Genomic Structural Equation Modeling |
+| 疫情数据公开报告指南：通过制定透明度和一致性的标准，促进有效的疫情应对问责制 | Gregoire, V. | [PDF](https://doi.org/10.1101/2024.10.24.24315886) | N/A | Public reporting guidelines for outbreak data: Enabling accountability for effective outbreak response by developing standards for transparency and uniformity |
+| 美国成年人在新冠疫情前、期间和之后的疼痛情况。 | Zajacova, A. | [PDF](https://doi.org/10.1101/2024.10.24.24316018) | N/A | Pain among US adults before, during, and after the COVID-19 pandemic. |
+| 创伤性脑损伤6个月期间认知改善的相关因素：灰质体积和分数各向异性 | Zhang, B. | [PDF](https://doi.org/10.1101/2024.10.24.24315709) | N/A | Grey Matter Volume and Fractional Anisotropy as Correlates of Cognitive Improvement in Traumatic Brain Injury Over a 6-Month Period |
+| 苏格兰检测到的头孢曲松耐药淋病奈瑟菌调查，2018-2024年 | McHugh, M. P. | [PDF](https://doi.org/10.1101/2024.10.24.24315890) | N/A | Investigation of ceftriaxone-resistant Neisseria gonorrhoeae detected in Scotland, 2018-2024 |
+| 使用脑电图（EEG）、肌电图（EMG）和睡眠阶段标签，在一组疑似睡眠呼吸暂停患者的队列中进行呼吸暂停和低通气事件检测 | Zhang, D. | [PDF](https://doi.org/10.1101/2024.10.24.24316077) | N/A | Apnea and hypopnea event detection using EEG, EMG, and sleep stage labels in a cohort of patients with suspected sleep apnea |
+| 德国2024年基于食物的膳食指南推导方法学框架：食物组、营养目标与目标函数 | Schäfer, A. C. | [PDF](https://doi.org/10.1101/2024.10.24.24316069) | N/A | A methodological framework for deriving the German food-based dietary guidelines 2024: food groups, nutrient goals, and objective functions |
+| 非传染性疾病跨收入水平合作的网络分析：以撒哈拉以南非洲多发性骨髓瘤为例 | Yang, K. | [PDF](https://doi.org/10.1101/2024.10.24.24316045) | N/A | Network analysis of cross-income-level collaboration on non-communicable disease: the example of multiple myeloma in Sub-Saharan Africa |
 # MedRxiv 2024-10-24 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
