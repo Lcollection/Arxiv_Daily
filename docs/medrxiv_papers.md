@@ -1,3 +1,11 @@
+# MedRxiv 2024-10-26 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 全基因组关联研究揭示了活跃献血者的独特遗传结构 | Clancy, J. | [PDF](https://doi.org/10.1101/2024.06.18.24309089) | N/A | Genome-wide association study reveals the unique genetic structure of active blood donors |
+| 自我逻辑一致的GPT-4实现了对患者反馈的人类级别分类 | Loi, Z. | [PDF](https://doi.org/10.1101/2024.07.11.24310210) | N/A | Self-Logical Consistent GPT-4 Enables Human-Level Classification of Patient Feedback |
+| 评估一线2型糖尿病治疗在不同eGFR水平和医疗服务提供者之间的差异 | Ji, C. X. | [PDF](https://doi.org/10.1101/2024.09.19.24313155) | N/A | Assessing Variation in First-Line Type 2 Diabetes Treatment across eGFR Levels and Providers |
+| Echo-Vision-FM：一种针对超声心动图视频视觉基础模型的预训练与微调框架 | Zhang, Z. | [PDF](https://doi.org/10.1101/2024.10.09.24315195) | N/A | Echo-Vision-FM: A Pre-training and Fine-tuning Framework for Echocardiogram Videos Vision Foundation Model |
 # MedRxiv 2024-10-25 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
