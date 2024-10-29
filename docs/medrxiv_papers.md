@@ -1,3 +1,50 @@
+# MedRxiv 2024-10-28 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 一个双参数闭式解的KERMACK和MCKENDRICK积分微分方程 | Duclos, T. G. | [PDF](https://doi.org/10.1101/2023.11.13.23298463) | N/A | A TWO PARAMETER CLOSED FORM SOLUTION TO THE KERMACK AND MCKENDRICK INTEGRO-DIFFERENTIAL EQUATIONS |
+| 非家庭环境对登革热传播有重要贡献：对媒介控制的启示 | Pena-Garcia, V. H. | [PDF](https://doi.org/10.1101/2024.01.08.24301016) | N/A | Non-household environments make a major contribution to dengue transmission: Implications for vector control |
+| 监测报告：呼吸道病毒 - 2024年9月数据 | Gratzl, S. | [PDF](https://doi.org/10.1101/2024.01.20.24301528) | N/A | Monitoring Report: Respiratory Viruses - September 2024 Data |
+| 具有新颖旅行时间感知的元人口模型和多层衰减免疫力的后期流行病和地方病情景 | Zunker, H. | [PDF](https://doi.org/10.1101/2024.03.01.24303602) | N/A | Novel travel time aware metapopulation models and multi-layer waning immunity for late-phase epidemic and endemic scenarios |
+| 利用癌症突变数据预测生殖系错义变异的致病性 | Haque, B. | [PDF](https://doi.org/10.1101/2024.03.11.24304106) | N/A | Leveraging cancer mutation data to predict the pathogenicity of germline missense variants |
+| 使视觉假体的发展与植入者的需求相一致 | Gil Nadolskis, L. | [PDF](https://doi.org/10.1101/2024.03.12.24304186) | N/A | Aligning visual prosthetic development with implantee needs |
+| EpiSemoLLM：一种基于癫痫发作症状学微调的大型语言模型，用于癫痫发作区定位，其性能可与癫痫学家相媲美 | Yang, S. | [PDF](https://doi.org/10.1101/2024.05.26.24307955) | N/A | EpiSemoLLM: A Fine-tuned Large Language Model for Epileptogenic Zone Localization Based on Seizure Semiology with a Performance Comparable to Epileptologists |
+| 高多基因风险分类的不稳定性及其通过综合评分进行缓解 | Misra, A. | [PDF](https://doi.org/10.1101/2024.07.24.24310897) | N/A | Instability of high polygenic risk classification and mitigation by integrative scoring |
+| 欧洲和非洲人群中单核细胞甲基化组遗传效应图谱 | Zhang, W. | [PDF](https://doi.org/10.1101/2024.08.12.24311885) | N/A | An atlas of genetic effects on the monocyte methylome across European and African populations |
+| 成瘾中的认知功能障碍（CDiA）：一项关于执行功能障碍和寻求治疗成瘾的门诊患者功能结果的神经到社区协作研究项目 | Nikolova, Y. S. | [PDF](https://doi.org/10.1101/2024.08.30.24312806) | N/A | Cognitive Dysfunction in the Addictions (CDiA): A Neuron to Neighbourhood Collaborative Research Program on Executive Dysfunction and Functional Outcomes in Outpatients Seeking Treatment for Addiction |
+| 利用机器学习和离心式微流控技术，在患者疑似感染性休克的首个24小时内，预测其临床恶化的可能性。 | dos Santos, C. | [PDF](https://doi.org/10.1101/2024.10.08.24314844) | N/A | Using machine learning and centrifugal microfluidics at the point-of-need to predict clinical deterioration of patients with suspected sepsis within the first 24 h. |
+| 质子治疗中机器学习临床应用的最新进展 | Wildman, V. L. | [PDF](https://doi.org/10.1101/2024.10.09.24314920) | N/A | Recent advances in the clinical applications of machine learning in proton therapy |
+| 多祖先蛋白质组-表型全基因组孟德尔随机化提供了一个全面的蛋白质-疾病图谱和潜在的治疗靶点。 | Su, C.-Y. | [PDF](https://doi.org/10.1101/2024.10.17.24315553) | N/A | Multi-ancestry proteome-phenome-wide Mendelian randomization offers a comprehensive protein-disease atlas and potential therapeutic targets |
+| 对中国成年人中2923个Olink蛋白质与非遗传因素的全外显子组调查 | Iona, A. | [PDF](https://doi.org/10.1101/2024.10.23.24315975) | N/A | An exposome-wide investigation of 2923 Olink proteins with non-genetic factors in Chinese adults |
+| 皮肤纤维瘤和隆突性皮肤纤维肉瘤的免疫组织化学特征：一项范围综述 | Hardy, C. S. C. | [PDF](https://doi.org/10.1101/2024.10.23.24316006) | N/A | Immunohistochemical profiles of dermatofibroma and dermatofibrosarcoma protuberans: A scoping review |
+| 苏格兰检测到的头孢曲松耐药淋病奈瑟菌调查，2018-2024年 | McHugh, M. P. | [PDF](https://doi.org/10.1101/2024.10.24.24315890) | N/A | Investigation of ceftriaxone-resistant Neisseria gonorrhoeae detected in Scotland, 2018-2024 |
+| 通过目标分布平衡提升现实世界抗原测试敏感性估计 | Bosch, M. | [PDF](https://doi.org/10.1101/2024.10.25.24316137) | N/A | Improving Real-world Antigen Test Sensitivity Estimation through Target Distribution Balancing |
+| 气候变化时代的疟疾预防：塞内加尔农村社区调查 | Sherman, A. C. L. | [PDF](https://doi.org/10.1101/2024.10.26.24316180) | N/A | Malaria prevention in the age of climate change: A community survey in rural Senegal |
+| 估计2016-2020年美国不同流感类型和亚型疾病负担及疫苗接种影响 | Morris, S. E. | [PDF](https://doi.org/10.1101/2024.10.25.24316040) | N/A | Estimating historical disease burden and the impact of vaccination by influenza type and subtype in the United States, 2016-2020 |
+| 用于冰球脑震荡评估的仪器化双重任务测试 | Meyer, F. | [PDF](https://doi.org/10.1101/2024.10.25.24315523) | N/A | Instrumented dual-task tests for concussion assessment in Ice Hockey |
+| 深度学习衍生的海马体中心区域年龄受APOE基因型和可改变的风险因素影响。 | Dong, C. | [PDF](https://doi.org/10.1101/2024.10.27.24316212) | N/A | Deep learning-derived age of hippocampus-centred regions is influenced by APOE genotype and modifiable risk factors |
+| 利用SISCAC数据库，通过人工神经网络预测哥伦比亚全国范围内接受抗逆转录病毒治疗的HIV患者的病毒学和免疫学成功率。 | Buitrago-Gutierrez, A. | [PDF](https://doi.org/10.1101/2024.10.26.24316181) | N/A | Artificial neural networks to predict virological and immunological success in HIV patients under antiretroviral therapy from a nationwide cohort in Colombia, using the SISCAC database. |
+| 噬菌体-质粒介导的甲硫氨酸tRNA连接酶介导了与流行病学相关的抗菌持久性 | Tam, Y. L. | [PDF](https://doi.org/10.1101/2024.10.27.24316207) | N/A | Phage-plasmid borne methionine tRNA ligase mediates epidemiologically relevant antimicrobial persistence |
+| 登革热流行预警阈值：一种用于监测和疫情发现的工具 | Thayer, M. B. | [PDF](https://doi.org/10.1101/2024.10.22.24315684) | N/A | Dengue epidemic alert thresholds: A tool for surveillance and epidemic detection |
+| 新型流感监测与预警框架：固定个体定期报告机制 | Sun, X. | [PDF](https://doi.org/10.1101/2024.10.27.24316208) | N/A | New framework for the surveillance and early warning of influenza: fixed individuals regular reporting mechanism |
+| 美国儿童和青少年在AAP指南前后对肥胖的治疗 | Rodriguez, P. J. | [PDF](https://doi.org/10.1101/2024.10.25.24316147) | N/A | Treatment of obesity in US children and adolescents before and after the AAP guidelines |
+| HypnoGPT：一种用于睡眠分期增强和睡眠障碍诊断的睡眠图语言模型 | Yu, T. | [PDF](https://doi.org/10.1101/2024.10.26.24316166) | N/A | HypnoGPT: A Hypnogram Language Model for Sleep Staging Enhancement and Sleep Disorder Diagnosis |
+| 月经周期中可穿戴设备测量的心率变异性和经前障碍症状 | Pan, Q. | [PDF](https://doi.org/10.1101/2024.10.27.24316196) | N/A | Wearable-Measured Heart Rate Variability and Premenstrual Disorder Symptoms across Menstrual Cycle |
+| "对我父亲的照顾使我受益，因为我才是那个照顾他的人"：对暴露于不良童年经历的年轻人支持需求的定性分析 | Avery, F. | [PDF](https://doi.org/10.1101/2024.10.25.24316104) | N/A | "Support for my dad would have benefited me because I was the one looking after him": A qualitative analysis of the support needs of young people exposed to Adverse Childhood Experiences |
+| 关于登革热感染的知识、态度和实践：在考克斯巴扎尔农村地区的一项社区调查研究 | Prue, E. | [PDF](https://doi.org/10.1101/2024.10.27.24316216) | N/A | Knowledge, Attitude, and Practices Regarding Dengue Infection: A Community-Based Study in Rural Coxs Bazar |
+| 使用机器学习为患有水样腹泻的儿童制定个性化阿奇霉素治疗规则 | Kim, S. S. | [PDF](https://doi.org/10.1101/2024.10.27.24316217) | N/A | Personalized azithromycin treatment rules for children with watery diarrhea using machine learning |
+| 利用7T磁共振波谱成像（MRSI）检测胶质瘤周围谷氨酸和谷氨酰胺水平升高的成像研究 | Hangel, G. | [PDF](https://doi.org/10.1101/2024.10.25.24316010) | N/A | Imaging of increased peritumoral glutamate and glutamine in gliomas using 7T MRSI |
+| 将动态连通性状态与阿尔茨海默病中的认知衰退和解剖学变化相联系 | Tessadori, J. | [PDF](https://doi.org/10.1101/2024.10.25.24316107) | N/A | Linking dynamic connectivity states to cognitive decline and anatomical changes in Alzheimer's disease |
+| 通过机器学习和影像学手段在生物银行规模上预测、预后和监测神经退行性疾病 | Dadu, A. | [PDF](https://doi.org/10.1101/2024.10.27.24316215) | N/A | Prediction, prognosis and monitoring of neurodegeneration at biobank-scale via machine learning and imaging |
+| 阿尔茨海默病血浆生物标志物变化的时机，通过淀粉样蛋白和tau PET时钟评估 | Mila-Aloma, M. | [PDF](https://doi.org/10.1101/2024.10.25.24316144) | N/A | Timing of changes in Alzheimer's disease plasma biomarkers as assessed by amyloid and tau PET clocks |
+| 严重运动障碍与慢性中风患者对侧脑龄较低相关 | Park, G. | [PDF](https://doi.org/10.1101/2024.10.26.24316190) | N/A | Severe motor impairment is associated with lower contralesional brain age in chronic stroke |
+| 鲍曼不动杆菌分离株中酶促基因与非酶促基因之间的关联 | Rahi, A. A. | [PDF](https://doi.org/10.1101/2024.10.27.24316230) | N/A | Correlation Between Enzymatic and Non-Enzymatic Genes in Acinetobacter baumannii Isolates |
+| 基因-过度嗜睡相互作用提示阻塞性睡眠呼吸暂停亚型的治疗靶点 | Nagarajan, P. | [PDF](https://doi.org/10.1101/2024.10.25.24316158) | N/A | Gene-Excessive Sleepiness Interactions Suggest Treatment Targets for Obstructive Sleep Apnea Subtype |
+| 利用远程收集的结构化鼠标轨迹数据进行帕金森病深度学习预测 | Shahriar Zawad, M. R. | [PDF](https://doi.org/10.1101/2024.10.27.24316195) | N/A | Deep Learning Prediction of Parkinson's Disease using Remotely Collected Structured Mouse Trace Data |
+| 双相情感障碍和焦虑症发病率的性别差异：来自2021年全球疾病负担研究的结果 | Zhu, X. | [PDF](https://doi.org/10.1101/2024.10.27.24316200) | N/A | Sex difference in incidence of bipolar and anxiety disorders: findings from the Global Burden of Disease Study 2021 |
+| 评估埃塞俄比亚西南部吉马医疗中心收治的肺炎患儿抗菌药物使用现状及临床管理效果：一项前瞻性观察性研究 | Wariyo, A. G. | [PDF](https://doi.org/10.1101/2024.10.26.24316179) | N/A | Evaluation of current practice of antimicrobial use and clinical outcome in the management of children with pneumonia admitted to Jimma Medical Center, Southwest Ethiopia: A prospective observational study |
+| 在南非，通过糖尿病状况调查15岁及以上个体的饮食质量 | Burgess, M. | [PDF](https://doi.org/10.1101/2024.10.25.24316103) | N/A | Investigating dietary quality among individuals aged 15 years and over by diabetes status in South Africa |
+| 坦桑尼亚多多马市早产儿铁缺乏性贫血的流行率及其相关因素 | MCHWAMPAKA, C. R. | [PDF](https://doi.org/10.1101/2024.10.25.24316098) | N/A | PREVALENCE AND FACTORS ASSOCIATED WITH IRON DEFICIENCY ANAEMIA  AMONG PRETERM INFANTS ATTENDING CLINICS IN DODOMA CITY,TANZANIA |
 # MedRxiv 2024-10-27 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
