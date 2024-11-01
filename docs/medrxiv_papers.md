@@ -1,3 +1,17 @@
+# MedRxiv 2024-10-31 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 在亚太地区体重指数分类中，肥胖与非糖尿病日本男女慢性肾脏病的发展有关。 | Okawa, Y. | [PDF](https://doi.org/10.1101/2024.01.06.23300566) | N/A | Obesity in the Asia-Pacific body mass index classification is associated with the development of chronic kidney disease in non-diabetic Japanese men and women |
+| 传染病认知偏见对幸福感的影响 | Pestow, R. | [PDF](https://doi.org/10.1101/2024.02.25.24303338) | N/A | The Impact on Well-Being of Cognitive Bias about Infectious Diseases |
+| 严重精神障碍前驱期症状的纵向演变：基于自然语言处理和电子健康记录的动态时间网络分析 | Arribas, M. | [PDF](https://doi.org/10.1101/2024.03.08.24303965) | N/A | Longitudinal evolution of the transdiagnostic prodrome to severe mental disorders: a dynamic temporal network analysis informed by natural language processing and electronic health records |
+| 多组学揭示肠道菌群失调与急性心肌梗死早期阶段脂肪酸代谢紊乱的关联 | Ying, J. | [PDF](https://doi.org/10.1101/2024.05.21.24307709) | N/A | Multiomics reveals gut dysbiosis links to fatty acid dysmetabolism in early phase of acute myocardial infarction |
+| 患有ATP1A3编码的钠钾ATP酶α-3亚基变异的儿童和青少年患者表现出对心动过缓的QT间期反应受损，并且易患窦房结功能障碍。 | Srour, M. K. | [PDF](https://doi.org/10.1101/2024.08.31.24312446) | N/A | Children and Adolescent Patients with the Variants in the ATP1A3-encoded Sodium-Potassium ATPase Alpha-3 Subunit Demonstrate Impaired QT Response to Bradycardia and Predisposition to Sinus Node Dysfunction |
+| 619,372名个体循环代谢物的全基因组关联研究 | Tambets, R. | [PDF](https://doi.org/10.1101/2024.10.15.24315557) | N/A | Genome-wide association study for circulating metabolites in 619,372 individuals |
+| 在口岸使用扫描仪后，芬太尼过量死亡人数下降 | Miron, O. | [PDF](https://doi.org/10.1101/2024.10.16.24315583) | N/A | Fentanyl Overdose Deaths Decreased Following Scanner Use at Ports-of-Entry |
+| HORNET：利用eQTLs发现具有因果证据的基因及其调控网络的工具 | Lorincz-Comi, N. J. | [PDF](https://doi.org/10.1101/2024.10.28.24316273) | N/A | HORNET: Tools to find genes with causal evidence and their regulatory networks using eQTLs |
+| 库欣综合征对女性下丘脑-垂体-性腺轴的影响 | Yu, A. | [PDF](https://doi.org/10.1101/2024.10.30.24316413) | N/A | Impact of Cushing's syndrome on the hypothalamus-pituitary-gonad axis in women |
+| 探索高血压患者的治疗效果与参与模式：对Withings远程患者监测计划的观察性分析 | Letzelter, P. | [PDF](https://doi.org/10.1101/2024.10.28.24315321) | N/A | Exploring Outcomes and Engagement Patterns for Hypertensive Patients: An Observational Analysis of the Withings Remote Patient Monitoring Program |
 # MedRxiv 2024-10-30 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
