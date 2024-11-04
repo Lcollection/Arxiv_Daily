@@ -1,3 +1,12 @@
+# MedRxiv 2024-11-03 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 一种用于聚类医疗数据的功能排名算法 | Shpigelman, E. | [PDF](https://doi.org/10.1101/2023.09.30.23296349) | N/A | A feature ranking algorithm for clustering medical data |
+| 来自电离辐射暴露的跨代突变特征。 | Brand, F. | [PDF](https://doi.org/10.1101/2023.11.20.23298689) | N/A | A transgenerational mutational signature from ionizing radiation exposure. |
+| 系统性政策与证据审查，以探讨如何在社会护理人员中最佳实施痴呆症教育和培训，并研究政策如何或在何种程度上促进其在英格兰的实施。 | Delray, S. | [PDF](https://doi.org/10.1101/2024.08.24.24312532) | N/A | Systematic policy and evidence review to consider how dementia education and training is best delivered in the social care workforce, and how policy does or can enable its implementation in England |
+| 评估在门诊神经康复中，从家庭自我中心视频中获取的手部表现信息的临床应用价值 | Kadambi, A. | [PDF](https://doi.org/10.1101/2024.09.27.24314512) | N/A | Evaluating the clinical utility of hand performance information from at-home egocentric video in outpatient neurorehabilitation |
+| 步数统计与身体活动趋势：一项针对30名女性参与者的3个月步行挑战分析 | Esan, O. M. | [PDF](https://doi.org/10.1101/2024.10.23.24315952) | N/A | Step Counts and Physical Activity Trends: A 3-Month Analysis of a Walking Challenge Among 30 Female Participants |
 # MedRxiv 2024-11-02 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
