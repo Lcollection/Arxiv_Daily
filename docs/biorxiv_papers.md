@@ -1,3 +1,164 @@
+# BioRxiv 2024-11-04 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 从头鉴定通用细胞力学基因特征 | Urbanska, M. | [PDF](https://doi.org/10.1101/2021.04.26.441418) | N/A | De novo identification of universal cell mechanics gene signatures |
+| 异常的FGF信号促进SHH亚组婴儿型髓母细胞瘤中的颗粒神经元前体扩张 | Yabut, O. | [PDF](https://doi.org/10.1101/2021.06.23.449636) | N/A | Aberrant FGF signaling promotes granule neuron precursor expansion in SHH subgroup infantile medulloblastoma |
+| 在单一种类的浮游植物病毒中，高生活史多样性 | Lievens, E. J. | [PDF](https://doi.org/10.1101/2022.03.13.484168) | N/A | High life history diversity within a single genus of phytoplankton viruses |
+| 人类新皮层树突中信号传播速度的加快 | Olah, G. | [PDF](https://doi.org/10.1101/2022.09.30.510270) | N/A | Accelerated signal propagation speed in human neocortical dendrites |
+| HALO：用于单细胞多组学数据的层次因果建模 | Mao, H. | [PDF](https://doi.org/10.1101/2022.10.17.512602) | N/A | HALO: Hierarchical Causal Modeling for Single Cell Multi-Omics Data |
+| 对非生物胁迫的进化反应塑造了物种共存 | Fragata, I. | [PDF](https://doi.org/10.1101/2023.05.06.539716) | N/A | Evolution in response to an abiotic stress shapes species coexistence |
+| 内体-溶酶体靶向纳米颗粒递送抗病毒疗法用于冠状病毒感染 | Petcherski, A. | [PDF](https://doi.org/10.1101/2023.05.08.539898) | N/A | ENDO-LYSOSOME-TARGETED NANOPARTICLE DELIVERY OF ANTIVIRAL THERAPY FOR CORONAVIRUS INFECTIONS |
+| 在共享酶池中的催化生长确保了中心体大小的稳健控制。 | Banerjee, D. S. | [PDF](https://doi.org/10.1101/2023.06.06.543875) | N/A | Catalytic growth in a shared enzyme pool ensures robust control of centrosome size |
+| 在由诱导多能干细胞衍生的神经元中进行的CRISPR筛选揭示了tau蛋白稳态的原理 | Samelson, A. J. | [PDF](https://doi.org/10.1101/2023.06.16.545386) | N/A | CRISPR screens in iPSC-derived neurons reveal principles of tau proteostasis |
+| LrhA通过增强大肠杆菌中的预激活适应过程，促进了CRISPR-Cas免疫。 | Fang, M. | [PDF](https://doi.org/10.1101/2023.08.14.552655) | N/A | LrhA promotes CRISPR-Cas immunity by enhancing primed adaptation in Escherichia coli |
+| 在一种世界性分布的植物谱系中，宏观进化推断出复杂的染色体物种形成模式 | Tribble, C. M. | [PDF](https://doi.org/10.1101/2023.09.05.556433) | N/A | Macroevolutionary inference of complex modes of chromosomal speciation in a cosmopolitan plant lineage |
+| 基于进化扩散的蛋白质生成：序列即一切 | Alamdari, S. | [PDF](https://doi.org/10.1101/2023.09.11.556673) | N/A | Protein generation with evolutionary diffusion: sequence is all you need |
+| 胺能和肽能对果蝇胰岛素产生细胞的调节作用 | Held, M. | [PDF](https://doi.org/10.1101/2023.09.14.557555) | N/A | Aminergic and peptidergic modulation of Insulin-Producing Cells in Drosophila |
+| ElectroPhysiomeGAN：从记录的电生理响应生成生物物理神经元模型参数 | Kim, J. | [PDF](https://doi.org/10.1101/2023.12.19.572452) | N/A | ElectroPhysiomeGAN: Generation of Biophysical Neuron Model Parameters from Recorded Electrophysiological Responses |
+| 神经纤毛蛋白-1通过旁分泌调控内皮粘附连接来控制血管通透性。 | Pal, S. | [PDF](https://doi.org/10.1101/2024.01.23.576785) | N/A | Neuropilin-1 controls vascular permeability through juxtacrine regulation of endothelial adherens junctions |
+| CausalXtract：一种从活细胞延时成像数据中提取因果效应的灵活管道 | Simon, F. | [PDF](https://doi.org/10.1101/2024.02.06.579177) | N/A | CausalXtract: a flexible pipeline to extract causal effects from live-cell time-lapse imaging data |
+| Pik3r1相关胰岛素抵抗的代谢保护性能量消耗增加并非由Ucp1介导的产热作用所解释。 | Luijten, I. | [PDF](https://doi.org/10.1101/2024.02.12.579851) | N/A | The metabolically protective energy expenditure increase of Pik3r1-related insulin resistance is not explained by Ucp1-mediated thermogenesis |
+| 脂质基纳米颗粒细胞周期和自噬相关细胞积累技术平台的构建与应用 | Wang, Y. | [PDF](https://doi.org/10.1101/2024.02.19.579560) | N/A | Construction and application of a technical platform for determining cell cycle- and autophagy-associated cellular accumulation of lipid-based nanoparticles |
+| 基底前脑激活可改善老年猴子的工作记忆 | Pennington, K. R. | [PDF](https://doi.org/10.1101/2024.03.01.582925) | N/A | Basal forebrain activation improves working memory in senescent monkeys |
+| 小鼠次级体感皮层和视觉皮层的注意调节 | Petty, G. | [PDF](https://doi.org/10.1101/2024.03.22.586242) | N/A | Attentional modulation of secondary somatosensory and visual thalamus of mice |
+| 解决SARS-CoV-2系统发育中的大流行性系统错误 | Hunt, M. | [PDF](https://doi.org/10.1101/2024.04.29.591666) | N/A | Addressing pandemic-wide systematic errors in the SARS-CoV-2 phylogeny |
+| 新生C57Bl/6小鼠循环中性粒细胞耗竭的方案 | Mukherjee, D. | [PDF](https://doi.org/10.1101/2024.05.06.592835) | N/A | Protocols for circulating neutrophil depletion in neonatal C57Bl/6 mice |
+| 线粒体磷酸泛酰巯基乙胺化对于氧化功能是必需的。 | Norden, P. R. | [PDF](https://doi.org/10.1101/2024.05.09.592977) | N/A | Mitochondrial Phosphopantetheinylation is Required for Oxidative Function |
+| 免疫耐受性的个体发育：早期生命分泌型IgA与肠道微生物群相互作用的模型 | Tepekule, B. | [PDF](https://doi.org/10.1101/2024.05.20.594845) | N/A | The ontogeny of immune tolerance: a model of early-life secretory IgA - gut microbiome interactions |
+| 物体转移在大脑海马区引发事件编码 | Duan, Y.-L. | [PDF](https://doi.org/10.1101/2024.06.06.597717) | N/A | Object-translocation induces event coding in the hippocampus |
+| 胃-脑耦合指数的增加标志着负面心理健康症状的维度特征。 | Banellis, L. | [PDF](https://doi.org/10.1101/2024.06.05.597517) | N/A | Increased stomach-brain coupling indexes a dimensional signature of negative mental health symptoms. |
+| 叹息生成于前包钦格复合体 | Cui, Y. | [PDF](https://doi.org/10.1101/2024.06.05.597565) | N/A | Sigh generation in preBötzinger Complex |
+| CRF1受体的中断消除了吗啡诱导的雄性小鼠社交性缺陷及催产素能神经元的激活 | Piccin, A. | [PDF](https://doi.org/10.1101/2024.06.17.599288) | N/A | Disruption of the CRF1 receptor eliminates morphine-induced sociability deficits and firing of oxytocinergic neurons in male mice |
+| 蚁群人口结构影响蚂蚁的巢穴建造 | Rajendran, H. | [PDF](https://doi.org/10.1101/2024.07.09.602713) | N/A | Colony demographics shape nest construction in ants |
+| 多数LCL：基于标签对比学习和多数投票集成方法的疟疾细胞检测 | Kundu, S. | [PDF](https://doi.org/10.1101/2024.07.22.604640) | N/A | Majority-LCL: Towards Malaria Cell Detection using Label Contrastive Learning and Majority voting Ensembling |
+| 从混乱的化学到生态学：在具有前生物合理性的化学系统中的自催化与遗传性 | Sokolskyi, T. | [PDF](https://doi.org/10.1101/2024.08.03.606486) | N/A | From messy chemistry to ecology: autocatalysis and heritability in prebiotically plausible chemical systems |
+| 基于蛋白质语言的机器学习模型预测腺相关病毒适应性 | Wu, J. | [PDF](https://doi.org/10.1101/2024.08.19.608620) | N/A | Prediction of Adeno-Associated Virus Fitness with a Protein Language Based Machine Learning Model |
+| Wnt5a和Notum影响发育中气管软骨间充质凝集的时间动态。 | Bottasso-Arias, N. | [PDF](https://doi.org/10.1101/2024.09.02.610014) | N/A | Wnt5a and Notum Influence the Temporal Dynamics of Cartilaginous Mesenchymal Condensations in Developing Trachea. |
+| 对来自加纳萨博巴区和博尔加坦加市的食物源性沙门氏菌和大肠杆菌分离株的基因组特征分析 | Sunmonu, G. T. | [PDF](https://doi.org/10.1101/2024.09.05.611394) | N/A | Genomic characterization of foodborne Salmonella enterica and Escherichia coli isolates from Saboba district and Bolgatanga Municipality Ghana |
+| 探究他人的存在：跨脑尺度概率推断揭示增强的兴奋性突触效能 | Esmaeili, A. | [PDF](https://doi.org/10.1101/2024.09.09.612006) | N/A | Probing other's Presence: Probabilistic Inference Across Brain Scales Reveals Enhanced Excitatory Synaptic Efficacy |
+| 探究视觉素养技能揭示了学生对染色体的意外认识 | Uminski, C. | [PDF](https://doi.org/10.1101/2024.09.20.614153) | N/A | Probing visual literacy skills reveals unexpected student conceptions of chromosomes |
+| 视网膜拓扑编码组织了内部和外部导向的大脑网络之间的相互作用。 | Steel, A. | [PDF](https://doi.org/10.1101/2024.09.25.615084) | N/A | Retinotopic coding organizes the interaction between internally and externally oriented brain networks |
+| 大麻烟和口服Δ9THC能增强老年受试者的工作记忆，但对年轻成年受试者则不然。 | Zequeira, S. | [PDF](https://doi.org/10.1101/2024.09.26.615028) | N/A | Cannabis smoke and oral Δ9THC enhance working memory in aged but not young adult subjects |
+| 针对蛋白水解的疫苗（PROTAVs）用于黑色素瘤的强效联合免疫治疗 | Wang, Q. | [PDF](https://doi.org/10.1101/2024.10.01.616069) | N/A | Proteolysis-targeting vaccines (PROTAVs) for robust combination immunotherapy of melanoma |
+| 撤回：通过超快速生物过程减少一氧化二氮排放，实现高浓度N2O的去除 | Maeda, R. | [PDF](https://doi.org/10.1101/2024.10.08.615939) | N/A | WITHDRAWN: Mitigating nitrous oxide emission by an ultra-fast bioprocess enabling the removal of high concentration N2O |
+| 乳腺上皮细胞命运转换的分子时间表 | Vallmajo-Martin, Q. | [PDF](https://doi.org/10.1101/2024.10.08.617155) | N/A | The molecular chronology of mammary epithelial cell fate switching |
+| 利用肿瘤-免疫动力学综合模型预测慢性髓性白血病患者的无治疗缓解结果 | Fassoni, A. C. | [PDF](https://doi.org/10.1101/2024.10.10.617526) | N/A | Predicting treatment-free remission outcomes in Chronic Myeloid Leukemia patients using an integrated model of tumor-immune dynamics |
+| Dnajc3（HSP40）增强小鼠视神经的轴突再生 | Wang, J. | [PDF](https://doi.org/10.1101/2024.10.08.617251) | N/A | Dnajc3 (HSP40) Enhances Axon Regeneration in the Mouse Optic Nerve |
+| 通过可逆的YAP和细胞因子控制细胞周期蛋白D1/p27比例的短暂增殖 | Ferrick, K. R. | [PDF](https://doi.org/10.1101/2024.10.11.617852) | N/A | Transient proliferation by reversible YAP and mitogen-control of the cyclin D1/p27 ratio |
+| 自主神经和免疫应激反应网络在HIV感染者中的表现 | Mueller, B. R. | [PDF](https://doi.org/10.1101/2024.10.15.618447) | N/A | Autonomic and Immune Stress Response Networks in Patients Living With HIV |
+| H2O2 重新利用植物的氧气感应机制来控制对氧化应激的转录反应 | Akter, S. | [PDF](https://doi.org/10.1101/2024.10.21.619351) | N/A | H2O2 repurposes the plant oxygen-sensing machinery to control the transcriptional response to oxidative stress |
+| 活体双光子荧光显微镜中神经场的自适应光学校正 | Kang, I. | [PDF](https://doi.org/10.1101/2024.10.20.619284) | N/A | Adaptive optical correction for in vivo two-photon fluorescence microscopy with neural fields |
+| 鉴定环素L1作为调节乙型肝炎病毒复制的宿主因子 | Owino, C. O. | [PDF](https://doi.org/10.1101/2024.10.23.619969) | N/A | Identification of Cyclin L1 as a host factor regulating Hepatitis B Virus replication |
+| Foxi1通过转录和表观遗传机制调控粘液纤毛发育和离子细胞分化的多个步骤 | Bowden, S. | [PDF](https://doi.org/10.1101/2024.10.27.620464) | N/A | Foxi1 regulates multiple steps of mucociliary development and ionocyte specification through transcriptional and epigenetic mechanisms |
+| 听觉皮层中的正交频谱和时间包络表示 | Takahashi, K. | [PDF](https://doi.org/10.1101/2024.10.28.620417) | N/A | Orthogonal spectral and temporal envelope representation in auditory cortex |
+| FoldMark：通过水印技术保护蛋白质生成模型 | ZHANG, Z. | [PDF](https://doi.org/10.1101/2024.10.23.619960) | N/A | FoldMark: Protecting Protein Generative Models with Watermarking |
+| 剪接因子激酶，即SR蛋白激酶1（SRPK1），对人类乳头瘤病毒生命周期中的晚期事件至关重要。 | Faizo, A. A. A. | [PDF](https://doi.org/10.1101/2024.10.28.620581) | N/A | The splicing factor kinase, SR protein kinase 1 (SRPK1) is essential for late events in the human papillomavirus life cycle. |
+| 空间转录组学揭示了生精上皮周期的时间结构及精确的Sertoli-生殖细胞同步化 | Chakravorty, A. | [PDF](https://doi.org/10.1101/2024.10.28.620681) | N/A | Spatial Transcriptomics Reveals the Temporal Architecture of the Seminiferous Epithelial Cycle and Precise Sertoli-Germ Synchronization |
+| 稀疏动物社会网络分析 | Mylne, H. K. | [PDF](https://doi.org/10.1101/2024.10.31.621436) | N/A | Analysis of sparse animal social networks |
+| 抑制鞭毛钩中赖氨酰丙氨酸交联的物质作为抗螺旋体微生物 | Lynch, M. J. | [PDF](https://doi.org/10.1101/2024.11.01.621575) | N/A | Inhibitors of lysinoalanine crosslinking in the flagella hook as antimicrobials against spirochetes |
+| 在猴子前额叶和顶叶皮层中，3D BCI控制的伸手适应过程中，计划和运动活动在运动参考框架内共同适应。 | Ferrea, E. | [PDF](https://doi.org/10.1101/2024.11.03.621745) | N/A | Planning and movement activities co-adapt in a motor-reference frame during 3D BCI-controlled reach adaptation in monkey frontal and parietal cortices |
+| 纹状体胆碱能中间神经元的同步激活诱导局部血清素释放 | Matityahu, L. | [PDF](https://doi.org/10.1101/2024.11.03.621726) | N/A | Synchronous activation of striatal cholinergic interneurons induces local serotonin release |
+| MethylGPT：一种用于DNA甲基化组的基模型 | Ying, K. | [PDF](https://doi.org/10.1101/2024.10.30.621013) | N/A | MethylGPT: a foundation model for the DNA methylome |
+| 适应性峰值的反应规范追踪可能解释化石记录中的时间序列 | Ergon, R. | [PDF](https://doi.org/10.1101/2024.10.30.621046) | N/A | Reaction norm tracking of fitness peaks may explain time series in the fossil record |
+| 超越体型二态性：Rensch法则的过去、现在与未来 | Toyama, K. S. | [PDF](https://doi.org/10.1101/2024.10.30.621038) | N/A | Beyond size dimorphism: the past, present, and future of Rensch's Rule |
+| 基于Transformer的生存结果预测方法 | Mellors, T. | [PDF](https://doi.org/10.1101/2024.11.03.621674) | N/A | A Transformer-Based Approach to Survival Outcome Prediction |
+| 叠加的人动脉内皮细胞产生动脉粥样硬化的脂质条纹并释放促炎性细胞因子 | Zeng, Y. | [PDF](https://doi.org/10.1101/2024.11.03.621780) | N/A | Stacked Human Arterial Endothelial Cells Generate Atherosclerotic Fatty Streaks and Release Proinflammatory Cytokines |
+| 汽车尾气中的PM2.5通过ROS-UPRmt信号通路诱导雄性大鼠生殖细胞凋亡 | Wang, C. | [PDF](https://doi.org/10.1101/2024.11.02.621651) | N/A | PM2.5 from Automobile Exhaust Induces Apoptosis in Male Rat Germ Cells via the ROS-UPRmt Signaling Pathway |
+| 休眠繁殖体库在塑造群落构建的生态进化动力学中的作用 | Lin, J. | [PDF](https://doi.org/10.1101/2024.11.03.621703) | N/A | The role of dormant propagule banks in shaping eco-evolutionary dynamics of community assembly |
+| 长期低流量和非本地鱼类共同作用，改变了山区溪流中昆虫的羽化过程。 | Evangelista, C. | [PDF](https://doi.org/10.1101/2024.11.03.621706) | N/A | Prolonged low flows and non-native fish operate additively to alter insect emergence in mountain streams |
+| 多态性串联重复序列塑造了免疫景观中单细胞基因表达的多样性 | Tanudisastro, H. A. | [PDF](https://doi.org/10.1101/2024.11.02.621562) | N/A | Polymorphic tandem repeats shape single-cell gene expression across the immune landscape |
+| 药物输送过程模拟 - 量化紫杉醇和聚氧乙烯蓖麻油（Cremophor EL）的构象动力学 | Uddin, M. | [PDF](https://doi.org/10.1101/2024.11.03.621777) | N/A | Drug Delivery Process Simulation - Quantifying the Conformation Dynamics of Paclitaxel and Cremophor EL |
+| 利用Halbach阵列和磁性纳米颗粒控制人诱导多能干细胞心肌细胞工程组织中的机电波 | Pozo, M. R. | [PDF](https://doi.org/10.1101/2024.11.01.621542) | N/A | Control of electromechanical waves in engineered tissue of human iPSC-cardiomyocytes using a Halbach array and magnetic nanoparticles |
+| 通过软体机器人动态刺激实现生物打印组织可编程三维细胞排列 | Rosalia, L. | [PDF](https://doi.org/10.1101/2024.11.03.621771) | N/A | Programmable 3D cell alignment of bioprinted tissue via soft robotic dynamic stimulation |
+| 学习具有多输出高斯过程的单细胞多组学数据的解释性表示 | Moslehi, Z. | [PDF](https://doi.org/10.1101/2024.11.03.621746) | N/A | Learning interpretable representations of single-cell multi-omics data with multi-output Gaussian Processes |
+| 强化身份赋予癌细胞癌症特征 | Yang, H. | [PDF](https://doi.org/10.1101/2024.11.01.621626) | N/A | Reinforced identity confers cells with cancer hallmarks |
+| 肿瘤缺氧性细胞外囊泡为三阴性乳腺癌创造了一个保护性微环境 | Pachane, B. C. | [PDF](https://doi.org/10.1101/2024.11.01.621519) | N/A | Tumoral hypoxic extracellular vesicles create a protective microenvironment for triple-negative breast cancer |
+| 使用维替泊芬抑制Yes相关蛋白（YAP）通过诱导G2M停滞和抑制DNA损伤反应增强脊索瘤的放射敏感性 | Akinduro, O. O. | [PDF](https://doi.org/10.1101/2024.11.03.621728) | N/A | Inhibition of Yes-Associated Protein (YAP) with Verteporfin Enhances Radiosensitivity in Chordoma by Inducing G2M Arrest and Inhibiting the DNA Damage Response |
+| 结合不可逆和可逆药物抗性机制的个性化癌症治疗策略 | He, W. | [PDF](https://doi.org/10.1101/2024.11.03.621749) | N/A | Personalized cancer treatment strategies incorporating irreversible and reversible drug resistance mechanisms |
+| 具有偏置记忆模式的Hopfield神经网络的鲁棒性 | Montazeri, A. | [PDF](https://doi.org/10.1101/2024.10.31.621250) | N/A | Robustness in Hopfield neural networks with biased memory patterns |
+| 一种来自恒河的新型Pbunavirus噬菌体通过下调las/rhl系统及减少KPC碳青霉烯酶，在多重耐药铜绿假单胞菌的废水生物控制中发挥作用。 | Samson, R. | [PDF](https://doi.org/10.1101/2024.11.01.621487) | N/A | A novel Pbunavirus phage from the Ganges River in biocontrol of multidrug-resistant Pseudomonas aeruginosa in wastewater by downregulation of las/rhl systems and reduction of KPC carbapenemases |
+| 延迟反馈对基于规则和信息整合类别学习的影响。 | Edmunds, C. E. R. | [PDF](https://doi.org/10.1101/2024.10.31.621443) | N/A | The effect of deferring feedback on rule-based and information-integration category learning. |
+| 人类诱导多能干细胞的扰动细胞图谱 | Nourreddine, S. | [PDF](https://doi.org/10.1101/2024.11.03.621734) | N/A | A PERTURBATION CELL ATLAS OF HUMAN INDUCED PLURIPOTENT STEM CELLS |
+| 人类诱导多能干细胞的扰动细胞图谱 | Nourreddine, S. | [PDF](https://doi.org/10.1101/2024.11.03.621734) | N/A | A PERTURBATION CELL ATLAS OF HUMAN INDUCED PLURIPOTENT STEM CELLS |
+| 基于转录组学的FCRL6作为糖尿病肾病新型诊断生物标志物的鉴定 | Marinedrive, A. | [PDF](https://doi.org/10.1101/2024.11.01.621451) | N/A | Transcriptomic-Based Identification of FCRL6 as a Novel Diagnostic Biomarker in Diabetic Nephropathy |
+| 口咽癌复发与肿瘤内在及免疫介导的基因组不稳定性降低的后果相关联 | Sannigrahi, M. K. | [PDF](https://doi.org/10.1101/2024.10.31.621311) | N/A | Association of oropharyngeal cancer recurrence with tumor-intrinsic and immune-mediated sequelae of reduced genomic instability |
+| 内吞作用通过减弱与BMP信号通路平行的Highwire/PHR1依赖性JNK信号传导，限制了突触的生长。 | Pippadpally, S. | [PDF](https://doi.org/10.1101/2024.11.03.621782) | N/A | Endocytosis restricts synapse growth by attenuating Highwire/PHR1-dependent JNK signaling in a pathway parallel to the BMP signaling |
+| 肠道神经元scRNA-seq的青少年和成人元图谱：用于数据集比较和肠道神经元亚型转录组定义的共识 | Benthal, J. T. | [PDF](https://doi.org/10.1101/2024.10.31.621315) | N/A | Meta-atlas of Juvenile and Adult Enteric Neuron scRNA-seq for Dataset Comparisons and Consensus on Transcriptomic Definitions of Enteric Neuron Subtypes |
+| 智力和认知灵活性有选择地调节工作记忆功能 | Zhang, H. | [PDF](https://doi.org/10.1101/2024.10.30.620994) | N/A | Intelligence and Cognitive Flexibility Selectively Modulate Working Memory Functioning |
+| 归一化动态时间规整提高了区分精神分裂症功能网络连接的敏感性 | Wiafe, S.-L. | [PDF](https://doi.org/10.1101/2024.10.31.621415) | N/A | Normalized Dynamic Time Warping Increases Sensitivity In Differentiating Functional Network Connectivity In Schizophrenia |
+| 精神病障碍中孤独感与海马对动态社交刺激反应之间的关联 | McKenna, F. | [PDF](https://doi.org/10.1101/2024.10.31.621352) | N/A | Association between loneliness and hippocampal responses to dynamic social stimuli in psychotic disorders |
+| 样本特异性网络分析识别出晚期肾癌免疫治疗反应的基因共表达模式 | Yin, L. | [PDF](https://doi.org/10.1101/2024.11.02.621068) | N/A | Sample-specific network analysis identifies gene coexpression patterns of immunotherapy response in advanced kidney cancer |
+| 肿瘤浸润淋巴细胞显示出与三阴性乳腺癌患者化疗反应相关的预后特征 | Banerjee, S. | [PDF](https://doi.org/10.1101/2024.11.01.621478) | N/A | Tumor-Infiltrating Lymphocytes Display Prognostic Signatures Associated with Chemotherapy Response in TNBC Patients |
+| 在急性和慢性感染中表征低密度中性粒细胞基因特征及其对疾病严重程度的影响 | de Toledo, M. A. | [PDF](https://doi.org/10.1101/2024.11.01.621545) | N/A | Characterizing a Low-Density Neutrophil gene signature in acute and chronic infections and its impact on disease severity |
+| 新皮质第4层神经元对阿尔茨海默病抗性的分子特征 | Dharshini, S. A. P. | [PDF](https://doi.org/10.1101/2024.11.03.621787) | N/A | Molecular Signatures of Resilience to Alzheimer's Disease in Neocortical Layer 4 Neurons |
+| 视觉引导的补偿机制减轻聋哑引起的歌声退化 | Rolland, M. | [PDF](https://doi.org/10.1101/2024.11.04.621802) | N/A | Visually-guided compensation of deafening-induced song deterioration |
+| 为维持生产力而设计的条带耕作增加了地面甲虫的生物多样性。 | Croijmans, L. | [PDF](https://doi.org/10.1101/2024.11.02.621655) | N/A | Strip cropping designed for maintaining productivity increases ground beetle biodiversity |
+| 如何通过部分表型测定来缩短世代间隔，从而帮助提高选育蜜蜂种群的年遗传增益 | Kistler, T. | [PDF](https://doi.org/10.1101/2024.10.30.621079) | N/A | How partial phenotyping to reduce generation intervals can help to increase annual genetic gain in selected honeybee populations |
+| 识别和注释着丝粒低甲基化区域与着丝粒双峰区域（CDR）查找器 | Mastrorosa, F. K. | [PDF](https://doi.org/10.1101/2024.11.01.621587) | N/A | Identification and annotation of centromeric hypomethylated regions with Centromere Dip Region (CDR)-Finder |
+| 通过X射线晶体学鉴定电压门控钠通道中对挥发性麻醉剂具有功能重要性的结合位点 | Hollingworth, D. | [PDF](https://doi.org/10.1101/2024.11.04.621342) | N/A | Functionally important binding site for a volatile anesthetic in a voltage-gated sodium channel identified by X-ray crystallography |
+| 将连续经验整合到深度生成网络中可以解释人类记忆、预测和规划 | Spens, E. | [PDF](https://doi.org/10.1101/2024.11.04.621950) | N/A | Consolidation of sequential experience into a deep generative network explains human memory, prediction and planning |
+| ASD相关的CNTNAP2变异体通过受损的胞外域脱落调控破坏神经元树突发育 | Lobete, M. | [PDF](https://doi.org/10.1101/2024.11.04.621898) | N/A | ASD-ASSOCIATED CNTNAP2 VARIANTS DISRUPT NEURONAL ARBORIZATION THROUGH IMPAIRED REGULATION BY ECTODOMAIN SHEDDING |
+| 蝇舞迪斯科：用于光遗传学和精细蝇类行为分析的硬件与软件 | Robie, A. A. | [PDF](https://doi.org/10.1101/2024.11.04.621948) | N/A | The Fly Disco: Hardware and software for optogenetics and fine-grained fly behavior analysis |
+| 年龄和淀粉样β依赖性神经纤维缠结的启动：一种改进的阿尔茨海默病小鼠模型，不涉及MAPT基因突变。 | Desai, S. | [PDF](https://doi.org/10.1101/2024.11.04.621900) | N/A | Age and amyloidβ-dependent initiation of neurofibrillary tau tangles: an improved mouse model of Alzheimers disease without mutations in MAPT. |
+| 伏隔核D2表达神经元：通过节律性光遗传刺激平衡奖励与舔舐中断 | Requejo-Mendoza, N. | [PDF](https://doi.org/10.1101/2024.11.04.621937) | N/A | Nucleus accumbens D2-expressing neurons: Balancing reward and licking disruption through rhythmic optogenetic stimulation |
+| 在雄性大鼠中，微胶质细胞的药理学耗竭可防止酒精中毒期间皮质边缘系统的神经退行性变。 | Carlson, E. R. | [PDF](https://doi.org/10.1101/2024.11.04.621917) | N/A | Pharmacological depletion of microglia protects against alcohol-induced corticolimbic neurodegeneration during intoxication in male rats |
+| 一种全球性的多巴胺能学习率使得在众多选项中能够进行适应性的觅食行为。 | Grima, L. L. | [PDF](https://doi.org/10.1101/2024.11.04.621923) | N/A | A global dopaminergic learning rate enables adaptive foraging across many options |
+| MINT：一个用于分析多元神经信息编码和传输的工具箱 | Lorenz, G. M. | [PDF](https://doi.org/10.1101/2024.11.04.621910) | N/A | MINT: a toolbox for the analysis of multivariate neural information coding and transmission |
+| 重复磁刺激通过协同的前后突触活动诱导兴奋性突触的可塑性。 | Galanis, C. | [PDF](https://doi.org/10.1101/2024.11.04.621890) | N/A | Repetitive magnetic stimulation induces plasticity of excitatory synapses through cooperative pre- and postsynaptic activity. |
+| F2,6BP恢复亨廷顿病中线粒体基因组的完整性 | Chakraborty, A. | [PDF](https://doi.org/10.1101/2024.11.04.621834) | N/A | F2,6BP restores mitochondrial genome integrity in Huntingtons Disease |
+| 用于磁旋转图的体积导体模型 | O'Neill, G. C. | [PDF](https://doi.org/10.1101/2024.11.04.621905) | N/A | Volume conductor models for magnetospinography |
+| 耳蜗神经树突长度中的蜗轴-支柱梯度：动态范围中一种新的突触后贡献？ | Kostrikov, S. | [PDF](https://doi.org/10.1101/2024.11.04.621861) | N/A | A modiolar-pillar gradient in auditory-nerve dendritic length: a novel post-synaptic contribution to dynamic range? |
+| 在伸手过程中，大脑广泛区域的活动整合了由动作介导的目标预期。 | Peng, Y. | [PDF](https://doi.org/10.1101/2024.11.04.621878) | N/A | Brain-wide population activity during reaching integrates action-mediated goal expectation |
+| 光流解析作为因果源分离：一种从光流中同时提取物体和自运动信息的计算模型 | Scherff, M. | [PDF](https://doi.org/10.1101/2024.11.04.621864) | N/A | Flow parsing as causal source separation: A computational model for concurrent retrieval of object and self-motion information from optic flow |
+| 通过NrCAM和Ankyrin B，胆囊收缩素-篮状中间神经元对胞体突触的靶向作用 | Oldre, E. N. | [PDF](https://doi.org/10.1101/2024.11.04.621872) | N/A | Perisomatic Synaptic Targeting by Cholecystokinin-Basket Interneurons through NrCAM and Ankyrin B |
+| 机械负荷使血影蛋白网络发生“连续”蛋白水解，并促进神经退行性变的早期发作。 | Malaiwong, N. | [PDF](https://doi.org/10.1101/2024.11.04.621798) | N/A | Mechanical load conditions the spectrin network to `run-on' proteolysis and promotes early onset neurodegeneration |
+| 人类枕颞皮层中视网膜定位偏差和类别选择性的系统性效应 | Silson, E. H. | [PDF](https://doi.org/10.1101/2024.11.04.621840) | N/A | Systematic effects of retinotopic biases and category selectivity across human occipitotemporal cortex |
+| 使用控制理论方法从钙成像预测神经元放电 | Rondoni, N. | [PDF](https://doi.org/10.1101/2024.11.04.621814) | N/A | Predicting neuronal firing from calcium imaging using a control theoretic approach |
+| 使用控制理论方法从钙成像预测神经元放电 | Rondoni, N. | [PDF](https://doi.org/10.1101/2024.11.04.621814) | N/A | Predicting neuronal firing from calcium imaging using a control theoretic approach |
+| 在小鼠原代皮层神经元的多组学分析中揭示了积雪草成分化合物之间复杂的正负生物相互作用 | Chamberlin, S. R. | [PDF](https://doi.org/10.1101/2024.11.04.621595) | N/A | Multi-omics analysis in mouse primary cortical neurons reveals complex positive and negative biological interactions between constituent compounds in Centella asiatica |
+| 通过益生菌和维生素D孕期补充调节产前氯吡硫磷暴露的神经毒性作用：对神经发育和社会性的意外影响 | Ruiz Coca, M. | [PDF](https://doi.org/10.1101/2024.11.04.621795) | N/A | Modulating Neurotoxic Effects of Prenatal Chlorpyrifos Exposure Through Probiotic and Vitamin D Gestational Supplementation: Unexpected Effects on Neurodevelopment and Sociability |
+| dArc1调控果蝇糖奖励的评价 | Caron, S. J. C. | [PDF](https://doi.org/10.1101/2024.11.04.621761) | N/A | dArc1 controls sugar reward valuation in Drosophila melanogaster |
+| 嵌合音乐揭示了音乐编码的电生理特征中音高与时间之间的相互作用 | Shan, T. | [PDF](https://doi.org/10.1101/2024.11.04.621689) | N/A | Chimeric music reveals an interaction of pitch and time in electrophysiological signatures of music encoding |
+| 通过转录抑制和直接CAG重复结合抑制亨廷顿病体细胞不稳定性 | Mathews, E. W. | [PDF](https://doi.org/10.1101/2024.11.04.619693) | N/A | Suppression of Huntington's Disease Somatic Instability by Transcriptional Repression and Direct CAG Repeat Binding |
+| 细菌效应因子筛选揭示RNF214为哺乳动物中的病毒限制因子 | Embry, A. | [PDF](https://doi.org/10.1101/2024.11.04.621956) | N/A | Bacterial Effector Screening Reveals RNF214 as a Virus Restriction Factor in Mammals |
+| 猴痘/mpox病毒对细胞坏死和I型干扰素反应的调控。 | Williams, J. | [PDF](https://doi.org/10.1101/2024.10.31.621358) | N/A | Regulation of Necroptosis and the Type Interferon Response by Monkeypox/mpox Virus. |
+| 急性三氯生暴露改变非洲爪蟾蝌蚪的线粒体形态和功能，包括正在发育的大脑 | Thomson, A. H. | [PDF](https://doi.org/10.1101/2024.11.01.621554) | N/A | Acute Triclosan Exposure Alters Mitochondrial Form and Function in Xenopus laevis Tadpoles, Including the Developing Brain |
+| 精子发生波的自组织协调了小鼠睾丸中持续的精子生成 | Sato, T. | [PDF](https://doi.org/10.1101/2024.11.03.621757) | N/A | Self-organization of spermatogenic wave coordinates sustained sperm production in the mouse testis |
+| 依托咪酯作为安乐死成年斑马鱼（Danio Rerio）的有效替代方法 | Schwartz, K. | [PDF](https://doi.org/10.1101/2024.11.02.621650) | N/A | Etomidate as an Effective Alternative Method of Euthanizing Adult Zebrafish (Danio Rerio) |
+| 两组分信号网络中激酶和效应子信号逻辑的变化 | Swingle, D. | [PDF](https://doi.org/10.1101/2024.11.04.621962) | N/A | Variations in kinase and effector signaling logic in a two component signaling network |
+| 核小体中DNA聚合酶β进行缺口填充DNA合成的结构基础 | Weaver, T. M. | [PDF](https://doi.org/10.1101/2024.11.04.621902) | N/A | Structural basis of gap-filling DNA synthesis in the nucleosome by DNA Polymerase β |
+| 设计的小蛋白能有效抑制并防御中东呼吸综合征冠状病毒（MERS-CoV） | Ragotte, R. J. | [PDF](https://doi.org/10.1101/2024.11.03.621760) | N/A | Designed miniproteins potently inhibit and protect against MERS-CoV |
+| 谱系检测器：高效检测新SARS-Cov-2谱系的工具 | Zou, X. | [PDF](https://doi.org/10.1101/2024.11.01.621557) | N/A | Lineage Detector: Efficient Tool for Detecting New SARS-Cov-2 Lineages |
+| 机器学习设计的PoLixNano纳米颗粒克服了雾化mRNA疗法的递送障碍 | Zhang, D. | [PDF](https://doi.org/10.1101/2024.11.03.621713) | N/A | Machine learning engineered PoLixNano nanoparticles overcome delivery barriers for nebulized mRNA therapeutics |
+| 利用噬菌体展示技术进行合理工程化，以获得更高亲和力的人源化3-磷酸组胺酸特异性抗体 | Martyn, G. D. | [PDF](https://doi.org/10.1101/2024.11.04.621849) | N/A | Using phage display for rational engineering of a higher affinity humanized 3-phosphohistidine-specific antibody |
+| PreciCE：通过数据驱动的多基因控制转录网络实现细胞命运的精密工程 | Magnusson, J. P. | [PDF](https://doi.org/10.1101/2024.11.04.621938) | N/A | PreciCE: Precision engineering of cell fates via data-driven multi-gene control of transcriptional networks |
+| 大规模抗菌活性调查揭示了健康皮肤微生物群中的新型防御物种 | Nguyen, U. T. | [PDF](https://doi.org/10.1101/2024.11.04.621544) | N/A | Large-scale investigation for antimicrobial activity reveals novel defensive species across the healthy skin microbiome |
+| 韦伯病毒是一类感染克雷伯氏菌属的肠道相关噬菌体。 | Dawson, S. J. | [PDF](https://doi.org/10.1101/2024.11.04.620279) | N/A | Weberviruses are gut-associated phages that infect Klebsiella spp. |
+| 来自产气荚膜梭菌（Clostridium perfringens）的生物膜基质蛋白通过IV型菌毛相关分泌机制形成分子间异肽键 | Kivimaki, S. E. | [PDF](https://doi.org/10.1101/2024.11.04.621531) | N/A | Type IV pili-associated secretion of a biofilm matrix protein from Clostridium perfringens that forms intermolecular isopeptide bonds |
+| 人类JC病毒的染色质模拟 | Schaefer, U. | [PDF](https://doi.org/10.1101/2024.11.04.621823) | N/A | Chromatin mimicry by human JC virus |
+| 食品安全细菌动力学的空间特征：共享水处理环境的建模 | Munther, D. | [PDF](https://doi.org/10.1101/2024.11.04.621859) | N/A | Spatial characterizations of bacterial dynamics for food safety: Modeling for shared water processing environments |
+| 鉴定新型噻唑衍生物作为登革病毒和日本脑炎病毒蛋白酶抑制剂 | Murtuja, S. | [PDF](https://doi.org/10.1101/2024.11.04.621919) | N/A | Identification of novel thiazole derivatives as flaviviral protease inhibitors against DENV and JEV |
+| 作为微生物群落中的一种觅食策略的对抗作用 | Stubbusch, A. K. M. | [PDF](https://doi.org/10.1101/2024.11.04.621785) | N/A | Antagonism as a foraging strategy in microbial communities |
+| 微生物在钴胺素偏好上表现出广泛的多样性。 | Mok, K. C. | [PDF](https://doi.org/10.1101/2024.11.04.621602) | N/A | Microbes display broad diversity in cobamide preferences |
+| 有氧碳代谢通过调节亚硝酸盐氨化菌以抑制氮素流失——基于旱地农田土壤微宇宙实验的揭示 | Wu, X. | [PDF](https://doi.org/10.1101/2024.11.04.621907) | N/A | Aerobic carbon metabolism modulates nitrite ammonifiers for inhibiting nitrogen loss as revealed by microcosm experiment of agricultural upland soil |
+| H3K4me3甲基转移酶KMT2F通过促进RNA聚合酶I的启动前复合物形成来调控核糖体RNA转录。 | Lone, K. | [PDF](https://doi.org/10.1101/2024.11.04.621718) | N/A | H3K4me3 methyltransferase KMT2F promotes pre-initiation complex formation by RNA Polymerase I to regulate ribosomal RNA transcription. |
+| 衰老和感染中补体途径和丝氨酸蛋白酶抑制剂激活的时空转录组生态位 | Kern, F. | [PDF](https://doi.org/10.1101/2024.11.04.621811) | N/A | Spatiotemporal transcriptomic niches of complement pathway and serine protease inhibitor activation in aging and infection |
+| 利用合成细胞间信号实现分割钟的同步 | Isomura, A. | [PDF](https://doi.org/10.1101/2024.11.04.617523) | N/A | Synchronization of the segmentation clock using synthetic cell-cell signaling |
+| 非性腺PIWI蛋白Aubergine调控果蝇成肠中再生干细胞的增殖与肿瘤发生。 | Bellec, K. | [PDF](https://doi.org/10.1101/2024.11.04.621896) | N/A | Non-gonadal PIWI protein, Aubergine, regulates regenerative stem cell proliferation and tumourigenesis in the Drosophila adult intestine. |
+| 通过反向激动纳米体揭示的非典型趋化因子受体的组成活性 | Perez Almeria, C. V. | [PDF](https://doi.org/10.1101/2024.11.04.621790) | N/A | Constitutive activity of an atypical chemokine receptor revealed by inverse agonistic nanobodies |
+| 使用AlphaFold2对变构蛋白进行结构分析 | Tyree, S. | [PDF](https://doi.org/10.1101/2024.11.04.621945) | N/A | Structural Analysis of a Metamorphic Protein using AlphaFold2 |
+| TRPC1和TRPC5异源四聚体的冷冻电镜结构 | Chen, Y. | [PDF](https://doi.org/10.1101/2024.11.03.621705) | N/A | The Cryo-EM structure of TRPC1 and TRPC5 heterotetramer |
+| 药用植物金莲花基因组序列揭示了黄酮类生物合成的见解 | Friedhoff, R. | [PDF](https://doi.org/10.1101/2024.11.01.621629) | N/A | Genome sequence of the medicinal plant Tropaeolum majus provides insights into flavonoid biosynthesis |
+| 抗原特异性T细胞受体发现用于治疗进行性多灶性白质脑病 | Gupta, S. | [PDF](https://doi.org/10.1101/2024.11.04.621904) | N/A | Antigen-Specific T Cell Receptor Discovery for Treating Progressive Multifocal Leukoencephalopathy |
+| 验证DXS作为分枝杆菌中一个有吸引力的药物靶点 | Mashabela, G. T. | [PDF](https://doi.org/10.1101/2024.11.04.621930) | N/A | Validation of DXS as an attractive drug target in mycobacteria |
+| 东部马脑炎病毒E2糖蛋白上的三个正电荷结合位点协同介导了依赖于硫酸乙酰肝素和蛋白受体的感染过程。 | Alcorn, M. D. H. | [PDF](https://doi.org/10.1101/2024.11.04.621500) | N/A | Three positively charged binding sites on the eastern equine encephalitis virus E2 glycoprotein coordinate heparan sulfate- and protein receptor-dependent infection |
+| 预测性元组学：微生物组研究中多组学数据稀缺的潜在解决方案 | Cosma, B. M. | [PDF](https://doi.org/10.1101/2024.11.04.621857) | N/A | Predicted meta-omics: a potential solution to multi-omics data scarcity in microbiome studies |
+| 机会性病原体广泛存在于在乳制品设施捕获的稳定蝇的可培养外源性和内源性微生物群中。 | Sommer, A. J. | [PDF](https://doi.org/10.1101/2024.11.04.621909) | N/A | Opportunistic pathogens are prevalent across the culturable exogenous and endogenous microbiota of stable flies captured at a dairy facility |
+| 从不同环境样本中鉴定新型FosX家族决定因素 | Kieffer, N. | [PDF](https://doi.org/10.1101/2024.11.04.621841) | N/A | Identification of Novel FosX Family Determinants from Diverse Environmental Samples |
+| 高分辨率分析负责CCR5内吞作用的arrestin2相互作用 | Petrovic, I. | [PDF](https://doi.org/10.1101/2024.11.04.621860) | N/A | A high-resolution analysis of arrestin2 interactions responsible for CCR5 endocytosis |
+| 开放-封闭模最小化算法 | Groot Koerkamp, R. | [PDF](https://doi.org/10.1101/2024.11.02.621600) | N/A | The open-closed mod-minimizer algorithm |
+| 全基因组范围内对RPA1和RAD9的映射揭示了利什曼原虫中多顺反子转录、复制起始及复制应激反应的管理机制 | Black, J. A. | [PDF](https://doi.org/10.1101/2024.11.04.621868) | N/A | Genome-wide mapping of RPA1 and RAD9 reveals the management of polycistronic transcription, replication initiation, and responses to replication stress in Leishmania |
 # BioRxiv 2024-11-03 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
