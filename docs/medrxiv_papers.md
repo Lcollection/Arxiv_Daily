@@ -1,3 +1,12 @@
+# MedRxiv 2024-11-09 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 通过因果推断和中介分析解读身体活动、炎症性肠病和肥胖/BMI之间的复杂相互作用 | Lian, W. | [PDF](https://doi.org/10.1101/2024.04.15.24305823) | N/A | Deciphering the complex interplay between physical activity, inflammatory bowel disease and obesity/BMl through causal inference and mediation analyses |
+| 肯尼亚女性对自行使用、在家中交付的阴道内5-氟尿嘧啶乳膏治疗宫颈癌前病变的体验和接受程度 | Mungo, C. | [PDF](https://doi.org/10.1101/2024.08.27.24312651) | N/A | Womens experiences and acceptability of self-administered, home delivered, intravaginal 5-Fluorouracil cream for cervical precancer treatment in Kenya |
+| 辅助生殖技术胚胎延时摄影图像与临床数据集 | Zhylko, D. | [PDF](https://doi.org/10.1101/2024.11.01.24316563) | N/A | Assisted Reproductive Technology Dataset of Embryo Time-lapse Images and Clinical Data |
+| 基因组特征分析揭示了在单次动物源性溢出事件后，马尔堡病毒在卢旺达的传播动态 | Butera, Y. | [PDF](https://doi.org/10.1101/2024.11.01.24316374) | N/A | Genomic characterization uncovers transmission dynamics of Marburg Virus in Rwanda following a single zoonotic spillover event |
+| 评估马拉维医疗机构中的语言障碍 | Taylor, A. | [PDF](https://doi.org/10.1101/2024.11.06.24316625) | N/A | Assessing Language Barriers in Health Facilities in Malawi |
 # MedRxiv 2024-11-08 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
