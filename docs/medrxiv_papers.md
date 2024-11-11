@@ -1,3 +1,39 @@
+# MedRxiv 2024-11-10 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 慢性肾病前期：连续的肌酐检测可追踪肾小球滤过率在60 mL/min以上的下降情况 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.17.24313678) | N/A | Pre-chronic kidney disease: Serial creatinine tracks glomerular filtration rate decline above 60 mL/min |
+| 4-苯基丁酸酯用于STXBP1和SLC6A1的治疗。安全性、耐受性、癫痫发作及脑电图结果。两中心病例系列研究。 | Grinspan, Z. M. | [PDF](https://doi.org/10.1101/2024.11.06.24316676) | N/A | 4-Phenylbutyrate for STXBP1 and SLC6A1. Safety, tolerability, seizure, and EEG outcomes. A case series at 2 centers. |
+| 疑似儿科脓毒症出院后的死亡率：来自卢旺达农村和城市医疗环境的见解 | Umuhoza, C. | [PDF](https://doi.org/10.1101/2024.11.08.24316988) | N/A | Post-discharge mortality in suspected pediatric sepsis: insights from rural and urban healthcare settings in Rwanda |
+| 危地马拉婴儿环境中肠道功能障碍的生物标志物与生长和神经发育之间的关联 | Connery, A. K. | [PDF](https://doi.org/10.1101/2024.11.10.24317056) | N/A | Association between biomarkers of environmental enteric dysfunction and growth and neurodevelopment in Guatemalan infants |
+| 2019年至2023年间阿片类药物使用障碍治疗中美沙酮分布的动态变化 | Golden, A. G. | [PDF](https://doi.org/10.1101/2024.11.10.24317059) | N/A | Dynamic changes in methadone distribution for opioid use disorder treatment from 2019 to 2023 |
+| 后顶叶皮层根据精神病表型调节知觉决策 | SCARAMOZZINO, F. | [PDF](https://doi.org/10.1101/2024.11.08.24316920) | N/A | Posterior Parietal Cortex Modulates Perceptual Decisions Depending On Psychotic Phenotype |
+| 将加拿大的食品包装正面标签法规与其他美洲地区的强制性方法进行比较，并评估其识别超加工食品的能力 | Flexner, N. | [PDF](https://doi.org/10.1101/2024.11.08.24317012) | N/A | Comparing the Canadian front-of-pack labeling regulations with other mandatory approaches in the Americas and their ability to identify ultra-processed products |
+| 15年饮酒轨迹及其与心血管事件和死亡率的关联：弗雷明汉心脏研究 | Leng, Y. | [PDF](https://doi.org/10.1101/2024.11.09.24317038) | N/A | Fifteen-year Alcohol Consumption Trajectories and Their Association with Cardiovascular Events and Mortality: the Framingham Heart Study |
+| GPT-4提高了机构心力衰竭患者教育材料的易读性 | King, R. C. | [PDF](https://doi.org/10.1101/2024.11.08.24316997) | N/A | GPT-4 Improves Readability of Institutional Heart Failure Patient Education Materials |
+| 利用电子健康记录研究口腔疾病和状况的性别差异 | Fetchko, E. | [PDF](https://doi.org/10.1101/2024.11.10.24317064) | N/A | Leveraging Electronic Health Records to Investigate Sex Differences in Oral Diseases and Conditions |
+| 干细胞疗法治疗糖尿病肾病的疗效和安全性：一项系统评价和荟萃分析 | Du, h. | [PDF](https://doi.org/10.1101/2024.11.07.24316903) | N/A | Efficacy and safety of stem cell therapy for diabetic kidney disease: a systematic review and meta-analysis |
+| 利用遗传祖先连续性信息为混血人群插值多基因风险评分 | Ruan, Y. | [PDF](https://doi.org/10.1101/2024.11.09.24316996) | N/A | Leveraging genetic ancestry continuum information to interpolate PRS for admixed populations |
+| 长期体重指数变异性与不同体重变化模式下心力衰竭伴保留射血分数（HFpEF）和心力衰竭伴射血分数降低（HFrEF）发展的关联 | Yu, Z. | [PDF](https://doi.org/10.1101/2024.11.08.24317010) | N/A | The Association of Long-Term Body Mass Index Variability with the Development of HFpEF and HFrEF Across Patterns of Weight Change |
+| 使用COVID-19数据对行为-流行病模型进行比较评估 | Gozzi, N. | [PDF](https://doi.org/10.1101/2024.11.08.24316998) | N/A | Comparative Evaluation of Behavioral-Epidemic Models Using COVID-19 Data |
+| 评估从急诊科记录中确定轻度创伤性脑损伤病例的优先排序系统 | MacMillan, K. | [PDF](https://doi.org/10.1101/2024.11.09.24317035) | N/A | Evaluation of a prioritization system for mild traumatic brain injury case ascertainment from emergency department records |
+| 抗抑郁药物转换作为药物无反应的代理表型：探究临床、人口统计学和遗传特征 | Lo, C. W. H. | [PDF](https://doi.org/10.1101/2024.11.09.24316987) | N/A | Antidepressant switching as a proxy phenotype for drug non-response: investigating clinical, demographic and genetic characteristics |
+| 乌干达东部医学生对应对抗菌素耐药性的知识、态度与动机 | Babuya, J. | [PDF](https://doi.org/10.1101/2024.11.09.24317028) | N/A | Medical Students' Knowledge, Attitudes, and Motivation towards Antimicrobial Resistance Efforts in Eastern Uganda |
+| 网络元分析关于不同运动方式对慢性非特异性下腰痛人群疼痛控制效果的研究 | zhao, k. | [PDF](https://doi.org/10.1101/2024.11.07.24316901) | N/A | Network meta-analysis on the effects of various exercise modalities on pain control in populations with chronic nonspecific low back pain |
+| 探索性分析：从职业自行车多日赛中体积和强度指标导出的累积疲劳 | Machado, A. | [PDF](https://doi.org/10.1101/2024.11.06.24316801) | N/A | Exploratory analysis of cumulative fatigue derived from volume and intensity indicators in stage races of professional cycling |
+| 前足强化训练对运动员爆发力任务表现及推进动力学的影响：一项单盲随机对照试验 | Tourillon, R. | [PDF](https://doi.org/10.1101/2024.11.06.24316826) | N/A | Effects of a forefoot strengthening protocol on explosive tasks performance and propulsion kinetics in athletes: a single-blind randomised controlled trial |
+| 院外分娩及急救救护人员和产妇的经历：文献范围综述。 | Hill, M. G. | [PDF](https://doi.org/10.1101/2024.11.09.24316932) | N/A | Out-of-hospital births and the experiences of emergency ambulance clinicians and birthing parents: A scoping review of the literature. |
+| 肺腺癌关键驱动因素的系统性研究：聚焦于基因、通路及miRNAs | Navaei, M. | [PDF](https://doi.org/10.1101/2024.11.09.24317046) | N/A | Systematics investigation of key drivers of lung adenocarcinoma: A focus on genes, pathways, and miRNAs |
+| 窄带啁啾声和2-1-2刺激的频率特异性：频谱分析 | Adjekum, R. N. | [PDF](https://doi.org/10.1101/2024.11.09.24317036) | N/A | FREQUENCY SPECIFICITY OF NARROWBAND CHIRPS AND 2-1-2 STIMULI: SPECTRAL ANALYSES |
+| 全基因组视角揭示代谢功能障碍相关脂肪性肝病与心血管疾病之间的共享遗传背景 | Qiao, J. | [PDF](https://doi.org/10.1101/2024.11.10.24317047) | N/A | Genome-wide insights into the shared genetic landscape between metabolic dysfunction-associated fatty liver disease and cardiovascular diseases |
+| 在英国生物银行进行的基因-饮食相互作用分析中，发现了能够调节鱼油补充剂与痴呆症发病率之间关联的遗传位点。 | Lu, Y. | [PDF](https://doi.org/10.1101/2024.11.08.24316999) | N/A | Gene-diet interaction analysis in UK Biobank identified genetic loci that modify the association between fish oil supplementation and the incidence of dementia |
+| RNA表达数据提示，将ALDH2抑制作为一种杀死对ALDH1抑制剂耐药的急性髓系白血病细胞的概念：以NPM1突变型AML为例 | Dancik, G. | [PDF](https://doi.org/10.1101/2024.11.09.24317037) | N/A | RNA expression data suggest ALDH2 inhibition as a concept for killing acute myeloid leukemia cells that are resistant to ALDH1 inhibitors: the example of NPM1 mutant AML |
+| 在口腔癌患者中，EMT、血管生成和细胞周期通路受到显著影响，其中很大一部分患者可能对免疫检查点疗法有潜在的反应。 | Das, D. | [PDF](https://doi.org/10.1101/2024.11.09.24317044) | N/A | EMT, angiogenesis, and cell-cycle pathways are significantly impacted in oral cancer patients, among whom a large fraction may potentially respond to immune checkpoint therapy |
+| 估计多种药物组合对高血压多种结果的治疗效果 | Liu, R. | [PDF](https://doi.org/10.1101/2024.11.10.24317054) | N/A | Estimating the Treatment Effects of Multiple Drug Combinations on Multiple Outcomes in Hypertension |
+| 使用初级保健变量和机器学习算法预测慢性阻塞性肺病（COPD）诊断 | Francisco Santos, D. | [PDF](https://doi.org/10.1101/2024.11.10.24317053) | N/A | Predicting Chronic Obstructive Pulmonary Disease (COPD) Diagnosis Using Primary Care Variables and Machine Learning Algorithms |
+| 艾滋病毒感染儿童结核病治疗决策算法的外部验证 - 一项诊断队列研究。 | Khosa, C. | [PDF](https://doi.org/10.1101/2024.11.08.24316648) | N/A | External validation of a treatment decision algorithm for tuberculosis in children living with HIV - a diagnostic cohort study. |
+| COVID-19大流行对英格兰社会人口群体的不同影响：一个数学模型框架 | Oyedele, G. J. | [PDF](https://doi.org/10.1101/2024.11.09.24317003) | N/A | Differential Impacts of the COVID-19 Pandemic on Sociodemographic Groups in England: A Mathematical Model Framework |
+| 南非耐多药结核病治疗指南的医疗工作者视角 | Ramasir, S. | [PDF](https://doi.org/10.1101/2024.11.09.24317027) | N/A | Health care worker's perspective on the MDR-TB treatment guidelines in South Africa |
 # MedRxiv 2024-11-09 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 

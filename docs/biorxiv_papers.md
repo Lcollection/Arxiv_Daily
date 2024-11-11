@@ -1,3 +1,77 @@
+# BioRxiv 2024-11-10 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 地方志揭示了中国东部顶级捕食者和中型捕食者历史分布变化的对比模式 | Hu, K. | [PDF](https://doi.org/10.1101/2020.07.15.202390) | N/A | Local Gazetteers Reveal Contrasting Patterns of Historical Distribution Changes between Apex Predators and Mesopredators in Eastern China |
+| 人乳头瘤病毒的非网格蛋白依赖性内吞作用由肌动蛋白成核促进因子WASH辅助完成。 | Brinkert, P. | [PDF](https://doi.org/10.1101/2021.06.18.448076) | N/A | Clathrin-independent endocytosis of Human Papillomaviruses is facilitated by actin nucleation promoting factor WASH |
+| 排列匹配测试：尽管存在非平稳性和有限重复，仍能检测时间序列之间显著相关性的方法 | Yuan, A. E. | [PDF](https://doi.org/10.1101/2023.03.13.531689) | N/A | Permute-match tests: Detecting significant correlations between time series despite nonstationarity and limited replicates |
+| 基于纳米孔测序的多重PCR检测四种罗非鱼病原体的序列分析 | Delamare-Deboutteville, J. | [PDF](https://doi.org/10.1101/2023.05.13.540096) | N/A | Multiplex PCR with Nanopore Sequencing for Sequence-Based Detection of Four Tilapia Pathogens |
+| 马寄生虫中数量最多的Cylicocyclus nassatus对吡喹酮抗性的时空多样性和遗传结构 | Salle, G. | [PDF](https://doi.org/10.1101/2023.07.19.549683) | N/A | Spatio-temporal diversity and genetic architecture of pyrantel resistance in Cylicocyclus nassatus, the most abundant horse parasite |
+| 系统分析无义变异揭示了肽释放速率作为无义介导的mRNA衰变的新型修饰因子 | Kolakada, D. | [PDF](https://doi.org/10.1101/2024.01.10.575080) | N/A | Systematic analysis of nonsense variants uncovers peptide release rate as a novel modifier of nonsense-mediated mRNA decay |
+| 在霍乱弧菌中，MatP局部富集延迟了分离，与四聚体形成和隔膜锚定无关。 | Espinosa, E. | [PDF](https://doi.org/10.1101/2024.02.08.578905) | N/A | MatP local enrichment delays segregation independently of tetramer formation and septal anchoring in Vibrio cholerae |
+| Celldetective：一种利用人工智能增强的图像分析工具，用于揭示动态细胞相互作用 | Torro, R. | [PDF](https://doi.org/10.1101/2024.03.15.585250) | N/A | Celldetective: an AI-enhanced image analysis toolfor unraveling dynamic cell interactions |
+| 贝叶斯选择松弛时钟模型：区分独立和自相关速率 | Panchaksaram, M. | [PDF](https://doi.org/10.1101/2024.04.10.588547) | N/A | Bayesian Selection of Relaxed-clock Models:Distinguishing Between Independent and Autocorrelated Rates |
+| 棉铃虫通过储存和释放挥发性物质，在野生棉花（Gossypium hirsutum）种群中诱导出不同的萜烯化学型。 | Mamin, M. | [PDF](https://doi.org/10.1101/2024.04.17.589906) | N/A | Induction by caterpillars of stored and emitted volatiles in terpene chemotypes from populations of wild cotton (Gossypium hirsutum) |
+| 牺牲适应性以换取功能性：视网膜Müller细胞的象牙塔 | Zhang, T. | [PDF](https://doi.org/10.1101/2024.04.28.590478) | N/A | Sacrificing Adaptability for Functionality: The Ivory Tower of Macular Muller Cells |
+| 预测高度灵活、变构、多结构域蛋白质中的结合事件 | Basciu, A. | [PDF](https://doi.org/10.1101/2024.06.02.597018) | N/A | Predicting binding events in very flexible, allosteric, multi-domain proteins |
+| 基于能量的葡萄糖运输的键图模型，涉及SLC转运蛋白 | Hunter, P. J. | [PDF](https://doi.org/10.1101/2024.06.26.600892) | N/A | Energy-based bond graph models of glucose transport with SLC transporters |
+| 小鼠防御素基因座中的遗传变异调节血糖稳态 | Masson, S. W. W. | [PDF](https://doi.org/10.1101/2024.07.25.605202) | N/A | Genetic variance in the murine defensin locus modulates glucose homeostasis |
+| 产前高膳食钙补充对奶羊和奶山羊钙和骨稳态及其后代生长反应的影响 | Brugger, D. | [PDF](https://doi.org/10.1101/2024.08.12.607180) | N/A | High dietary calcium supplementation ante partum and effects on calcium and bone homeostasis of dairy sheep and goats and growth response of their offspring |
+| 发现了一种单亚基寡糖基转移酶，使大肠杆菌中全长IgG抗体的糖基化成为可能 | Sotomayor, B. | [PDF](https://doi.org/10.1101/2024.08.12.607630) | N/A | Discovery of a single-subunit oligosaccharyltransferase that enables glycosylation of full-length IgG antibodies in Escherichia coli |
+| CA3中的选择性抑制：通过异源突触可塑性实现稳定模式完成的机制 | Kim, G. | [PDF](https://doi.org/10.1101/2024.08.16.608240) | N/A | Selective inhibition in CA3: A mechanism for stable pattern completion through heterosynaptic plasticity |
+| 基准测试用于DNA结合蛋白识别的最新计算工具 | Luo, X. | [PDF](https://doi.org/10.1101/2024.09.01.610735) | N/A | Benchmarking Recent Computational Tools for DNA-binding Protein Identification |
+| Robinow综合征DVL1变异体在果蝇疾病模型中破坏形态发生和附肢形成 | Akarsu, G. | [PDF](https://doi.org/10.1101/2024.09.10.612347) | N/A | Robinow Syndrome DVL1 variants disrupt morphogenesis and appendage formation in a Drosophila disease model |
+| 生物工程改造一种常见的益生菌以利用结肠炎症，在炎症性肠病的转化模型中促进了可靠的疗效 | Verdugo Meza, A. | [PDF](https://doi.org/10.1101/2024.10.08.617317) | N/A | Bio-engineering a common probiotic to exploit colonic inflammation promotes reliable efficacy in translational models of colitis |
+| 体内功能分析与人类Glp1r A316T变异体的结构表征 | El Eid, L. | [PDF](https://doi.org/10.1101/2024.10.19.619191) | N/A | In vivo functional profiling and structural characterisation of the human Glp1r A316T variant |
+| 通过空间蛋白质组学揭示初级纤毛的内在多样性 | Hansen, J. N. | [PDF](https://doi.org/10.1101/2024.10.20.619273) | N/A | Intrinsic Diversity In Primary Cilia Revealed Through Spatial Proteomics |
+| 全面的蛋白酶特异性分析 | Zhu, B. | [PDF](https://doi.org/10.1101/2024.11.06.622033) | N/A | Comprehensive protease specificity profiling |
+| 一种共识变异-功能评分，用于为疾病功能性地优先考虑变异 | Fabiha, T. | [PDF](https://doi.org/10.1101/2024.11.07.622307) | N/A | A consensus variant-to-function score to functionally prioritize variants for disease |
+| 光遗传学杏仁核中央核刺激在雄性大鼠中具有高度强化作用，并且显著优于芬太尼自我给药，但在雌性大鼠中则不然。 | Chaloux-Pinette, E. | [PDF](https://doi.org/10.1101/2024.11.10.622812) | N/A | Optogenetic Central Amygdala Stimulation is Highly Reinforcing and Strongly Outcompetes Fentanyl Self-Administration in Male, but not Female, Rats |
+| 将脑信号建模为马尔可夫过程有助于解释其结构与功能之间的关系。 | Razban, R. | [PDF](https://doi.org/10.1101/2024.11.10.622842) | N/A | Modeling brain signaling as Markovian helps explain its structure-function relationship |
+| 使用基于连接组预测建模方法，直接比较静息态和任务态脑电图功能连接模式对工作记忆表现的预测能力。 | Pashkov, A. A. | [PDF](https://doi.org/10.1101/2024.11.10.622847) | N/A | Direct comparison of EEG resting state and task functional connectivity patterns for predicting working memory performance using connectome-based predictive modeling |
+| 时间队列编号、神经元组成和连接性沿果蝇幼虫体轴有所变化。 | Vasudevan, D. | [PDF](https://doi.org/10.1101/2024.11.09.622783) | N/A | Temporal cohort number, neural composition, and connectivity vary along the Drosophila larval body axis |
+| TiFM2.0 - 在活体胚胎中实现多功能的机械测量与驱动 | Hernandez-Rodriguez, A. R. | [PDF](https://doi.org/10.1101/2024.11.10.622720) | N/A | TiFM2.0 - Versatile mechanical measurement and actuation in live embryos |
+| 单细胞与空间多组学揭示干扰素信号在肛周瘘管性克罗恩病发病机制中的作用 | Cao, S. | [PDF](https://doi.org/10.1101/2024.11.08.620717) | N/A | Single-Cell and Spatial Multi-omics Reveal Interferon Signaling in the Pathogenesis of Perianal Fistulizing Crohn's Disease |
+| Grin2a功能低下破坏了海马网络振荡和E/I平衡，进而导致认知缺陷。 | Hosseini, H. S. | [PDF](https://doi.org/10.1101/2024.11.09.622809) | N/A | Grin2a Hypofunction Disrupts Hippocampal Network Oscillations and E/I Balance Contributing to Cognitive Deficits |
+| 利用针对阿尔茨海默病治疗的校正剂重新编程神经元的分泌和代谢机制 | Cho, W. J. | [PDF](https://doi.org/10.1101/2024.11.09.622805) | N/A | Reprogramming the neuronal secretory and metabolic machinery using correctors for Alzheimer therapy |
+| 中国阴道微生物群的地理特异性多样化 | Yang, H. | [PDF](https://doi.org/10.1101/2024.11.08.622683) | N/A | Geographic-specific Diversification of Vaginal Microbiota in China |
+| 药品的环境影响：近期关于水生浓度及可预测效应的证据映射综述 | Renda, F. | [PDF](https://doi.org/10.1101/2024.11.07.622417) | N/A | The environmental impact of pharmaceuticals: an evidence-mapping review of recent data on aquatic concentrations and predictable effects |
+| 东南亚厄尔尼诺驱动的干旱、火灾和烟雾对非人类灵长类动物影响的综合评述 | Erb, W. M. | [PDF](https://doi.org/10.1101/2024.11.08.622697) | N/A | A Systematic Review of the Impacts of El Nino-Driven Drought, Fire, and Smoke on Non-Human Primates in Southeast Asia |
+| Tidyplots 使生命科学家能够通过简单的代码实现数据可视化。 | Engler, J. B. | [PDF](https://doi.org/10.1101/2024.11.08.621836) | N/A | Tidyplots empowers life scientists with easy code-based data visualization |
+| 三阴性乳腺癌患者远处转移的风险因素、预后因素及诺模图：一项基于人群的研究 | Guo, H. | [PDF](https://doi.org/10.1101/2024.11.08.622627) | N/A | Risk factors, prognostic factors, and nomograms for distant metastasis in patients with triple-negative breast cancer: a population-based study |
+| 在直肠癌患者中，上皮间质转化（Epithelial Mesenchymal Transition, EMT）的形态分子特征与临床预后相关。 | Gwerder, M. | [PDF](https://doi.org/10.1101/2024.11.07.622481) | N/A | Morpho-molecular features of Epithelial Mesenchymal Transition associate with clinical outcome in patients with rectal cancer |
+| 卒中和运动恢复与周期性和非周期性皮层活动的区域性和年龄特异性变化有关 | Albertson, A. J. | [PDF](https://doi.org/10.1101/2024.11.07.622359) | N/A | Stroke and Motor Recovery are Associated with Regional and Age-Specific Changes in Periodic and Aperiodic Cortical Activity |
+| 生成用于SARS-CoV-2复制子传递颗粒感染的生物安全小鼠模型 | Li, Y. | [PDF](https://doi.org/10.1101/2024.11.10.622838) | N/A | Generation of a biosafety mouse model infection for SARS-CoV-2 replicon delivery particles |
+| 西北大西洋中B族维生素和钴胺素共同限制的季节性模式 | Bannon, C. C. | [PDF](https://doi.org/10.1101/2024.11.10.622835) | N/A | Seasonal patterns in b-vitamins and cobalamin co-limitation in the Northwest Atlantic |
+| 利用CRISPR-Cas9技术对硅藻浮游生物中单细胞微生物群进行分析，以鉴定稀有细菌类群 | Giesler, J. K. | [PDF](https://doi.org/10.1101/2024.11.10.622248) | N/A | A CRISPR-Cas9 assisted analysis of single-cell microbiomes for identifying rare bacterial taxa in phycospheres of diatoms |
+| 在HSV-1感染的细胞中，pUL16和pUL21的同时缺失会导致细胞质包膜形成的中断。 | Roddy, K. | [PDF](https://doi.org/10.1101/2024.11.10.622843) | N/A | The loss of both pUL16 and pUL21 in HSV-1 infected cells abolishes cytoplasmic envelopment. |
+| Pemivibart对SARS-CoV-2 JN.1亚系的灭活作用及其病毒逃逸 | Yao, T. | [PDF](https://doi.org/10.1101/2024.11.08.622746) | N/A | Neutralizing Activity and Viral Escape of Pemivibart by SARS-CoV-2 JN.1 sublineages |
+| 从随机序列中模拟球状蛋白质折叠的进化过程 | Sahakyan, H. | [PDF](https://doi.org/10.1101/2024.11.10.622830) | N/A | In silico evolution of globular protein folds from random sequences |
+| 在濒临灭绝的鹦鹉中，基因组范围和免疫基因多样性的暂时丧失 | Silver, L. W. | [PDF](https://doi.org/10.1101/2024.11.10.622863) | N/A | Temporal loss of genome-wide and immunogenetic diversity in a near-extinct parrot |
+| 提高了有序双模板中继cDNA文库制备在RNA测序中的精确度、灵敏度和适应性 | Ferguson, L. | [PDF](https://doi.org/10.1101/2024.11.09.622813) | N/A | Improved precision, sensitivity, and adaptability of Ordered Two-Template Relay cDNA library preparation for RNA sequencing |
+| Pfs230 域 12 是一种强效的疟疾传播阻断疫苗候选物。 | Inklaar, M. R. | [PDF](https://doi.org/10.1101/2024.11.09.622785) | N/A | Pfs230 Domain 12 is a potent malaria transmission-blocking vaccine candidate |
+| 复苏促进因子（Rpf）终止了多种土壤细菌的休眠状态。 | Lennon, J. T. | [PDF](https://doi.org/10.1101/2024.11.10.622857) | N/A | Resuscitation-promoting factor (Rpf) terminates dormancy among diverse soil bacteria |
+| 通过福尔马林反应降解非生物合成四碳糖的细菌的分离 | Kawasaki, K. | [PDF](https://doi.org/10.1101/2024.11.09.622817) | N/A | Isolation of bacteria that catabolize abiotically synthesized tetroses via the formose reaction |
+| 利用生成语言模型从头设计磷酸丙糖异构酶 | Romero-Romero, S. | [PDF](https://doi.org/10.1101/2024.11.10.622869) | N/A | De novo design of triosephosphate isomerases using generative language models |
+| 双酶抑制策略治疗2型糖尿病：以黄酮-阿卡波糖组合靶向LDH-A和α-淀粉酶 | Gupta, S. | [PDF](https://doi.org/10.1101/2024.11.09.622828) | N/A | Dual Enzyme Inhibition Strategy for Type 2 Diabetes: Targeting LDH-A and α-Amylase with Flavonoid-Acarbose Combinations |
+| AlphaFold-Metainference：无序蛋白质结构集合的预测 | Brotzakis, Z. F. | [PDF](https://doi.org/10.1101/2024.11.09.622758) | N/A | AlphaFold-Metainference: Prediction of Structural Ensembles of Disordered Proteins |
+| 海洋光合作用直接受到噬藻体NblA蛋白的影响。 | Beja, O. | [PDF](https://doi.org/10.1101/2024.11.10.622831) | N/A | Oceanic photosynthesis is directly affected by cyanophage NblA proteins |
+| 卟啉单胞菌的基因组多样性：卟啉单胞菌猫属共生在肺部的证据 | VELO-SUAREZ, L. | [PDF](https://doi.org/10.1101/2024.11.09.622806) | N/A | Genomic Diversity in Porphyromonas: Evidence of Porphyromonas catoniae Commensality in Lungs |
+| ComFB是一种新近广泛分布的环二核苷酸受体蛋白家族 | Samir, S. | [PDF](https://doi.org/10.1101/2024.11.10.622515) | N/A | ComFB, a new widespread family of c-di-NMP receptor proteins |
+| 在铁充足、铁缺乏和铁替代状态下，血浆和心肌中铁状态生物标志物的不一致性。 | Tomkova, K. | [PDF](https://doi.org/10.1101/2024.11.10.622860) | N/A | Discordance between biomarkers of iron status in plasma and myocardium across iron replete, iron deficiency, and iron replacement states. |
+| 氟喹诺酮类药物依诺沙星的抗HIV-1作用及对前病毒hsa-miR-132加工的调控 | Imig, J. | [PDF](https://doi.org/10.1101/2024.11.10.622865) | N/A | Anti-HIV-1 Effect of the Fluoroquinolone Enoxacin and Modulation of Pro-viral hsa-miR-132 Processing |
+| 翻译校对过程中产生的同型半胱氨酸硫内酯是一种内源性配体，通过受体SdiA进行细胞间信号传导。 | Leiva, L. E. | [PDF](https://doi.org/10.1101/2024.11.10.622854) | N/A | Homocysteine thiolactone from translation proofreading is an endogenous ligand for cell-cell signaling by the receptor SdiA |
+| 对非洲乳菇属（Russula）的拉丁根亚属（radicans）及其近缘类群在异叶亚属（Heterophyllidiae）中的修订，提供了一个近期分化且具有广泛表型可塑性的进化枝的实例。 | Buyck, B. | [PDF](https://doi.org/10.1101/2024.11.10.622834) | N/A | A revision of the African Russula radicans and allies in subgen. Heterophyllidiae provides an example of a clade that exhibits recent diversification and extensive phenotypic plasticity. |
+| AI辅助的本地蛋白质组学：描绘核糖体蛋白组装前后的构象 | Zhang, W. | [PDF](https://doi.org/10.1101/2024.11.09.622757) | N/A | AI Assisted Native Proteomics: Delineating Ribosomal Protein Conformations Pre- and Post-Assembly |
+| 鉴定出一群在骨关节炎大鼠模型中具有增强治疗效果的滑膜间充质干细胞亚群 | Al_Jezani, N. | [PDF](https://doi.org/10.1101/2024.11.10.622893) | N/A | Identification of a sub-population of synovial mesenchymal stem cells with enhanced treatment efficacy in a rat model of Osteoarthritis |
+| 通过REDCAT实现单细胞类型特异性代谢活性的全光多模态映射 | Shi, L. | [PDF](https://doi.org/10.1101/2024.11.07.622511) | N/A | All-Optical Multimodal Mapping of Single Cell Type-Specific Metabolic Activities via REDCAT |
+| 烃类化合物对乳腺癌肿瘤性和非肿瘤性细胞存活及抗氧化系统的影响。 | Mardirosian, M. N. | [PDF](https://doi.org/10.1101/2024.11.08.622500) | N/A | Hydrocarbon effects on cell survival and antioxidant system of breast tumorigenic and non-tumorigenic cells. |
+| 细胞质长链非编码RNA（lncRNAs）启动信号通路，以定义亚稳态动力学并决定表型输出。 | PORTAL, M. M. | [PDF](https://doi.org/10.1101/2024.11.08.622637) | N/A | Cytoplasmic lncRNAs nucleate signalling pathways to define metastable state dynamics and determine phenotypic output |
+| 无标记显微镜图像中细胞环境依赖的计算机模拟细胞器定位 | Elmalam, N. | [PDF](https://doi.org/10.1101/2024.11.10.622841) | N/A | Cell-context dependent in silico organelle localization in label-free microscopy images |
+| M1连接的泛素化通过LUBAC调控AMPK活性及对能量应激的响应 | Elbaek, C. R. | [PDF](https://doi.org/10.1101/2024.11.08.622598) | N/A | M1-linked Ubiquitination by LUBAC Regulates AMPK Activity and the Response to Energetic Stress |
+| 小GTPase Rap1与哺乳动物肿瘤抑制蛋白同源物KrsB之间的负反馈回路调节了Dictyostelium中的细胞-基质粘附。 | Artemenko, Y. | [PDF](https://doi.org/10.1101/2024.11.07.622562) | N/A | A negative feedback loop between small GTPase Rap1 and mammalian tumor suppressor homolog KrsB regulates cell-substrate adhesion in Dictyostelium |
+| TXNL1结合的蛋白酶体结构 | Gao, J. | [PDF](https://doi.org/10.1101/2024.11.08.622741) | N/A | Structure of the TXNL1-bound proteasome |
+| 减少功能缺陷的造血干细胞可缓解老年小鼠的衰老相关表型 | Zhang, Y. | [PDF](https://doi.org/10.1101/2024.11.09.622774) | N/A | Reducing functionally defective HSCs alleviates aging-related phenotypes in old mice |
 # BioRxiv 2024-11-09 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
