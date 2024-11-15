@@ -1,3 +1,19 @@
+# MedRxiv 2024-11-14 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 大学城中的意外传播动态：从COVID-19中吸取的教训 | Clancey, E. | [PDF](https://doi.org/10.1101/2024.01.10.24301116) | N/A | Unexpected Transmission Dynamics in a University Town: Lessons from COVID-19 |
+| 压力性损伤发生风险预测工具：系统综述报告模型开发和验证方法的伞形综述 | Hillier, B. | [PDF](https://doi.org/10.1101/2024.05.07.24306999) | N/A | Risk prediction tools for pressure injury occurrence: An umbrella review of systematic reviews reporting model development and validation methods |
+| 感觉神经性听力损伤潜在早期标志物的个体内部变异性 | De Poortere, N. | [PDF](https://doi.org/10.1101/2024.01.18.24301474) | N/A | Intrasubject Variability of Potential Early Markers of Sensorineural Hearing Damage |
+| 术前暴露于细颗粒物与术后并发症风险：一项单中心观察性队列贝叶斯分析 | Pearson, J. F. | [PDF](https://doi.org/10.1101/2024.08.13.24311943) | N/A | Preoperative Exposure to Fine Particulate Matter and Risk of Postoperative Complications: A Single Center Observational Cohort Bayesian Analysis |
+| HLA-A*02:01等位基因与胰腺癌风险降低及生存期延长相关：一项对胰腺导管腺癌（PDAC）中HLA变异全面分析的结果 | Langtry, A. | [PDF](https://doi.org/10.1101/2024.08.29.24312704) | N/A | HLA-A*02:01 allele is associated with decreased risk and a longer survival in pancreatic cancer: Results from an exhaustive analysis of the HLA variation in PDAC |
+| 阿尔茨海默病血浆生物标志物变化的时间点，通过淀粉样蛋白和tau PET时钟评估 | Mila-Aloma, M. | [PDF](https://doi.org/10.1101/2024.10.25.24316144) | N/A | Timing of changes in Alzheimer's disease plasma biomarkers as assessed by amyloid and tau PET clocks |
+| 巴西儿童及青少年心理健康科学：全国性系统综述与循证资源汇编 | Marchionatti, L. E. | [PDF](https://doi.org/10.1101/2024.11.10.24317061) | N/A | The science of child and adolescent mental health in Brazil: a nationwide systematic review and compendium of evidence-based resources |
+| 昆昂加框架的发展：扩展健康不平等和不公平证据综合方法 | Kunonga, T. P. | [PDF](https://doi.org/10.1101/2024.11.13.24317273) | N/A | Development of the Kunonga Framework for Extending Approaches in Health Inequality and Inequity Evidence Syntheses |
+| 父母和个体的社会经济地位在青少年和成年早期与饮食质量的轨迹显示出不同的关联。 | Rousham, O. | [PDF](https://doi.org/10.1101/2024.11.13.24317238) | N/A | Parental and individual socioeconomic position show distinct associations with trajectories of diet quality across adolescence and early adulthood. |
+| 产品特点用于在线零售环境中推广畅销的大麻电子烟产品 | Chen-Sankey, J. | [PDF](https://doi.org/10.1101/2024.11.13.24317258) | N/A | Product Features Used to Promote Top-selling Cannabis Vape Products in An Online Retail Environment |
+| 一种新型温度控制的双极射频消融：优化疗效和安全参数的离体研究 | Inaba, O. | [PDF](https://doi.org/10.1101/2024.11.11.24317133) | N/A | A Novel Temperature Controlled Bipolar Radiofrequency Ablation: An Ex Vivo Study for Optimizing Efficacy and Safety Parameters |
+| 通过机器学习中的蛋白质全关联研究特征选择，提高克罗恩病和溃疡性结肠炎蛋白质组的区分度 | Gorelik, M. G. | [PDF](https://doi.org/10.1101/2024.11.13.24316854) | N/A | Improving Differentiation of Crohns Disease and Ulcerative Colitis Proteomes through Protein-Wide Association Study Feature Selection in Machine Learning |
 # MedRxiv 2024-11-13 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
