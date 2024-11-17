@@ -1,3 +1,50 @@
+# BioRxiv 2024-11-16 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 瘤胃微生物群中的抗病毒防御系统 | Saenz, J. S. | [PDF](https://doi.org/10.1101/2024.04.04.588093) | N/A | Antiviral defence systems in the rumen microbiome |
+| LIMPACAT：利用全切片成像的肝癌免疫预测多组学注意力变压器 | Chiu, Y. J. | [PDF](https://doi.org/10.1101/2024.10.28.620410) | N/A | LIMPACAT : Multi-Omics Attention Transformer for Immune Prediction in Liver Cancer Using Whole-Slide Imaging |
+| 对紫杉树进行多重扰动揭示了隐藏的蛋白质，这些蛋白质能够实现巴卡亭III和紫杉醇前体的全生物合成。 | McClune, C. J. | [PDF](https://doi.org/10.1101/2024.11.06.622305) | N/A | Multiplexed perturbation of yew reveals cryptic proteins that enable a total biosynthesis of baccatin III and Taxol precursors |
+| 从单细胞数据中推断细胞类型特异性的共表达基因 | Shan, X. | [PDF](https://doi.org/10.1101/2024.11.08.622700) | N/A | Inferring Cell-Type-Specific Co-Expressed Genes from Single Cell Data |
+| 用于植物基因组大小估计的流式细胞仪标准的重新校准 | Soni, A. | [PDF](https://doi.org/10.1101/2024.11.11.623134) | N/A | Re-calibration of flow cytometry standards for plant genome size estimation |
+| 海洛因和甲基苯丙胺戒断患者的大脑形态学改变及大脑网络形态学紊乱 | Zhou, X. | [PDF](https://doi.org/10.1101/2024.11.12.623173) | N/A | Morphological brain alterations and morphological brain network disorganizations in heroin and methamphetamine abstinent patients |
+| 可卡因使用障碍中的功能连接改变：三重网络模型和成瘾神经临床评估框架的见解 | Xu, Z. | [PDF](https://doi.org/10.1101/2024.11.12.623073) | N/A | Functional Connectivity Alterations in Cocaine Use Disorder: Insights from the Triple Network Model and the Addictions Neuroclinical Assessment Framework |
+| 注意依赖的属性比较是眶额皮层中多属性决策的基础 | Perkins, A. Q. | [PDF](https://doi.org/10.1101/2024.11.12.623291) | N/A | Attention-dependent attribute comparisons underlie multi-attribute decision-making in orbitofrontal cortex |
+| Sortilin C末端片段沉积描绘了阿尔茨海默病中与缠结相关的非淀粉样神经炎斑块的生长 | Zhang, Q.-L. | [PDF](https://doi.org/10.1101/2024.11.11.622955) | N/A | Sortilin C-terminal fragment deposition depicts tangle-related nonamyloid neuritic plaque growth in Alzheimers disease |
+| WMH-DualTasker：一种具有自监督一致性的双任务深度学习模型，用于白质高信号的自动分割与视觉评分——一项多中心研究 | Wu, Y. | [PDF](https://doi.org/10.1101/2024.11.12.623137) | N/A | WMH-DualTasker: A Dual-Task Deep Learning Model with Self-supervised Consistency for Automated Segmentation and Visual Rating of White matter Hyperintensities - a Multicentre study |
+| I型干扰素信号增强卡因酸诱导的癫痫严重程度 | Ma, J.-H. | [PDF](https://doi.org/10.1101/2024.11.13.623521) | N/A | Type I interferon signaling enhances kainic acid-induced seizure severity |
+| 小鼠的热适应需要视前区BDNF神经元及突触后增强作用 | Chen, B. | [PDF](https://doi.org/10.1101/2024.11.13.623142) | N/A | Heat Acclimation in Mice Requires Preoptic BDNF Neurons and Postsynaptic Potentiation |
+| 化学遗传学破坏齿状门导致癫痫和空间记忆缺陷 | Adam, C. D. | [PDF](https://doi.org/10.1101/2024.11.12.623184) | N/A | Chemogenetic Breakdown of the Dentate Gate Causes Seizures and Spatial Memory Deficits |
+| 青少年高脂饮食和心理社会压力对成年雄性Lewis大鼠神经内分泌应激反应及暴食行为的影响 | Sierra, J. | [PDF](https://doi.org/10.1101/2024.11.12.623254) | N/A | Impact of adolescent high-fat diet and psychosocial stress on neuroendocrine stress responses and binge eating behavior in adult male Lewis rats |
+| PrP 在体内的周转以及朊病毒疾病治疗药物起效的时间 | Corridon, T. L. | [PDF](https://doi.org/10.1101/2024.11.12.623215) | N/A | PrP turnover in vivo and the time to effect of prion disease therapeutics |
+| 慢性病毒再激活及其相关宿主免疫反应和急性COVID-19及COVID-19后遗症的临床结果 | Maguire, C. | [PDF](https://doi.org/10.1101/2024.11.14.622799) | N/A | Chronic Viral Reactivation and Associated Host Immune Response and Clinical Outcomes in Acute COVID-19 and Post-Acute Sequelae of COVID-19 |
+| 通过多样性生成逆转录元件在肠道微生物组中进行靶向蛋白质进化 | Macadangdang, B. R. | [PDF](https://doi.org/10.1101/2024.11.15.621889) | N/A | Targeted protein evolution in the gut microbiome by diversity-generating retroelements |
+| 海洋细菌群落中出乎意料的高水平抗生素抗性无法仅通过城市河流排放来解释 | Chan, B. W. | [PDF](https://doi.org/10.1101/2024.11.15.623850) | N/A | Unexpected levels of antibiotic resistance in marine bacterial communities not solely explained by urban river discharge |
+| 牛H5N1流感病毒感染通过乳汁传播，导致哺乳期新生儿的死亡。 | Baker, P. H. | [PDF](https://doi.org/10.1101/2024.11.15.623885) | N/A | Bovine H5N1 influenza virus infection is transmitted by milk causing mortality in suckling neonates |
+| 加纳热带稀树草原地区牛群中Q热传播的动态分析。 | Otoo, D. | [PDF](https://doi.org/10.1101/2024.11.15.623876) | N/A | Dynamic analysis of Q-fever transmission among cattle in the Tropical Savannah Grassland zone of Ghana. |
+| Arv1与并调控念珠菌GPI生物合成的第一步相互作用 | Komath, S. S. | [PDF](https://doi.org/10.1101/2024.11.16.623920) | N/A | Arv1 interacts with and regulates the first step of GPI biosynthesis in Candida albicans |
+| 源自副干酪乳杆菌CNCM I-5220的后生元可缓解皮肤炎症并保护皮肤屏障完整性。 | Pimazzoni, S. | [PDF](https://doi.org/10.1101/2024.11.16.623921) | N/A | Lactobacillus paracasei CNCM I-5220-derived postbiotic counteracts skin inflammation and protects skin barrier integrity |
+| 利用深度学习在古菌组中发现的抗生素 | Torres, M. D. T. | [PDF](https://doi.org/10.1101/2024.11.15.623859) | N/A | Discovery of antibiotics in the archaeome using deep learning |
+| 从囊性纤维化呼吸系统感染中分离的金黄色葡萄球菌种群的种内多样性 | Alexander, A. M. | [PDF](https://doi.org/10.1101/2024.11.16.623925) | N/A | Intraspecific Diversity of Staphylococcus aureus Populations Isolated from Cystic Fibrosis Respiratory Infections |
+| 布鲁氏菌感染小鼠组织代谢组学分析 | Ponzilacqua-Silva, B. | [PDF](https://doi.org/10.1101/2024.11.16.623915) | N/A | Metabolomic Analysis of Murine Tissues Infected with Brucella melitensis |
+| 奥罗波奇病毒感染人胎盘外植体和滋养层类器官 | Megli, C. | [PDF](https://doi.org/10.1101/2024.11.16.623866) | N/A | Oropouche virus infects human placenta explants and trophoblast organoids |
+| 绘制人类肠道细菌中农药诱导的代谢变化图谱 | Chen, L. | [PDF](https://doi.org/10.1101/2024.11.15.623895) | N/A | Mapping Pesticide-Induced Metabolic Alterations in Human Gut Bacteria |
+| 线粒体甲基化潜能调控线粒体核糖体组装 | Glasgow, R. I. C. | [PDF](https://doi.org/10.1101/2024.11.15.623401) | N/A | The mitochondrial methylation potential gates mitoribosome assembly |
+| miRNA在果蝇中靶向作用的生化原理 | Vega-Badillo, J. | [PDF](https://doi.org/10.1101/2024.11.16.623948) | N/A | Biochemical principles of miRNA targeting in flies |
+| 以植物为基础的疫苗接种表达弓形虫SAG1与植物HSP90融合蛋白在羔羊中引发保护性免疫反应 | Campero, L. M. | [PDF](https://doi.org/10.1101/2024.11.15.623790) | N/A | Immunization with Plant-based Vaccine Expressing Toxoplasma gondii SAG1 Fused to Plant HSP90 Elicits Protective Immune Response in Lambs |
+| 促进解离设计使得对细胞因子信号持续时间的控制成为可能 | Broerman, A. J. | [PDF](https://doi.org/10.1101/2024.11.15.623900) | N/A | Design of facilitated dissociation enables control over cytokine signaling duration |
+| 将选择性紫色杆菌素途径酶封装在1,2-丙二醇利用细菌微区室中以转移途径通量 | Palmero, B. J. | [PDF](https://doi.org/10.1101/2024.11.15.623819) | N/A | Encapsulation of Select Violacein Pathway Enzymes in the 1,2-Propanediol Utilization Bacterial Microcompartment to Divert Pathway Flux |
+| 在肠道微生物群中，通过衣壳介导的大规模细菌基因组DNA的移动 | Borodovich, T. | [PDF](https://doi.org/10.1101/2024.11.15.623857) | N/A | Large scale capsid-mediated mobilisation of bacterial genomic DNA in the gut microbiome |
+| 在灌丛和林地生境中，野火后土壤病毒和原核生物群落发生了显著变化。 | Geonczy, S. | [PDF](https://doi.org/10.1101/2024.11.15.623834) | N/A | Soil viral and prokaryotic communities shifted significantly after wildfire in chaparral and woodland habitats |
+| 氨氧化菌对深海无机碳固定的贡献 | Bayer, B. | [PDF](https://doi.org/10.1101/2024.11.16.623942) | N/A | Contribution of ammonia oxidizers to inorganic carbon fixation in the dark ocean |
+| 发酵白菜代谢组及其对Caco-2单层细胞因诱导的肠道屏障破坏的保护作用 | Marco, M. L. | [PDF](https://doi.org/10.1101/2024.11.15.623851) | N/A | The fermented cabbage metabolome and its protection against cytokine-induced intestinal barrier disruption of Caco-2 monolayers |
+| 钙调蛋白在Kv7.2通道钙响应域的共翻译折叠过程中充当伴侣蛋白。 | Muguruza-Montero, A. | [PDF](https://doi.org/10.1101/2024.11.15.622191) | N/A | Calmodulin acts as a chaperone during co-translational folding of the Kv7.2 channel Calcium Responsive Domain. |
+| 利托那韦从HIV-1蛋白酶解离的途径特异性解离自由能分布图 | Vig, E. | [PDF](https://doi.org/10.1101/2024.11.15.623815) | N/A | Pathway Specific Unbinding Free Energy Profiles of Ritonavir Dissociation From HIV-1 Protease |
+| N-甲酰犬尿氨酸，而非犬尿氨酸，进入免疫调节犬尿氨酸途径中的亲核试剂清除分支。 | Wang, Y. | [PDF](https://doi.org/10.1101/2024.11.15.623703) | N/A | N-formylkynurenine but not kynurenine enters a nucleophile-scavenging branch of the immune-regulatory kynurenine pathway |
+| 通过隐秘的青霉素结合蛋白型硫酯酶实现的生物催化四肽大环化 | Jeannette, P. L. | [PDF](https://doi.org/10.1101/2024.11.16.623930) | N/A | Biocatalytic Tetrapeptide Macrocyclization by Cryptic Penicillin-binding Protein-type Thioesterases |
+| 基于CRISPR的谱系追踪数据快速准确重建细胞谱系树的动态规划算法 | Dai, J. | [PDF](https://doi.org/10.1101/2024.11.15.623872) | N/A | Dynamic programming algorithms for fast and accurate cell lineage tree reconstruction from CRISPR-based lineage tracing data |
+| 核小体凝聚物和连接DNA改变了染色质折叠的路径和速率 | Qiu, Y. | [PDF](https://doi.org/10.1101/2024.11.15.623891) | N/A | Nucleosome condensate and linker DNA alter chromatin folding pathways and rates |
+| 多样化的群体感应系统调控着深海冷泉中微生物的交流和生物地球化学过程。 | Peng, J. | [PDF](https://doi.org/10.1101/2024.11.15.623595) | N/A | Diverse quorum sensing systems regulate microbial communication and biogeochemical processes in deep-sea cold seeps |
 # BioRxiv 2024-11-15 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 

@@ -1,3 +1,15 @@
+# MedRxiv 2024-11-16 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 自闭症谱系障碍脑脊液特征 - 系统综述 | Srivastava, V. | [PDF](https://doi.org/10.1101/2024.02.13.24302752) | N/A | Characteristics of Cerebrospinal Fluid in Autism Spectrum Disorder - A Systematic Review |
+| 在美国乳腺癌患者中验证PREDICT乳腺癌3.0版预后工具 | Hsiao, Y.-W. | [PDF](https://doi.org/10.1101/2024.10.29.24316401) | N/A | Validation of the PREDICT Breast Version 3.0 Prognostic Tool in US Breast Cancer Patients |
+| 基于生物标志物的临床试验中常染色体显性阿尔茨海默病结局指标的样本量估计 | Cash, D. M. | [PDF](https://doi.org/10.1101/2024.11.12.24316919) | N/A | Sample size estimates for biomarker-based outcome measures in clinical trials in autosomal dominant Alzheimer's disease |
+| 右美托咪定作为内镜黏膜下剥离术患者的辅助镇静剂：一项系统评价和Meta分析 | Abosheaishaa, H. | [PDF](https://doi.org/10.1101/2024.11.14.24317324) | N/A | Dexmedetomidine as an Adjunctive Sedative in Patients Undergoing Endoscopic Submucosal Dissection: A Systematic Review and Meta-Analysis |
+| 探究社会决定因素对特发性肺纤维化诊断延迟及抗纤维化治疗可及性的影响 | Li, R. | [PDF](https://doi.org/10.1101/2024.11.15.24317403) | N/A | Investigating the Impact of Social Determinants of Health on Diagnostic Delays and Access to Antifibrotic Treatment in Idiopathic Pulmonary Fibrosis |
+| 刚果民主共和国金沙萨2023及2024年猴痘疫情流行病学与系统发育基因组特征分析——亚支系Ia人传人传播持续性增强的证据 | Wawina-Bokalanga, T. | [PDF](https://doi.org/10.1101/2024.11.15.24317404) | N/A | Epidemiology and Phylogenomic Characterization of Distinct 2023 and 2024 Mpox outbreaks in Kinshasa, Democratic Republic of the Congo - Evidence for increasingly sustained human-to-human transmission of subclade Ia |
+| 单基因帕金森病与APOE E4的影响：一项病例对照研究 | Kmiecik, M. J. | [PDF](https://doi.org/10.1101/2024.11.15.24317402) | N/A | Monogenic Parkinson's Disease and the Impact of APOE E4: A Case-Control Study |
+| α-硫辛酸对经CAG或PCI治疗的2型糖尿病患者干预研究与对比剂诱导的肾病的关系 | Wu, A. | [PDF](https://doi.org/10.1101/2024.11.15.24317408) | N/A | Study on the Intervention of α-Lipoic Acid in Patients with Type 2 Diabetes Mellitus after CAG or PCI Compared with Contrast-Induced Nephropathy |
 # MedRxiv 2024-11-15 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
