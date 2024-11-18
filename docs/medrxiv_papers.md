@@ -1,3 +1,18 @@
+# MedRxiv 2024-11-17 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 了解心内膜心电图成像在三维再入环路心外膜-心内膜标测中的应用 | Toloubidokhti, M. | [PDF](https://doi.org/10.1101/2024.03.13.24304259) | N/A | Understanding the Utility of Endocardial Electrocardiographic Imaging in Epi-Endocardial Mapping of 3D Reentrant Circuits |
+| 为什么美利坚合众国没有批准《联合国儿童权利公约》？作为新的卫生政策分析框架的否决支点 | Harris, L. | [PDF](https://doi.org/10.1101/2024.09.05.24312304) | N/A | Why has the United States of America not Ratified the United Nations Convention on the Rights of the Child? The veto fulcrum as a new health policy analysis framework |
+| 重新分析APOL1肾脏数据支持新的“种族”伦理 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.15.24313684) | N/A | Re-analyzed APOL1 kidney data support new ethics of 'race' |
+| 评估新型冠状病毒肺炎（COVID-19）对拉各斯州社区药房服务交付的影响 | Ajibola, O. G. | [PDF](https://doi.org/10.1101/2024.11.02.24316307) | N/A | An Assessment of the Effects of Coronavirus Disease 2019 (COVID-19) on Community Pharmacy Service Delivery in Lagos State |
+| 生物银行规模的阿尔茨海默病及相关痴呆症特征研究揭示了潜在的致病变异、风险因素及跨不同祖先的遗传修饰因子。 | Khani, M. | [PDF](https://doi.org/10.1101/2024.11.03.24313587) | N/A | Biobank-scale characterization of Alzheimer's disease and related dementias identifies potential disease-causing variants, risk factors, and genetic modifiers across diverse ancestries |
+| 脊髓性肌萎缩基因治疗早期安全概况：病例系列分析 | Spellman, R. G. | [PDF](https://doi.org/10.1101/2024.11.04.24316576) | N/A | Early Life Safety Profiling of Gene Therapy for Spinal Muscular Atrophy: A Case Series Analysis |
+| 煤火相关PM2.5暴露引起的癌症发病率的后续研究。 | Nayagam, S. N. | [PDF](https://doi.org/10.1101/2024.11.13.24317068) | N/A | Follow-up of cancer incidence associated with smoke-related PM2.5 exposure due to a coal mine fire. |
+| 揭示因果基因-组织对和变异体：一种控制微小效应的多变量TWAS方法 | Yang, Y. | [PDF](https://doi.org/10.1101/2024.11.13.24317250) | N/A | Uncovering causal gene-tissue pairs and variants: A multivariable TWAS method controlling for infinitesimal effects |
+| 一项试点前后试验，有无补贴以促进孟加拉国农村地区安全后院家禽养殖实践，预防接触家禽及家禽粪便。 | Kwong, L. H. | [PDF](https://doi.org/10.1101/2024.11.12.24317180) | N/A | A pilot pre-post trial with and without subsidy to promote safe backyard poultry-raising practices to prevent exposure to poultry and poultry feces in rural Bangladesh |
+| C2人背根神经节中IGHG4的表达可能将B细胞与扩散性慢性颈部疼痛联系起来 | Mancilla Moreno, M. | [PDF](https://doi.org/10.1101/2024.11.12.24317004) | N/A | IGHG4 Expression in C2 Human Dorsal Root Ganglion Potentially Links B Cells to Spreading Chronic Neck Pain |
+| 多队列循环蛋白质组对主动脉瘤风险的因果效应：一项孟德尔随机化研究 | Zheng, Y. | [PDF](https://doi.org/10.1101/2024.11.17.24317384) | N/A | Causal Effect of Multi-cohort Circulating Proteome on the Risk of Aortic Aneurysm: A Mendelian Randomization Study |
 # MedRxiv 2024-11-16 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
