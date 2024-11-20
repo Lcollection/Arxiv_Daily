@@ -1,3 +1,35 @@
+# MedRxiv 2024-11-19 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 独特的代谢表型使B-连环蛋白突变型肝细胞癌对治疗诱导的缺血敏感。 | Weinfurtner, K. | [PDF](https://doi.org/10.1101/2023.09.28.23296283) | N/A | Distinct metabolic phenotype renders B-catenin mutant hepatocellular carcinoma susceptible to treatment-induced ischemia |
+| 疫苗公平贸易转型：政策差距与障碍 | Pepperrell, T. | [PDF](https://doi.org/10.1101/2024.06.06.24308543) | N/A | Transforming trade for vaccine equity: policy gaps and barriers |
+| 高剂量维生素D3在巴基斯坦治疗复杂性重度急性营养不良中的应用：一项双盲随机对照试验（ViDiSAM） | Saleem, J. | [PDF](https://doi.org/10.1101/2024.07.20.24310735) | N/A | High-dose vitamin D3 in the treatment of complicated severe acute malnutrition in Pakistan: a double-blind randomised controlled trial (ViDiSAM) |
+| 隐私事实表能够缓解与疾病相关的隐私担忧，并促进电子健康记录的平等访问：随机对照试验 | von Kalckreuth, N. | [PDF](https://doi.org/10.1101/2024.10.11.24315342) | N/A | Privacy Fact Sheets mitigate Disease-related Privacy Concerns and Facilitate Equal Access to the Electronic Health Record: Randomized Controlled Trial |
+| 等长肌肉动作的推与拉：我们所知与未来方向：范围界定与系统综述结合元分析 | Oranchuk, D. J. | [PDF](https://doi.org/10.1101/2024.11.04.24316609) | N/A | Pushing versus holding isometric muscle actions; what we know and where to go: A scoping and systematic review with meta-analyses |
+| 重新评估精神分裂症中的不对称性减少：听觉幻觉患者的扣带回折叠和脑回化协方差 | Wu, S.-C. J. | [PDF](https://doi.org/10.1101/2024.11.07.24316889) | N/A | Reassessing Asymmetry Reduction in Psychosis: Cingulate Folding and Gyrification Covariance in Patients with Auditory Hallucinations |
+| 产前胎儿心率模式与不良妊娠结局的关系 | Davis Jones, G. | [PDF](https://doi.org/10.1101/2024.11.16.24317432) | N/A | The Relationship of Antepartum Fetal Heart Rate Patterns to Adverse Pregnancy Outcomes |
+| 自身免疫反应对髓鞘相关蛋白作为复发缓解型多发性硬化症的诊断和预后生物标志物：与人类疱疹病毒-6和爱泼斯坦-巴尔病毒再激活的关联。 | Almulla, A. F. | [PDF](https://doi.org/10.1101/2024.11.16.24317434) | N/A | Autoimmune responses to myelin-associated proteins as diagnostic and prognostic biomarkers of relapsing-remitting multiple sclerosis: associations with human herpesvirus-6 and Epstein-Barr Virus reactivation. |
+| 大血管闭塞患者成功取栓后动脉内替奈普酶辅助治疗的安全性和有效性：一项1/2期随机临床试验的研究原理和设计 | Hou, X. | [PDF](https://doi.org/10.1101/2024.11.18.24317521) | N/A | Safety and Efficacy of Adjunctive Intra-arterial Tenecteplase following Successful Thrombectomy in Patients with Large Vessel Occlusion: Study Rationale and Design of A Phase 1/2 Randomized Clinical Trial |
+| 肠道微生物群失调和免疫激活与COVID-19患者的躯体和神经精神症状相关 | Scalzo, P. | [PDF](https://doi.org/10.1101/2024.11.18.24317428) | N/A | Gut microbiome dysbiosis and immune activation correlate with somatic and neuropsychiatric symptoms in COVID-19 patients |
+| 癌症模拟模型校准方法综述 | Zhang, Y. | [PDF](https://doi.org/10.1101/2024.11.18.24317357) | N/A | A Review on Calibration Methods of Cancer Simulation Models |
+| 实施将基因组研究成果转化为临床的咨询服务：来自SickKids基因组委员会的经验教训 | Pan, A. | [PDF](https://doi.org/10.1101/2024.11.18.24317509) | N/A | Implementing a consultation service for translating genomic research findings into the clinic: lessons from the SickKids Genome Board |
+| 一项关于低剂量阿糖胞苷和阿克拉霉素联合粒细胞集落刺激因子（CAG方案）在老年急性髓系白血病患者中疗效的单中心横断面研究 | Xu, M. | [PDF](https://doi.org/10.1101/2024.11.18.24317527) | N/A | A single center cross-sectional study on the efficacy of low-dose cytarabine and aclramycin combined with granulocyte colony-stimulating factor (CAG regimen) in elder adults with acute myeloid leukemia |
+| 咖啡消费与多米尼加共和国圣多明各自治大学医学生失眠症患病率，2022年9月至2023年3月 | Ogando, A. B. | [PDF](https://doi.org/10.1101/2024.11.18.24317358) | N/A | COFFEE CONSUMPTION AND PREVALENCE OF INSOMNIA DISORDER IN MEDICAL INTERNS AT THE AUTONOMOUS UNIVERSITY OF SANTO DOMINGO, DOMINICAN REPUBLIC, SEPTEMBER 2022-MARCH 2023 |
+| 免疫功能检测在解析免疫功能改变中的关键作用 | Debombourg, M. | [PDF](https://doi.org/10.1101/2024.11.19.24317497) | N/A | The Pivotal Role of Immune Functional Assays in Deciphering Immune Function Alterations |
+| 雄激素类固醇对男性和女性心血管健康的影响 - 丹麦健身兴奋剂研究（FIDO-DK）的一部分 | Buhl, L. F. | [PDF](https://doi.org/10.1101/2024.11.18.24317516) | N/A | Impact of Androgenic Anabolic Steroids on Cardiovascular Health in Men and Women - PART OF THE FITNESS DOPING IN DENMARK (FIDO-DK) STUDY |
+| HG-DCM：历史引导的深度隔室模型用于早期疫情预测 | Wei, Z. | [PDF](https://doi.org/10.1101/2024.11.18.24317469) | N/A | HG-DCM: History Guided Deep Compartmental Model for Early Stage Pandemic Forecasting |
+| 识别以网络欺凌受害为风险因素的青少年心理健康复原力因素 | Kandola, A. | [PDF](https://doi.org/10.1101/2024.11.18.24317457) | N/A | Identifying resilience factors for adolescent mental health with cyberbullying victimisation as a risk factor |
+| 一种用于资源有限环境下的分子诊断的开源冻干RT-LAMP检测方法 | Matl, M. | [PDF](https://doi.org/10.1101/2024.11.19.24317525) | N/A | A lyophilized open-source RT-LAMP assay for molecular diagnostics in resource-limited settings |
+| 跨数据集评估痴呆症纵向进展预测模型 | Zhang, C. | [PDF](https://doi.org/10.1101/2024.11.18.24317513) | N/A | Cross-dataset Evaluation of Dementia Longitudinal Progression Prediction Models |
+| 推进眼科领域问答系统的发展：基于检索增强生成（RAG）的开源与专有大型语言模型基准测试 | Nguyen, Q. | [PDF](https://doi.org/10.1101/2024.11.18.24317510) | N/A | Advancing Question-Answering in Ophthalmology with Retrieval Augmented Generations (RAG): Benchmarking Open-source and Proprietary Large Language Models |
+| 在典型家庭环境中进行基于智能手机的阈值和响度评估的可行性 | Xu, C. | [PDF](https://doi.org/10.1101/2024.11.19.24317529) | N/A | Feasibility of efficient smartphone-based threshold and loudness assessments in typical home settings |
+| 童年之外的生活：通过在线患者/护理者共同制作的问卷，对91名KBG综合征成年人的生活体验进行洞察 | Low, K. J. | [PDF](https://doi.org/10.1101/2024.11.19.24317531) | N/A | Life beyond childhood: insight into the lived experience of 91 adults with KBG syndrome through an online patient/caregiver reported co-produced questionnaire |
+| 斐济三家三级医院中医疗工作者在提供母婴传播预防服务中的跨学科团队合作：定性视角。 | Razzaq, A. | [PDF](https://doi.org/10.1101/2024.11.18.24317417) | N/A | Multidisciplinary teamwork among healthcare workers in the provision of Prevention of Mother-to-child transmission services in the three tertiary hospitals in Fiji: A qualitative perspective. |
+| 儿童慢性肾病中的高血压管理动态：来自4C研究的见解 | Doyon, A. | [PDF](https://doi.org/10.1101/2024.11.18.24317519) | N/A | Hypertension Management Dynamics in Pediatric CKD: Insights from the 4C Study |
+| 印度人群中血清尿酸、β细胞功能与胰岛素抵抗的相互关系：一项综合分析 | Thummala, S. | [PDF](https://doi.org/10.1101/2024.11.18.24317374) | N/A | Interrelations of Serum Uric Acid, Beta-Cell Function, and Insulin Resistance in Indian Cohort: A Comprehensive Analysis |
+| 单核细胞亚群的变化可以预测腹主动脉瘤（AAA）的风险，并且在晚期疾病患者中是AAA形态的替代标志物。 | Hamann, B. | [PDF](https://doi.org/10.1101/2024.11.18.24317518) | N/A | Changes in monocyte subsets can predict the risk of AAA and are surrogate markers for AAA morphology in patients with late-stage disease |
+| 分次电位引导冷冻消融术终止房室结折返性心动过速同时避免损伤紧邻结电图 | Hirata, S. | [PDF](https://doi.org/10.1101/2024.11.18.24317515) | N/A | Fractionated Potential-Guided Cryoablation Targeting Termination of Atrioventricular Nodal Reentrant Tachycardia While Avoiding the Compact Node Electrogram |
 # MedRxiv 2024-11-18 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
