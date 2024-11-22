@@ -1,3 +1,36 @@
+# MedRxiv 2024-11-21 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| UnitedMet利用RNA-代谢物共变性来推断临床样本中的代谢物水平。 | Xie, A. X. | [PDF](https://doi.org/10.1101/2024.05.24.24307903) | N/A | UnitedMet harnesses RNA-metabolite covariation to impute metabolite levels in clinical samples |
+| 全基因组组织相容性对肝移植结果的影响 | Semenova, M. | [PDF](https://doi.org/10.1101/2024.07.16.24310481) | N/A | The impact of genome-wide histocompatibility on liver transplantation outcomes |
+| 多发性骨髓瘤药物疗效分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.03.24311450) | N/A | Analysis of Multiple Myeloma Drug Efficacy |
+| 揭示不同精神障碍组合的遗传基础 | Yin, L. | [PDF](https://doi.org/10.1101/2024.08.29.24312761) | N/A | Uncovering the genetic underpinnings for different psychiatric disorder combinations |
+| 护理强度与南非农村老年人护理者的健康状况 | Matina, S. S. | [PDF](https://doi.org/10.1101/2024.10.16.24315588) | N/A | Intensity of care and the health status of caregivers to elderly rural South Africans |
+| 产前胎儿心率模式与不良妊娠结局的关系 | Davis Jones, G. | [PDF](https://doi.org/10.1101/2024.11.16.24317432) | N/A | The Relationship of Antepartum Fetal Heart Rate Patterns to Adverse Pregnancy Outcomes |
+| 上呼吸道耐药组表现出SARS-CoV-2特异的抗菌药物耐药模式 | Tomar, S. S. | [PDF](https://doi.org/10.1101/2024.11.14.24317312) | N/A | Upper Respiratory Tract Resistome exhibits SARS-CoV-2 specific antimicrobial resistance patterns |
+| 心脏健康对话工具：共同设计心血管疾病预防和风险管理的共享决策工具 | McKinn, S. | [PDF](https://doi.org/10.1101/2024.11.19.24317586) | N/A | The Heart Health Yarning Tool: co-designing a shared decision-making tool for cardiovascular disease prevention and risk management |
+| 探索宠物依恋与主人心理健康之间的联系：主人与宠物的兼容性、感知宠物福利及行为问题的作用。 | Hawkins, R. D. | [PDF](https://doi.org/10.1101/2024.11.20.24317636) | N/A | Exploring the Connection Between Pet Attachment and Owner Mental Health: The Roles of Owner-Pet Compatibility, Perceived Pet Welfare, and Behavioral Issues. |
+| 在南非夸祖鲁-纳塔尔省农村地区开展的基于社区的尸检研究中，合作伙伴参与的路线图：来自现场的经验教训 | Castle, A. C. | [PDF](https://doi.org/10.1101/2024.11.14.24317019) | N/A | A roadmap for navigating partner engagement in community-based autopsy studies: Lessons from the field in rural KwaZulu-Natal, South Africa |
+| 评估一种用于非门控胸部计算机断层扫描上机会性计算Agatston评分的人工智能模型 | McKinney, S. E. | [PDF](https://doi.org/10.1101/2024.11.20.24317666) | N/A | Evaluation of an artificial intelligence model for opportunistic calculation of Agatston score on non-gated computed tomography of the chest |
+| 比较动态与静态图像情感识别测试在神经退行性疾病中的价值 | Ulugut, H. | [PDF](https://doi.org/10.1101/2024.11.20.24317663) | N/A | COMPARING THE VALUE OF DYNAMIC VS. STATIC-IMAGE-BASED TESTS OF EMOTION RECOGNITION IN NEURODEGENERATIVE DISEASES |
+| 先天性心脏侧位缺陷的基因组罕见变异机制：一种双基因模型方法 | Rai, A. | [PDF](https://doi.org/10.1101/2024.11.19.24317385) | N/A | Genomic rare variant mechanisms for congenital cardiac laterality defect: A digenic model approach |
+| ReachUHC：一项随机对照试验研究方案，旨在通过基于手机的提醒和自动续保干预措施，提高加纳库马西地区健康保险续保率 | Nübler, L. | [PDF](https://doi.org/10.1101/2024.11.21.24317685) | N/A | ReachUHC: A randomized controlled trial study protocol of a mobile phone-based reminder and automatic renewal intervention to increase health insurance renewal rates in Kumasi, Ghana |
+| 基于绩效的融资项目的影响：对喀麦隆西北地区梅扎姆农村地区卫生工作者产出的观察性面板研究。 | Dingana, T. N. | [PDF](https://doi.org/10.1101/2024.11.20.24317631) | N/A | The Impact of the Performance-Based Financing Project: An Observational Panel Study on Health Workers' Output in Rural Mezam, Northwest Region, Cameroon. |
+| 全球疫情爆发期间影响高危传染病临床管理指南实施的因素：一项系统性综述 | Dahmash, D. | [PDF](https://doi.org/10.1101/2024.11.21.24317702) | N/A | Factors impacting on the implementation of clinical management guidelines (CMGs) for high consequence infectious diseases (HCIDs) during outbreaks globally: a systematic review |
+| 商用多重实时PCR检测试剂盒对正痘病毒和猴痘病毒的评估，以及同时进行亚型Ib的鉴定 | Wawina-Bokalanga, T. | [PDF](https://doi.org/10.1101/2024.11.20.24317626) | N/A | Evaluation of a commercial Multiplex Real-Time PCR Assay for orthopoxvirus and monkeypox virus detection, and simultaneous subclade Ib identification |
+| 肥胖对肺动脉高压进展的影响：一项针对阿联酋人群身体成分指标的队列研究 | Iftikhar, H. | [PDF](https://doi.org/10.1101/2024.11.19.24317590) | N/A | Obesity's Impact on Pulmonary Hypertension Progression: A Cohort Study of Body Composition Metrics in UAE Population |
+| "CD4+ T细胞通过TNF-α/STAT-3信号通路在2型糖尿病中驱动炎症" | Shaw, S. K. | [PDF](https://doi.org/10.1101/2024.11.20.24317638) | N/A | "CD4+ T Cells drive Inflammation in Type 2 Diabetes Mellitus via the TNF-a/STAT-3 Signaling Pathway" |
+| 以2010年至2019年间英国麻疹疫情为例，建模分析疫苗接种时机、及时性和覆盖率变化的影响 | Suffel, A. M. | [PDF](https://doi.org/10.1101/2024.11.20.24317639) | N/A | Modelling the influence of changes in vaccination timing, timeliness and coverage on the example of measles outbreaks in the UK between 2010-19 |
+| 乌干达国家结核病和麻风病项目算法与世界卫生组织儿童结核病治疗决策算法准确性的回顾性分析 | Kitonsa, P. J. | [PDF](https://doi.org/10.1101/2024.11.20.24317633) | N/A | The Accuracy of the Uganda National Tuberculosis and Leprosy Program algorithm and the World Health Organisation treatment decision algorithms for childhood tuberculosis: A retrospective analysis |
+| 理解领导力、组织和政策对在社区环境中提供综合儿童健康与社会护理服务的影响：一项使用SELFIE框架的定性探索 | Litchfield, I. | [PDF](https://doi.org/10.1101/2024.11.20.24317624) | N/A | Understanding the influence of leadership, organisation, and policy on delivering an integrated child health and social care service in community settings: A qualitative exploration using the SELFIE framework |
+| 澳大利亚小学中体育活动计划的普及情况：一项横断面调查 | O'Brien, K. M. | [PDF](https://doi.org/10.1101/2024.11.20.24317670) | N/A | Prevalence of Physical Activity Initiatives in Australian Primary Schools: A Cross-Sectional Survey |
+| 智能手机姿势摇摆和旋前偏移测试作为神经功能障碍的评估指标 | Calcagni, M. | [PDF](https://doi.org/10.1101/2024.11.20.24317196) | N/A | Smartphone Postural Sway and Pronator Drift tests as Measures of Neurological Disability |
+| 利用人类胎儿心脏的调控图谱，对先天性心脏缺陷风险变异的分子趋同性进行研究 | Ma, X. R. | [PDF](https://doi.org/10.1101/2024.11.20.24317557) | N/A | Molecular convergence of risk variants for congenital heart defects leveraging a regulatory map of the human fetal heart |
+| 中风后生活服务的成本效益及其对健康和社会护理资源使用的影响：快速回顾 | Pisavadia, K. | [PDF](https://doi.org/10.1101/2024.11.21.24317699) | N/A | The cost-effectiveness of life after stroke services and the impact of these services on health and social care resource use: a rapid review |
+| 结核病患者长期死亡趋势：一项针对巴西结核病确诊患者的回顾性队列研究 | Kim, S. | [PDF](https://doi.org/10.1101/2024.11.20.24317659) | N/A | Long-term mortality trends among individuals with tuberculosis: a retrospective cohort study of individuals diagnosed with tuberculosis in Brazil |
+| 基于真实数据的模拟研究：多重插补方法处理含信息性删失的生存时间缺失结局的实际考虑 | Bellavia, A. | [PDF](https://doi.org/10.1101/2024.11.18.24317244) | N/A | Multiple Imputation Approaches for Missing Time-to-Event Outcomes with Informative Censoring: Practical Considerations from a Simulation Study Based on Real Data |
+| 使用德国医院数据库，探讨儿童严重创伤性脑损伤后去骨瓣减压术的时间与院内死亡率的关系。 | Hojeij, R. | [PDF](https://doi.org/10.1101/2024.11.13.24317240) | N/A | Timing of decompressive craniectomy and in-hospital mortality in children following severe traumatic brain injury using the German Hospital Database. |
 # MedRxiv 2024-11-20 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
