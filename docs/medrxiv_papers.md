@@ -1,3 +1,14 @@
+# MedRxiv 2024-11-24 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 低成本虚拟现实中风康复系统：开发与初步可行性评估 | Fisk, A. | [PDF](https://doi.org/10.1101/2024.08.23.24312233) | N/A | A low-cost virtual reality stroke rehabilitation system: development and initial feasibility assessment |
+| 放射性碘难治性甲状腺乳头状癌的分子和蛋白质组学特征 | Liu, H. | [PDF](https://doi.org/10.1101/2024.09.22.24314143) | N/A | Molecular and Proteomic Profiles of Radioiodine Refractory Papillary Thyroid Cancer |
+| 揭示成人呼吸道合胞病毒疾病的谱系：从社区到医院的演变 | Korsten, K. | [PDF](https://doi.org/10.1101/2024.10.17.24315581) | N/A | Unveiling the spectrum of Respiratory Syncytial Virus disease in Adults: from Community to Hospital |
+| 全基因组关联研究和多组学整合分析揭示了循环多不饱和、单不饱和和饱和脂肪酸的新位点及其分子机制 | Sun, Y. | [PDF](https://doi.org/10.1101/2024.11.11.24317110) | N/A | Genome-wide association studies and multi-omics integrative analysis reveal novel loci and their molecular mechanisms for circulating polyunsaturated, monounsaturated, and saturated fatty acids |
+| 专家小组作为诊断准确性研究中的参考标准程序：一项系统的范围界定综述及方法学指导 | Kellerhuis, B. E. | [PDF](https://doi.org/10.1101/2024.11.12.24317219) | N/A | Expert panel as reference standard procedure in diagnostic accuracy studies: a systematic scoping review and methodological guidance |
+| 首次报道的由Fereydounia khargensis引起的导管相关性血流感染（CRBSI）在终末期肾病患者的病例 | Zhang, Q. | [PDF](https://doi.org/10.1101/2024.11.20.24317364) | N/A | First reported case of catheter-related bloodstream infection (CRBSI) caused by Fereydounia khargensis in an End-stage kidney disease patient |
+| 不动杆菌临床分离株中碳青霉烯酶的表型和基因型检测 | Rahi, A. A. | [PDF](https://doi.org/10.1101/2024.11.20.24317647) | N/A | phenotypic and Genotypic Detection of Carbapenemases in Clinical Isolates of Acinetobacter baumannii |
 # MedRxiv 2024-11-23 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 

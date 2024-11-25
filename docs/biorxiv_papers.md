@@ -1,3 +1,76 @@
+# BioRxiv 2024-11-24 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 一个简单的行为时间尺度突触可塑性模型，通过二进制突触和一次性学习，提供了内容可寻址记忆。 | Wu, Y. | [PDF](https://doi.org/10.1101/2023.04.04.535572) | N/A | A simple model for Behavioral Time Scale Synaptic Plasticity provides content addressable memory with binary synapses and one-shot learning |
+| 基于CRISPRi的筛选在iAssembloids中进行，以阐明神经元-胶质细胞相互作用 | Li, E. | [PDF](https://doi.org/10.1101/2023.04.26.538498) | N/A | CRISPRi-based screens in iAssembloids to elucidate neuron-glia interactions |
+| 竹林中的迷惑互动：喜马拉雅山东部混种鸟群中的种间关联 | Srinivasan, S. | [PDF](https://doi.org/10.1101/2023.10.08.561415) | N/A | Bamboozling Interactions: Interspecific associations within mixed-species bird flocks in bamboo in the Eastern Himalaya |
+| 使用ALDEx2进行RNA测序分析的显式尺度模拟 | Gloor, G. B. | [PDF](https://doi.org/10.1101/2023.10.21.563431) | N/A | Explicit Scale Simulation for analysis of RNA-sequencing withALDEx2 |
+| eIF3与高翻译效率mRNA的3'-UTR末端结合 | Mestre-Fos, S. | [PDF](https://doi.org/10.1101/2023.11.11.566681) | N/A | eIF3 engages with 3'-UTR termini of highly translated mRNAs |
+| 新测序的基因组揭示了特定蜻蜓（蜻蜓目：差翅亚目）基因家族扩张的模式 | Tolman, E. R. | [PDF](https://doi.org/10.1101/2023.12.11.569651) | N/A | Newly Sequenced Genomes Reveal Patterns of Gene Family Expansion in select Dragonflies (Odonata: Anisoptera) |
+| edgeR v4：功能强大的测序数据差异分析工具，扩展了功能并改进了对小计数和大数据集的支持 | Chen, Y. | [PDF](https://doi.org/10.1101/2024.01.21.576131) | N/A | edgeR v4: powerful differential analysis of sequencing data with expanded functionality and improved support for small counts and larger datasets |
+| 基于实时Förster共振能量转移检测系统（FedEcs）监测的纳米载体药物释放及中风后微血栓血脑屏障穿透 | Khalin, I. | [PDF](https://doi.org/10.1101/2024.02.28.582471) | N/A | Nanocarrier Drug Release and Blood-Brain Barrier Penetration at Post-Stroke Microthrombi Monitored by Real-Time F&oumlrster Resonance Energy Transfer-Based Detection System (FedEcs) |
+| SARS-CoV-2基因组的二级结构可预测核苷酸替代频率 | Hensel, Z. | [PDF](https://doi.org/10.1101/2024.02.27.581995) | N/A | Secondary structure of the SARS-CoV-2 genome is predictive of nucleotide substitution frequency |
+| 转录后模块化合成受体 | Zhang, X. | [PDF](https://doi.org/10.1101/2024.05.03.592453) | N/A | Post-Transcriptional Modular Synthetic Receptors |
+| 不对称干细胞分裂维持了组织细胞的遗传异质性。 | Bener, M. B. | [PDF](https://doi.org/10.1101/2024.05.16.594576) | N/A | Asymmetric stem cell division maintains genetic heterogeneity of tissue cells |
+| 互补的脊椎动物Wac模型表现出与DeSanto-Shinawi综合征相关的表型 | Lee, K.-H. | [PDF](https://doi.org/10.1101/2024.05.26.595966) | N/A | Complimentary vertebrate Wac models exhibit phenotypes relevant to DeSanto-Shinawi Syndrome |
+| 低覆盖度测序的法医学似然比 | Ouerghi, F. | [PDF](https://doi.org/10.1101/2024.05.24.595821) | N/A | On forensic likelihood ratios from low-coverage sequencing |
+| 脂质组学和代谢组学插补（ImpLiMet）：用于缺失数据插补优化和方法选择的在线应用 | Ou, H. | [PDF](https://doi.org/10.1101/2024.06.17.599353) | N/A | Imputation for Lipidomics and Metabolomics (ImpLiMet): Online application for optimization and method selection for missing data imputation |
+| MLL4调控出生后腭部生长和中腭缝发育 | Lee, J.-M. | [PDF](https://doi.org/10.1101/2024.07.16.603832) | N/A | MLL4 regulates postnatal palate growth and midpalatal suture development |
+| 西尼罗病毒感染期间尖音库蚊中肠的单细胞图谱 | Fitzmeyer, E. A. | [PDF](https://doi.org/10.1101/2024.07.23.603613) | N/A | A single-cell atlas of the Culex tarsalis midgut during West Nile virus infection |
+| 调节前额叶皮层活动以缓解压力引起的工作记忆缺陷：一项经颅直流电刺激（tDCS）研究 | Roy, S. | [PDF](https://doi.org/10.1101/2024.09.16.613190) | N/A | Modulating Prefrontal Cortex Activity to Alleviate Stress-Induced Working Memory Deficits: A Transcranial Direct Current (tDCS) Study |
+| 植物细胞壁的纤维网络性质能够为发育提供可调的力学性能 | Chen, S. | [PDF](https://doi.org/10.1101/2024.10.09.617478) | N/A | Fibrous Network Nature of Plant Cell Walls Enables Tunable Mechanics for Development |
+| 生物医学数据的AI准备性：Bridge2AI建议 | Clark, T. | [PDF](https://doi.org/10.1101/2024.10.23.619844) | N/A | AI-readiness for Biomedical Data: Bridge2AI Recommendations |
+| 使用CryFold改进冷冻电镜图的自动化模型构建 | Su, B. | [PDF](https://doi.org/10.1101/2024.11.13.623164) | N/A | Improved automated model building for cryo-EM maps using CryFold |
+| 层粘连蛋白β4对于人类外周感觉神经元的发育是必需的。 | Saito-Diaz, K. | [PDF](https://doi.org/10.1101/2024.11.22.624899) | N/A | Laminin β4 is required for the development of human peripheral sensory neurons |
+| 从单细胞数据中映射增强子-基因调控相互作用 | Sheth, M. U. | [PDF](https://doi.org/10.1101/2024.11.23.624931) | N/A | Mapping enhancer-gene regulatory interactions from single-cell data |
+| 大肠杆菌细胞宽度稳态和膨胀动力学的力学机制：MreB和隔膜抑制的影响 | Kale, T. | [PDF](https://doi.org/10.1101/2024.11.22.624946) | N/A | Mechanics of E. coli cell width homeostasis and bulging dynamics from MreB and septum inhibition |
+| 使用常微分方程测量分裂酵母细胞中的调控网络继承 | Wu, W. | [PDF](https://doi.org/10.1101/2024.11.23.624995) | N/A | Measuring regulatory network inheritance in dividing yeast cells using ordinary differential equations |
+| 荧光蛋白标记的阴暗面：蛋白质标签对生物分子凝聚的影响 | Fatti, E. | [PDF](https://doi.org/10.1101/2024.11.23.624970) | N/A | The dark side of fluorescent protein tagging: the impact ofprotein tags on biomolecular condensation |
+| 肌醇需求酶1途径和自噬驱动内皮细胞对发热范围高热的顺序应答 | Vorbe, J. | [PDF](https://doi.org/10.1101/2024.11.22.624904) | N/A | Inositol-Requiring Enzyme 1 Pathway and Autophagy Drive Sequential Response of Endothelial Cells to Febrile Range Hyperthermia |
+| 耐寒蟋蟀在脂肪体组织中强化其肌动蛋白细胞骨架 | van Oirschot, M. L. | [PDF](https://doi.org/10.1101/2024.11.22.624896) | N/A | Freeze-tolerant crickets fortify their actin cytoskeleton in fat body tissue |
+| 缩小规模以提高效率：用于蛋白质序列迁移学习的中型Transformer模型 | Vieira, L. C. | [PDF](https://doi.org/10.1101/2024.11.22.624936) | N/A | Scaling Down for Efficiency: Medium-Sized Transformer Models for Protein Sequence Transfer Learning |
+| 利用优化的SIBR-Cas系统在Cupriavidus necator H16中实现简化和高效的基因组编辑 | Della Valle, S. | [PDF](https://doi.org/10.1101/2024.11.24.625072) | N/A | Streamlined and efficient genome editing in Cupriavidus necator H16 using an optimised SIBR-Cas system |
+| 通过广泛调查外壳成分，推进细菌孢子上的蛋白质展示 | Chappell, T. C. | [PDF](https://doi.org/10.1101/2024.11.22.624950) | N/A | Advancing protein display on bacterial spores through an extensive survey of coat components |
+| 全球神经元形状推理与点亲和变压器 | Troidl, J. | [PDF](https://doi.org/10.1101/2024.11.24.625067) | N/A | Global Neuron Shape Reasoning with Point Affinity Transformers |
+| 视觉言语通过不同的机制增强听觉起始时间和包络追踪 | Cao, C. Z. | [PDF](https://doi.org/10.1101/2024.11.23.624953) | N/A | Visual speech enhances auditory onset timing and envelope tracking through distinct mechanisms |
+| 在脑刺激反应波动中分离三种变异性和噪声来源 | Ma, K. | [PDF](https://doi.org/10.1101/2024.11.24.625055) | N/A | Separating three variability and noise sources in the response fluctuation of brain stimulation |
+| 热应激通过促进弧菌科（Vibrionaceae）的生长，影响了大西洋鲑鱼的肠道微生物群，并伴随着大量黏液的产生。 | Bowman, J. P. | [PDF](https://doi.org/10.1101/2024.11.23.625002) | N/A | Heat stress impacts the gut microbiome of Atlantic salmon by promoting growth of Vibrionaceae and is associated with extensive cast production |
+| 具有两种不同DNA结合模式的保守ComP结构——使用AlphaFold3、RoseTTAFold2NA、Chai-1进行系统建模及在HADDOCK中重新对接 | Helsem, S. | [PDF](https://doi.org/10.1101/2024.11.23.625027) | N/A | The conserved ComP structure with two distinct DNA binding modes - systematic modeling with AlphaFold3, RoseTTAFold2NA, Chai-1 and re-docking in HADDOCK |
+| 普雷沃氏菌属copri与代谢功能障碍相关脂肪性肝病进展中的肝纤维化进展之间的关联 | Leitman, M. | [PDF](https://doi.org/10.1101/2024.11.22.624957) | N/A | The Association Between Prevotella copri and Advanced Fibrosis in the Progression of Metabolic Dysfunction-Associated Steatotic Liver Disease |
+| 细菌性枯萎病对高良姜可培养内生真菌群落组成和多样性的影响 | Wang, L. | [PDF](https://doi.org/10.1101/2024.11.23.625029) | N/A | Effects of Bacterial Wilt on Community Composition and Diversity of Culturable Endophytic Fungi in Alpinia galanga |
+| 双BONCAT揭示了盐沼沉积物中昼夜活跃的微生物群落的差异 | Maierhaba, Y. | [PDF](https://doi.org/10.1101/2024.11.23.624985) | N/A | Dual-BONCAT Reveals Distinct Day- and Night-Active Microbial Populations in Salt Marsh Sediments |
+| 多样的噬菌体防御系统定义了西非南美大流行霍乱弧菌 | Adams, D. W. | [PDF](https://doi.org/10.1101/2024.11.23.624991) | N/A | Diverse phage defence systems define West African South American pandemic Vibrio cholerae |
+| 亚马孙部落亚诺马米人的皮肤微生物群复杂性挑战了当前对健康皮肤的普遍概念。 | Durack, J. | [PDF](https://doi.org/10.1101/2024.11.23.625008) | N/A | Yanomami skin microbiome complexity challenges prevailing concepts of healthy skin. |
+| 一种由多种菌株组成、能够形成生物膜的枯草芽孢杆菌（Bacillus spp.）和片球菌属（Pediococcus spp.）混合物改变了聚乙烯犊牛舍表面的微生物组成。 | Reynolds, C. A. | [PDF](https://doi.org/10.1101/2024.11.22.624920) | N/A | A Multi-Strain, Biofilm-Forming Cocktail of Bacillus spp. and Pediococcus spp. Alters the Microbial Composition on Polyethylene Calf Housing Surfaces |
+| 接受抗CD49d和肌营养不良蛋白外显子跳跃吗啉代处理的mdx小鼠；力损失减少及基因表达通路改变支持ATL1102联合疗法在DMD患者中的应用。 | Padhye, A. S. | [PDF](https://doi.org/10.1101/2024.11.23.625028) | N/A | Mdx mice dosed with antisense to CD49d and dystrophin exon skip morpholino; reduced force loss and affected gene expression pathways support ATL1102 combination therapy in DMD patients |
+| 登革病毒蛋白酶介导的巨噬细胞激活与极化 | Misra, R. | [PDF](https://doi.org/10.1101/2024.11.23.624958) | N/A | Dengue Protease-Mediated Activation and Polarization of Macrophages |
+| 漆黄素在隐性营养不良性大疱性表皮松解症的小鼠模型中延长了寿命。 | Miller, W. C. | [PDF](https://doi.org/10.1101/2024.11.23.625023) | N/A | Fisetin extends lifespan in a murine model of recessive dystrophic epidermolysis bullosa |
+| 在出芽酵母中，UPR（未折叠蛋白反应）的缺陷揭示了内质网折叠能力与维持整倍体之间的权衡。 | Bartolutti, C. | [PDF](https://doi.org/10.1101/2024.11.22.624941) | N/A | UPR deficiency in budding yeast reveals a trade-off between ER folding capacity and maintenance of euploidy |
+| 功能性分裂tRNA：密码子解码机制的新视角 | Mureev, S. | [PDF](https://doi.org/10.1101/2024.11.24.624523) | N/A | Functional split-tRNA: a new perspective on codon decoding mechanism |
+| 一种偏好腺苷碱基编辑器，具有最小的旁观者效应和脱靶编辑 | Shang, M. | [PDF](https://doi.org/10.1101/2024.11.23.624961) | N/A | A motif preferred adenine base editor with minimal bystander and off-targets editing |
+| 寄生虫、宿主、猎物和环境之间的LINE-RTE逆转录转座子的水平转移。 | Brann, T. | [PDF](https://doi.org/10.1101/2024.11.24.625053) | N/A | Horizontal transfer of a LINE-RTE retrotransposon among parasite, host, prey and environment. |
+| 使用计数分割评估合成重复样本中的RNA速度稳定性 | Li, Y. | [PDF](https://doi.org/10.1101/2024.11.23.625009) | N/A | Assessing RNA velocity stability across syntheticreplicates using count splitting |
+| 哺乳动物进化过程中RNA修饰的保守景观与转录多样性 | Rodriguez, G. S. | [PDF](https://doi.org/10.1101/2024.11.24.624934) | N/A | The conserved landscape of RNA modifications and transcript diversity across mammalian evolution |
+| 非人灵长类动物在情境依赖性物体序列中的灵活学习和重新排序 | Wen, X. | [PDF](https://doi.org/10.1101/2024.11.24.625056) | N/A | Flexible Learning and Re-ordering of Context-dependent Object Sequences in Nonhuman Primates |
+| 3-硝氧基丙醇对荷斯坦牛和瑞士褐牛肠道甲烷排放的不同影响，及其与金合欢单宁提取物缺乏协同作用 | Islam, M. Z. | [PDF](https://doi.org/10.1101/2024.11.24.625036) | N/A | Divergent effects of 3-nitrooxypropanol on enteric methane emissions in Holstein and Brown Swiss cows, and its lack of synergy with Acacia mearnsii tannin extract |
+| TDP-43及其C端片段在体外增强的聚集，而非相分离，产生了深蓝色的自体荧光。 | Saravanan, P. | [PDF](https://doi.org/10.1101/2024.11.23.624964) | N/A | Enhanced in vitro aggregation, but not phase separation, of TDP-43 and its C-terminal fragments generate deep-blue autofluorescence. |
+| 金属感应传感器组氨酸激酶ZraS细胞质域构象动力学的洞察 | Mahapatra, N. | [PDF](https://doi.org/10.1101/2024.11.23.624959) | N/A | Insights into the conformational dynamics of the cytoplasmic domain of metal-sensing sensor histidine kinase ZraS |
+| 采血部位和血样基质影响矿物质评估 | Alejandro, M. G. | [PDF](https://doi.org/10.1101/2024.11.23.625018) | N/A | Blood draw site and blood matrix influence mineral assessment |
+| 使用BERT分词器建模引物-模板相互作用以通过注意力-BiLSTM预测PCR扩增 | Latifian, N. | [PDF](https://doi.org/10.1101/2024.11.23.624986) | N/A | Modeling Primer-Template Interactions using BERT Tokenizer to Predict PCR Amplification with Attention-BiLSTM |
+| MAT2a和AHCY抑制破坏抗氧化代谢并减少胶质母细胞瘤细胞存活 | Rowland, E. C. | [PDF](https://doi.org/10.1101/2024.11.23.624981) | N/A | MAT2a and AHCY Inhibition Disrupts Antioxidant Metabolism and Reduces Glioblastoma Cell Survival |
+| 单CAR-双靶点：抗PD-L1 CAR T细胞的颅内递送有效根除胶质瘤及肿瘤微环境中的免疫抑制细胞。 | Ulloa-Navas, M. J. | [PDF](https://doi.org/10.1101/2024.11.22.624897) | N/A | Single CAR-Dual target: Intracranial Delivery of Anti-PD-L1 CAR T Cells Effectively Eradicates Glioma and Immunosuppressive Cells in the Tumor Microenvironment. |
+| mTOR抑制减轻了tau蛋白磷酸化引起的线粒体功能障碍、氧化应激和认知功能障碍。 | Tang, Z. | [PDF](https://doi.org/10.1101/2024.11.24.625068) | N/A | mTOR inhibition alleviated tau phosphorylation-induced mitochondrial impairment, oxidative stress, and cognitive impairment |
+| 单神经元激活赋予了认知任务中涌现电路解决方案的归纳偏置 | Tolmachev, P. | [PDF](https://doi.org/10.1101/2024.11.23.625012) | N/A | Single-unit activations confer inductive biases for emergent circuit solutions to cognitive tasks |
+| 青少年三重网络动态及其未来饮酒行为 | McIntyre, C. C. | [PDF](https://doi.org/10.1101/2024.11.22.624880) | N/A | Triple network dynamics and future alcohol consumption in adolescents |
+| 阿尔茨海默病风险基因MS4A4A和MS4A6A协同作用，负向调控TREM2及小胶质细胞状态 | Rosner, D. | [PDF](https://doi.org/10.1101/2024.11.23.625001) | N/A | The Alzheimers Disease Risk Genes MS4A4A And MS4A6A Cooperate to Negatively Regulate Trem2 and Microglia states |
+| 控制二元和加权网络中的互惠性：一种新颖的密度保持方法 | Hadaeghi, F. | [PDF](https://doi.org/10.1101/2024.11.24.625064) | N/A | Controlling Reciprocity in Binary and Weighted Networks: A Novel Density-Conserving Approach |
+| 一项关于早期生活压力对前额叶皮层转录组影响的元分析表明，其具有长期影响髓鞘的作用。 | Duan, T. Q. | [PDF](https://doi.org/10.1101/2024.11.22.624315) | N/A | A meta-analysis of the effects of early life stress on the prefrontal cortex transcriptome suggests long-term effects on myelin |
+| 脑特征图揭示了在腹侧流中逐步形成的动物特征表征。 | Zhang, Z. | [PDF](https://doi.org/10.1101/2024.11.24.625066) | N/A | Brain Feature Maps Reveal Progressive Animal-Feature Representations in the Ventral Stream. |
+| 沙门氏菌对胆汁压力的抵抗力因抗氧化酶YqhD介导的排出泵活性降低而受损。 | Parmar, K. | [PDF](https://doi.org/10.1101/2024.11.23.625033) | N/A | The resilience of Salmonella to bile stress is impaired due to the reduced efflux pump activity mediated by the antioxidant enzyme YqhD |
+| 抗生素治疗和微生物群耗竭减缓刺胞动物再生 | Da-Anoy, J. | [PDF](https://doi.org/10.1101/2024.11.24.625057) | N/A | Antibiotic treatment and microbiome depletion slow cnidarian regeneration |
+| 大西洋鲑鱼养殖于温暖水域的胃肠道黏膜层细菌的特性研究 | Hall, K. | [PDF](https://doi.org/10.1101/2024.11.23.625004) | N/A | Characterization of bacteria colonizing the mucosal layer of the gastrointestinal tract of Atlantic salmon farmed in a warm water region |
+| X-信号元件sex-1在胚胎性别决定和剂量补偿中的多层次转录调控 | Jash, E. | [PDF](https://doi.org/10.1101/2024.11.23.624987) | N/A | Multi-level transcriptional regulation of embryonic sex determination and dosage compensation by the X-signal element sex-1 |
 # BioRxiv 2024-11-23 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
