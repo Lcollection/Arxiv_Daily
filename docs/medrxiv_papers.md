@@ -1,3 +1,23 @@
+# MedRxiv 2024-11-25 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 学习可解释的细胞嵌入，以推断单细胞转录组学背后的生物学机制 | Hsieh, K.-L. | [PDF](https://doi.org/10.1101/2024.03.29.24305092) | N/A | Learning interpretable cellular embedding for inferring biological mechanisms underlying single-cell transcriptomics |
+| 解码想象中的手写轨迹，结合形状和时间扭曲损失，用于脑到文本通信 | Xu, G. | [PDF](https://doi.org/10.1101/2024.07.02.24309802) | N/A | Decoding imaginary handwriting trajectories with shape and time distortion loss for brain-to-text communication |
+| 东方饮食 - 来自中国东部的健康饮食模式：其特点及其与肥胖、心血管代谢疾病、死亡率和肠道微生物群的关系 | Shi, Y. | [PDF](https://doi.org/10.1101/2024.07.10.24310112) | N/A | Eastern Diet - A Healthful Dietary Pattern from Eastern China: Its Characteristics and Relation to Adiposity, Cardiometabolic Diseases, Mortality and Gut Microbiota |
+| 全基因组组织相容性对肝移植结果的影响 | Semenova, M. | [PDF](https://doi.org/10.1101/2024.07.16.24310481) | N/A | The impact of genome-wide histocompatibility on liver transplantation outcomes |
+| 微调的大型语言模型用于回答关于全文生物医学研究的问题 | Tao, K. | [PDF](https://doi.org/10.1101/2024.10.28.24316263) | N/A | Fine-tuned large language models for answering questions about full-text biomedical research studies |
+| 苏格兰2000-2021年神经管畸形趋势：在非全麦面粉强制添加叶酸之前的人口基础研究。 | Kirolos, A. | [PDF](https://doi.org/10.1101/2024.11.22.24317787) | N/A | Trends in neural tube defects in Scotland 2000-2021 prior to the introduction of mandatory folic acid fortification of non-wholemeal wheat flour: a population-based study. |
+| 使用重组MG075抗原检测人抗解脲支原体IgG抗体 | Kildemoes, A. O. | [PDF](https://doi.org/10.1101/2024.11.19.24317541) | N/A | Detection of human IgG antibodies against Mycoplasma genitalium using a recombinant MG075 antigen |
+| 对荷兰长期护理机构中SARS-CoV-2感染力的贡献 | de Wit, M. M. | [PDF](https://doi.org/10.1101/2024.11.19.24316339) | N/A | Contributions to the force of infection of SARS-CoV-2 in Dutch long-term care facilities |
+| 推动中心性乳腺癌在整形乳腺手术中的边界：单中心审计 | Koppiker, C. B. | [PDF](https://doi.org/10.1101/2024.11.21.24317412) | N/A | Pushing the Boundaries for Centrally Located Breast Tumors in Oncoplastic Breast Surgery: A Single Centre Audit |
+| COVID-19患者中的高血糖现象：一项探索性研究 | Bisher, m. M. | [PDF](https://doi.org/10.1101/2024.11.15.24317345) | N/A | Elevated Blood Glucose in COVID-19 Patients: An explorative Study |
+| 用于推荐数字心理健康干预措施的因果人工智能 | Varidel, M. | [PDF](https://doi.org/10.1101/2024.11.11.24317126) | N/A | Causal artificial intelligence for recommending interventions in digital mental health |
+| CAIRS：一种面向数字心理健康的因果人工智能推荐系统 | Varidel, M. | [PDF](https://doi.org/10.1101/2024.11.11.24317126) | N/A | CAIRS: A causal artificial intelligence recommendation system for digital mental health |
+| 利用机器学习和孕早期及孕中期的医疗记录预测妊娠高血压疾病 | Mousavi, S. S. | [PDF](https://doi.org/10.1101/2024.11.21.24317720) | N/A | Early Prediction of Hypertensive Disorders of Pregnancy Using Machine Learning and Medical Records from the First and Second Trimesters |
+| 青少年结核病治疗监督中数字依从性技术的应用 | Schraufnagel, A. | [PDF](https://doi.org/10.1101/2024.11.22.24316602) | N/A | Use of a digital adherence technology for tuberculosis treatment supervision among adolescents |
+| 新生儿有效定植追踪预防传播（PROTECT-Neo） | Nguyen, T. | [PDF](https://doi.org/10.1101/2024.11.22.24317721) | N/A | Prevention of Transmissions by Effective Colonisation Tracking in Neonates (PROTECT-Neo) |
+| 全球各国每百万人口注册的介入性临床试验数量 | Bjerg, J. L. | [PDF](https://doi.org/10.1101/2024.11.22.24317736) | N/A | Number of Interventional Clinical Trials Registered per Million Population per Country Worldwide |
 # MedRxiv 2024-11-24 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
