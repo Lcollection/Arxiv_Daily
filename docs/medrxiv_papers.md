@@ -1,3 +1,32 @@
+# MedRxiv 2024-11-27 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 全球基因组监测的团结协作有助于早期发现呼吸道病毒威胁 | de Jong, S. P. J. | [PDF](https://doi.org/10.1101/2023.11.01.23297901) | N/A | Global solidarity in genomic surveillance improves early detection of respiratory virus threats |
+| 单卵双生和双卵双生双胞胎的转录组学和代谢组学分析。 | Hubers, N. | [PDF](https://doi.org/10.1101/2024.06.25.24309452) | N/A | Transcriptomic and Metabolomic analyses in Monozygotic and Dizygotic twins. |
+| PodGPT：一种用于研究和教育的音频增强大型语言模型 | Jia, S. | [PDF](https://doi.org/10.1101/2024.07.11.24310304) | N/A | PodGPT: An audio-augmented large language model for research and education |
+| 睡眠规律指数作为中风幸存者睡眠障碍的新型指标：二次数据分析 | Schruers, K. B. | [PDF](https://doi.org/10.1101/2024.11.19.24317536) | N/A | Sleep Regularity Index as a Novel Indicator of Sleep Disturbance in Stroke Survivors: A Secondary Data Analysis |
+| 一种基于广义视觉变换器的自监督模型，用于使用组织学图像诊断和分级前列腺癌 | Chaurasia, A. | [PDF](https://doi.org/10.1101/2024.11.22.24317776) | N/A | A generalised vision transformer-based self-supervised model for diagnosing and grading prostate cancer using histological images |
+| 基于深度学习的儿科脑电图实时癫痫检测与多癫痫分类 | Jeong, H. | [PDF](https://doi.org/10.1101/2024.11.25.24317933) | N/A | Deep Learning-based Real-Time Seizure Detection and Multi-Seizure Classification on Pediatric EEG |
+| 利用暴露共同调控的性状的全基因组关联研究汇总统计数据进行潜在暴露的贝叶斯孟德尔随机化分析 | Yu, Y. | [PDF](https://doi.org/10.1101/2024.11.25.24317939) | N/A | Bayesian Mendelian Randomization Analysis for Latent Exposures Leveraging GWAS Summary Statistics for Traits Co-Regulated by the Exposures |
+| 开发针对新诊断的急性髓系白血病患者使用维奈托克和阿扎胞苷治疗的动态反事实风险分层策略 | Islam, N. | [PDF](https://doi.org/10.1101/2024.11.25.24317750) | N/A | Development of a dynamic counterfactual risk stratification strategy for newly diagnosed acute myeloid leukemia patients treated with venetoclax and azacitidine |
+| NVX-CoV2373和BNT162b2 mRNA COVID-19疫苗在韩国的实际效果 | Gwak, E. | [PDF](https://doi.org/10.1101/2024.11.26.24317925) | N/A | Real-world effectiveness of NVX-CoV2373 and BNT162b2 mRNA COVID-19 vaccination in South Korea |
+| 去中心化长期新冠试验的群体代表性：与2023年全国健康访谈调查的比较 | Sawano, M. | [PDF](https://doi.org/10.1101/2024.11.25.24317941) | N/A | Demographic Representation of a Decentralized Long COVID Trial: A Comparison with the 2023 National Health Interview Survey |
+| 加拿大社区环境中COVID治疗适应性平台试验（CanTreatCOVID）：针对社区环境中急性SARS-CoV-2感染治疗的随机对照适应性平台试验协议 | Hosseini, B. | [PDF](https://doi.org/10.1101/2024.11.25.24317904) | N/A | Canadian Adaptive Platform Trial of Treatments for COVID in Community Settings (CanTreatCOVID): protocol for a randomized controlled adaptive platform trial of treatments for acute SARS-CoV-2 infection in community settings |
+| 低级别动脉瘤性蛛网膜下腔出血的长期预后：一项多中心观察性队列研究 | Wang, B. | [PDF](https://doi.org/10.1101/2024.11.25.24317947) | N/A | Long-term Outcomes of Poor-grade Aneurysmal Subarachnoid Haemorrhage: A Multicentre Observational Cohort Study |
+| 美国青少年中心血管-肾脏-代谢阶段流行情况及其与社会健康决定因素的关系 | Baker-Smith, C. M. | [PDF](https://doi.org/10.1101/2024.11.25.24317946) | N/A | Prevalence of Cardiovascular-Kidney-Metabolic Stages in US Adolescents and Relationship to Social Determinants of Health |
+| 计算建模能够对肥胖手术后餐后血糖和胰岛素反应进行个体评估 | Poyraz, O. | [PDF](https://doi.org/10.1101/2024.11.25.24317927) | N/A | Computational modeling enables individual assessment of postprandial glucose and insulin responses after bariatric surgery |
+| 进化驱动下mpox群体性出现的风险：适度干预的悖论效应 | Nedenyi, F. | [PDF](https://doi.org/10.1101/2024.11.26.24317969) | N/A | Risk of evolution driven population-wide emergence of mpox: the paradoxic effect of moderate interventions |
+| 系统评价和Meta分析协议：评估HIV感染者（PLHIV）与未感染HIV人群之间高血压的关联及风险因素 | Rossato, S. L. | [PDF](https://doi.org/10.1101/2024.11.25.24317915) | N/A | Protocol for a systematic review and meta-analysis to assess the association and risk factors for hypertension in people living with HIV (PLHIV), compared with the HIV-uninfected population |
+| 利用聚合移动电话数据构建概率性人类移动模式以估算总暴露量和病原体传播 | Facelli, J. C. | [PDF](https://doi.org/10.1101/2024.11.26.24317970) | N/A | Constructing Probabilistic Human Mobility Patterns for Estimating Total Exposures and Pathogen Transmission Using Aggregate Mobile Phone Data |
+| 肝细胞癌中PIVKA-II + AFP与PIVKA-II AFP-L3的诊断价值：一项系统综述与荟萃分析。 | Ibn Awadh, A. | [PDF](https://doi.org/10.1101/2024.11.25.24317930) | N/A | Diagnostic value of PIVKA-II + AFP and PIVKA-II AFP-L3 in hepatocellular carcinoma: a systematic review and meta-analysis. |
+| 韩国老年人握力、握力不对称与焦虑之间的关联：2022年韩国国民健康与营养调查 | Choi, S.-Y. | [PDF](https://doi.org/10.1101/2024.11.25.24317931) | N/A | Association between handgrip strength, handgrip strength asymmetry, and anxiety in older Korean adults: The Korean National Health and Nutrition Examination Survey 2022 |
+| 认知行为疗法中进食障碍患者的抗焦虑管理：质量改进简报报告 | Garrison, S. R. | [PDF](https://doi.org/10.1101/2024.11.25.24317936) | N/A | Anxiolytic management in eating disorder patients receiving cognitive behavioral therapy: A quality improvement brief report |
+| 一项为期2年的纵向研究，探讨早期精神病中岛叶亚区域体积的变化 | Kittleson, A. R. | [PDF](https://doi.org/10.1101/2024.11.25.24317916) | N/A | A 2-year longitudinal investigation of insula subregional volumes in early psychosis |
+| 协议：厄瓜多尔公立医院中专科医疗服务等待时间及获取方式。 | Armijos Briones, M. | [PDF](https://doi.org/10.1101/2024.11.25.24317843) | N/A | Protocol: Waiting time and ways of accessing specialized health services in public hospitals in Ecuador. |
+| 全面评估AT(N)成像生物标志物在预测认知能力方面的表现 | Earnest, T. | [PDF](https://doi.org/10.1101/2024.11.25.24317943) | N/A | Comprehensive evaluation of AT(N) imaging biomarkers for predicting cognition |
+| 多祖先全基因组关联研究揭示了肺功能下降的新遗传信号 | Patchen, B. K. | [PDF](https://doi.org/10.1101/2024.11.25.24317794) | N/A | Multi-ancestry genome-wide association study reveals novel genetic signals for lung function decline |
+| 全外显子测序揭示先天性牙齿发育不全的关键遗传变异：一种整合组学方法 | Ranjan, P. | [PDF](https://doi.org/10.1101/2024.11.26.24317461) | N/A | Whole Exome Sequencing Uncovers Key Genetic Variants in Congenital Tooth Agenesis: An Integrative Omics Approach |
 # MedRxiv 2024-11-26 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 

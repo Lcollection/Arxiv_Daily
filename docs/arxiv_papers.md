@@ -1,3 +1,207 @@
+# Arxiv 2024-11-27 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 用于增强三维场景外观建模的纹理高斯方法 | Brian Chao | [PDF](http://arxiv.org/pdf/2411.18625v1) | N/A | Textured Gaussians for Enhanced 3D Scene Appearance Modeling |
+| GeneMAN：从多源人体数据中泛化单张图像的三维人体重建 | Wentao Wang | [PDF](http://arxiv.org/pdf/2411.18624v1) | N/A | GeneMAN: Generalizable Single-Image 3D Human Reconstruction from Multi-Source Human Data |
+| Lift3D基金会政策：提升2D大规模预训练模型以实现稳健的3D机器人操作 | Yueru Jia | [PDF](http://arxiv.org/pdf/2411.18623v1) | N/A | Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation |
+| 利用半监督学习提升在有限标注数据情况下的图像分类数据挖掘 | Aoran Shen | [PDF](http://arxiv.org/pdf/2411.18622v1) | N/A | Leveraging Semi-Supervised Learning to Enhance Data Mining for Image Classification under Limited Labeled Data |
+| 多模态大语言模型中的跨模态信息流 | Zhi Zhang | [PDF](http://arxiv.org/pdf/2411.18620v1) | N/A | Cross-modal Information Flow in Multimodal Large Language Models |
+| 零样本定制图像生成的扩散自蒸馏 | Shengqu Cai | [PDF](http://arxiv.org/pdf/2411.18616v1) | N/A | Diffusion Self-Distillation for Zero-Shot Customized Image Generation |
+| 多任务学习中的主动梯度冲突缓解：一种稀疏训练视角 | Zhi Zhang | [PDF](http://arxiv.org/pdf/2411.18615v1) | N/A | Proactive Gradient Conflict Mitigation in Multi-Task Learning: A Sparse Training Perspective |
+| CAT4D：利用多视角视频扩散模型在4D中创造一切 | Rundi Wu | [PDF](http://arxiv.org/pdf/2411.18613v1) | N/A | CAT4D: Create Anything in 4D with Multi-View Video Diffusion Models |
+| 鲁棒的离线强化学习与线性结构化的$f$-散度正则化 | Cheng Tang | [PDF](http://arxiv.org/pdf/2411.18612v1) | N/A | Robust Offline Reinforcement Learning with Linearly Structured $f$-Divergence Regularization |
+| 通过一次联邦学习的视角进行任务算术 | Zhixu Tao | [PDF](http://arxiv.org/pdf/2411.18607v1) | N/A | Task Arithmetic Through The Lens Of One-Shot Federated Learning |
+| 评估和提升合成胸部X光片在医学图像分析中的有效性 | Eva Prakash | [PDF](http://arxiv.org/pdf/2411.18602v1) | N/A | Evaluating and Improving the Effectiveness of Synthetic Chest X-Rays for Medical Image Analysis |
+| 每秒百万光平面的结构光 | Dhawal Sirikonda | [PDF](http://arxiv.org/pdf/2411.18597v1) | N/A | Structured light with a million light planes per second |
+| 利用移动机器人对土壤样本进行生物分子分析及岩石影像分析，以追踪生命迹象的证据 | Shah Md Ahasan Siddique | [PDF](http://arxiv.org/pdf/2411.18594v1) | N/A | Biomolecular Analysis of Soil Samples and Rock Imagery for Tracing Evidence of Life Using a Mobile Robot |
+| 用于广义高效图像恢复的分层信息流 | Yawei Li | [PDF](http://arxiv.org/pdf/2411.18588v1) | N/A | Hierarchical Information Flow for Generalized Efficient Image Restoration |
+| 使用NLP技术和基于大语言模型的检索增强生成进行自动化文献综述 | Nurshat Fateh Ali | [PDF](http://arxiv.org/pdf/2411.18583v1) | N/A | Automated Literature Review Using NLP Techniques and LLM-Based Retrieval-Augmented Generation |
+| 利用机器学习方法探索复合系统描述的空间 | Kieran A. Murphy | [PDF](http://arxiv.org/pdf/2411.18579v1) | N/A | Surveying the space of descriptions of a composite system with machine learning |
+| 利用条件互信息对深度卷积神经网络进行剪枝 | Tien Vu-Van | [PDF](http://arxiv.org/pdf/2411.18578v1) | N/A | Pruning Deep Convolutional Neural Network Using Conditional Mutual Information |
+| 代码混合嵌入在仇恨言论识别中的重要性 | Shruti Jagdale | [PDF](http://arxiv.org/pdf/2411.18577v1) | N/A | On Importance of Code-Mixed Embeddings for Hate Speech Identification |
+| 基于连续Shapley值的功能相关性 | Pedro Delicado | [PDF](http://arxiv.org/pdf/2411.18575v1) | N/A | Functional relevance based on the continuous Shapley value |
+| 探索深度信息以检测被篡改的人脸视频 | Haoyue Wang | [PDF](http://arxiv.org/pdf/2411.18572v1) | N/A | Exploring Depth Information for Detecting Manipulated Face Videos |
+| 使用LoRA PEFT调优将多语言大型语言模型（LLMs）适应于低资源语言所面临的挑战 | Omkar Khade | [PDF](http://arxiv.org/pdf/2411.18571v1) | N/A | Challenges in Adapting Multilingual LLMs to Low-Resource Languages using LoRA PEFT Tuning |
+| 建立对深度生成蛋白质设计的信心 | Tianyuan Zheng | [PDF](http://arxiv.org/pdf/2411.18568v1) | N/A | Building Confidence in Deep Generative Protein Design |
+| 一个神经符号集成管道，用于增强大型语言模型中的空间推理能力 | Rong Wang | [PDF](http://arxiv.org/pdf/2411.18564v1) | N/A | A Pipeline of Neural-Symbolic Integration to Enhance Spatial Reasoning in Large Language Models |
+| DexDiffuser：面向自适应灵巧操作的交互感知扩散规划 | Zhixuan Liang | [PDF](http://arxiv.org/pdf/2411.18562v1) | N/A | DexDiffuser: Interaction-aware Diffusion Planning for Adaptive Dexterous Manipulation |
+| 通过动态分词技术改造（大型）语言模型 | Darius Feher | [PDF](http://arxiv.org/pdf/2411.18553v1) | N/A | Retrofitting (Large) Language Models with Dynamic Tokenization |
+| FAM扩散：通过频率和注意力调制实现高分辨率图像生成与稳定扩散 | Haosen Yang | [PDF](http://arxiv.org/pdf/2411.18552v1) | N/A | FAM Diffusion: Frequency and Attention Modulation for High-Resolution Image Generation with Stable Diffusion |
+| 马尔可夫决策过程中累积奖励的集中性 | Borna Sayedana | [PDF](http://arxiv.org/pdf/2411.18551v1) | N/A | Concentration of Cumulative Reward in Markov Decision Processes |
+| PhyCAGE：从单张图像生成物理上合理的组合式三维资产 | Han Yan | [PDF](http://arxiv.org/pdf/2411.18548v1) | N/A | PhyCAGE: Physically Plausible Compositional 3D Asset Generation from a Single Image |
+| AdaVLN：在连续室内环境中实现与移动人类互动的视觉语言导航 | Dillon Loh | [PDF](http://arxiv.org/pdf/2411.18539v1) | N/A | AdaVLN: Towards Visual Language Navigation in Continuous Indoor Environments with Moving Humans |
+| 利用均值教师模型结合Supcontrast损失函数进行晶圆图案识别 | Qiyu Wei | [PDF](http://arxiv.org/pdf/2411.18533v1) | N/A | Utilizing the Mean Teacher with Supcontrast Loss for Wafer Pattern Recognition |
+| AI中自我身份的涌现：基于生成式大型语言模型的数学框架与实证研究 | Minhyeok Lee | [PDF](http://arxiv.org/pdf/2411.18530v1) | N/A | Emergence of Self-Identity in AI: A Mathematical Framework and Empirical Study with Generative Large Language Models |
+| AI安全神经人工智能 | Patrick Mineault | [PDF](http://arxiv.org/pdf/2411.18526v1) | N/A | NeuroAI for AI Safety |
+| 基于扰动本体论的图注意力网络 | Yichen Wang | [PDF](http://arxiv.org/pdf/2411.18520v1) | N/A | Perturbation Ontology based Graph Attention Networks |
+| 一种融入人才的政策梯度方法，用于高效协同设计多机器人系统的形态和任务分配行为 | Prajit KrisshnaKumar | [PDF](http://arxiv.org/pdf/2411.18519v1) | N/A | A Talent-infused Policy-gradient Approach to Efficient Co-Design of Morphology and Task Allocation Behavior of Multi-Robot Systems |
+| 依赖分析师生存：从Yara规则中提取特征用于恶意软件检测 | Siddhant Gupta | [PDF](http://arxiv.org/pdf/2411.18516v1) | N/A | Living off the Analyst: Harvesting Features from Yara Rules for Malware Detection |
+| 通过基于生成式人工智能的图像增强技术提升杂草检测性能 | Sourav Modak | [PDF](http://arxiv.org/pdf/2411.18513v1) | N/A | Enhancing weed detection performance by means of GenAI-based image augmentation |
+| LLM-ABBA：通过符号近似理解时间序列 | Erin Carson | [PDF](http://arxiv.org/pdf/2411.18506v1) | N/A | LLM-ABBA: Understand time series via symbolic approximation |
+| 等距追踪 | Samson Koelle | [PDF](http://arxiv.org/pdf/2411.18502v1) | N/A | Isometry pursuit |
+| GATE开放：评估开放式交错图文生成的综合基准 | Pengfei Zhou | [PDF](http://arxiv.org/pdf/2411.18499v1) | N/A | GATE OpenING: A Comprehensive Benchmark for Judging Open-ended Interleaved Image-Text Generation |
+| 具身神经代理的集体决策 | Nicolas Coucke | [PDF](http://arxiv.org/pdf/2411.18498v1) | N/A | Collective decision making by embodied neural agents |
+| 多选学习用于高效分离多说话人语音 | David Perera | [PDF](http://arxiv.org/pdf/2411.18497v1) | N/A | Multiple Choice Learning for Efficient Speech Separation with Many Speakers |
+| SPTTE：一种用于行程时间估计的时空概率框架 | Chen Xu | [PDF](http://arxiv.org/pdf/2411.18484v1) | N/A | SPTTE: A Spatiotemporal Probabilistic Framework for Travel Time Estimation |
+| SoK: 人工智能生成内容的数字水印技术 | Xuandong Zhao | [PDF](http://arxiv.org/pdf/2411.18479v1) | N/A | SoK: Watermarking for AI-Generated Content |
+| 超越示例：通过蒙特卡洛树搜索实现的高级上下文学习自动推理范式 | Jinyang Wu | [PDF](http://arxiv.org/pdf/2411.18478v1) | N/A | Beyond Examples: High-level Automated Reasoning Paradigm in In-Context Learning via MCTS |
+| 室内环境下多模态传感器扩展目标跟踪的比较 | Jiangtao Shuai | [PDF](http://arxiv.org/pdf/2411.18476v1) | N/A | A comparison of extended object tracking with multi-modal sensors in indoor environment |
+| 考虑多时相信息的弱监督框架用于大规模农田卫星影像制图 | Yuze Wang | [PDF](http://arxiv.org/pdf/2411.18475v1) | N/A | Weakly Supervised Framework Considering Multi-temporal Information for Large-scale Cropland Mapping with Satellite Imagery |
+| HEMGS：一种用于三维高斯喷射数据压缩的混合熵模型 | Lei Liu | [PDF](http://arxiv.org/pdf/2411.18473v1) | N/A | HEMGS: A Hybrid Entropy Model for 3D Gaussian Splatting Data Compression |
+| 通过语义嵌入和对比学习将作者身份与内容分离 | Javier Huertas-Tato | [PDF](http://arxiv.org/pdf/2411.18472v1) | N/A | Isolating authorship from content with semantic embeddings and contrastive learning |
+| 总统言论（1958-2022） | Dominique Labbé | [PDF](http://arxiv.org/pdf/2411.18468v1) | N/A | Parole de présidents (1958-2022) |
+| 复杂度专家是针对任何图像复原任务的区分性学习者 | Eduard Zamfir | [PDF](http://arxiv.org/pdf/2411.18466v1) | N/A | Complexity Experts are Task-Discriminative Learners for Any Image Restoration |
+| 草稿模型知道何时停止：一种用于推测解码的自验证长度策略 | Ziyin Zhang | [PDF](http://arxiv.org/pdf/2411.18462v1) | N/A | Draft Model Knows When to Stop: A Self-Verification Length Policy for Speculative Decoding |
+| 物理信息驱导的深度算子网络学到了什么？理解和改进科学计算应用的训练 | Emily Williams | [PDF](http://arxiv.org/pdf/2411.18459v1) | N/A | What do physics-informed DeepONets learn? Understanding and improving training for scientific computing applications |
+| 合成心电图生成用于心律失常分类中的数据增强和迁移学习 | José Fernando Núñez | [PDF](http://arxiv.org/pdf/2411.18456v1) | N/A | Synthetic ECG Generation for Data Augmentation and Transfer Learning in Arrhythmia Classification |
+| 穿戴设备在心肌梗死检测与分类方面的进展：全面综述 | Abhijith S | [PDF](http://arxiv.org/pdf/2411.18451v1) | N/A | Advancements in Myocardial Infarction Detection and Classification Using Wearable Devices: A Comprehensive Review |
+| 噪声增强的连续自回归模型避免误差累积 | Marco Pasini | [PDF](http://arxiv.org/pdf/2411.18447v1) | N/A | Continuous Autoregressive Models with Noise Augmentation Avoid Error Accumulation |
+| 我的会议总结好吗？使用多语言模型评估器进行质量评估 | Frederic Kirstein | [PDF](http://arxiv.org/pdf/2411.18444v1) | N/A | Is my Meeting Summary Good? Estimating Quality with a Multi-LLM Evaluator |
+| Metric-DST：通过多样性引导的半监督度量学习缓解选择偏差 | Yasin I. Tepeli | [PDF](http://arxiv.org/pdf/2411.18442v1) | N/A | Metric-DST: Mitigating Selection Bias Through Diversity-Guided Semi-Supervised Metric Learning |
+| 通过扩散模型学习星系的物理结构演化 | Andrew Lizarraga | [PDF](http://arxiv.org/pdf/2411.18440v1) | N/A | Learning the Evolution of Physical Structure of Galaxies via Diffusion Models |
+| 一个端到端的智能“预测-然后-优化”框架，用于大规模车辆众包感知中的车辆重定位问题 | Xinyu Wang | [PDF](http://arxiv.org/pdf/2411.18432v1) | N/A | An End-to-End Smart Predict-then-Optimize Framework for Vehicle Relocation Problems in Large-Scale Vehicle Crowd Sensing |
+| MM-Path：多模态、多粒度路径表示学习 -- 扩展版本 | Ronghui Xu | [PDF](http://arxiv.org/pdf/2411.18428v1) | N/A | MM-Path: Multi-modal, Multi-granularity Path Representation Learning -- Extended Version |
+| 简化贝叶斯深度学习中的预测 | Rui Li | [PDF](http://arxiv.org/pdf/2411.18425v1) | N/A | Streamlining Prediction in Bayesian Deep Learning |
+| FastSwitch：优化公平感知的大语言模型服务中的上下文切换效率 | Ao Shen | [PDF](http://arxiv.org/pdf/2411.18424v1) | N/A | FastSwitch: Optimizing Context Switching Efficiency in Fairness-aware Large Language Model Serving |
+| 神经图像展开：利用神经场展平稀疏的解剖结构 | Leonhard Rist | [PDF](http://arxiv.org/pdf/2411.18415v1) | N/A | Neural Image Unfolding: Flattening Sparse Anatomical Structures using Neural Fields |
+| 自适应盲全功能图像恢复 | David Serrano-Lozano | [PDF](http://arxiv.org/pdf/2411.18412v1) | N/A | Adaptive Blind All-in-One Image Restoration |
+| 保存信息：拓扑数据分析如何提升神经网络性能？ | A. Stolarek | [PDF](http://arxiv.org/pdf/2411.18410v1) | N/A | Preserving Information: How does Topological Data Analysis improve Neural Network performance? |
+| 深度傅里叶嵌入网络用于双模态显著目标检测 | Pengfei Lyu | [PDF](http://arxiv.org/pdf/2411.18409v1) | N/A | Deep Fourier-embedded Network for Bi-modal Salient Object Detection |
+| 一座桥何时变成了一架飞机？ | Tina A. Dardeno | [PDF](http://arxiv.org/pdf/2411.18406v1) | N/A | When does a bridge become an aeroplane? |
+| 政治家与ChatGPT：法语和意大利语政治传播中的预设研究 | Davide Garassino | [PDF](http://arxiv.org/pdf/2411.18403v1) | N/A | Politicians vs ChatGPT. A study of presuppositions in French and Italian political communication |
+| GeneQuery：一种基于问答的通用框架，用于从组织学图像中预测空间基因表达 | Ying Xiong | [PDF](http://arxiv.org/pdf/2411.18391v1) | N/A | GeneQuery: A General QA-based Framework for Spatial Gene Expression Predictions from Histology Images |
+| 卷积神经网络确实可以与预定义的滤波器一起工作。 | Christoph Linse | [PDF](http://arxiv.org/pdf/2411.18388v1) | N/A | Convolutional Neural Networks Do Work with Pre-Defined Filters |
+| 通过高效的二阶优化实现不确定性下的联邦学习与个性化 | Shivam Pal | [PDF](http://arxiv.org/pdf/2411.18385v1) | N/A | Federated Learning with Uncertainty and Personalization via Efficient Second-order Optimization |
+| 下一代网络可编程数据平面的安全设计中学习功能的优化网络内分发 | Mattia Giovanni Spina | [PDF](http://arxiv.org/pdf/2411.18384v1) | N/A | Optimal In-Network Distribution of Learning Functions for a Secure-by-Design Programmable Data Plane of Next-Generation Networks |
+| 日本网络媒体对核能报道的主题建模与情感分析 | Yifan Sun | [PDF](http://arxiv.org/pdf/2411.18383v1) | N/A | Topic Modeling and Sentiment Analysis on Japanese Online Media's Coverage of Nuclear Energy |
+| 将ChatGPT作为法国总统的演讲稿撰写者 | Dominique Labbé | [PDF](http://arxiv.org/pdf/2411.18382v1) | N/A | ChatGPT as speechwriter for the French presidents |
+| XR-MBT：通过自监督学习深度点云配准实现的多模态全身追踪 | Denys Rozumnyi | [PDF](http://arxiv.org/pdf/2411.18377v1) | N/A | XR-MBT: Multi-modal Full Body Tracking for XR through Self-Supervision with Learned Depth Point Cloud Registration |
+| 在一剪枝中保留深层表示：一种无海森矩阵的二阶优化框架 | Ryan Lucas | [PDF](http://arxiv.org/pdf/2411.18376v1) | N/A | Preserving Deep Representations In One-Shot Pruning: A Hessian-Free Second-Order Optimization Framework |
+| 视频扩散模型的个体内容与运动动力学保留剪枝 | Yiming Wu | [PDF](http://arxiv.org/pdf/2411.18375v1) | N/A | Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models |
+| G3Flow：用于姿态感知和通用物体操控的生成式3D语义流 | Tianxing Chen | [PDF](http://arxiv.org/pdf/2411.18369v1) | N/A | G3Flow: Generative 3D Semantic Flow for Pose-aware and Generalizable Object Manipulation |
+| AMPS：多模态释义监督下的自动语音识别 | Amruta Parulekar | [PDF](http://arxiv.org/pdf/2411.18368v1) | N/A | AMPS: ASR with Multimodal Paraphrase Supervision |
+| GPT作为白宫的幽灵写手 | Jacques Savoy | [PDF](http://arxiv.org/pdf/2411.18365v1) | N/A | GPT as ghostwriter at the White House |
+| ChatRex：驯服多模态大型语言模型以实现联合感知与理解 | Qing Jiang | [PDF](http://arxiv.org/pdf/2411.18363v1) | N/A | ChatRex: Taming Multimodal LLM for Joint Perception and Understanding |
+| TryOffDiff：利用扩散模型实现高保真度服装重建的虚拟试穿 | Riza Velioglu | [PDF](http://arxiv.org/pdf/2411.18350v1) | N/A | TryOffDiff: Virtual-Try-Off via High-Fidelity Garment Reconstruction using Diffusion Models |
+| FreqX：神经网络所学习的内容，正是网络设计者所言。 | Zechen Liu | [PDF](http://arxiv.org/pdf/2411.18343v1) | N/A | FreqX: What neural networks learn is what network designers say |
+| 大型语言模型能否解决歧义问题？对多种大型语言模型在词义消歧方面的定量评估 | T. G. D. K. Sumanathilaka | [PDF](http://arxiv.org/pdf/2411.18337v1) | N/A | Can LLMs assist with Ambiguity? A Quantitative Evaluation of various Large Language Models on Word Sense Disambiguation |
+| Helvipad：用于全方位立体深度估计的真实世界数据集 | Mehdi Zayene | [PDF](http://arxiv.org/pdf/2411.18335v1) | N/A | Helvipad: A Real-World Dataset for Omnidirectional Stereo Depth Estimation |
+| EventCrab：利用帧和点协同作用进行基于事件的动作识别及超越 | Meiqi Cao | [PDF](http://arxiv.org/pdf/2411.18328v1) | N/A | EventCrab: Harnessing Frame and Point Synergy for Event-based Action Recognition and Beyond |
+| RITA：弹性物联网应用设计的自动化框架 | Luis Eduardo Pessoa | [PDF](http://arxiv.org/pdf/2411.18324v1) | N/A | RITA: Automatic Framework for Designing of Resilient IoT Applications |
+| 专家混合在图像分类中的应用：最佳平衡点在哪里？ | Mathurin Videau | [PDF](http://arxiv.org/pdf/2411.18322v1) | N/A | Mixture of Experts in Image Classification: What's the Sweet Spot? |
+| 学习MILP的最优目标值 | Lara Scavuzzo | [PDF](http://arxiv.org/pdf/2411.18321v1) | N/A | Learning optimal objective values for MILP |
+| 使用梯度情景记忆的机器语音链中的持续学习 | Geoffrey Tyndall | [PDF](http://arxiv.org/pdf/2411.18320v1) | N/A | Continual Learning in Machine Speech Chain Using Gradient Episodic Memory |
+| 利用卷积神经网络（CNN）的实时视频目标跟踪算法 | Chaoyi Tan | [PDF](http://arxiv.org/pdf/2411.18314v1) | N/A | Real-time Video Target Tracking Algorithm Utilizing Convolutional Neural Networks (CNN) |
+| 神经表面先验在可编辑高斯喷射中的应用 | Jakub Szymkowiak | [PDF](http://arxiv.org/pdf/2411.18311v1) | N/A | Neural Surface Priors for Editable Gaussian Splatting |
+| MvKeTR：基于多视角感知与知识增强的胸部CT报告生成 | Xiwei Deng | [PDF](http://arxiv.org/pdf/2411.18309v1) | N/A | MvKeTR: Chest CT Report Generation with Multi-View Perception and Knowledge Enhancement |
+| 软演员-评论家算法在优化含时滞污水处理中的应用 | Esmaeel Mohammadi | [PDF](http://arxiv.org/pdf/2411.18305v1) | N/A | Application of Soft Actor-Critic Algorithms in Optimizing Wastewater Treatment with Time Delays Integration |
+| InfiniDreamer：通过分段评分蒸馏生成任意长度的人类动作 | Wenjie Zhuo | [PDF](http://arxiv.org/pdf/2411.18303v1) | N/A | InfiniDreamer: Arbitrarily Long Human Motion Generation via Segment Score Distillation |
+| 增强基于MMDiT的文本到图像模型以生成相似主题的内容 | Tianyi Wei | [PDF](http://arxiv.org/pdf/2411.18301v1) | N/A | Enhancing MMDiT-Based Text-to-Image Models for Similar Subject Generation |
+| HUPE：基于启发式的水下感知增强与语义协同学习 | Zengxi Zhang | [PDF](http://arxiv.org/pdf/2411.18296v1) | N/A | HUPE: Heuristic Underwater Perceptual Enhancement with Semantic Collaborative Learning |
+| 对齐用于口语翻译的预训练模型 | Šimon Sedláček | [PDF](http://arxiv.org/pdf/2411.18294v1) | N/A | Aligning Pre-trained Models for Spoken Language Translation |
+| HiFiVFS：高保真视频人脸交换 | Xu Chen | [PDF](http://arxiv.org/pdf/2411.18293v1) | N/A | HiFiVFS: High Fidelity Video Face Swapping |
+| 利用语义不对称性实现鼻咽癌计划CT中精确的总体肿瘤体积分割 | Zi Li | [PDF](http://arxiv.org/pdf/2411.18290v1) | N/A | Leveraging Semantic Asymmetry for Precise Gross Tumor Volume Segmentation of Nasopharyngeal Carcinoma in Planning CT |
+| 不要让你的机器人造成伤害：负责任的机器人操作 | Minheng Ni | [PDF](http://arxiv.org/pdf/2411.18289v1) | N/A | Don't Let Your Robot be Harmful: Responsible Robotic Manipulation |
+| 优化多光谱目标检测：技巧包与综合基准 | Chen Zhou | [PDF](http://arxiv.org/pdf/2411.18288v1) | N/A | Optimizing Multispectral Object Detection: A Bag of Tricks and Comprehensive Benchmarks |
+| 双分支模型DualCast：从交通序列中分离非周期性事件 | Xinyu Su | [PDF](http://arxiv.org/pdf/2411.18286v1) | N/A | DualCast: Disentangling Aperiodic Events from Traffic Series with a Dual-Branch Model |
+| 运动角色：身份保持和运动可控的人类视频生成 | Haopeng Fang | [PDF](http://arxiv.org/pdf/2411.18281v1) | N/A | MotionCharacter: Identity-Preserving and Motion Controllable Human Video Generation |
+| 通过信息冲突中和后门攻击的大语言模型 | Chen Chen | [PDF](http://arxiv.org/pdf/2411.18280v1) | N/A | Neutralizing Backdoors through Information Conflicts for Large Language Models |
+| 大型语言模型驱动的图形用户界面代理：综述 | Chaoyun Zhang | [PDF](http://arxiv.org/pdf/2411.18279v1) | N/A | Large Language Model-Brained GUI Agents: A Survey |
+| 大规模模型助力普及无线感知 | Shun Hu | [PDF](http://arxiv.org/pdf/2411.18277v1) | N/A | Large Models Enabled Ubiquitous Wireless Sensing |
+| GAPartManip：一个大规模的以部件为中心的数据集，用于与材料无关的铰接物体操作 | Wenbo Cui | [PDF](http://arxiv.org/pdf/2411.18276v1) | N/A | GAPartManip: A Large-scale Part-centric Dataset for Material-Agnostic Articulated Object Manipulation |
+| 视觉对抗攻击在自动驾驶中的视觉-语言模型 | Tianyuan Zhang | [PDF](http://arxiv.org/pdf/2411.18275v1) | N/A | Visual Adversarial Attack on Vision-Language Models for Autonomous Driving |
+| 加速神经形态硬件在线训练的新兴海布里安突触 | Shubham Pande | [PDF](http://arxiv.org/pdf/2411.18272v1) | N/A | NeoHebbian Synapses to Accelerate Online Training of Neuromorphic Hardware |
+| 网格增强视觉：一种简单而有效的多模态代理空间理解增强方法 | Joongwon Chae | [PDF](http://arxiv.org/pdf/2411.18270v1) | N/A | Grid-augumented vision: A simple yet effective approach for enhanced spatial understanding in multi-modal agents |
+| 联邦学习中的隐藏数据隐私泄露 | Xueluan Gong | [PDF](http://arxiv.org/pdf/2411.18269v1) | N/A | Hidden Data Privacy Breaches in Federated Learning |
+| 基于双层对比学习框架的不完全多视角多标签分类 | Bingyan Nie | [PDF](http://arxiv.org/pdf/2411.18267v1) | N/A | Incomplete Multi-view Multi-label Classification via a Dual-level Contrastive Learning Framework |
+| 可穿戴智能喉部设备使中风后构音障碍患者能够进行自然语音交流 | Chenyu Tang | [PDF](http://arxiv.org/pdf/2411.18266v1) | N/A | Wearable intelligent throat enables natural speech in stroke patients with dysarthria |
+| TSD-SR：一步扩散与目标分数蒸馏用于真实世界图像超分辨率 | Linwei Dong | [PDF](http://arxiv.org/pdf/2411.18263v1) | N/A | TSD-SR: One-Step Diffusion with Target Score Distillation for Real-World Image Super-Resolution |
+| 打破ID-语言障碍：一种适用于序列推荐的适应框架 | Xiaohan Yu | [PDF](http://arxiv.org/pdf/2411.18262v1) | N/A | Break the ID-Language Barrier: An Adaption Framework for Sequential Recommendation |
+| 通过Q-学习进行动态零售定价——一种增强收入管理的强化学习框架 | Mohit Apte | [PDF](http://arxiv.org/pdf/2411.18261v1) | N/A | Dynamic Retail Pricing via Q-Learning -- A Reinforcement Learning Framework for Enhanced Revenue Management |
+| 隐喻共享：一个动态的开放隐喻数据集协作存储库 | Joanne Boisson | [PDF](http://arxiv.org/pdf/2411.18260v1) | N/A | MetaphorShare: A Dynamic Collaborative Repository of Open Metaphor Datasets |
+| 基于深度学习的晶格热导率预测中的迁移学习 | L. Klochko | [PDF](http://arxiv.org/pdf/2411.18259v1) | N/A | Transfer Learning for Deep Learning-based Prediction of Lattice Thermal Conductivity |
+| 主动分区：颠覆主动学习的范式 | Marius Tacke | [PDF](http://arxiv.org/pdf/2411.18254v1) | N/A | Active partitioning: inverting the paradigm of active learning |
+| 使用深度学习进行免疫治疗生存预测的纵向无创诊断多模态整合 | Melda Yeghaian | [PDF](http://arxiv.org/pdf/2411.18253v1) | N/A | Multimodal Integration of Longitudinal Noninvasive Diagnostics for Survival Prediction in Immunotherapy Using Deep Learning |
+| IKUN：初始化以保持SNN训练和泛化能力卓越，同时通过代理稳定方差 | Da Chang | [PDF](http://arxiv.org/pdf/2411.18250v1) | N/A | IKUN: Initialization to Keep snn training and generalization great with sUrrogate-stable variaNce |
+| 动态磁共振成像的端到端自适应k空间采样、重建与配准 | George Yiasemis | [PDF](http://arxiv.org/pdf/2411.18249v1) | N/A | Deep End-to-end Adaptive k-Space Sampling, Reconstruction, and Registration for Dynamic MRI |
+| 温和的推动效果极佳：通过对比激活引导在意大利语中构建指导模型 | Daniel Scalena | [PDF](http://arxiv.org/pdf/2411.18247v1) | N/A | A gentle push funziona benissimo: making instructed models in Italian via contrastive activation steering |
+| THaLLE的泰国金融领域适应 -- 技术报告 | KBTG Labs | [PDF](http://arxiv.org/pdf/2411.18242v1) | N/A | Thai Financial Domain Adaptation of THaLLE -- Technical Report |
+| 基于LangGraph+CrewAI的大语言模型多智能体应用实现探索 | Zhihua Duan | [PDF](http://arxiv.org/pdf/2411.18241v1) | N/A | Exploration of LLM Multi-Agent Application Implementation Based on LangGraph+CrewAI |
+| 带有分支定界法的认证训练：关于李雅普诺夫稳定神经控制的案例研究 | Zhouxing Shi | [PDF](http://arxiv.org/pdf/2411.18235v1) | N/A | Certified Training with Branch-and-Bound: A Case Study on Lyapunov-stable Neural Control |
+| 随机网格搜索用于决策树模型中的超参数调优，以提升心血管疾病分类性能 | Abhay Kumar Pathak | [PDF](http://arxiv.org/pdf/2411.18234v1) | N/A | Randomized-Grid Search for Hyperparameter Tuning in Decision Tree Model to Improve Performance of Cardiovascular Disease Classification |
+| 基于机器学习的单光子空间碎片光变曲线分类 | Nadine M. Trummer | [PDF](http://arxiv.org/pdf/2411.18231v1) | N/A | Machine learning-based classification for Single Photon Space Debris Light Curves |
+| 基于扩散强化学习的依赖感知网联自动驾驶车辆任务调度 | Xiang Cheng | [PDF](http://arxiv.org/pdf/2411.18230v1) | N/A | Dependency-Aware CAV Task Scheduling via Diffusion-Based Reinforcement Learning |
+| SharpDepth：利用扩散蒸馏锐化度量深度预测 | Duc-Hai Pham | [PDF](http://arxiv.org/pdf/2411.18229v1) | N/A | SharpDepth: Sharpening Metric Depth Predictions Using Diffusion Distillation |
+| 功能工厂：利用生成式人工智能自动化软件功能集成 | Ruslan Idelfonso Magana Vsevolodovna | [PDF](http://arxiv.org/pdf/2411.18226v1) | N/A | Feature-Factory: Automating Software Feature Integration Using Generative AI |
+| 路径：一种用于高效全切片图像分析的分层变压器 | Zak Buzzard | [PDF](http://arxiv.org/pdf/2411.18225v1) | N/A | PATHS: A Hierarchical Transformer for Efficient Whole Slide Image Analysis |
+| 计算机视觉中的核分析：一项实验研究 | Karthik Mohan | [PDF](http://arxiv.org/pdf/2411.18224v1) | N/A | KANs for Computer Vision: An Experimental Study |
+| R-MTLLMF：无线边缘的弹性多任务大型语言模型融合 | Aladin Djuhera | [PDF](http://arxiv.org/pdf/2411.18220v1) | N/A | R-MTLLMF: Resilient Multi-Task Large Language Model Fusion at the Wireless Edge |
+| 如何学习一门新语言？低资源场景下自监督学习模型适应未见语言的高效解决方案 | Shih-Heng Wang | [PDF](http://arxiv.org/pdf/2411.18217v1) | N/A | How to Learn a New Language? An Efficient Solution for Self-Supervised Learning Models Unseen Languages Adaption in Low-Resource Scenario |
+| 评估和提升由大型语言模型生成的安全攻击检测器的鲁棒性 | Samuele Pasini | [PDF](http://arxiv.org/pdf/2411.18216v1) | N/A | Evaluating and Improving the Robustness of Security Attack Detectors Generated by LLMs |
+| SCoTT：结合视觉语言模型与战略性思维链的无线感知路径规划 | Aladin Djuhera | [PDF](http://arxiv.org/pdf/2411.18212v1) | N/A | SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought |
+| 时间标记器：一种多功能的视频-大语言模型，适用于长视频和短视频理解，具有卓越的时间定位能力 | Shimin Chen | [PDF](http://arxiv.org/pdf/2411.18211v1) | N/A | TimeMarker: A Versatile Video-LLM for Long and Short Video Understanding with Superior Temporal Localization Ability |
+| 从开放词汇到开放世界：教授视觉语言模型检测新对象 | Zizhao Li | [PDF](http://arxiv.org/pdf/2411.18207v1) | N/A | From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects |
+| Critic-V：VLM评论家助力捕捉多模态推理中的VLM错误 | Di Zhang | [PDF](http://arxiv.org/pdf/2411.18203v1) | N/A | Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning |
+| 通过神经符号溯因模仿进行长期规划学习 | Jie-Jing Shao | [PDF](http://arxiv.org/pdf/2411.18201v1) | N/A | Learning for Long-Horizon Planning via Neuro-Symbolic Abductive Imitation |
+| 6G网络中的语义边缘计算与语义通信：统一综述与研究挑战 | Milin Zhang | [PDF](http://arxiv.org/pdf/2411.18199v1) | N/A | Semantic Edge Computing and Semantic Communications in 6G Networks: A Unifying Survey and Research Challenges |
+| Make-It-Animatable：一个高效的可制作动画3D角色创作框架 | Zhiyang Guo | [PDF](http://arxiv.org/pdf/2411.18197v1) | N/A | Make-It-Animatable: An Efficient Framework for Authoring Animation-Ready 3D Characters |
+| 使用洛伦兹支配的可扩展多目标强化学习与公平性保障 | Dimitris Michailidis | [PDF](http://arxiv.org/pdf/2411.18195v1) | N/A | Scalable Multi-Objective Reinforcement Learning with Fairness Guarantees using Lorenz Dominance |
+| 在低数据条件下，基于嵌入先验的隐式神经表示实现无透镜图像去模糊 | Abeer Banerjee | [PDF](http://arxiv.org/pdf/2411.18189v1) | N/A | Towards Lensless Image Deblurring with Prior-Embedded Implicit Neural Representations in the Low-Data Regime |
+| DistinctAD：情境中的独特音频描述生成 | Bo Fang | [PDF](http://arxiv.org/pdf/2411.18180v1) | N/A | DistinctAD: Distinctive Audio Description Generation in Contexts |
+| 行动预测：通过联合去噪过程的视觉策略学习 | Yanjiang Guo | [PDF](http://arxiv.org/pdf/2411.18179v1) | N/A | Prediction with Action: Visual Policy Learning via Joint Denoising Process |
+| 机器遗忘揭示，在说话者无关的情境下，可以从语音中检测出基于性别的暴力受害者状况。 | Emma Reyner-Fuentes | [PDF](http://arxiv.org/pdf/2411.18177v1) | N/A | Machine Unlearning reveals that the Gender-based Violence Victim Condition can be detected from Speech in a Speaker-Agnostic Setting |
+| 利用知识增强计算机视觉：鲁米诺游戏案例研究 | Simon Vandevelde | [PDF](http://arxiv.org/pdf/2411.18172v1) | N/A | Enhancing Computer Vision with Knowledge: a Rummikub Case Study |
+| PDZSeg：在机器人辅助内镜黏膜下剥离术中，通过视觉提示调整基础模型以进行解剖区域分割 | Mengya Xu | [PDF](http://arxiv.org/pdf/2411.18169v1) | N/A | PDZSeg: Adapting the Foundation Model for Dissection Zone Segmentation with Visual Prompts in Robot-assisted Endoscopic Submucosal Dissection |
+| KAN 看见你的脸 | Dong Han | [PDF](http://arxiv.org/pdf/2411.18165v1) | N/A | KAN See Your Face |
+| RPEE-HEADS：一种用于人群视频中行人头部检测的新型基准 | Mohamad Abubaker | [PDF](http://arxiv.org/pdf/2411.18164v1) | N/A | RPEE-HEADS: A Novel Benchmark for Pedestrian Head Detection in Crowd Videos |
+| SentiXRL：一种先进的复杂文本环境中多语言细粒度情感分类的大型语言模型框架 | Jie Wang | [PDF](http://arxiv.org/pdf/2411.18162v1) | N/A | SentiXRL: An advanced large language Model Framework for Multilingual Fine-Grained Emotion Classification in Complex Text Environment |
+| Type-R：自动修正文本到图像生成中的拼写错误 | Wataru Shimoda | [PDF](http://arxiv.org/pdf/2411.18159v1) | N/A | Type-R: Automatically Retouching Typos for Text-to-Image Generation |
+| 基于抽象和推理语料库的溯因符号求解器 | Mintaek Lim | [PDF](http://arxiv.org/pdf/2411.18158v1) | N/A | Abductive Symbolic Solver on Abstraction and Reasoning Corpus |
+| 基于语言模型的前沿关系抽取技术调查 | Jose A. Diaz-Garcia | [PDF](http://arxiv.org/pdf/2411.18157v1) | N/A | A survey on cutting-edge relation extraction techniques based on language models |
+| MSA-ASR：利用冻结的ASR模型实现高效的多语言说话人识别 | Thai-Binh Nguyen | [PDF](http://arxiv.org/pdf/2411.18152v1) | N/A | MSA-ASR: Efficient Multilingual Speaker Attribution with frozen ASR Models |
+| 一种基于FPGA的运行时自适应Transformer神经网络加速器 | Ehsan Kabir | [PDF](http://arxiv.org/pdf/2411.18148v1) | N/A | A Runtime-Adaptive Transformer Neural Network Accelerator on FPGAs |
+| 三维语义地图在线知识整合：综述 | Felix Igelbrink | [PDF](http://arxiv.org/pdf/2411.18147v1) | N/A | Online Knowledge Integration for 3D Semantic Mapping: A Survey |
+| COREval：一个全面且客观的基准，用于评估大型视觉-语言模型在遥感能力方面的表现 | Xiao An | [PDF](http://arxiv.org/pdf/2411.18145v1) | N/A | COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models |
+| 增强多模态大型语言模型中的视觉推理能力：自主想象的作用 | Jingming Liu | [PDF](http://arxiv.org/pdf/2411.18142v1) | N/A | Enhancing Visual Reasoning with Autonomous Imagination in Multimodal Large Language Models |
+| 利用量子机器学习预测水质：以乌姆吉尼流域（U20A）研究区为例 | Muhammad Al-Zafar Khan | [PDF](http://arxiv.org/pdf/2411.18141v1) | N/A | Predicting Water Quality using Quantum Machine Learning: The Case of the Umgeni Catchment (U20A) Study Region |
+| SALMONN-omni：一种无需编解码器的全双工语音理解与生成大型语言模型 | Wenyi Yu | [PDF](http://arxiv.org/pdf/2411.18138v1) | N/A | SALMONN-omni: A Codec-free LLM for Full-duplex Speech Understanding and Generation |
+| ModeDreamer：使用参考图像提示进行文本到3D生成的模式引导分数蒸馏 | Uy Dieu Tran | [PDF](http://arxiv.org/pdf/2411.18135v1) | N/A | ModeDreamer: Mode Guiding Score Distillation for Text-to-3D Generation using Reference Image Prompts |
+| 面向3D开放世界中的跨设备与免训练机器人抓取 | Weiguang Zhao | [PDF](http://arxiv.org/pdf/2411.18133v1) | N/A | Towards Cross-device and Training-free Robotic Grasping in 3D Open World |
+| 上下文学习课程演示选择 | Duc Anh Vu | [PDF](http://arxiv.org/pdf/2411.18126v1) | N/A | Curriculum Demonstration Selection for In-Context Learning |
+| 基于机器学习的决策者偏见评估框架 | Wanxue Dong | [PDF](http://arxiv.org/pdf/2411.18122v1) | N/A | A Machine Learning-based Framework towards Assessment of Decision-Makers' Biases |
+| 越大越好？从极简神经网络中获取精确的分子势能面 | Silvan Käser | [PDF](http://arxiv.org/pdf/2411.18121v1) | N/A | The Bigger the Better? Accurate Molecular Potential Energy Surfaces from Minimalist Neural Networks |
+| 基于主动迁移学习的谱-空变换器用于高光谱图像分类 | Muhammad Ahmad | [PDF](http://arxiv.org/pdf/2411.18115v1) | N/A | Spectral-Spatial Transformer with Active Transfer Learning for Hyperspectral Image Classification |
+| 当大型视觉-语言模型遇上行人重识别 | Qizao Wang | [PDF](http://arxiv.org/pdf/2411.18111v1) | N/A | When Large Vision-Language Models Meet Person Re-Identification |
+| 难度可控扩散模型的训练数据合成 | Zerun Wang | [PDF](http://arxiv.org/pdf/2411.18109v1) | N/A | Training Data Synthesis with Difficulty Controlled Diffusion Model |
+| 使用基于模板的数据生成训练和评估语言模型 | Yifan Zhang | [PDF](http://arxiv.org/pdf/2411.18104v1) | N/A | Training and Evaluating Language Models with Template-based Data Generation |
+| 将知识概念与全切片图像对齐，以实现精确的病理图像分析 | Weiqin Zhao | [PDF](http://arxiv.org/pdf/2411.18101v1) | N/A | Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis |
+| 微调小型嵌入以提升性能 | Biraj Silwal | [PDF](http://arxiv.org/pdf/2411.18099v1) | N/A | Fine-Tuning Small Embeddings for Elevated Performance |
+| 高斯过程在目标对数变换上的期望改进的封闭形式推导 | Shuhei Watanabe | [PDF](http://arxiv.org/pdf/2411.18095v1) | N/A | Derivation of Closed Form of Expected Improvement for Gaussian Process Trained on Log-Transformed Objective |
+| 训练噪声标记剪枝 | Mingxing Rao | [PDF](http://arxiv.org/pdf/2411.18092v1) | N/A | Training Noise Token Pruning |
+| 垄断：利用大规模城市数据学习为公共设施定价以重新评估私人房产价值 | Miao Fan | [PDF](http://arxiv.org/pdf/2411.18085v1) | N/A | MONOPOLY: Learning to Price Public Facilities for Revaluing Private Properties with Large-Scale Urban Data |
+| 从探索到启示：检测移动应用中的暗模式 | Jieshan Chen | [PDF](http://arxiv.org/pdf/2411.18084v1) | N/A | From Exploration to Revelation: Detecting Dark Patterns in Mobile Apps |
+| 双视角X光检测：人工智能能否像人类一样从双视角X光图像中检测出违禁物品？ | Renshuai Tao | [PDF](http://arxiv.org/pdf/2411.18082v1) | N/A | Dual-view X-ray Detection: Can AI Detect Prohibited Items from Dual-view X-ray Images like Humans? |
+| 双级增强网络用于X射线安检中的长尾违禁品检测 | Renshuai Tao | [PDF](http://arxiv.org/pdf/2411.18078v1) | N/A | Dual-Level Boost Network for Long-Tail Prohibited Items Detection in X-ray Security Inspection |
+| 通过2-Bit层判别式KV缓存推动大语言模型推理的极限 | Akshat Sharma | [PDF](http://arxiv.org/pdf/2411.18077v1) | N/A | Pushing the Limits of LLM Inference via 2-Bit Layer-Discriminative KV Cache |
+| DuMapper：基于百度地图街景的大规模POI自动验证 | Miao Fan | [PDF](http://arxiv.org/pdf/2411.18073v1) | N/A | DuMapper: Towards Automatic Verification of Large-Scale POIs with Street Views at Baidu Maps |
+| SmileSplat：用于无约束稀疏图像的可泛化高斯斑点 | Yanyan Li | [PDF](http://arxiv.org/pdf/2411.18072v1) | N/A | SmileSplat: Generalizable Gaussian Splats for Unconstrained Sparse Images |
+| 通过大型语言模型模拟表格数据集，以快速探索关于现实世界实体的假设 | Miguel Zabaleta | [PDF](http://arxiv.org/pdf/2411.18071v1) | N/A | Simulating Tabular Datasets through LLMs to Rapidly Explore Hypotheses about Real-World Entities |
+| 基于深度学习的大规模可解释太阳耀斑预报模型的归因基础邻近性分析评估 | Temitope Adeyeha | [PDF](http://arxiv.org/pdf/2411.18070v1) | N/A | Large Scale Evaluation of Deep Learning-based Explainable Solar Flare Forecasting Models with Attribution-based Proximity Analysis |
+| PersonaCraft：利用3D模型条件扩散从单一参考生成多身份个性化全身图像 | Gwanghyun Kim | [PDF](http://arxiv.org/pdf/2411.18068v1) | N/A | PersonaCraft: Personalized Full-Body Image Synthesis for Multiple Identities from Single References Using 3D-Model-Conditioned Diffusion |
+| GLS：几何感知的3D语言高斯喷射 | Jiaxiong Qiu | [PDF](http://arxiv.org/pdf/2411.18066v1) | N/A | GLS: Geometry-aware 3D Language Gaussian Splatting |
+| 通过融合全局信息实现轻量级注视估计模型 | Zhang Cheng | [PDF](http://arxiv.org/pdf/2411.18064v1) | N/A | Lightweight Gaze Estimation Model Via Fusion Global Information |
+| 深度学习和XGBoost在肺栓塞患者死亡率预测中的应用 | Yalcin Tur | [PDF](http://arxiv.org/pdf/2411.18063v1) | N/A | Mortality Prediction of Pulmonary Embolism Patients with Deep Learning and XGBoost |
+| 多任务注视估计通过单向卷积 | Zhang Cheng | [PDF](http://arxiv.org/pdf/2411.18061v1) | N/A | Multi-task Gaze Estimation Via Unidirectional Convolution |
+| ORIS：基于强化学习包容性采样的在线主动学习，用于鲁棒流式分析系统 | Rahul Pandey | [PDF](http://arxiv.org/pdf/2411.18060v1) | N/A | ORIS: Online Active Learning Using Reinforcement Learning-based Inclusive Sampling for Robust Streaming Analytics System |
+| FAMES：快速近似乘法器替换用于混合精度量化深度神经网络——降至2位！ | Yi Ren | [PDF](http://arxiv.org/pdf/2411.18055v1) | N/A | FAMES: Fast Approximate Multiplier Substitution for Mixed-Precision Quantized DNNs--Down to 2 Bits! |
+| 利用不同的地面实况源和迁移学习来提高测光红移估计的泛化能力 | Jonathan Soriano | [PDF](http://arxiv.org/pdf/2411.18054v1) | N/A | Using different sources of ground truths and transfer learning to improve the generalization of photometric redshift estimation |
+| 用于缓解级联故障的强化学习：通过敏感性因子进行目标探索 | Anmol Dwivedi | [PDF](http://arxiv.org/pdf/2411.18050v1) | N/A | RL for Mitigating Cascading Failures: Targeted Exploration via Sensitivity Factors |
+| 主题与形状元素的异质关系用于半监督多元时间序列分类 | Mingsen Du | [PDF](http://arxiv.org/pdf/2411.18043v1) | N/A | Heterogeneous Relationships of Subjects and Shapelets for Semi-supervised Multivariate Series Classification |
+| HyperGLM：用于视频场景图生成和预测的超图 | Trong-Thuan Nguyen | [PDF](http://arxiv.org/pdf/2411.18042v1) | N/A | HyperGLM: HyperGraph for Video Scene Graph Generation and Anticipation |
+| VLM-HOI：用于可解释的人类-物体交互分析的视觉语言模型 | Donggoo Kang | [PDF](http://arxiv.org/pdf/2411.18038v1) | N/A | VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis |
+| 规范性情感：社会模式化的情感机制 | Stavros Anagnou | [PDF](http://arxiv.org/pdf/2411.18037v1) | N/A | Normative Feeling: Socially Patterned Affective Mechanisms |
+| 像素对齐的RGB-NIR立体成像及机器人视觉数据集 | Jinnyeong Kim | [PDF](http://arxiv.org/pdf/2411.18025v1) | N/A | Pixel-aligned RGB-NIR Stereo Imaging and Dataset for Robot Vision |
 # Arxiv 2024-11-26 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
