@@ -1,3 +1,38 @@
+# MedRxiv 2024-11-30 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 多学科临床评估和干预儿童听力困难及听觉处理障碍：研究结果与临床实践的关系 | Moore, D. R. | [PDF](https://doi.org/10.1101/2024.06.12.24308837) | N/A | Multidisciplinary clinical assessment and interventions for childhood listening difficulty and auditory processing disorder: Relation between research findings and clinical practice |
+| 功能依赖性的前瞻性分类：来自机器学习和加拿大老龄化纵向研究的见解 | van Allen, Z. M. | [PDF](https://doi.org/10.1101/2024.07.15.24310429) | N/A | Prospective classification of functional dependence: Insights from machine learning and the Canadian Longitudinal Study on Aging |
+| 因果估计量用于分析因传染病干预措施而避免和可避免的结局 | Jia, K. M. | [PDF](https://doi.org/10.1101/2024.07.24.24310946) | N/A | Causal Estimands for Analyses of Averted and Avertible Outcomes due to Infectious Disease Interventions |
+| 多发性骨髓瘤药物疗效分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.03.24311450) | N/A | Analysis of Multiple Myeloma Drug Efficacy |
+| 欧洲猴痘：流行病学与风险因素：范围综述研究 | Ravichandran, N. | [PDF](https://doi.org/10.1101/2024.08.28.24312706) | N/A | Monkeypox in Europe: Epidemiology and Risk Factors : A Scoping Review Study |
+| UCF-MultiOrgan-Path：一个用于基于深度学习的器官分类的组织病理学图像基准数据集 | Hossain, M. S. B. | [PDF](https://doi.org/10.1101/2024.11.05.24316736) | N/A | UCF-MultiOrgan-Path: A Benchmark Dataset of Histopathologic Images for Deep Learning-Based Organ Classification |
+| 基于社交媒体的流感样疾病早期监测系统：威尔士推特案例研究 | Drakesmith, M. | [PDF](https://doi.org/10.1101/2024.11.11.24316812) | N/A | Towards a Social Media-based Disease Surveillance System for Early Detection of Influenza-like Illnesses: A Twitter Case Study in Wales |
+| 穆拉戈医院成人患者胃肠道吻合口漏的14天发生率及危险因素 | Omare, I. | [PDF](https://doi.org/10.1101/2024.11.24.24317847) | N/A | The 14-Day Incidence and Risk Factors of Gastrointestinal Anastomotic Leak Among Adult Patients in Mulago Hospital. |
+| 性爱与时钟：探究认知健康老年人群中性别差异的生物钟类型与昼夜节律偏好 | Pandher, N. S. | [PDF](https://doi.org/10.1101/2024.11.26.24318021) | N/A | Sex and the Clock: Exploring Sex Differences in Chronotype and Circadian Preferences Among Cognitively Healthy Older Adults |
+| 探究孤独、社会隔离与健康之间的因果关系 | Hilliard, D. D. | [PDF](https://doi.org/10.1101/2024.11.26.24317985) | N/A | Investigating causal relationships between loneliness, social isolation and health |
+| 功能性神经障碍中催产素受体基因变异的患病率增加：一项初步的病例对照研究 | Weber, S. | [PDF](https://doi.org/10.1101/2024.11.26.24317955) | N/A | Increased Prevalence of Oxytocin Receptor Gene Variant in Functional Neurological Disorder: A Preliminary Case-Control Study |
+| 切断手部神经会改变初级体感皮层中指地图的组织结构。 | Weber, M. | [PDF](https://doi.org/10.1101/2024.11.26.24316490) | N/A | Cutting a nerve of the hand alters the organisation of digit maps in primary somatosensory cortex |
+| 鉴定与杜氏肌营养不良症和面肩肱型肌营养不良症相关的疾病特异性细胞外囊泡相关血浆蛋白生物标志物 | Bayazit, M. B. | [PDF](https://doi.org/10.1101/2024.11.29.24317861) | N/A | Identification of disease-specific extracellular vesicle-associated plasma protein biomarkers for Duchenne Muscular Dystrophy and Facioscapulohumeral Muscular Dystrophy |
+| 从慢性植入的帕金森病患者局部场电位中在线预测最佳深部脑刺激电极触点 | Muller, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317968) | N/A | Online prediction of optimal deep brain stimulation contacts from local field potentials in chronically-implanted patients with Parkinson's disease |
+| 使用定量CT评估的多变量模型用于预测蛛网膜下腔出血后的预后 | Balcerzyk, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317478) | N/A | Multivariate Models using quantitative CT assessment for prediction of outcome after Subarachnoid Hemorrhage |
+| 人类非侵入性白细胞计数研究 | Bagramyan, A. | [PDF](https://doi.org/10.1101/2024.11.26.24314245) | N/A | Towards Non-Invasive White Blood Cell Count in Humans |
+| 莫桑比克重点人群艾滋病服务规模扩大项目，2020-2023 | Malimane, I. | [PDF](https://doi.org/10.1101/2024.11.25.24317615) | N/A | Scale-up of HIV Services for Key Population in Mozambique, 2020-2023 |
+| 巴西结核病治疗结果在患者和地区相关因素方面的系统性差异：一项基于国家疾病登记数据的分析 | Ryuk, D. K. | [PDF](https://doi.org/10.1101/2024.11.26.24317982) | N/A | Systematic differences in TB treatment outcomes across in Brazil by patient- and area-related factors: an analysis of national disease registry data |
+| 苯二氮卓类药物和Z类药物的使用及其后酒精和药物相关问题的风险：一项全国范围的配对队列研究与双胞胎比较 | Wang, X. | [PDF](https://doi.org/10.1101/2024.11.27.24318091) | N/A | Incident benzodiazepine and Z-drug use and subsequent risk of alcohol- and drug-related problems: a nationwide matched cohort study with co-twin comparison |
+| 探索关于数字戒烟即时自适应干预的观点：一项针对成年吸烟者和戒烟专业人士的焦点小组研究 | Leppin, C. | [PDF](https://doi.org/10.1101/2024.11.26.24317795) | N/A | Exploring perspectives on digital smoking cessation just-in-time adaptive interventions: A focus group study with adult smokers and smoking cessation professionals |
+| 利用与行为抑制相关的其他特征推进物质使用障碍的基因发现 | Poore, H. E. | [PDF](https://doi.org/10.1101/2024.11.26.24318011) | N/A | Advancing Gene Discovery for Substance Use Disorders Using Additional Traits Related to Behavioral Disinhibition |
+| 一个用Python实现的可视化经食管超声心动图时间段的简单工具 | FIAMMANTE, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317630) | N/A | A simple tool for Visualizing Time Sections of Transesophageal Echocardiography with Python |
+| 吡喹酮分发对学龄儿童并殖吸虫病流行病学的影响：一项在喀麦隆最严重疫区进行的横断面研究 | Cheuyem, F. Z. L. | [PDF](https://doi.org/10.1101/2024.11.27.24318100) | N/A | Impact of Praziquantel Distribution on the Epidemiology of Paragonimiasis Among School-Aged Children: A Cross Sectional Study in the Most Endemic Focus in Cameroon |
+| 细胞外囊泡作为MASLD患者脂肪变性阶段的生物标志物：利用可解释人工智能的算法方法 | Trifylli, E. M. | [PDF](https://doi.org/10.1101/2024.11.30.24318233) | N/A | Extracellular Vesicles as Biomarkers for Steatosis Stages in MASLD Patients: an Algorithmic Approach Using Explainable Artificial Intelligence |
+| 2014年至2022年间爱尔兰初级保健中镇静剂处方的趋势与模式——一项重复横断面研究 | Mattsson, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317964) | N/A | Trends and patterns of sedative prescribing in primary care in Ireland between 2014 and 2022 - a repeated cross-sectional study |
+| ME/CFS和长期COVID患者报告的治疗效果 | Eckey, M. | [PDF](https://doi.org/10.1101/2024.11.27.24317656) | N/A | Patient-Reported Treatment Outcomes in ME/CFS and Long COVID |
+| 在不同剂量和图像重建条件下，AI检测颅内动脉瘤的不一致性 | Goelz, L. | [PDF](https://doi.org/10.1101/2024.11.26.24317954) | N/A | Inconsistency of AI in intracranial aneurysm detection with varying dose and image reconstruction |
+| OpenLimbTT，一种用于假肢仿真与设计的截肢残肢形状模型：利用稀疏数据构建统计解剖模型 | Sunderland, F. | [PDF](https://doi.org/10.1101/2024.11.27.24317622) | N/A | OpenLimbTT, a Transtibial Residual Limb Shape Model for Prosthetics Simulation and Design: creating a statistical anatomic model using sparse data |
+| 系统性硬化症中的抗线粒体抗体靶向肠神经元，并与胃肠动力障碍相关。 | McMahan, Z. H. | [PDF](https://doi.org/10.1101/2024.11.26.24317983) | N/A | Anti-mitochondrial antibodies in systemic sclerosis target enteric neurons and are associated with GI dysmotility |
+| 可溶性VEGFR2作为黄斑前膜保护因子的遗传学证据 | Gao, Q. | [PDF](https://doi.org/10.1101/2024.11.29.24318222) | N/A | Genetic Evidence for Soluble VEGFR2 as a Protective Factor Against Macular Pucker |
+| 囊性纤维化患儿上下呼吸道微生物群的一致性 | Nassirnia, S. | [PDF](https://doi.org/10.1101/2024.11.30.24318234) | N/A | Concordance between upper and lower airway microbiota in children with Cystic Fibrosis |
 # MedRxiv 2024-11-29 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
