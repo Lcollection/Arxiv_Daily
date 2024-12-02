@@ -1,3 +1,77 @@
+# BioRxiv 2024-12-01 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 惩罚风险任务：在小鼠进行目标导向行为时监测其焦虑状态 | Parker, K. E. | [PDF](https://doi.org/10.1101/2022.10.30.514458) | N/A | Punishment Risk Task: Monitoring anxiogenic states during goal directed actions in mice |
+| 肿瘤相关巨噬细胞的抗原呈递促使肿瘤浸润T细胞从原始的耗竭状态转变为终末耗竭状态。 | Waibl Polania, J. | [PDF](https://doi.org/10.1101/2023.08.11.553007) | N/A | Antigen presentation by tumor-associated macrophages drives tumor-infiltrating T cells from a progenitor exhaustion state to terminal exhaustion |
+| diplo-locus：一个轻量级的工具包，用于在一般二倍体选择下进行时间序列遗传数据的推断和模拟 | Cheng, X. | [PDF](https://doi.org/10.1101/2023.10.12.562101) | N/A | diplo-locus: A lightweight toolkit for inference and simulation of time-series genetic data under general diploid selection |
+| 映射人类特异性缺失的顺式和反式调控靶基因 | Fair, T. | [PDF](https://doi.org/10.1101/2023.12.27.573461) | N/A | Mapping cis- and trans-regulatory target genes of human-specific deletions |
+| 不同扰动下转录变异性的遗传基础 | Tsuru, S. | [PDF](https://doi.org/10.1101/2024.04.15.589659) | N/A | Genetic properties underlying transcriptional variability across different perturbations |
+| 雄性小鼠对口腔内辣椒素引发的先天喜好和厌恶反应 | Han, Y. | [PDF](https://doi.org/10.1101/2024.04.21.590483) | N/A | Innate liking and disgust reactions elicited by intraoral capsaicin in male mice |
+| 雌二醇的细胞内滞留由乳腺癌细胞中的含GRAM结构域蛋白ASTER-B介导 | Kim, H. B. | [PDF](https://doi.org/10.1101/2024.05.16.594581) | N/A | Intracellular Retention of Estradiol is Mediated by GRAM Domain Containing Protein ASTER-B in Breast Cancer Cells |
+| 全国范围内的鸟类生物多样性和迁徙声学监测 | Bick, A. | [PDF](https://doi.org/10.1101/2024.05.21.595242) | N/A | National-scale acoustic monitoring of avian biodiversity and migration |
+| 生物分子凝聚体在相分离的质量守恒反应-扩散系统的实验与理论之间架起了桥梁。 | Li, C. | [PDF](https://doi.org/10.1101/2024.08.08.607271) | N/A | Biomolecular condensates bridge experiment and theory of mass-conserving reaction-diffusion systems in phase separation |
+| 环状RNA与人类胎盘组织老化和死产中的DNA损伤有关 | Arthurs, A. L. | [PDF](https://doi.org/10.1101/2024.09.02.610398) | N/A | Circular RNAs correlate with DNA damage in ageing human placental tissue and in stillbirth |
+| 基于人工智能的发现与低温电子显微镜结构阐明的一种KATP通道药物伴侣蛋白 | Elsheikh, A. | [PDF](https://doi.org/10.1101/2024.09.05.611490) | N/A | AI-Based Discovery and CryoEM Structural Elucidation of a KATP Channel Pharmacochaperone |
+| 通过HiCapR映射HIV-1 RNA结构、同源二聚体、长程相互作用及持久性域 | Zhang, Y. | [PDF](https://doi.org/10.1101/2024.09.03.610837) | N/A | Mapping HIV-1 RNA Structure, Homodimers, Long-Range Interactions and persistent domains by HiCapR |
+| 神经肌肉骨骼建模揭示了感觉运动皮层中适应性学习的肌肉水平神经动力学 | DeWolf, T. | [PDF](https://doi.org/10.1101/2024.09.11.612513) | N/A | Neuro-musculoskeletal modeling reveals muscle-level neural dynamics of adaptive learning in sensorimotor cortex |
+| 各向异性拉伸使多细胞水螅聚集体中的肌动纤维自组织产生偏倚 | Bailles, A. | [PDF](https://doi.org/10.1101/2024.10.02.616220) | N/A | Anisotropic stretch biases the self-organization of actin fibers in multicellular Hydra aggregates |
+| 共享和独特的终身压力源特征及网络连接性预测青少年的焦虑和抑郁 | Qu, Y. | [PDF](https://doi.org/10.1101/2024.10.25.620373) | N/A | Shared and unique lifetime stressor characteristics and network connectivity predict adolescent anxiety and depression |
+| 基于Transformer的生存结果预测方法 | Mellors, T. | [PDF](https://doi.org/10.1101/2024.11.03.621674) | N/A | A Transformer-Based Approach to Survival Outcome Prediction |
+| 折叠稀释和稀释液体积对细菌培养中菌落形成单位估计的影响 | Jain, M. | [PDF](https://doi.org/10.1101/2024.11.28.625891) | N/A | The impact of fold-dilution and diluent volume on the estimation of colony forming units in a bacterial culture |
+| 刺皮动物中顺式调控元件和染色质组织的深度保守揭示了动物基因组的祖先调控特征 | Magri, M. S. | [PDF](https://doi.org/10.1101/2024.11.30.626178) | N/A | Deep conservation of cis-regulatory elements and chromatin organization in echinoderms uncover ancestral regulatory features of animal genomes |
+| 肿瘤乳酸脱氢酶C（LDHC）在乳腺癌中的免疫调节作用 | Naik, A. | [PDF](https://doi.org/10.1101/2024.11.26.625341) | N/A | Immunomodulatory effects of tumor Lactate Dehydrogenase C (LDHC) in breast cancer |
+| 个性化治疗脑膜瘤：肿瘤类器官药物筛选揭示对HDAC1/2i帕比司他的治疗脆弱性 | Jungwirth, G. | [PDF](https://doi.org/10.1101/2024.11.26.625347) | N/A | Personalized Medicine for Meningiomas: Drug Screening on Tumor Organoids Exposes Therapeutic Vulnerabilities to HDAC1/2i Panobinostat |
+| DGKα和ζ缺乏导致调节性T细胞功能失调、不稳定及转化为致病性T滤泡辅助细胞，从而触发以IgG1为主的自身免疫反应。 | Li, L. | [PDF](https://doi.org/10.1101/2024.11.26.625360) | N/A | DGKα and ζ Deficiency Causes Regulatory T-Cell Dysregulation, Destabilization, and Conversion to Pathogenic T-Follicular Helper Cells to Trigger IgG1-Predominant Autoimmunity |
+| 非洲慈鲷鱼肠道中适应性细胞进化的超多样性 | Fages, A. | [PDF](https://doi.org/10.1101/2024.11.28.625862) | N/A | Adaptive cellular evolution in the intestinal tracts of hyperdiverse African cichlid fishes |
+| 性及应激依赖的基底外侧杏仁核至伏隔核皮质酮释放激素/GABA投射的可塑性，该投射介导奖赏行为 | Taniguchi, L. | [PDF](https://doi.org/10.1101/2024.11.30.626183) | N/A | Sex-and Stress-Dependent Plasticity of a Corticotropin Releasing Hormone / GABA Projection from the Basolateral Amygdala to Nucleus Accumbens that Mediates Reward Behaviors |
+| 昼夜活动预测亚洲埋葬甲虫Nicrophorus nepalensis的繁殖物候 | Chen, H. | [PDF](https://doi.org/10.1101/2024.11.30.626159) | N/A | Circadian Activity Predicts Breeding Phenology in the Asian Burying Beetle Nicrophorus nepalensis |
+| 可卡因和安非他明调节的转录本在外侧隔核中的厌食和焦虑作用 | Shankhatheertha, A. | [PDF](https://doi.org/10.1101/2024.11.30.626209) | N/A | Anorectic and anxiogenic actions of cocaine- and amphetamine-regulated transcript in the lateral septum |
+| 连接梯度的个体独特性是由嵌入网络的复杂性和它们的分散性所驱动的。 | Serhan, Y. | [PDF](https://doi.org/10.1101/2024.12.01.626248) | N/A | Individual uniqueness of connectivity gradients is driven by the complexity of the embedded networks and their dispersion |
+| 利用钙成像技术对单个神经元对不同任务相关行为状态的选择性进行稳健表征 | Huang, H. | [PDF](https://doi.org/10.1101/2024.11.30.626195) | N/A | Robust characterization of selectivity of individual neurons to distinct task-relevant behavioral states using calcium imaging |
+| 一种用于自动化评估神经退行性疾病小鼠模型中区域性脑萎缩的工具 | Moldenhauer, S. | [PDF](https://doi.org/10.1101/2024.11.30.626190) | N/A | A tool to automate assessment of regional brain atrophy in mouse models of neurodegenerative disease |
+| 与肌萎缩侧索硬化症（ALS）相关的共伴侣蛋白DNAJC7通过调节HSF1活性，介导了对蛋白质毒性应激的神经保护作用。 | Fleming, A. C. | [PDF](https://doi.org/10.1101/2024.12.01.626216) | N/A | The ALS-associated co-chaperone DNAJC7 mediates neuroprotection against proteotoxic stress by modulating HSF1 activity |
+| 在知觉决策任务的学习初期，内部状态便开始显现。 | Cuturela, L. I. | [PDF](https://doi.org/10.1101/2024.11.30.626182) | N/A | Internal states emerge early during learning of a perceptual decision-making task |
+| 戒断初期阻断下丘脑泌素受体1可预防可卡因觅药行为的潜伏，并使多巴胺传递恢复正常 | Clark, P. J. | [PDF](https://doi.org/10.1101/2024.11.30.625912) | N/A | Hypocretin Receptor 1 Blockade Early in Abstinence Prevents Incubation of Cocaine Seeking and Normalizes Dopamine Transmission |
+| MortX：一个用于小鼠皮质分割和配准的领域泛化基准 | Iqbal, A. | [PDF](https://doi.org/10.1101/2024.11.30.626208) | N/A | MortX: A Domain Generalization Benchmark for Mouse Cortex Segmentation and Registration |
+| 改造Barnes迷宫用于STARR FIELD痴呆小鼠模型：一个为期4天的实验方案，探究学习速率、记忆保持和认知灵活性。 | Bertolli, A. | [PDF](https://doi.org/10.1101/2024.11.30.625516) | N/A | Renovating the Barnes maze for mouse models of Dementia with STARR FIELD: A 4-day protocol that probes learning rate, retention and cognitive flexibility. |
+| 基因移动元件在体内介导细胞类型特异的基因组组织和径向基因移动 | Lucas, T. | [PDF](https://doi.org/10.1101/2024.11.30.626181) | N/A | Gene mobility elements mediate cell type specific genome organization and radial gene movement in vivo |
+| 小鼠和大鼠尾部附器发育过程中Edar和Xedar的差异表达 | Wisniewski, S. A. | [PDF](https://doi.org/10.1101/2024.12.01.626243) | N/A | Differential Expression of Edar and Xedar During Mouse and Rat Tail Appendage Development |
+| 时间不确定性对标志追踪行为的影响 | Kaneko, R. | [PDF](https://doi.org/10.1101/2024.11.30.626192) | N/A | Impact of Temporal Uncertainty on Sign-tracking Behavior |
+| 反社会盲穴鱼（Astyanax mexicanus）社会行为的机制 | Sekulovski, B. | [PDF](https://doi.org/10.1101/2024.11.30.626194) | N/A | Mechanisms of Social Behavior in the Anti-Social Blind Cavefish (Astyanax mexicanus) |
+| 优化镍钛诺导管的超短脉冲激光制备策略以用于血管介入手术 | Song, Y. | [PDF](https://doi.org/10.1101/2024.12.01.626210) | N/A | Optimizing femtosecond laser fabricating strategy of Nitinol hypotube for vascular interventional surgery |
+| 大肠杆菌可溶性polyA聚合酶生产条件的优化 | Oscorbin, I. P. | [PDF](https://doi.org/10.1101/2024.12.01.626206) | N/A | Optimization of conditions for production of soluble E. coli polyA-polymerase |
+| ZBP1与ADAR Z-Alpha结构域的染色质相互作用图谱：基于ChIP-Seq的比较研究 | Hamrick, D. | [PDF](https://doi.org/10.1101/2024.11.29.626086) | N/A | Mapping Chromatin Interactions of ZBP1 and ADAR Z-Alpha Domains: A ChIP-Seq Based Comparison |
+| 鉴定感染印度奶牛泰勒虫属中与布帕伐醌抗性相关的基因变异。 | Musale, P. | [PDF](https://doi.org/10.1101/2024.11.28.625829) | N/A | Identification of genetic variation in genes linked to buparvaquone resistance in Theileria sp infecting dairy cattle in India. |
+| 使用片段连接排他性甲基化测序（FLEXseq）富集低输入和片段化DNA的甲基化组 | Yu, J. | [PDF](https://doi.org/10.1101/2024.11.28.625942) | N/A | Enriched Methylomes of Low-input and Fragmented DNA Using Fragment Ligation EXclusive Methylation Sequencing (FLEXseq) |
+| 在真核生物蛋白质组中发现多种嵌合肽，为镶嵌翻译假说的实验验证奠定了基础 | Cakir, U. | [PDF](https://doi.org/10.1101/2024.12.01.626167) | N/A | Discovery of diverse chimeric peptides in a eukaryotic proteome sets the stage for the experimental proof of the mosaic translation hypothesis |
+| 使用分子动力学模拟对修饰寡核苷酸进行热力学参数估计 | Park, S. W. | [PDF](https://doi.org/10.1101/2024.11.29.626002) | N/A | Thermodynamic Parameter Estimation for Modified Oligonucleotides Using Molecular Dynamics Simulations |
+| 影响复合物I功能的mtDNA点突变m.10191T>C的发病机制是一个多因素过程，导致线粒体代谢重塑。 | Ahmadi, Z. A. | [PDF](https://doi.org/10.1101/2024.12.01.626247) | N/A | Pathogenesis of mtDNA point mutation m.10191T>C affecting complex I function is a multifactorial process leading to metabolic remodeling of mitochondria |
+| G-四链体拓扑结构决定了富含鸟嘌呤的生物活性寡核苷酸的功能结果 | Kharel, P. | [PDF](https://doi.org/10.1101/2024.12.01.626249) | N/A | G-quadruplex topologies determine the functional outcome of guanine-rich bioactive oligonucleotides |
+| 新型2-花生四烯酰甘油类似物诱导的两步细胞死亡及其在人乳腺癌细胞中受溶血磷脂酰肌醇调节的作用 | Akimov, M. G. | [PDF](https://doi.org/10.1101/2024.12.01.626225) | N/A | The Two-Step Cell Death Induction by the New 2-Arachidonoyl Glycerol Analog and its Modulation by Lysophosphatidylino-sitol in Human Breast Cancer Cells |
+| 烟草中环肽的出现与消失揭示了植物代谢演化的动态与机制 | Suh, E. M. | [PDF](https://doi.org/10.1101/2024.11.29.626059) | N/A | The emergence and loss of cyclic peptides in Nicotiana illuminate dynamics and mechanisms of plant metabolic evolution |
+| 通过无监督随机森林实现蛋白质构象表示的无偏学习 | Sahil, M. | [PDF](https://doi.org/10.1101/2024.11.30.626148) | N/A | Unbiased learning of protein conformational representation via unsupervised random forest |
+| 通过靶向神经氨酸酶活性位点，人类抗体广泛保护流感病毒的结构基础：CDR H3中重复模体的应用 | Jo, G. | [PDF](https://doi.org/10.1101/2024.11.26.625467) | N/A | Structural basis of broad protection against influenza virus by a human antibody targeting the neuraminidase active site via a recurring motif in CDR H3 |
+| 节俭的B细胞受体体细胞超突变广义模型 | Sung, K. | [PDF](https://doi.org/10.1101/2024.11.26.625407) | N/A | Thrifty wide-context models of B cell receptor somatic hypermutation |
+| 有机和无机氮的协同转化促进了土壤微生物的繁殖，并在融雪期间增加了氮的保留。 | Sorensen, P. | [PDF](https://doi.org/10.1101/2024.11.30.626193) | N/A | Coordinated organic and inorganic nitrogen transformations fuel soil microbial blooms and increase nitrogen retention during snowmelt |
+| CpoS四聚体的形成促进了沙眼衣原体感染期间Inc-Inc相互作用。 | Tijerina, X. | [PDF](https://doi.org/10.1101/2024.12.01.621710) | N/A | Tetramer formation of CpoS facilitates Inc-Inc interactions during Chlamydia trachomatis infection |
+| 评估oxathiapiprolin作为治疗贝壳杉枯死病潜在药物的植物内效力 | Robinson, H. F. | [PDF](https://doi.org/10.1101/2024.12.01.626252) | N/A | Assessing the in planta efficacy of oxathiapiprolin as a potential treatment for kauri dieback disease |
+| miRNAs在调节Nrf1和Nrf2在肝细胞癌上皮-间质转化中不同作用的关键机制 | Chen, J. | [PDF](https://doi.org/10.1101/2024.11.30.626196) | N/A | The mechanisms by which miRNAs critically contribute to differential roles of Nrf1 and Nrf2 in modulating the epithelial-mesenchymal transformation of hepatocellular carcinoma |
+| NuMA机械性地独立于其伙伴动力蛋白（dynein）强化纺锤体。 | Cho, N. H. | [PDF](https://doi.org/10.1101/2024.11.29.622360) | N/A | NuMA mechanically reinforces the spindle independently of its partner dynein |
+| 高质量的中国白松露基因组和新颖的基于化石校准的盘菌纲分歧估计揭示了真松露基因组进化的速度和模式 | Martelossi, J. | [PDF](https://doi.org/10.1101/2024.11.26.625401) | N/A | The high quality Chinese white truffle genome and novel fossil-calibrated estimate of Pezizomycetes divergence reveal the tempo and mode of true truffles genome evolution |
+| CRISPRa介导的与遗传性视网膜营养不良相关的基因在急性分离的人类细胞中的激活，用于诊断目的 | Weber, V. J. | [PDF](https://doi.org/10.1101/2024.11.29.625601) | N/A | CRISPRa-mediated activation of genes associated with inherited retinal dystrophies in acutely isolated human cells for diagnostic purposes |
+| TEAL-seq：目标表达分析测序 | Doing, G. | [PDF](https://doi.org/10.1101/2024.11.26.625462) | N/A | TEAL-seq: Targeted Expression Analysis Sequencing |
+| 利用深度神经网络全面枚举癌症干细胞样细胞的异质性 | Chowdhury, D. | [PDF](https://doi.org/10.1101/2024.11.26.625418) | N/A | Comprehensive Enumeration of Cancer Stem-like Cell Heterogeneity Using Deep Neural Network |
+| 来自毛里求斯食蟹猕猴的多条全长纯合IGH单体型 | Olubo, S. | [PDF](https://doi.org/10.1101/2024.11.27.625687) | N/A | Multiple full-length homozygous IGH haplotypes from Mauritian cynomolgus macaques |
+| MultiPopPred：一种跨种族疾病风险预测方法，及其在南亚人群中的应用 | Kamal, R. | [PDF](https://doi.org/10.1101/2024.11.26.625410) | N/A | MultiPopPred: A Trans-Ethnic Disease Risk Prediction Method, and its Application to the South Asian Population |
+| 长读长宏基因组样本中微生物污染读段的鉴定与缓解 | Ayala Montano, S. | [PDF](https://doi.org/10.1101/2024.11.26.625374) | N/A | Identification and Mitigation of microbial contaminant reads from long-read metagenomic samples |
+| 通过重建亲代和子代链信息来纠正用于稀有等位基因检测的PCR衍生文库中的错误 | Lim, H. | [PDF](https://doi.org/10.1101/2024.11.26.625438) | N/A | Correcting errors in PCR-derived libraries for rare allele detection by reconstructing parental and daughter strand information |
+| HyperMPNN - 一种从嗜热菌中学习到的设计耐热蛋白质的通用策略 | Ertelt, M. | [PDF](https://doi.org/10.1101/2024.11.26.625397) | N/A | HyperMPNN - A general strategy to design thermostable proteins learned from hyperthermophiles |
+| 利用基因组数据进行多类型种群轨迹的贝叶斯系统发育动力学推断 | Vaughan, T. G. | [PDF](https://doi.org/10.1101/2024.11.26.625381) | N/A | Bayesian phylodynamic inference of multi-type population trajectories using genomic dat |
+| 靶向FAK和MEK的药物组合克服了胶质母细胞瘤的肿瘤异质性 | Furqan, M. | [PDF](https://doi.org/10.1101/2024.11.26.625442) | N/A | Drug combinations targeting FAK and MEK overcomes tumour heterogeneity in glioblastoma |
+| LNS8801：一种适合临床开发的G蛋白偶联雌激素受体的对映体纯激动剂 | Natale, C. A. | [PDF](https://doi.org/10.1101/2024.11.26.625421) | N/A | LNS8801: An enantiomerically pure agonist of the G protein-coupled estrogen receptor suitable for clinical development |
+| MUC5B启动子变异导致非纤维化肺中的蛋白质组变化 | HERRERA, J. A. | [PDF](https://doi.org/10.1101/2024.11.26.625453) | N/A | The MUC5B promoter variant results in proteomic changes in the non-fibrotic lung |
+| 实施梭菌属鲁氏菌基因组规模模型以提升合成气发酵 | Scott, W. T. | [PDF](https://doi.org/10.1101/2024.11.26.625427) | N/A | Implementation of a Clostridium luticellarii genome-scale model for upgrading syngas fermentations |
 # BioRxiv 2024-11-30 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
