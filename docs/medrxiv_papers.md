@@ -1,3 +1,43 @@
+# MedRxiv 2024-12-02 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 利用高分辨率灌注数据进行氧合动力学的数学建模 - 第1部分：统计框架 | Sharabiani, M. T. A. | [PDF](https://doi.org/10.1101/2024.03.18.24304520) | N/A | Mathematical Modelling of Oxygenation Dynamics using High-Resolution Perfusion Data - Part 1: Statistical Framework |
+| 4周跑步机跑步后，运动诱导的痛觉减退程度可以得到改善，并与内源性疼痛调节相关。 | Xu, Z. | [PDF](https://doi.org/10.1101/2024.03.27.24304823) | N/A | The magnitude of exercise-induced hypoalgesia can be improved and correlated with endogenous pain modulation following 4 weeks of treadmill running |
+| 开源机器学习流水线自动从电子健康记录中标记急性呼吸窘迫综合征的实例 | Morales, F. L. | [PDF](https://doi.org/10.1101/2024.05.21.24307715) | N/A | Open-source machine learning pipeline automatically flags instances of acute respiratory distress syndrome from electronic health records |
+| 在身体活动行为中的冷漠、意图、显性态度及趋避倾向 | Farajzadeh, A. | [PDF](https://doi.org/10.1101/2024.07.16.24310493) | N/A | Apathy, intentions, explicit attitudes, and approach-avoidance tendencies in physical activity behavior |
+| 一种用于改进多基因风险评分预测的深度集成编码网络方法 | Ozdemir, O. B. | [PDF](https://doi.org/10.1101/2024.07.31.24311311) | N/A | A Deep Ensemble Encoder Network Method for Improved Polygenic Risk Score Prediction |
+| 中年期的社交孤立：与心理困扰、生活满意度和自我评估健康状况在两个连续的英国出生队列中的关联 | Mansfield, R. | [PDF](https://doi.org/10.1101/2024.08.05.24311494) | N/A | Social isolation in mid-life: associations with psychological distress, life satisfaction and self-rated health in two successive British birth cohorts |
+| 艾滋病预防干预措施降低了塔吉克男性劳工移民中注射毒品者的性传播感染率 | Mackesy-Amiti, M. E. | [PDF](https://doi.org/10.1101/2024.08.15.24312070) | N/A | HIV Prevention Intervention Reduced Sexually Transmitted Infections Among Male Tajik Labor Migrants Who Inject Drugs |
+| 肠道来源的PPAR-γ信号与细菌性肠道感染风险：基于美国人群的研究中噻唑烷二酮类药物使用者的启示 | Birabaharan, M. | [PDF](https://doi.org/10.1101/2024.09.24.24313682) | N/A | Gut-derived PPAR-γ signaling and risk of bacterial enteric infection: insight from thiazolidinedione users in a US population-based study |
+| 原发性进行性失语症的语义性失语变异型中语义控制受损 | Henderson, S. K. | [PDF](https://doi.org/10.1101/2024.10.03.24314835) | N/A | Impaired semantic control in the logopenic variant of primary progressive aphasia |
+| 姜黄素补充剂在偏头痛中的作用 | Zhu, X. | [PDF](https://doi.org/10.1101/2024.10.29.24316329) | N/A | The Role of Curcumin Supplementation with Migraine |
+| 利用高分辨率灌注数据进行氧合动力学的数学建模 - 第二部分：生理学见解 | Sharabiani, M. T. A. | [PDF](https://doi.org/10.1101/2024.11.12.24317213) | N/A | Mathematical Modelling of Oxygenation Dynamics using High-Resolution Perfusion Data - Part 2: Physiological Insights |
+| 使用定量CT评估的多变量模型用于预测蛛网膜下腔出血后的预后 | Balcerzyk, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317478) | N/A | Multivariate Models using quantitative CT assessment for prediction of outcome after Subarachnoid Hemorrhage |
+| 双机器学习方法在基于检测阴性设计的COVID-19疫苗有效性评估中的应用：魁北克行政数据分析 | Jiang, C. | [PDF](https://doi.org/10.1101/2024.11.27.24318065) | N/A | A Double Machine Learning Approach for the Evaluation of COVID-19 Vaccine Effectiveness under the Test-Negative Design: Analysis of Quebec Administrative Data |
+| 糖尿病视网膜病变：加纳一家三级眼科护理中心的认知、分期及早期就诊障碍 | Appiagyei, E. | [PDF](https://doi.org/10.1101/2024.12.01.24318265) | N/A | Diabetic Retinopathy: Knowledge, Staging and Barriers to Early Presentation in a Tertiary Eye Care Centre in Ghana |
+| 染色质可及性、启动子相互作用和全基因组测序的综合分析解决了胃癌中遗传缺失的问题。 | Sao Jose, C. | [PDF](https://doi.org/10.1101/2024.11.27.24317972) | N/A | Combined analysis of chromatin accessibility, promoter interactions and whole genome sequencing solved the missing heritability in gastric cancer |
+| 泛基因组助力从基因组数据中精确检测大型插入和缺失：以心肌病为例 | Mazzarotto, F. | [PDF](https://doi.org/10.1101/2024.11.27.24318059) | N/A | PANGENOMES AID ACCURATE DETECTION OF LARGE INSERTION AND DELETIONS FROM GENE PANEL DATA: THE CASE OF CARDIOMYOPATHIES |
+| 通过使用检索增强生成技术，利用大型语言模型提升自动化深度表型分析的效果 | Garcia, B. | [PDF](https://doi.org/10.1101/2024.12.01.24318253) | N/A | Improving Automated Deep Phenotyping Through Large Language Models Using Retrieval Augmented Generation |
+| 在资源匮乏的环境中通过人工智能分析儿童胸片进行肺炎检测：一项试点研究 | Togunwa, T. O. | [PDF](https://doi.org/10.1101/2024.12.01.24318269) | N/A | Detection of Pneumonia in Children through Chest Radiographs using Artificial Intelligence in a Low-Resource Setting: A Pilot Study |
+| 利用常规健康数据监测疟疾干预效果：范围综述。 | Reithinger, R. | [PDF](https://doi.org/10.1101/2024.12.01.24318260) | N/A | Use of routine health data to monitor malaria intervention effectiveness: a scoping review. |
+| 美国主要甲状腺癌相关综合征的流行情况 | White, S. L. | [PDF](https://doi.org/10.1101/2024.12.01.24318259) | N/A | Prevalence of the major thyroid cancer-associated syndromes in the United States |
+| 探究青少年和成年早期过度屏幕时间与抑郁症状之间关联的遗传混杂因素 | Xu, J. | [PDF](https://doi.org/10.1101/2024.12.02.24318295) | N/A | Exploring genetic confounding of the associations between excessive screen time and depressive symptoms in adolescence and early adulthood |
+| SETD1A基因的rs11150601内含子变异与英国生物样本库队列中的女性精神分裂症相关。 | Lehrer, S. | [PDF](https://doi.org/10.1101/2024.12.01.24318271) | N/A | The rs11150601 intron variant of SETD1A is associated with female schizophrenia in the UK Biobank cohort |
+| 河内，越南男性性伴侣间的亲密伴侣暴力经历 | Pham, L. Q. | [PDF](https://doi.org/10.1101/2024.12.01.24318278) | N/A | Intimate Partner Violence Experiences among Men Who Have Sex in Hanoi, Vietnam |
+| 了解需求和解决方案以促进卢旺达健康老龄化和减少多病共存：一项方案论文 | Amberbir, A. | [PDF](https://doi.org/10.1101/2024.12.02.24318282) | N/A | Understanding needs and solutions to promote healthy ageing and reduce multimorbidity in Rwanda: A protocol paper |
+| 健康生活方式、血浆蛋白质组特征与长期痴呆风险 | Shen, J. | [PDF](https://doi.org/10.1101/2024.12.01.24317800) | N/A | Healthy lifestyles, plasma proteomic profile and long-term risk of dementia |
+| 利用单细胞基因组学进行精神障碍的网络药物再利用 | Gupta, C. | [PDF](https://doi.org/10.1101/2024.12.01.24318008) | N/A | Network-based drug repurposing for psychiatric disorders using single-cell genomics |
+| 饮食硝酸盐降血压效果的个体间差异：一项随机双盲安慰剂对照重复交叉试验 | Hayes, E. | [PDF](https://doi.org/10.1101/2024.12.02.24318286) | N/A | Inter-individual differences in the blood pressure lowering effects of dietary nitrate: A randomised double-blind placebo-controlled replicate crossover trial |
+| 评估营养研究的再现性和可验证性：以评估马铃薯与结直肠癌关系研究为例的案例研究 | Jamshidi-Naeini, Y. | [PDF](https://doi.org/10.1101/2024.12.01.24318272) | N/A | Evaluating the Reproducibility and Verifiability of Nutrition Research: A Case Study of Studies Assessing the Relationship Between Potatoes and Colorectal Cancer |
+| 尼日利亚大学教学医院（伊图库-奥扎拉）临床学生中饮食失调和消化性溃疡疾病的知识、流行率及风险因素 | Uka, C. I. | [PDF](https://doi.org/10.1101/2024.12.01.24318266) | N/A | KNOWLEDGE, PREVALENCE AND RISK FACTORS OF EATING DISORDERS AND PEPTIC ULCER DISEASE AMONG CLINICAL STUDENTS AT THE UNIVERSITY OF NIGERIA TEACHING HOSPITAL, ITUKU-OZALLA, ENUGU |
+| 乳房切除术后疼痛综合征的扳机点注射：一项随机双盲临床试验的方案 (NCT04267315) | LEITE, V. F. | [PDF](https://doi.org/10.1101/2024.11.28.24317905) | N/A | Trigger Point Injections for Post-Mastectomy Pain Syndrome: A Protocol for a Randomized Double-Blind Clinical Trial (NCT04267315) |
+| Melflufen在复发/难治性多发性骨髓瘤患者中的疗效，这些患者存在TP53突变或缺失 | Acs, K. | [PDF](https://doi.org/10.1101/2024.12.02.24318289) | N/A | Efficacy of Melflufen in Patients with Relapsed/Refractory Multiple Myeloma and Mutated or Deleted TP53 |
+| 在三项队列研究中，极端的代谢健康评分与血浆中炎症和胆固醇运输的蛋白质标志物相关。 | Bizzarri, D. | [PDF](https://doi.org/10.1101/2024.12.01.24318258) | N/A | Extreme MetaboHealth scores in three cohort studies associate with plasma protein markers for inflammation and cholesterol transport. |
+| 对乌干达接受肺结核治疗的青少年中99DOTS数字依从性技术采用情况的混合方法评估。 | Wambi, P. | [PDF](https://doi.org/10.1101/2024.12.01.24318270) | N/A | A mixed methods evaluation of 99DOTS digital adherence technology uptake among adolescents treated for pulmonary tuberculosis in Uganda. |
+| 利用计算机辅助检测的数字胸部X光片加速莫桑比克监狱中的结核病诊断：一项纵向综合健康干预的初步结果。 | Olotu, A. A. | [PDF](https://doi.org/10.1101/2024.12.01.24318070) | N/A | Accelerating Tuberculosis Diagnosis in Mozambican Prisons Using Digital Chest X-rays with Computer Aided Detection: Preliminary Results from a Longitudinal, Comprehensive Health Intervention. |
+| 睡眠质量在睡眠卫生与多心血管风险因素成年人的心理压力之间起中介作用 | Liu, X. | [PDF](https://doi.org/10.1101/2024.11.25.24317945) | N/A | Sleep Quality Mediates the Relationship Between Sleep Hygiene and Psychological Stress Among Adults With Multiple Cardiovascular Risk Factors |
+| 你听说过裂谷热吗？一项在东非和中非多国进行的研究发现了相关情况。 | Odinoh, R. | [PDF](https://doi.org/10.1101/2024.12.02.24318288) | N/A | Have you heard of Rift Valley fever? Findings from a multi-country study in East and Central Africa |
 # MedRxiv 2024-12-01 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
