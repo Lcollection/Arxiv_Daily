@@ -1,3 +1,54 @@
+# MedRxiv 2024-12-03 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 冷漠与身体活动：系统综述与元分析 | Farajzadeh, A. | [PDF](https://doi.org/10.1101/2024.05.01.24306712) | N/A | Apathy and physical activity: A systematic review and meta-analysis |
+| 医学中的定量显微镜技术 | Matov, A. | [PDF](https://doi.org/10.1101/2024.07.31.24311304) | N/A | Quantitative Microscopy in Medicine |
+| 机器学习模型对危急或健康状况恶化情况的低响应性 | Pias, T. S. | [PDF](https://doi.org/10.1101/2024.09.25.24314400) | N/A | Low Responsiveness of Machine Learning Models to Critical or Deteriorating Health Conditions |
+| 赋能自我管理慢性腰背痛：一项以人为中心的设计研究，针对美国偏好西班牙语和粤语的患者 | Zheng, P. | [PDF](https://doi.org/10.1101/2024.09.27.24314504) | N/A | Empowering Self-Management for Chronic Low Back Pain: A Human-Centered Design Study of Spanish- and Cantonese-Preferring Patients in the United States |
+| 饮食铁摄入量与烟草使用引起的精神和行为障碍：基于英国生物银行的一项横断面和纵向研究 | Qi, X. | [PDF](https://doi.org/10.1101/2024.10.30.24316458) | N/A | Dietary Iron Intake and Mental and Behavioral Disorders Due to Use of Tobacco: A Cross-Sectional and Longitudinal Study Based on the UK Biobank |
+| 检测西班牙裔/拉丁裔患者早期结直肠癌中的PI3K和TP53通路破坏 | Monge, C. | [PDF](https://doi.org/10.1101/2024.11.13.24317265) | N/A | Detecting PI3K and TP53 Pathway Disruptions in Early-Onset Colorectal Cancer Among Hispanic/Latino Patients |
+| 利用机器学习和孕早期及孕中期的医疗记录预测妊娠高血压疾病 | Mousavi, S. S. | [PDF](https://doi.org/10.1101/2024.11.21.24317720) | N/A | Early Prediction of Hypertensive Disorders of Pregnancy Using Machine Learning and Medical Records from the First and Second Trimesters |
+| 痴呆患者开始使用阿片类药物后的短期死亡风险：一项比较新用户和持续用户的回顾性队列研究 | Hwang, Y. M. | [PDF](https://doi.org/10.1101/2024.11.25.24317747) | N/A | Short-Term Mortality Risk in Dementia Patients Initiating Opioids: A Retrospective Cohort Study Comparing New Users and Consistent Users |
+| 遗传信息方法揭示了自然双卵双胞胎的低多基因性，并强调了其在女性生育力和不孕症中的作用。 | Hubers, N. | [PDF](https://doi.org/10.1101/2024.12.02.24318308) | N/A | Genetically Informed Methods Uncover the Low Polygenicity of Natural Dizygotic Twinning and Highlight Its Role in Female Fertility and Infertility |
+| 扩展处方止痛药使用的全基因组关联研究确定了慢性疼痛的新型遗传位点 | Harlow, C. E. | [PDF](https://doi.org/10.1101/2024.12.02.24318312) | N/A | GWAS of Extended Prescription Analgesic Use Identifies Novel Genetic Loci in Chronic Pain |
+| 静脉血栓栓塞症亚型间血栓复发风险的基因组图谱 | Munsch, G. | [PDF](https://doi.org/10.1101/2024.12.02.24317788) | N/A | Genomic Landscape of Thrombosis Recurrence Risk Across Venous Thromboembolism Subtypes |
+| 频率动态预测病毒适应度、抗原关系和流行病增长 | Figgins, M. D. | [PDF](https://doi.org/10.1101/2024.12.02.24318334) | N/A | Frequency dynamics predict viral fitness, antigenic relationships and epidemic growth |
+| 奥密克戎时代共病群体中COVID-19严重后果的风险：一项荟萃分析 | Chapman, A. | [PDF](https://doi.org/10.1101/2024.12.02.24317727) | N/A | Risk of Severe Outcomes From COVID-19 in Comorbid Populations in the Omicron Era: A Meta-analysis |
+| 坚持“生命八大要素”与延缓白质衰老有关 | Feng, L. | [PDF](https://doi.org/10.1101/2024.12.02.24318274) | N/A | Adherence to Life's Essential 8 is associated with delayed white matter aging |
+| 左旋多巴/卡比多巴对Machado-Joseph病/脊髓小脑共济失调3型（MJD/SCA3）进展的影响 | Raposo, M. | [PDF](https://doi.org/10.1101/2024.11.28.24318145) | N/A | Effect of levodopa/carbidopa on the progression of Machado-Joseph disease /spinocerebellar ataxia type 3 (MJD/SCA3) |
+| 青少年自杀行为的风险因素及SARS-CoV-2感染的影响：一项回顾性病例对照研究 | Heslin, K. P. | [PDF](https://doi.org/10.1101/2024.12.02.24318197) | N/A | Risk Factors for Suicidal Behavior in Youth and the Impact of SARS-CoV-2 Infection: A Retrospective Case-Control Study |
+| 脆弱婴儿及其母亲护理路径实施中的反思性学习：来自巴基斯坦、南苏丹和也门的案例研究。 | Deconinck, H. | [PDF](https://doi.org/10.1101/2024.12.02.24318218) | N/A | Reflective Learning from Implementing Care Pathways for Vulnerable Infants and Their Mothers: Case Studies from Pakistan, South Sudan and Yemen. |
+| 推动儿童福祉的边界：对极端经济不平等和物质困境过渡区儿童死亡率的空间研究 | Liebhard, B. E. | [PDF](https://doi.org/10.1101/2024.12.02.24318335) | N/A | Pushing the boundary of child well-being: A spatial examination of child mortality in transition zones of extreme economic inequality and material hardship |
+| 隐形光谱：少数群体参与癌症研究的公共参与模式 | O'Grady, S. | [PDF](https://doi.org/10.1101/2024.12.02.24317617) | N/A | Invisible Spectrum: A model for minority community public engagement in cancer research |
+| 一种用于广义脑部MRI分析的基础模型 | Tak, D. | [PDF](https://doi.org/10.1101/2024.12.02.24317992) | N/A | A foundation model for generalized brain MRI analysis |
+| 老年人虚弱、前虚弱和健康状况良好者双手协调运动特征的比较 | Fujikawa, S. | [PDF](https://doi.org/10.1101/2024.12.02.24318299) | N/A | Comparison of characteristics of bimanual coordinated movements in older adults with frailty, pre-frailty, and robust health |
+| 利用唾液进行非侵入性检测运动诱导的心肌损伤，采用即时检测心脏肌钙蛋白I | Ovchinnikov, A. N. | [PDF](https://doi.org/10.1101/2024.12.02.24318327) | N/A | Utilizing Saliva for Non-Invasive Detection of Exercise-Induced Myocardial Injury with Point-of-Care Cardiac Troponin-I |
+| 优化学生成功：领导者对研究生健康专业教育项目辅导实践的看法 | Meyer, H. | [PDF](https://doi.org/10.1101/2024.12.02.24318324) | N/A | Optimizing Student Success: Leaders' Perspectives on Advising Practices in Graduate Health Professions Education Programs |
+| 从稳定性到复杂性：步态分析中长期发散指数的系统综述协议 | Terrier, P. | [PDF](https://doi.org/10.1101/2024.12.02.24318001) | N/A | From stability to complexity: A systematic review protocol on long-term divergence exponents in gait analysis |
+| 长时间睡眠、认知表现与抑郁的调节作用：弗雷明汉心脏研究的横断面分析 | Young, V. | [PDF](https://doi.org/10.1101/2024.12.02.24318350) | N/A | Long Sleep Duration, Cognitive Performance, and the Moderating Role of Depression: A Cross-Sectional Analysis in the Framingham Heart Study |
+| 人类丘脑底核的神经元在动作取消过程中与局部δ频率过程相互作用。 | Szabo, J. P. | [PDF](https://doi.org/10.1101/2024.12.02.24318298) | N/A | Neurons of the human subthalamic nucleus engage with local delta frequency processes during action cancellation |
+| 中国饮食风险导致的缺血性中风负担：1990-2019年全球疾病负担研究 | Duan, K. | [PDF](https://doi.org/10.1101/2024.12.02.24318360) | N/A | Ischemic Stroke Burden from Dietary Risks in China: 1990-2019 GBD Study |
+| 三叉神经痛患者尿液蛋白质组学的探索性研究 | Gao, Y. | [PDF](https://doi.org/10.1101/2024.12.02.24318147) | N/A | An exploratory study of urinary proteome in trigeminal neuralgia |
+| 急性症状性癫痫发作的时间和类型与卒中后癫痫和死亡率的关系 | Schubert, K. M. | [PDF](https://doi.org/10.1101/2024.12.02.24318052) | N/A | Association of the timing and type of acute symptomatic seizures with post-stroke epilepsy and mortality |
+| 钙摄入与睡眠质量是否相关？：一项系统综述 | Isoda, A. | [PDF](https://doi.org/10.1101/2024.12.03.24318236) | N/A | Is calcium intake associated with sleep quality? : a systematic review |
+| 基于卵巢癌无铂间隔的预后模型构建及其对化疗耐药性的启示 | Zhang, Y. | [PDF](https://doi.org/10.1101/2024.12.02.24318249) | N/A | Prognostic Model Construction Based on Platinum-Free Interval in Ovarian Cancer and Its Implication for Chemotherapy Resistance |
+| 用于新诊断的急性髓系白血病患者在接受维奈托克和阿扎胞苷治疗前进行风险分层的简化风险模型 | Islam, N. | [PDF](https://doi.org/10.1101/2024.12.02.24318344) | N/A | A simplified risk model for pretreatment stratification of newly diagnosed acute myeloid leukemia patients treated with venetoclax and azacitidine |
+| 生成式人工智能和基因分析表明，二甲双胍是正常眼压性青光眼的药物再利用候选者。 | jiang, j. | [PDF](https://doi.org/10.1101/2024.12.02.24318301) | N/A | Generative AI and genetic analyses indicate metformin as a drug repurposing candidate for normal tension glaucoma |
+| 住院时长对患者健康结果的影响：一项准实验研究 | Langenberger, B. | [PDF](https://doi.org/10.1101/2024.12.02.24318326) | N/A | The Effect of Length of Stay in Hospital on Patients' Health Outcomes: A Quasi-Experimental Study |
+| 抗肥胖药物的现状及效果，基于电子健康记录的调查 | Ruan, X. | [PDF](https://doi.org/10.1101/2024.12.02.24318314) | N/A | Current status of anti-obesity medications and performance, an EHR based survey |
+| 下一代证据：为快速临床指南更新提供高精度信息检索 | Borchert, F. | [PDF](https://doi.org/10.1101/2024.12.02.24318184) | N/A | Next Generation Evidence: High-Precision Information Retrieval for Rapid Clinical Guideline Updates |
+| 原发性骨髓纤维化中的DNA甲基化部分与驱动突变相关，并与其它髓系恶性肿瘤有所不同。 | Dursun Torlak, E. | [PDF](https://doi.org/10.1101/2024.12.02.24318089) | N/A | DNA methylation in primary myelofibrosis is partly associated with driver mutations and distinct from other myeloid malignancies |
+| 艾滋病暴露前预防及其实施策略经济评估的演变格局：一项系统性综述 | Xi, M. | [PDF](https://doi.org/10.1101/2024.12.02.24318351) | N/A | Evolving landscape of economic evaluations of HIV pre-exposure prophylaxis and pre-exposure prophylaxis implementation strategies: A systematic review |
+| CETP抑制通过降低累积LDL暴露减少心血管事件：调和人类遗传学和临床试验的证据 | Landfors, F. | [PDF](https://doi.org/10.1101/2024.12.02.24318306) | N/A | CETP inhibition Reduces Cardiovascular Events by Lowering of Cumulative LDL Exposure: Reconciling Evidence from Human Genetics and Clinical Trials |
+| 先进的迁移学习方法用于多类别皮肤病识别，结合LIME可解释AI技术 | Mahmud, M. Z. | [PDF](https://doi.org/10.1101/2024.12.02.24318311) | N/A | Advance Transfer Learning Approach for Identification of Multiclass Skin Disease with LIME Explainable AI Technique |
+| 戴口罩情绪和疫苗情绪之间的共同趋势可以决定疾病传播的结果。 | Mehta, R. | [PDF](https://doi.org/10.1101/2024.12.02.24318343) | N/A | Shared tendencies between the adoption of masking sentiment and vaccine sentiment can determine the outcome of disease spread |
+| 英国乙型肝炎病毒（HBV）治疗资格：回顾性纵向队列数据以探讨临床指南变化的影响 | Campbell, C. | [PDF](https://doi.org/10.1101/2024.12.02.24318329) | N/A | Hepatitis B Virus (HBV) treatment eligibility in the UK: retrospective longitudinal cohort data to explore the impact of changes in clinical guidelines |
+| 在自适应网络上对传染病进行高效准确的模拟 | Gubela, N. | [PDF](https://doi.org/10.1101/2024.12.02.24318307) | N/A | Efficient and accurate simulation of infectious diseases on adaptive networks |
+| 躯干功能和下肢瘫痪对中风患者日常生活活动独立性的影响 | Nishida, T. | [PDF](https://doi.org/10.1101/2024.12.02.24318305) | N/A | Impact of Trunk Function and Lower Limb Paralysis on Independence in Activities of Daily Living in Patients with Stroke |
+| 患者和医生对心血管风险的观点：一项多中心研究揭示沟通差距 | Gorriz-Magana, J. | [PDF](https://doi.org/10.1101/2024.12.02.24318359) | N/A | Patient and Physician Perspectives on Cardiovascular Risk: A Multicenter Study of Communication Gaps |
+| 哥伦比亚2型糖尿病患者中冠状动脉疾病的复杂性和遗传风险概况 | Giraldo-Gonzalez, G. C. | [PDF](https://doi.org/10.1101/2024.12.02.24318358) | N/A | Complexity of Coronary Disease and a Genetic Risk Profile in Patients with Type 2 Diabetes in Colombia |
+| 选择性左束支起搏中不同心室电图形态的临床意义及可能机制 | Wang, D. | [PDF](https://doi.org/10.1101/2024.12.02.24318355) | N/A | Clinical significance and possible mechanism of different ventricular electrogram morphology in selective left bundle branch pacing |
 # MedRxiv 2024-12-02 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
