@@ -1,3 +1,23 @@
+# MedRxiv 2024-12-04 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 一种用于混合结果分析中跨群体学习的一次性无损算法 | Li, R. | [PDF](https://doi.org/10.1101/2024.01.09.24301073) | N/A | A One-Shot Lossless Algorithm for Cross-Cohort Learning in Mixed-Outcomes Analysis |
+| 刚果民主共和国对抗昏睡病终局策略的成本效益分析 | Antillon, M. | [PDF](https://doi.org/10.1101/2024.03.29.24305066) | N/A | Cost-effectiveness of end-game strategies against sleeping sickness across the Democratic Republic of Congo |
+| 对遗传因素在多发病中的贡献进行系统分析，并与初级保健数据进行比较 | Murrin, O. | [PDF](https://doi.org/10.1101/2024.05.13.24307009) | N/A | A systematic analysis of the contribution of genetics to multimorbidity and comparisons with primary care data |
+| 撤回：儿童急性缺血性卒中溶栓治疗的适应症及预后 | Briest, R. | [PDF](https://doi.org/10.1101/2024.07.17.24310608) | N/A | WITHDRAWN: Eligibility for thrombolysis and outcome in pediatric acute ischemic stroke |
+| 多发性骨髓瘤药物疗效分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.03.24311450) | N/A | Analysis of Multiple Myeloma Drug Efficacy |
+| 五岁以下儿童超重或肥胖的相关因素：快速回顾 | Williams, J. | [PDF](https://doi.org/10.1101/2024.10.14.24314839) | N/A | Factors associated with overweight or obesity in children under five years old: a rapid review |
+| 医生和内镜护士对胃肠镜检查中使用自来水的看法：一项关于支持度、感知障碍及倡导意愿的横断面调查 | Goodings, A. J. | [PDF](https://doi.org/10.1101/2024.11.23.24317703) | N/A | Physician and Endoscopy Nurse Perspectives on Tap Water for Gastrointestinal Endoscopy: A Cross-Sectional Survey on Support, Perceived Barriers, and Intent to Advocate |
+| AI驱动的对话代理增强了精准医学研究中临床和基因组数据的整合 | Yang, E.-W. | [PDF](https://doi.org/10.1101/2024.11.27.24318113) | N/A | AI-driven conversational agent enhances clinical and genomic data integration for precision medicine research |
+| 强制移民社区的响应性医疗保健机制与态度：一项跨国实践的定性研究。 | Robinson, A. R. | [PDF](https://doi.org/10.1101/2024.11.29.24309172) | N/A | Mechanisms and attitudes in responsive health care for forced migrant communities. A qualitative study of transnational practice. |
+| 利用脑脊液的基因组和免疫细胞特征检测人类脑癌，通过CSF-BAM技术实现。 | Pearlman, A. H. | [PDF](https://doi.org/10.1101/2024.12.02.24318303) | N/A | Detection of human brain cancers using genomic and immune cell characterization of cerebrospinal fluid through CSF-BAM |
+| 实施mhGAP-HIG：在巴基斯坦开伯尔-普赫图赫瓦省监督经过培训的基层卫生保健工作者的过程与成果 | Humayun, A. | [PDF](https://doi.org/10.1101/2024.11.29.24317879) | N/A | Implementing the mhGAP-HIG: The process and outcome of supervising trained primary health care workers in Khyber Pakhtunkhwa, Pakistan |
+| 脑电图在预测卒中后癫痫发作中的作用及更新后的预后模型（SeLECT-EEG） | Schubert, K. M. | [PDF](https://doi.org/10.1101/2024.11.28.24318126) | N/A | The role of EEG in predicting post-stroke seizures and an updated prognostic model (SeLECT-EEG) |
+| EsoDetect：巴雷特食管异型增生新型诊断和预后工具的计算验证与算法开发 | Miskinyte, M. | [PDF](https://doi.org/10.1101/2024.11.26.24317976) | N/A | EsoDetect: Computational Validation and Algorithm Development of a Novel Diagnostic and Prognostic Tool for Dysplasia in Barrett's Esophagus |
+| 通过术中3D导航对脑肿瘤患者进行固体应力估计 | Nia, H. | [PDF](https://doi.org/10.1101/2024.11.28.24318104) | N/A | Solid stress estimations via intraoperative 3D navigation in patients with brain tumors |
+| RGnet：大型孟德尔疾病队列中的隐性基因型网络 | Ai, F. | [PDF](https://doi.org/10.1101/2024.12.02.24318353) | N/A | RGnet: Recessive Genotype Network in a Large Mendelian Disease Cohort |
+| 孕妇及新生儿中预先存在的抗聚乙二醇抗体 | Wang, H. | [PDF](https://doi.org/10.1101/2024.11.29.24317450) | N/A | Pre-existing anti-polyethylene glycol antibodies in pregnant women and newborns |
 # MedRxiv 2024-12-03 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
