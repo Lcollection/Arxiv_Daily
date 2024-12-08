@@ -1,3 +1,20 @@
+# MedRxiv 2024-12-07 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 心血管领域的人工智能脉动：对最先进的大型语言模型在临床心脏病学中潜在应用的综合评估 | Novak, A. | [PDF](https://doi.org/10.1101/2023.08.08.23293689) | N/A | The Pulse of Artificial Intelligence in Cardiology: A Comprehensive Evaluation of State-of-the-art Large Language Models for Potential Use in Clinical Cardiology |
+| 通过全国性研究利用核磁共振波谱探索克里米亚-刚果出血热中的代谢组改变 | Gocenler, O. | [PDF](https://doi.org/10.1101/2023.08.16.23294178) | N/A | Metabolomic Alterations in Crimean Congo Hemorrhagic Fever Explored Through a Nationwide Study Using NMR Spectroscopy |
+| HistoPlexer：基于深度学习的组织病理学蛋白质多重生成技术 | Andani, S. | [PDF](https://doi.org/10.1101/2024.01.26.24301803) | N/A | HistoPlexer: Histopathology-based Protein Multiplex Generation using Deep Learning |
+| 小脑与腹侧被盖区之间存在一种纵向且可重复的抗共激活模式，这种模式与精神分裂症中的情感淡漠有关。 | Delavari, F. | [PDF](https://doi.org/10.1101/2024.07.11.24310281) | N/A | A Longitudinal and Reproducible Anti-coactivation Pattern Between the Cerebellum and the Ventral Tegmental Area Relates to Apathy in Schizophrenia |
+| 美国RhD阴性孕妇胎儿RhD检测中无细胞DNA的临床表现。 | Wynn, J. | [PDF](https://doi.org/10.1101/2024.07.24.24310793) | N/A | Clinical performance of cell free DNA for fetal RhD detection in RhD-negative pregnant individuals from the US population. |
+| 基于个性化机器学习的临床评估推荐系统 | Setiawan, D. R. | [PDF](https://doi.org/10.1101/2024.07.24.24310941) | N/A | Individualized Machine-learning-based Clinical Assessment Recommendation System |
+| 我以一名真正的医生的身份回答临床情景，因为我“思考”：“ChatGPTo1”新的推理能力。 | Mondillo, G. | [PDF](https://doi.org/10.1101/2024.09.30.24314616) | N/A | I answer to clinical scenarios as a real doctor because I "Think": "ChatGPTo1" new reasoning ability. |
+| NIAGADS：一个全面的全国性数据资源库，用于阿尔茨海默病及相关痴呆症的遗传学和基因组学研究 | Kuzma, A. | [PDF](https://doi.org/10.1101/2024.10.07.24315029) | N/A | NIAGADS: A Comprehensive National Data Repository for Alzheimer's Disease and Related Dementia Genetics and Genomics Research |
+| 在16S微生物组分析过程中，从女性宫颈和子宫内膜标本中检测到避免诊断的沙眼衣原体变异株 | Jeong, S. | [PDF](https://doi.org/10.1101/2024.11.13.24316066) | N/A | Diagnostic-avoiding Chlamydia trachomatis variants detected in cervical and endometrial specimens from women during 16S microbiome profiling |
+| CAIRS：一种用于数字心理健康的因果人工智能推荐系统 | Varidel, M. | [PDF](https://doi.org/10.1101/2024.11.11.24317126) | N/A | CAIRS: A causal artificial intelligence recommendation system for digital mental health |
+| 认知行为治疗中进食障碍患者的抗焦虑管理：质量改进简报报告 | Garrison, S. R. | [PDF](https://doi.org/10.1101/2024.11.25.24317936) | N/A | Anxiolytic management in eating disorder patients receiving cognitive behavioral therapy: A quality improvement brief report |
+| 美国人口的口腔微生物组特征 | Chaturvedi, A. K. | [PDF](https://doi.org/10.1101/2024.12.03.24318415) | N/A | The mouth of America: the oral microbiome profile of the US population |
+| 创伤应激暴露后，应激期间的C反应蛋白水平以性别依赖的方式预测疼痛结果 | McKibben, L. A. | [PDF](https://doi.org/10.1101/2024.12.03.24318221) | N/A | Peritraumatic C-reactive protein levels predict pain outcomes following traumatic stress exposure in a sex-dependent manner |
 # MedRxiv 2024-12-06 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
