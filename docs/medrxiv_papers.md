@@ -1,3 +1,14 @@
+# MedRxiv 2024-12-09 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 撤回：一项关于减少伤害计划中用户体验的定性研究 | Adebayo, O. B. | [PDF](https://doi.org/10.1101/2024.09.17.24313840) | N/A | WITHDRAWN: A Qualitative Study of User Experiences in Harm Reduction Programs |
+| 女性足球运动员月经周期阶段与心率、幸福感及感知用力程度之间的关联 | Lipkova, L. | [PDF](https://doi.org/10.1101/2024.12.05.24318571) | N/A | Associations Between Menstrual Cycle Phases and Heart Rate, Well-Being, and Perceived Exertion in Female Football Players |
+| 使用无创的表观遗传生物标志物检测，对高风险肺结节进行准确诊断。 | Chen, P. H. | [PDF](https://doi.org/10.1101/2024.12.05.24318548) | N/A | Accurate diagnosis of high-risk pulmonary nodules using a non-invasive epigenetic biomarker test |
+| 社区高血压患者自我护理因素分析 | Dewi, N. P. A. R. | [PDF](https://doi.org/10.1101/2024.12.01.24318276) | N/A | ANALYSIS OF SELF-CARE FACTORS IN HYPERTENSION PATIENTS IN COMMUNITY SETTINGS |
+| 一项回顾性分析，比较在宫颈癌腔内后装治疗中使用串联环施源器时两种直肠保护技术的剂量学参数 | Vats, S. | [PDF](https://doi.org/10.1101/2024.12.06.24318598) | N/A | A retrospective analysis to compare the dosimetric parameters of two rectum-sparing techniques during intracavitary brachytherapy with tandem-ring applicators for cervical cancer |
+| 深胸：一种通过胸部X光进行多疾病诊断的人工智能模型 | Bozcuk, H. S. | [PDF](https://doi.org/10.1101/2024.12.05.24318531) | N/A | Deep Chest: an artificial intelligence model for multi-disease diagnosis by chest x-rays |
+| 2012年至2019年间，哥伦比亚正式员工中结直肠癌患者三年生存率的社会经济不平等性 | Sanchez-Santiesteban, D. | [PDF](https://doi.org/10.1101/2024.12.07.24318651) | N/A | Socioeconomic inequalities of 3-year survival in formal employees with colorectal cancer between 2012 and 2019 in Colombia |
 # MedRxiv 2024-12-08 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
