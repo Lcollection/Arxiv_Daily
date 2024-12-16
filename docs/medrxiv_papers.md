@@ -1,3 +1,9 @@
+# MedRxiv 2024-12-15 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 自体P63+肺祖细胞移植在特发性肺纤维化中的应用：一项1期临床试验 | Zhang, S. | [PDF](https://doi.org/10.1101/2024.09.18.24313787) | N/A | Autologous P63+ lung progenitor cell transplantation in idiopathic pulmonary fibrosis: a phase 1 clinical trial |
+| 肠道来源的PPAR-γ信号与细菌性肠道感染风险：基于美国人群的研究中噻唑烷二酮类药物使用者的启示 | Birabaharan, M. | [PDF](https://doi.org/10.1101/2024.09.24.24313682) | N/A | Gut-derived PPAR-γ signaling and risk of bacterial enteric infection: insight from thiazolidinedione users in a US population-based study |
 # MedRxiv 2024-12-14 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
