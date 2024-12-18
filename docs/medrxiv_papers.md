@@ -1,3 +1,33 @@
+# MedRxiv 2024-12-17 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 回肠末端活检的单细胞RNA测序揭示了克罗恩病发病机制的特征。 | Krzak, M. | [PDF](https://doi.org/10.1101/2023.09.06.23295056) | N/A | Single-Cell RNA Sequencing of Terminal Ileal Biopsies Identifies Signatures of Crohn's Disease Pathogenesis. |
+| 炎症性肠病与超过1500种共病风险：一项疾病广泛的前诊断和后诊断表型关联研究 | Ebert, A. C. | [PDF](https://doi.org/10.1101/2024.02.14.24302206) | N/A | Inflammatory bowel disease and risk of more than 1500 comorbidities: A disease-wide pre- and post-diagnostic phenomic association study |
+| 多参数磁共振成像结合机器学习预测儿童低级别胶质瘤的预后和治疗反应 | Fathi Kazerooni, A. | [PDF](https://doi.org/10.1101/2024.04.18.24306046) | N/A | Multiparametric MRI Along with Machine Learning Predicts Prognosis and Treatment Response in Pediatric Low-Grade Glioma |
+| 个性化互动音乐系统用于身体活动和锻炼：一项系统性综述和探索性元分析 | Danso, A. | [PDF](https://doi.org/10.1101/2024.05.28.24308089) | N/A | Personalised interactive music systems for physical activity and exercise: A systematic review and exploratory meta-analysis |
+| 一个用于挖掘胰腺临床和分子数据集并访问生物银行样本的核心研究门户 | Oscanoa, J. | [PDF](https://doi.org/10.1101/2024.07.25.24309825) | N/A | A central research portal for mining pancreatic clinical and molecular datasets and accessing biobanked samples |
+| 超越肿瘤：复发性癌症患者未受累乳腺组织中与致病性PIK3CA和TP53合子后变异相关的生存率降低 | Andreou, M. | [PDF](https://doi.org/10.1101/2024.10.04.24313634) | N/A | Beyond Tumors: Reduced survival linked to pathogenic PIK3CA and TP53 post-zygotic variants in the uninvolved breast tissue of recurrent cancer patients |
+| 全球估计显示，2020年至2024年间，COVID-19疫苗接种挽救的生命和生命年数。 | Ioannidis, J. P. A. | [PDF](https://doi.org/10.1101/2024.11.03.24316673) | N/A | Global estimates of lives and life-years saved by COVID-19 vaccination during 2020-2024 |
+| 炎症性肠病患者的肠道体细胞突变在极早发型IBD和原发性免疫缺陷基因中富集。 | Hidding, I. J. | [PDF](https://doi.org/10.1101/2024.12.09.24318484) | N/A | Intestinal somatic mutations in inflammatory bowel disease patients are enriched in very early onset IBD and primary immunodeficiency genes |
+| 国际验证心脏超声AI淀粉样蛋白检测算法 | Duffy, G. | [PDF](https://doi.org/10.1101/2024.12.14.24319049) | N/A | International Validation of Echocardiographic AI Amyloid Detection Algorithm |
+| 在急性缺血性卒中患者的入院MRI中，侧支循环影响氧代谢。 | Patural, P. | [PDF](https://doi.org/10.1101/2024.12.12.24318960) | N/A | Collaterals influence oxygen metabolism on admission MRI in acute ischemic stroke |
+| 英国三级转诊中心对亚最佳反应性糖尿病性黄斑水肿患者使用法瑞西单抗的十二个月结果 | El-Badawi, K. | [PDF](https://doi.org/10.1101/2024.12.13.24318978) | N/A | Twelve-Month Outcomes of Faricimab for Patients With Sub-optimally Responsive Diabetic Macular Oedema in a UK Tertiary Referral Centre |
+| 血浆蛋白质组在青少年中显示出与心理健康风险的性别特异性关联。 | Afonin, A. | [PDF](https://doi.org/10.1101/2024.12.16.24319062) | N/A | Plasma proteome demonstrates sex-specific associations with mental health risks in adolescents |
+| 涉及母亲暴露与菲律宾人口腔裂风险相关的基因与环境相互作用 | ERDOGAN-YILDIRIM, Z. | [PDF](https://doi.org/10.1101/2024.12.16.24319123) | N/A | Gene-by-environment interactions involving maternal exposures with orofacial cleft risk in Filipinos |
+| 将支持向量机与深度学习特征结合用于口腔癌组织病理学分析 | Pham, T. D. | [PDF](https://doi.org/10.1101/2024.12.17.24319148) | N/A | Integrating Support Vector Machines and Deep Learning Features for Oral Cancer Histopathology Analysis |
+| 社区参与式方法在肯尼亚图尔卡纳中央子县半游牧人口中设计季节性疟疾化学预防递送：基于混合方法研究的基线结果 | Kostandova, N. | [PDF](https://doi.org/10.1101/2024.12.16.24319133) | N/A | Community Informed Approach for Designing Seasonal Malaria Chemoprevention Delivery in Semi-Nomadic Population in Turkana Central Sub-County, Kenya: Results from Baseline Mixed-Methods Study |
+| 红加仑（Ribes rubrum）果粉对COVID-19患者的影响：一项随机双盲临床试验 | Ahmadi Pirmorad, A. | [PDF](https://doi.org/10.1101/2024.12.15.24319053) | N/A | Effect of Redcurrant (Ribes rubrum) fruit powder on patients with COVID-19, A randomized double-blinded clinical trial |
+| 非典型表型是阿尔茨海默病中较高死亡率的风险因素。 | Bader, I. | [PDF](https://doi.org/10.1101/2024.12.16.24319084) | N/A | An atypical phenotype is a risk factor for higher mortality in Alzheimer's disease |
+| 评估增强型大型语言模型在从临床记录中进行精确心理健康诊断方面的应用 | Boggavarapu, L. | [PDF](https://doi.org/10.1101/2024.12.16.24317648) | N/A | Evaluating Enhanced LLMs for Precise Mental Health Diagnosis from Clinical Notes |
+| 通过免疫组织化学分析组蛋白修饰生物标志物，揭示乳腺癌亚型特异性的表观遗传特征及潜在药物靶点 | Huo, Z. | [PDF](https://doi.org/10.1101/2024.12.13.24318980) | N/A | Immunohistochemical Profiling of Histone Modification Biomarkers Identifies Subtype-Specific Epigenetic Signatures and Potential Drug Targets in Breast Cancer |
+| 肯尼亚农村地区0-5个月婴儿服用益生元/合生元的早期成本与实施可行性研究 | McCallum, B. | [PDF](https://doi.org/10.1101/2024.12.17.24319142) | N/A | An early-stage cost and implementation feasibility study of the administration of pro/synbiotics to infants 0-5 months in rural Kenya |
+| 基于临床生物标志物的生物学衰老与腹主动脉瘤风险：一项前瞻性队列研究 | Zhou, X. | [PDF](https://doi.org/10.1101/2024.12.16.24319128) | N/A | Clinical Biomarker-Based Biological Aging and the Risk of Abdominal Aortic Aneurysm: A Prospective Cohort Study |
+| 机器学习在血管神经影像学中应用于认知障碍和痴呆的诊断与预后：一项系统综述和荟萃分析 | Lohner, V. | [PDF](https://doi.org/10.1101/2024.12.17.24319166) | N/A | Machine learning applications in vascular neuroimaging for the diagnosis and prognosis of cognitive impairment and dementia: a systematic review and meta-analysis |
+| 帕金森病致病性变异：跨祖先分析与微阵列数据验证 | Hong, S. | [PDF](https://doi.org/10.1101/2024.12.16.24319097) | N/A | Parkinson's Disease Pathogenic Variants: Cross-Ancestry Analysis and Microarray Data Validation |
+| 任务优化型机器学习：从手写数据中实现高精度阿尔茨海默病诊断 | Seyedi Hosseininian, Z. | [PDF](https://doi.org/10.1101/2024.12.17.24319146) | N/A | Task-Optimized Machine Learning for High-Accuracy Alzheimer's Diagnosis from Handwriting Data |
+| 肯尼亚成年人中精神及物质使用问题的普遍性及其相关因素：一项基于社区的横断面研究 | Mwangala, P. N. | [PDF](https://doi.org/10.1101/2024.12.16.24319125) | N/A | Prevalence and associated factors of mental and substance use problems among adults in Kenya: a community-based cross-sectional study |
+| 大型语言模型在临床文本中的症状识别：一项多中心研究 | McMurry, A. J. | [PDF](https://doi.org/10.1101/2024.12.16.24319044) | N/A | Large Language Model Symptom Identification from Clinical Text: A Multi-Center Study |
 # MedRxiv 2024-12-16 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
