@@ -1,3 +1,35 @@
+# MedRxiv 2024-12-18 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 发现新型小头症相关蛋白ABBA，通过NEDD9-RhoA调控皮质祖细胞分裂和皮质发生 | Carabalona, A. | [PDF](https://doi.org/10.1101/2022.03.28.22272122) | N/A | Identification of novel microcephaly-linked protein ABBA that mediates cortical progenitor cell division and corticogenesis through NEDD9-RhoA |
+| 整合孟德尔随机化与文献挖掘证据以识别乳腺癌风险因素 | Vabistsevits, M. | [PDF](https://doi.org/10.1101/2022.07.19.22277795) | N/A | Integrating Mendelian randomization and literature-mined evidence for breast cancer risk factors |
+| 将自监督学习应用于组织病理学中的尺度调整与掩码图像建模 | Filiot, A. | [PDF](https://doi.org/10.1101/2023.07.21.23292757) | N/A | Scaling Self-Supervised Learning for Histopathology with Masked Image Modeling |
+| 个性化互动音乐系统在身体活动和锻炼中的应用：一项系统性综述和探索性元分析 | Danso, A. | [PDF](https://doi.org/10.1101/2024.05.28.24308089) | N/A | Personalised interactive music systems for physical activity and exercise: A systematic review and exploratory meta-analysis |
+| 撤回：在肯尼亚HIV阳性和HIV阴性女性中使用阴道内阿特苏纳栓治疗宫颈上皮内瘤变2/3的试验研究方案：一项试点试验的研究协议 | Mungo, C. | [PDF](https://doi.org/10.1101/2024.06.27.24309586) | N/A | WITHDRAWN: Intravaginal artesunate pessaries for treatment of cervical intraepithelial neoplasia 2/3 among HIV-positive and HIV-negative women in Kenya: Study protocol for a pilot trial |
+| 噬菌体-质粒携带的甲硫氨酸tRNA连接酶介导了与流行病学相关的抗菌持久性。 | Tam, Y. L. | [PDF](https://doi.org/10.1101/2024.10.27.24316207) | N/A | Phage-plasmid borne methionine tRNA ligase mediates epidemiologically relevant antimicrobial persistence |
+| 一个人类舌肌研究的多站点、多对比度磁共振成像数据集的注释 | Ribeiro, F. L. | [PDF](https://doi.org/10.1101/2024.12.09.24318591) | N/A | An Annotated Multi-Site and Multi-Contrast Magnetic Resonance Imaging Dataset for the study of the Human Tongue Musculature |
+| 基于小脑规范特征预测精神和神经疾病 | Kim, M. | [PDF](https://doi.org/10.1101/2024.12.10.24318590) | N/A | Predicting Mental and Neurological Illnesses Based on Cerebellar Normative Features |
+| 关于提高检测率中病理性阳性细胞的分离与提取价值的探讨：对照试验 | LUO, j. | [PDF](https://doi.org/10.1101/2024.12.11.24318866) | N/A | Study on the value of isolation and extraction of pathological positive cells to improve the detection rate:control trial |
+| 针对女性吸烟者未破裂颅内动脉瘤的目标筛查——是否有机会改善女性健康？ | Huhtakangas, J. | [PDF](https://doi.org/10.1101/2024.12.11.24318889) | N/A | Targeted Screening of Unruptured Intracranial Aneurysms in Female Smokers -- A Chance to Improve Women's Health? |
+| 多组学分析揭示了接受干细胞治疗的钙化性尿毒症小动脉病患者中的预后生物标志物候选者 | Ye, X. | [PDF](https://doi.org/10.1101/2024.12.11.24309074) | N/A | Multi-omics Analysis Reveals Prognostic Biomarker Candidates for Calcific Uremic Arteriolopathy Patients Treated with Stem Cells |
+| 基于深度学习的可穿戴传感器步态分割：数据量、传感器位置和任务的影响 | Anderson, A. J. | [PDF](https://doi.org/10.1101/2024.12.17.24319160) | N/A | Deep learning-based stride segmentation with wearable sensors: effects of data quantity, sensor location, and task |
+| 评估一组下肢蜂窝织炎患者随时间变化的皮肤温度：一项方法比较研究 | Cross, E. L. | [PDF](https://doi.org/10.1101/2024.12.18.24319232) | N/A | Assessing skin temperature over time in a cohort of lower limb cellulitis: A methods comparison study |
+| 用于预测中期心力衰竭预后的机器学习模型：区分度与校准分析 | Kato, K. | [PDF](https://doi.org/10.1101/2024.12.17.24319186) | N/A | Machine Learning Models for Predicting Medium-Term Heart Failure Prognosis: Discrimination and Calibration Analysis |
+| 儿童幸福感多基因评分、脑结构与精神病理学之间的关系 | Tamnes, C. K. | [PDF](https://doi.org/10.1101/2024.12.17.24319137) | N/A | Relationships between wellbeing polygenic scores, brain structure, and psychopathology in children |
+| 用于结核分枝杆菌复合群、结核分枝杆菌和牛分枝杆菌废水监测的分区和基于探针的定量PCR检测方法 | Nguyen, T. B. | [PDF](https://doi.org/10.1101/2024.12.18.24319238) | N/A | Partitioning and probe-based quantitative PCR assays for the wastewater monitoring of Mycobacterium tuberculosis Complex, M. tuberculosis, and M. Bovis |
+| 1990-2021年登革热趋势与跨国不平等 | Zhou, M. | [PDF](https://doi.org/10.1101/2024.12.17.24319184) | N/A | Trends and Cross-Country Inequalities in Dengue, 1990-2021 |
+| 乙状结肠癌单孔腹腔镜手术：基于“腹膜穹顶”的新型手术策略 | Qijun, L. | [PDF](https://doi.org/10.1101/2024.12.16.24319085) | N/A | Single-port laparoscopic surgery for sigmoid colon cancer: a novel surgical strategy based on "peritoneal dome" |
+| 评估模型性能与Hard-Swish激活函数调整 | Nguyen, H. P. | [PDF](https://doi.org/10.1101/2024.12.18.24319237) | N/A | Evaluating Model Performance with Hard-Swish Activation Function Adjustments |
+| 探索刚果民主共和国痴呆症患者的痴呆亚型认知和神经影像特征 | Ikanga, J. | [PDF](https://doi.org/10.1101/2024.12.17.24319162) | N/A | Exploring Cognitive and Neuroimaging Profiles of Dementia Subtypes of Individuals with Dementia in the Democratic Republic of Congo |
+| 缺血性卒中试验（OPTIMIST）中最佳静脉溶栓后监测的统计分析计划 | Billot, L. | [PDF](https://doi.org/10.1101/2024.12.17.24319094) | N/A | Statistical Analysis Plan for the Optimal Post rTpa-Iv Monitoring in Ischemic Stroke Trial (OPTIMIST) |
+| 常见的遗传修饰因子影响罕见致病变异携带者的心肌病易感性。 | Klasfeld, S. J. | [PDF](https://doi.org/10.1101/2024.12.17.24318501) | N/A | Common genetic modifiers influence cardiomyopathy susceptibility among the carriers of rare pathogenic variants |
+| 在COVID-19疫情期间，季节性呼吸道感染和季节性死亡的提前发生 | Sieber, M. | [PDF](https://doi.org/10.1101/2024.12.17.24319104) | N/A | Earlier timing of seasonal respiratory infections and seasonal mortality during the COVID-19 pandemic |
+| 优化早期职业护士保留率的有效干预措施的特征：一项范围界定综述 | White, K. | [PDF](https://doi.org/10.1101/2024.12.18.24319204) | N/A | Characteristics of effective interventions to optimise retention for early career nurses: a scoping review |
+| 转录因子RUNX1调控凝血因子XIII-A（F13A1）：RUNX1单倍不足导致血小板-巨核细胞F13A1表达减少及凝块收缩功能减弱 | Del Carpio-Cano, F. | [PDF](https://doi.org/10.1101/2024.12.17.24318561) | N/A | Transcription Factor RUNX1 Regulates Coagulation Factor XIII-A (F13A1): Decreased Platelet-Megakaryocyte F13A1 Expression and Clot Contraction in RUNX1 Haplodeficiency |
+| 技术支持的虚拟医学营养疗法对超重和肥胖成年人体重减轻的影响：一项真实世界的观察性研究 | Hu, E. A. | [PDF](https://doi.org/10.1101/2024.12.17.24318819) | N/A | The Impact of Technology-Enabled Virtual Medical Nutrition Therapy on Weight Loss in Adults with Overweight and Obesity: A Real-world, Observational Study |
+| 系统回顾与荟萃分析：在实施“普遍检测与治疗”政策后，低收入和中等收入国家中开始抗逆转录病毒治疗后患者的保留与脱失情况 | Zheng, A. | [PDF](https://doi.org/10.1101/2024.12.18.24319250) | N/A | Systematic Review and Meta-Analysis of Retention and Disengagement After Initiation on Antiretroviral Therapy in Low- and Middle-Income Countries After the Introduction of Universal Test and Treat Policies |
+| 利用多语言AI护理代理减少结直肠癌筛查差异：西班牙语患者FIT检测采用率更高 | Bhimani, M. | [PDF](https://doi.org/10.1101/2024.12.16.24318586) | N/A | Using a Multilingual AI Care Agent to Reduce Disparities in Colorectal Cancer Screening: Higher FIT Test Adoption Among Spanish-Speaking Patients |
 # MedRxiv 2024-12-17 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
