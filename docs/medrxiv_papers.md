@@ -1,3 +1,21 @@
+# MedRxiv 2024-12-19 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 利用孟德尔随机化方法优先筛选南亚人群中用于治疗血脂异常和心血管疾病的蛋白质靶点 | Wu, S. | [PDF](https://doi.org/10.1101/2024.12.18.24319223) | N/A | Prioritizing protein targets for dyslipidaemia and cardiovascular diseases using Mendelian randomization in South Asians |
+| 基于注意力的全切片图像压缩实现了多器官常规组织病理学活检的病理学家级别预筛查 | Aswolinskiy, W. | [PDF](https://doi.org/10.1101/2024.12.17.24319180) | N/A | Attention-based whole-slide image compression achieves pathologist-level pre-screening of multi-organ routine histopathology biopsies |
+| 儿童结核病Xpert Ultra检测的粪便处理方法：一项多国前瞻性准确性研究 | Jaganath, D. | [PDF](https://doi.org/10.1101/2024.12.17.24317956) | N/A | Stool processing methods for Xpert Ultra testing in childhood tuberculosis: A prospective, multi-country accuracy study |
+| 加入以专用医学教育语料库为基础的对话 | Ow, G. M. | [PDF](https://doi.org/10.1101/2024.12.17.24319205) | N/A | Joining the Conversation with a Dedicated Medical Education Corpus |
+| 使用超灵敏NULIS蛋白质组技术检测CAR-T细胞疗法中的新型免疫毒性生物标志物 | Kirkpatrick, R. | [PDF](https://doi.org/10.1101/2024.12.18.24319239) | N/A | Novel Biomarkers of Immune Toxicity from CAR-T Cell Therapy Using Ultrasensitive NULIS Proteome Technology |
+| 阿片类药物使用障碍与脑健康：观察性和遗传性关联 | Javidnia, S. | [PDF](https://doi.org/10.1101/2024.12.18.24319222) | N/A | Opioid use disorder and brain health: observational andgenetic associations |
+| 2024年冬季和夏季澳大利亚COVID-19 mRNA疫苗接种活动对变异株适应的潜在临床影响及成本效益 | Lee, A. | [PDF](https://doi.org/10.1101/2024.12.18.24319245) | N/A | The potential clinical impact and cost-effectiveness of a variant-adapted 2024 Winter and Summer COVID-19 mRNA vaccination campaign in Australia |
+| 基线复发风险评分在蜂窝织炎中的验证（BRRISC）及其对急性临床反应的附加影响 | Cross, E. L. | [PDF](https://doi.org/10.1101/2024.12.18.24319216) | N/A | Validation of the Baseline Recurrence Risk in Cellulitis (BRRISC) score and the added impact of acute clinical response |
+| 在一组斯里兰卡口腔纤维上皮息肉男性患者中，未感染、仅感染HSV-1、仅感染HSV-2以及HSV-1和HSV-2共同感染的比例 | Perera, M. L. | [PDF](https://doi.org/10.1101/2024.12.17.24319140) | N/A | The proportion of none infected, HSV-1 alone infected, HSV-2 alone infected and HSV-1 and HSV-2 co-infected in a cohort of Sri Lankan oral fibroepithelial polyp male patients |
+| 重新评估疟疾性视网膜病变，以提高其在脑型疟疾诊断中的准确性 | Wilson, K. J. | [PDF](https://doi.org/10.1101/2024.12.17.24319176) | N/A | Re-evaluating malarial retinopathy to improve its diagnostic accuracy in cerebral malaria |
+| 亚临床志贺氏菌感染对2岁以下儿童环境肠病生物标志物的短暂影响 | Liakakos, H. A. | [PDF](https://doi.org/10.1101/2024.12.18.24319210) | N/A | Transitory impact of subclinical Shigella infections on biomarkers of environmental enteropathy in children under 2 years |
+| 谵妄和高镇静水平在COVID-19重症患者中常见，并与不良的长期预后相关。 | Bucklin, A. A. | [PDF](https://doi.org/10.1101/2024.12.17.24319167) | N/A | Delirium and High Sedation Levels are Common in Critically Ill Patients with COVID-19 and Associated with Poor Long-Term Outcomes |
+| 作为重症监护中脓毒症诊断标志物的钙卫蛋白：一项回顾性观察性研究 | Lengquist, M. | [PDF](https://doi.org/10.1101/2024.12.18.24319225) | N/A | Calprotectin as a sepsis diagnostic marker in critical care: a retrospective observational study |
+| 青春期中期外部暴露组与心理健康蛋白质组生物标志物之间的关联 | Wang, Z. | [PDF](https://doi.org/10.1101/2024.12.18.24319208) | N/A | Associations between the mid-adolescent external exposome and proteomic biomarkers of mental health |
 # MedRxiv 2024-12-18 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
