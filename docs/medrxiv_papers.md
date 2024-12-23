@@ -1,3 +1,39 @@
+# MedRxiv 2024-12-22 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 自发性脑出血患者非对比计算机断层扫描血肿扩张的预测建模 | Ironside, N. | [PDF](https://doi.org/10.1101/2024.05.14.24307384) | N/A | Predictive modeling of hematoma expansion from non-contrast computed tomography in spontaneous intracerebral hemorrhage patients |
+| 用于MRI癌症表征的组织学指导的微观结构扩散模拟 - Histo-microSim框架 | Grigoriou, A. | [PDF](https://doi.org/10.1101/2024.07.15.24310280) | N/A | Histology-informed microstructural diffusion simulations for MRI cancer characterisation - the Histo-microSim framework |
+| 利用T1w/T2w比率和形态学特征探索自闭症和多动症的亚型 | Norbom, L. | [PDF](https://doi.org/10.1101/2024.08.08.24311239) | N/A | Probing Autism and ADHD subtypes using cortical signatures of the T1w/T2w-ratio and morphometry |
+| 西非塞内加尔的基孔肯雅病毒和奥尼昂尼昂病毒的血清流行率 | Baffour Tonto, P. | [PDF](https://doi.org/10.1101/2024.09.06.24313176) | N/A | Seroprevalence of chikungunya and o'nyong-nyong viruses in Senegal, West Africa |
+| 关于CML/ALL谱系基因在CML晚期阶段的可药物基因突变的研究：对TKI时代急性白血病CML患者个体化治疗的启示 | Alanazi, N. | [PDF](https://doi.org/10.1101/2024.09.08.24313260) | N/A | Investigations on druggable gene mutations related to AML/ALL lineage genes in Advanced Phases of CML: Implications in patient-tailored therapy of blast crisis CML in TKI era |
+| 《21世纪治愈法案最终规则》的影响：美国遗传咨询师全国横断面调查 | Lowe, C. | [PDF](https://doi.org/10.1101/2024.10.13.24315353) | N/A | Navigating the Impact of the 21st Century Cures Act Final Rule: A National Cross-Sectional Survey of U.S. Genetic Counselors |
+| 监测报告：呼吸道病毒 - 2024年11月数据 | Gratzl, S. | [PDF](https://doi.org/10.1101/2024.11.21.24317745) | N/A | Monitoring Report: Respiratory Viruses - November 2024 Data |
+| 最大限度区分精神病治疗方法的学习成果 | Strobl, E. V. | [PDF](https://doi.org/10.1101/2024.12.03.24318424) | N/A | Learning Outcomes that Maximally Differentiate Psychiatric Treatments |
+| 一项关于鱼油补充剂与14种循环多不饱和脂肪酸相关性状的多层次基因-饮食交互作用分析，揭示了FADS和GRP12基因座的关键作用。 | Ihejirika, S. A. | [PDF](https://doi.org/10.1101/2024.12.12.24318956) | N/A | A multi-level gene-diet interaction analysis of fish oil supplementation and 14 circulating polyunsaturated fatty acids-related traits identifies the FADS and GRP12 loci |
+| 未服药的精神分裂症患者听觉和视觉丘脑皮层连接的改变：一项个体化感觉丘脑定位和静息态功能连接研究 | Williams, J. C. | [PDF](https://doi.org/10.1101/2024.12.18.24319241) | N/A | Auditory and Visual Thalamocortical Connectivity Alterations in Unmedicated People with Schizophrenia: An Individualized Sensory Thalamic Localization and Resting-State Functional Connectivity Study |
+| PROCC：一种预测评分，用于识别可能从帕尼单抗治疗中获益的KRAS野生型转移性结直肠癌患者 | Galmarini, C. | [PDF](https://doi.org/10.1101/2024.12.18.24319211) | N/A | PROCC: a predictive score to identify KRAS wild type metastatic colorectal cancer patients who are likely to benefit from panitumumab treatment |
+| 295名日本患者中与EYS相关的视网膜营养不良的临床特征 | Koyanagi, Y. | [PDF](https://doi.org/10.1101/2024.12.20.24319375) | N/A | Clinical Characteristics of EYS-Associated Retinal Dystrophy in 295 Japanese Patients |
+| 他汀类药物作为加纳转诊医院结核病患者辅助治疗的益处 | BUABENG, N. K. B. | [PDF](https://doi.org/10.1101/2024.12.18.24319254) | N/A | Benefits of Statins as Adjunct Therapy in the Management of Tuberculosis in Patients at a Referral Site in Ghana |
+| 左室致密化不全患者中心肌致密化不全的预后价值 | Gegenava, T. | [PDF](https://doi.org/10.1101/2024.12.19.24319385) | N/A | Prognostic value of compact myocardial thinning in patients with left ventricular non-compaction |
+| 你为什么使用那个测试？探讨双语语言和读写能力评估中语言病理学家的临床决策过程 | Wood, E. | [PDF](https://doi.org/10.1101/2024.12.17.24319113) | N/A | Why did you use that test? Exploring speech-language pathologists clinical decision-making in bilingual language and literacy assessment |
+| 评估大型语言模型在泰国国家医学执照考试中的表现 | Saowaprut, P. | [PDF](https://doi.org/10.1101/2024.12.20.24319441) | N/A | Evaluation of Large Language Models in Thailands National Medical Licensing Examination |
+| 偏头痛期间与情绪唤醒的自然刺激相关的fMRI神经同步差异 | Klamer, K. | [PDF](https://doi.org/10.1101/2024.12.20.24319445) | N/A | Differential fMRI neural synchrony associated with migraine during emotionally arousing naturalistic stimuli |
+| 数字空间分析技术将磷酸化JNK鉴定为侵袭性前列腺癌早期风险分层的生物标志物。 | Eickelschulte, S. | [PDF](https://doi.org/10.1101/2024.12.20.24319439) | N/A | Digital Spatial Profiling identifies phospho-JNK as a biomarker for early risk stratification of aggressive prostate cancer |
+| 在医疗环境中针对成年患者的念珠菌auris去定植：系统回顾和荟萃分析的协议 | Belfakir, M. | [PDF](https://doi.org/10.1101/2024.12.20.24319367) | N/A | Chlorhexidine Bathing for Candida auris Decolonization among Adult Patients in Healthcare Settings: Protocol for a Systematic Review and Meta-Analysis |
+| 隐私保护型大型语言模型在自动化心脏超声报告分析中的比较分析 | Mahmoudi, E. | [PDF](https://doi.org/10.1101/2024.12.19.24319181) | N/A | A Comparative Analysis of Privacy-Preserving Large Language Models For Automated Echocardiography Report Analysis |
+| 早期心力衰竭的蛋白质组学分析在项目基线健康研究中确定了心脏炎症的候选生物标志物和分子通路 | Kottilil, K. | [PDF](https://doi.org/10.1101/2024.12.20.24319438) | N/A | Proteomic Profiling of Early-Stage Heart Failure Identifies Candidate Biomarkers and Molecular Pathways of Cardiac Inflammation in the Project Baseline Health Study |
+| 开发一种新型风险预测工具用于急诊科患者冠状动脉疾病症状的研究方案。 | McRae, A. | [PDF](https://doi.org/10.1101/2024.12.20.24319105) | N/A | Development of a novel risk prediction tool for emergency department patients symptoms of coronary artery disease: A research study protocol. |
+| 蛋白质组学视角下冠状动脉疾病与外周动脉疾病分子关联性的基础健康研究 | Tucker, A. | [PDF](https://doi.org/10.1101/2024.12.20.24319444) | N/A | Proteomic Insights into the Molecular Correlations Between Coronary Artery Disease and Peripheral Artery Disease in the Project Baseline Health Study |
+| 在COVID-19疫情期间大学学生和教职工中计算机视觉综合征的普遍性 | Al Ashkar, I. F. | [PDF](https://doi.org/10.1101/2024.12.20.24319354) | N/A | Prevalence of Computer Vision Syndrome Among University Students and Faculty During COVID-19 Pandemic |
+| 环境混合物分析（E-MIX）工作流程与方法资源库 | Joubert, B. R. | [PDF](https://doi.org/10.1101/2024.12.20.24318087) | N/A | Environmental Mixtures Analysis (E-MIX) Workflow and Methods Repository |
+| 加拿大传染病监测百年历程：介绍加拿大疾病发病率数据集（CANDID） | Earn, D. J. D. | [PDF](https://doi.org/10.1101/2024.12.20.24319425) | N/A | Over a Century of Infectious Disease Surveillance in Canada: Introducing the Canadian Disease Incidence Dataset (CANDID) |
+| 描述美国在COVID-19大流行期间人口层面的人类行为变化 | Urmi, T. | [PDF](https://doi.org/10.1101/2024.12.20.24319446) | N/A | Characterizing Population-level Changes in Human Behavior during the COVID-19 Pandemic in the United States |
+| 开发一种用于胶原检测的H&E块上染色技术，应用于冷冻乳腺组织样本的冷冻荧光断层成像。 | Snoddy, E. P. | [PDF](https://doi.org/10.1101/2024.12.20.24319432) | N/A | Development of an H&E on-block staining technique for collagen detection in cryo-fluorescence tomography imaging of frozen breast tissue samples |
+| 临床转化路径上的步骤：英国MRI社区调查。 | Markus, J. E. | [PDF](https://doi.org/10.1101/2024.12.20.24319456) | N/A | Steps on the path to clinical translation: a survey of the UK MRI community. |
+| 量化不同风险层级下时间至事件结果的绝对治疗效果异质性：风险差异与限制性平均生存差异结论的分歧 | Maas, C. C. H. M. | [PDF](https://doi.org/10.1101/2024.12.19.24319347) | N/A | Quantifying absolute treatment effect heterogeneity for time-to-event outcomes across different risk strata: divergence of conclusions with risk difference and restricted mean survival difference |
+| 基于目标的非依赖培养测序技术识别出澳大利亚百日咳博德特氏菌对大环内酯类药物抗性的出现。 | Fong, W. | [PDF](https://doi.org/10.1101/2024.12.19.24319368) | N/A | Targeted culture-independent sequencing identifies emergence of macrolide-resistant Bordetella pertussis in Australia |
+| 秋水仙碱用于预防主要心血管不良事件 | Ballacci, F. | [PDF](https://doi.org/10.1101/2024.12.19.24319310) | N/A | Colchicine for Prevention of Major Adverse Cardiovascular Events |
 # MedRxiv 2024-12-21 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
