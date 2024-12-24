@@ -1,3 +1,19 @@
+# MedRxiv 2024-12-23 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 实施一种类似我的人群工具，用于全膝关节置换术后个性化康复：一项混合方法的试点研究 | Graber, J. | [PDF](https://doi.org/10.1101/2024.06.20.24309245) | N/A | Implementation of a people-like-me tool for personalized rehabilitation after total knee arthroplasty: A mixed methods pilot study |
+| 视网膜脉络膜微血管与认知健康中年人群阿尔茨海默病风险的关系：一项初步研究 | Burke, J. | [PDF](https://doi.org/10.1101/2024.08.27.24312649) | N/A | Association between choroidal microvasculature in the eye and Alzheimer's disease risk in cognitively healthy midlife adults: a pilot study |
+| 澳大利亚全科医生对抑郁症和焦虑症青少年患者等待心理治疗和服务时间的横断面调查。 | O'Dea, B. | [PDF](https://doi.org/10.1101/2024.09.12.24312088) | N/A | A cross-sectional survey of General Practitioners' knowledge of the wait times for mental health treatment and services for adolescent patients with depression and anxiety in Australia. |
+| 加利福尼亚州监狱中的COVID-19传播数和长期COVID患病率 | Worden, L. | [PDF](https://doi.org/10.1101/2024.12.14.24319022) | N/A | COVID-19 Reproduction Numbers and Long COVID Prevalences in California State Prisons |
+| 卒中幸存者直立性低血压的血液动力学机制：一项横断面研究 | Oyake, K. | [PDF](https://doi.org/10.1101/2024.12.18.24319275) | N/A | Hemodynamic Mechanisms Underlying Orthostatic Hypotension in Stroke Survivors: A Cross-Sectional Study |
+| 神经元α-突触核蛋白疾病在五年内的进展阶段 | Simuni, T. | [PDF](https://doi.org/10.1101/2024.12.17.24319172) | N/A | Neuronal alpha-Synuclein Disease stage progression over five years |
+| 基于人工智能的标准眼底照片4.5小时内检测中央视网膜动脉阻塞 | Gungor, A. | [PDF](https://doi.org/10.1101/2024.12.19.24319390) | N/A | AI-based Detection of Central Retinal Artery Occlusion within 4.5 hours on Standard Fundus Photographs |
+| 量化评估人类通过饮用液态牛奶感染H5N1的风险 | Koebel, K. J. | [PDF](https://doi.org/10.1101/2024.12.20.24319470) | N/A | Quantitative risk assessment of human H5N1 infection from consumption of fluid cow's milk |
+| 大规模分析表明，CYP2C19基因型对特定SSRI类药物副作用有影响。 | Eijsbouts, C. | [PDF](https://doi.org/10.1101/2024.12.20.24319269) | N/A | Large-scale analysis demonstrates the influence of CYP2C19 genotype on specific SSRI side effects |
+| 孟加拉国残疾人个人卫生习惯受气候危害影响之定性研究 | Nawaz, S. | [PDF](https://doi.org/10.1101/2024.12.19.24319192) | N/A | The Effects of Climate Hazards on Personal Hygiene Practices among People with Disabilities in Bangladesh: A Qualitative Study |
+| 空间聚集对时空疾病聚集检测的影响：3D高密度环境下SARS-CoV-2感染的分析 | Allison, K. | [PDF](https://doi.org/10.1101/2024.12.20.24318345) | N/A | Impact of spatial aggregation on detection of spatiotemporal disease clusters: analysis of SARS-CoV-2 infections in 3-D high-density settings |
+| 常见的和罕见的遗传变异与祖先因素相互作用，共同影响人类皮肤和血浆中类胡萝卜素的浓度。 | Han, Y. | [PDF](https://doi.org/10.1101/2024.12.20.24319465) | N/A | Common and rare genetic variation intersects with ancestry to influence human skin and plasma carotenoid concentrations |
 # MedRxiv 2024-12-22 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
