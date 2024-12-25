@@ -1,3 +1,60 @@
+# MedRxiv 2024-12-24 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 描述通过脊髓刺激引发的脊髓反射，以恢复下肢截肢者的感觉。 | Bose, R. | [PDF](https://doi.org/10.1101/2023.09.08.23295273) | N/A | Characterizing spinal reflexes evoked by spinal cord stimulation to restore sensation in people with lower-limb amputation |
+| 猫科动物中的禽流感病毒感染：二十年文献系统回顾 | Coleman, K. K. | [PDF](https://doi.org/10.1101/2024.04.30.24306585) | N/A | Avian Influenza Virus Infections in Felines: A Systematic Review of Two Decades of Literature |
+| 利用人工智能心电图和超声心动图追踪转甲状腺素蛋白淀粉样心肌病的临床前进展 | Oikonomou, E. K. | [PDF](https://doi.org/10.1101/2024.08.25.24312556) | N/A | Tracking the pre-clinical progression of transthyretin amyloid cardiomyopathy using artificial intelligence-enabled electrocardiography and echocardiography |
+| 超越肿瘤：复发性癌症患者未受累乳腺组织中致病性PIK3CA和TP53合子后变异与生存率降低相关
+
+在这项研究中，研究人员发现，在复发性乳腺癌患者的未受累乳腺组织中，存在致病性的PIK3CA和TP53基因的合子后变异（即体细胞突变），这些变异与患者的生存率降低有关。这一发现表明，即使在看似正常的乳腺组织中，这些基因的突变也可能对癌症的进展和患者的预后产生重要影响。这一研究强调了在癌症治疗和预后评估中，考虑肿瘤周围正常组织中基因变异的重要性。 | Andreou, M. | [PDF](https://doi.org/10.1101/2024.10.04.24313634) | N/A | Beyond Tumors: Reduced survival linked to pathogenic PIK3CA and TP53 post-zygotic variants in the uninvolved breast tissue of recurrent cancer patients |
+| 儿童福祉多基因评分、大脑结构与精神病理学之间的关系 | Tamnes, C. K. | [PDF](https://doi.org/10.1101/2024.12.17.24319137) | N/A | Relationships between wellbeing polygenic scores, brain structure, and psychopathology in children |
+| 主动脉瓣置换手术与50至65岁患者长期预后之间的关联：AUTHEARTVISIT研究结果 | Florian, A. | [PDF](https://doi.org/10.1101/2024.12.19.24319314) | N/A | Association between surgical aortic valve replacement and long-term outcomes in 50 to 65-year-olds: Results of the AUTHEARTVISIT study |
+| HepatoPredict能够准确选择适合进行肝移植的肝细胞癌患者，不受肿瘤异质性的影响。 | Andrade, R. | [PDF](https://doi.org/10.1101/2024.12.20.24319415) | N/A | HepatoPredict accurately selects hepatocellular carcinoma patients for liver transplantation regardless of tumor heterogeneity |
+| 在美国，少数族裔人群表现出独特的乳糜泻临床和遗传特征。 | Karnati, H. | [PDF](https://doi.org/10.1101/2024.12.20.24319436) | N/A | Minority populations exhibit distinct clinical and genetic features of celiac disease in the United States |
+| 根据gnomAD数据库中ENG和ACVRL1基因预测致病性变异的等位基因频率，计算得出的遗传性出血性毛细血管扩张症的患病率估计值。 | Anzell, A. R. | [PDF](https://doi.org/10.1101/2024.12.20.24319290) | N/A | Hereditary hemorrhagic telangiectasia prevalence estimates calculated from gnomAD allele frequencies of predicted pathogenic variants in ENG and ACVRL1 |
+| 三维心电图：一种检测急性心肌缺血的新方法 | Bermejo Valdes, A. J. | [PDF](https://doi.org/10.1101/2024.12.21.24319492) | N/A | Three-Dimensional ECG: A Novel Methodology for Detecting Acute Myocardial Ischemia |
+| 脉压通过白质破坏损害认知功能 | King, D. L. O. | [PDF](https://doi.org/10.1101/2024.12.20.24319319) | N/A | PULSE PRESSURE IMPAIRS COGNITION VIA WHITE MATTER DISRUPTION |
+| 使用深度卷积网络预测慢性阻塞性肺疾病 | Alve, S. R. | [PDF](https://doi.org/10.1101/2024.12.22.24319500) | N/A | Chronic Obstructive Pulmonary Disease Prediction Using Deep Convolutional Network |
+| 探索乌干达马凯雷雷大学牙科医院在进行可摘全口义齿修复过程中，无牙颌患者给牙科医生带来的插入后挑战 | NONO, D. | [PDF](https://doi.org/10.1101/2024.12.21.24319253) | N/A | Exploration of post-insertion challenges edentulous patients present to dental practitioners during removable complete denture rehabilitation in Makerere University Dental Hospital in Uganda |
+| 系统综述与个体患者数据荟萃分析：基于半定量手持式生物传感器测量的葡萄糖-6-磷酸脱氢酶活性研究 | Ley, B. | [PDF](https://doi.org/10.1101/2024.12.20.24319407) | N/A | Systematic review and individual patient data meta-analysis on glucose- 6 - phosphate dehydrogenase activities measured by a semi-quantitative handheld Biosensor |
+| NIRDuino：一款基于Arduino构建的模块化、支持蓝牙、可通过Android配置的功能性近红外光谱（fNIRS）系统，具备双强度模式。 | Kumar, A. | [PDF](https://doi.org/10.1101/2024.12.20.24318425) | N/A | NIRDuino: A modular, Bluetooth-enabled, Android-configurable fNIRS system with dual-intensity mode built on Arduino |
+| 机器学习方法在UK Biobank中利用生物标志物预测酒精消费
+
+在这段翻译中，“Machine Learning Approaches” 被翻译为“机器学习方法”，“to Predict Alcohol Consumption” 被翻译为“预测酒精消费”，“from Biomarkers” 被翻译为“利用生物标志物”，“in the UK Biobank” 被翻译为“在UK Biobank中”。整个句子按照中文的表达习惯进行了调整，使其更加流畅和易于理解。 | Hassan, M. F. | [PDF](https://doi.org/10.1101/2024.12.22.24319486) | N/A | Machine Learning Approaches to Predict Alcohol Consumption from Biomarkers in the UK Biobank |
+| “人们甚至不愿意带孩子去接种疫苗，因为新冠疫苗”：假新闻、错误信息、疫苗犹豫以及社区参与在加纳南部COVID-19疫苗接受中的作用
+
+这段文字探讨了在加纳南部，假新闻、错误信息以及疫苗犹豫如何影响人们对COVID-19疫苗的接受程度，并强调了社区参与在促进疫苗接受中的重要性。 | Kuatewu, M. | [PDF](https://doi.org/10.1101/2024.12.22.24319502) | N/A | "People will not even bring out their children to be immunised, because of the corona vaccine": fake news, misinformation, vaccine hesitancy and the role of community engagement in COVID-19 vaccine acceptance in Southern Ghana |
+| 活体肾捐献后睾丸疼痛：一项多中心队列研究的结果 | Garg, A. X. | [PDF](https://doi.org/10.1101/2024.12.21.24319490) | N/A | Testicular pain after living kidney donation: Results from a multicenter cohort study |
+| 后皮质萎缩症的语言特征：与阿尔茨海默病亚型的比较研究 | Wang, L. | [PDF](https://doi.org/10.1101/2024.12.21.24319481) | N/A | Language Profile of Posterior Cortical Atrophy: A Comparative Study with Alzheimer's Disease Variants |
+| 对广泛人群血浆蛋白质的机器学习分析揭示了帕金森病的激素生物标志物 | Chaudhry, F. | [PDF](https://doi.org/10.1101/2024.12.21.24313256) | N/A | Machine learning analysis of population-wide plasma proteins identifies hormonal biomarkers of Parkinson's Disease |
+| 通过全面的母体循环DNA分析检测妊娠早期的胎儿生长障碍 | Cortese, R. G. | [PDF](https://doi.org/10.1101/2024.12.21.24319487) | N/A | Fetal Growth Disorders Detection During First Trimester Gestation Through Comprehensive Maternal Circulating DNA Profiling |
+| 模拟高海拔工作计划的多次海拔暴露期间的氧饱和度和急性高山病 | Waldner, N. | [PDF](https://doi.org/10.1101/2024.12.20.24319405) | N/A | Oxygen saturation and acute mountain sickness during repeated altitude exposures simulating high-altitude working schedules |
+| 甲状腺全切除术中甲状旁腺的自体荧光：系统性综述回顾 | Refoyo, J. L. P. | [PDF](https://doi.org/10.1101/2024.12.21.24319459) | N/A | Autofluorescence of the parathyroid glands during total thyroidectomy. Review of systematic reviews |
+| 尼日利亚镰状细胞病患者与非患者中β-珠蛋白链的遗传结构：β地中海贫血的案例？
+
+这段翻译将原文中的关键术语和概念准确地转换为中文，同时保持了原文的学术性和专业性。"Genetic architecture" 翻译为 "遗传结构"，"β-globin chain" 翻译为 "β-珠蛋白链"，"sickle cell disease" 翻译为 "镰状细胞病"，"beta thalassemia" 翻译为 "β地中海贫血"。整个句子结构清晰，符合中文表达习惯，便于读者理解。 | Babalola, O. A. | [PDF](https://doi.org/10.1101/2024.12.20.24319473) | N/A | The genetic architecture of the β-globin chain in individuals with and without sickle cell disease in Nigeria: A case for beta thalassemia? |
+| 与自闭症谱系障碍相关的围产期和母体因素。 | Edlund, S. | [PDF](https://doi.org/10.1101/2024.12.22.24319503) | N/A | Perinatal and maternal factors associated with Autism Spectrum Disorder. |
+| 用于改善心房颤动患者风险预测和增强生物学见解的生物标志物组合 | Meyre, P. B. | [PDF](https://doi.org/10.1101/2024.12.19.24319346) | N/A | Biomarker panels for improved risk prediction and enhanced biological insights in patients with atrial fibrillation |
+| 视网膜相机系统的技术可行性研究 | Makedonsky, K. | [PDF](https://doi.org/10.1101/2024.12.20.24319469) | N/A | Technical Feasibility Study for a Retinal Camera System |
+| COVID-19感染后9至12个月自我感知的记忆力和注意力下降 | Ruivinho, C. | [PDF](https://doi.org/10.1101/2024.12.19.24319396) | N/A | Self-Perceived Decline in Memory and Concentration 9 and 12 months post COVID-19 infection |
+| 一种利用深度无监督学习识别中风步态指纹的新方法 | David, S. | [PDF](https://doi.org/10.1101/2024.12.19.24319338) | N/A | A novel approach to identify the fingerprint of stroke gait using deep unsupervised learning |
+| 益生菌在终末期肾病透析患者中的作用：系统综述 | Ahmed, Z. | [PDF](https://doi.org/10.1101/2024.12.20.24319427) | N/A | Role of Probiotics on Dialysis Patients in End-Stage Kidney Disease: A Systematic Review |
+| 十秒冷水应激测试区分帕金森病与多系统萎缩：一项初步研究 | Takahashi, M. | [PDF](https://doi.org/10.1101/2024.12.20.24319416) | N/A | Ten-Second Cold Water Stress Test Differentiates Parkinson's Disease From Multiple System Atrophy: A Pilot Study |
+| 向婴幼儿施用益生菌和合生元：肯尼亚西部护理人员和医护人员的认知与接受度
+
+这段翻译成中文的意思是：研究在肯尼亚西部，向婴幼儿施用益生菌和合生元时，护理人员（如父母或其他照顾者）和医护人员对此的认知程度以及他们的接受度。研究可能涉及对这些人群的态度、看法以及他们是否愿意采用这些益生菌和合生元作为婴幼儿健康管理的一部分。 | Otiti, I. | [PDF](https://doi.org/10.1101/2024.12.20.24319230) | N/A | Probiotics and synbiotics administered to young infants: perceptions and acceptability amongst carers and healthcare workers in Western Kenya |
+| 脐带血中的pTau217和BD-tau与新生儿缺氧标志物相关：一项前瞻性队列研究 | Payne, E. | [PDF](https://doi.org/10.1101/2024.12.20.24319360) | N/A | Umbilical cord blood pTau217 and BD-tau are associated with markers of neonatal hypoxia: a prospective cohort study |
+| 评估大型语言模型生成的关于焦虑和抑郁信息的可读性与可靠性 | Porwal, G. | [PDF](https://doi.org/10.1101/2024.12.20.24319373) | N/A | Evaluating the Readability and Reliability of Large Language Model Generated Information About Anxiety and Depression |
+| 大型语言模型在系统综述中的应用：正在兴起，但尚未成熟——一项范围综述
+
+随着人工智能技术的快速发展，大型语言模型（LLMs）在科研领域的应用日益广泛，尤其是在系统综述（Systematic Reviews）的自动化过程中显示出巨大潜力。系统综述作为一种严谨的文献综合方法，在医学、社会科学等领域发挥着关键作用，但其耗时耗力的特性一直是研究者面临的挑战。近年来，LLMs被探索用于加速系统综述的各个环节，包括文献筛选、数据提取和结果分析等。然而，尽管LLMs在这些任务中展现出一定的能力，但其在实际应用中的可靠性、准确性和适用性仍存在诸多问题。本文通过一项范围综述，探讨了LLMs在系统综述中的应用现状、潜在优势以及当前面临的局限性，旨在为未来研究提供方向，并推动这一领域的进一步发展。 | Lieberum, J.-L. | [PDF](https://doi.org/10.1101/2024.12.19.24319326) | N/A | Large language models for conducting systematic reviews: on the rise, but not yet ready for use - a scoping review |
+| 在“基线健康研究项目”中，CARS2基因的高甲基化是B期心力衰竭和住院治疗的风险因素。 | Regan, J. A. | [PDF](https://doi.org/10.1101/2024.12.20.24319449) | N/A | CARS2 Hypermethylation Is a Risk Factor for Stage B Heart Failure and Hospitalizations in the Project Baseline Health Study |
+| 系统综述方案：基于理论的干预措施对轻度至中度抑郁症自我管理实践的影响 | KHALIL, A. | [PDF](https://doi.org/10.1101/2024.12.20.24319466) | N/A | Systematic Review Protocol: The Effects of Theory-Based Interventions for Self-Help Practices in the Management of Mild to Moderate Depression |
+| 白质高信号负担中的种族和民族差异：血管风险因素的作用
+
+在这段翻译中，"White Matter Hyperintensity Burden" 被译为 "白质高信号负担"，指的是在脑部影像中观察到的白质异常信号的程度或量。"Racial and Ethnic Differences" 译为 "种族和民族差异"，指的是不同种族和民族群体之间的差异。"The Role of Vascular Risk Factors" 译为 "血管风险因素的作用"，指的是血管相关的风险因素（如高血压、糖尿病等）在导致这些差异中所起的作用。整个翻译力求准确传达原文的医学和科学含义。 | Kamal, F. | [PDF](https://doi.org/10.1101/2024.12.20.24319462) | N/A | Racial and Ethnic Differences in White Matter Hyperintensity Burden: The Role of Vascular Risk Factors |
+| 多发性硬化症及相关疾病患者COVID-19后遗症：一项多中心横断面研究 | Hu, C. | [PDF](https://doi.org/10.1101/2024.12.20.24319365) | N/A | Post-COVID sequelae in people with multiple sclerosis and related disorders: a multicenter cross-sectional study |
 # MedRxiv 2024-12-23 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
