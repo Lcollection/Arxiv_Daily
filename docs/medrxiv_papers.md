@@ -1,3 +1,30 @@
+# MedRxiv 2024-12-27 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 患者血浆中cfRNA（无细胞RNA）谱的特异性改变能够实现对癌症患者和对照组的准确分类。 | Morlion, A. | [PDF](https://doi.org/10.1101/2023.05.24.23290388) | N/A | Patient-specific alterations in blood plasma cfRNA profiles enable accurate classification of cancer patients and controls |
+| 高传播性奥密克戎变种XBB.1.5和JN.1的传播对SARS-CoV-2病毒演化的潜在影响 | Yi, B. | [PDF](https://doi.org/10.1101/2024.04.20.24306131) | N/A | The potential impact of the spreading of highly transmissible Omicron variant XBB.1.5 and JN.1 on the evolution of SARS-CoV-2 |
+| 对来自夏威夷多民族队列的脐带血造血干细胞进行多组学分析，揭示了母亲孕前肥胖的代际影响 | Du, Y. | [PDF](https://doi.org/10.1101/2024.07.27.24310936) | N/A | Multi-omics Analysis of Umbilical Cord Hematopoietic Stem Cells from a Multi-ethnic Cohort of Hawaii Reveals the Intergenerational Effect of Maternal Pre-Pregnancy Obesity |
+| 在HER2阳性乳腺癌患者中，基于曲妥珠单抗辅助治疗后使用吡咯替尼（PERSIST）：一项多中心II期试验 | Cao, F. | [PDF](https://doi.org/10.1101/2024.09.05.24313095) | N/A | Pyrotinib after trastuzumab-based adjuvant therapy in patients with HER2-positive breast cancer (PERSIST): A multicenter phase II trial |
+| 青年发病的成年型糖尿病（Maturity Onset Diabetes of the Young, MODY）并不总是单基因遗传的：在拉丁裔人群中涉及的候选基因 | Moscona-Nissan, A. | [PDF](https://doi.org/10.1101/2024.10.02.24314794) | N/A | Maturity Onset Diabetes of the Young (MODY) is not always monogenic: candidate genes involved in the Latino Population |
+| 《一种基于心电图像进行结构性心脏病筛查的集成深度学习算法：PRESENT SHD》 | Dhingra, L. S. | [PDF](https://doi.org/10.1101/2024.10.06.24314939) | N/A | An Ensemble Deep Learning Algorithm for Structural Heart Disease Screening Using Electrocardiographic Images: PRESENT SHD |
+| 为非洲裔个体在COVID-19期间设计的虚拟音乐正念工具 | Igbinobaro, E. | [PDF](https://doi.org/10.1101/2024.12.23.24305623) | N/A | A Virtual Music Mindfulness Tool for Individuals of African descent during COVID-19 |
+| 通过比较有形的视网膜图像特征与深度学习特征，揭示了它们在基因关联和疾病预测方面的互补性。 | Beyeler, M. J. | [PDF](https://doi.org/10.1101/2024.12.23.24319548) | N/A | Comparing tangible retinal image characteristics with deep learning features reveals their complementarity for gene association and disease prediction |
+| 利用公开的全基因组废水测序数据检测SARS-CoV-2隐秘谱系 | Suarez, R. | [PDF](https://doi.org/10.1101/2024.12.24.24319568) | N/A | Detecting SARS-CoV-2 Cryptic Lineages using Publicly Available Whole Genome Wastewater Sequencing Data |
+| 2024年玻利维亚奥罗普切病毒的基因组特征、起源及本地传播研究 | Valdez, J. A. C. | [PDF](https://doi.org/10.1101/2024.12.23.24319382) | N/A | Genomic characterization, origin and local transmission of Oropouche Virus in Bolivia in 2024 |
+| 应对超灵敏快速诊断挑战：浮力分析物磁性（BAM）检测法 | Wang, C. | [PDF](https://doi.org/10.1101/2024.12.23.24319448) | N/A | Rising to the Ultrasensitive Rapid Diagnostic Challenge with Buoyant-Analyte-Magnetic (BAM) Assays |
+| 直接快速猩红和刚果红染色在心脏组织中嗜酸性粒细胞及其无细胞颗粒的识别中的应用 | Kumaki, T. | [PDF](https://doi.org/10.1101/2024.12.25.24319622) | N/A | Direct Fast Scarlet and Congo Red Staining in Identification of Eosinophils and their Cell-free Granules in Cardiac Tissue |
+| 在研究腰椎退行性变发现之间的关系时，采用间隙水平分析相较于个体水平分析的优势：一项横断面研究 | Suri, P. | [PDF](https://doi.org/10.1101/2024.12.25.24319627) | N/A | Advantages to interspace-level analyses over person-level analyses when studying relationships between lumbar spinal degeneration findings: a cross-sectional study |
+| 钠-葡萄糖共转运蛋白2抑制剂（SGLT2Is）在肝硬化中的疗效与安全性：系统综述与荟萃分析 | Dhoop, S. M. | [PDF](https://doi.org/10.1101/2024.12.27.24319638) | N/A | The Efficacy and Safety of Sodium-Glucose Cotransporter Protein 2 Inhibitors (SGLT2Is) in Liver Cirrhosis: A Systematic Review and Meta-Analysis |
+| 一项关于古吉拉特邦凯达地区五岁以下儿童母亲对可选疫苗的认知、态度及使用障碍的研究 | NAGAR, K. | [PDF](https://doi.org/10.1101/2024.12.24.24319589) | N/A | A STUDY TO ASSESS THE KNOWLEDGE AND ATTITUDE REGARDING OPTIONAL VACCINES AND BARRIERS TO USE AMONG MOTHERS OF UNDER FIVE CHILDREN IN KHEDA GUJARAT |
+| 利益相关者对肯尼亚基层医疗中整合心血管疾病和糖尿病管理的障碍和促进因素的看法 | Wambiya, E. O. A. | [PDF](https://doi.org/10.1101/2024.12.25.24319646) | N/A | Stakeholder perspectives on the barriers and facilitators to integrating cardiovascular disease and diabetes management at primary care in Kenya |
+| 探索临床研究与决策模型中的患者偏好信息：一项调查研究 | Di Blasio, M. | [PDF](https://doi.org/10.1101/2024.12.25.24319624) | N/A | Exploring Patient Preference Information in Clinical Research and Decision Models: An Investigative Survey |
+| 儿童创伤性脑损伤后的神经认知结果：具有不同结果的患者亚组 | Kooper, C. C. | [PDF](https://doi.org/10.1101/2024.12.23.24319401) | N/A | Neurocognitive Outcome after Pediatric Traumatic Brain Injury: Patient Subgroups with Diverging Outcome |
+| 评估血浆生物标志物在阿尔茨海默病中的诊断性能：P-tau217成为中国队列中的最佳标志物
+
+在这项研究中，研究人员评估了多种血浆生物标志物在阿尔茨海默病（AD）中的诊断性能，特别是在中国人群中的应用。研究结果显示，磷酸化tau蛋白217（P-tau217）在区分AD患者和健康对照组方面表现出色，成为中国队列中最具潜力的生物标志物。这一发现为AD的早期诊断和监测提供了新的工具，并强调了在不同人群中验证生物标志物的重要性。 | Wang, S. | [PDF](https://doi.org/10.1101/2024.12.25.24319645) | N/A | Assessing Diagnostic Performance of Plasma Biomarkers in Alzheimer's Disease: P-tau217 Emerges as the Optimal Marker in Chinese Cohorts |
+| 团体产前护理积极改变了护理体验：马拉维一项有效性试验的结果 | Patil, C. L. | [PDF](https://doi.org/10.1101/2024.12.25.24319635) | N/A | Group antenatal care positively transforms the care experience: Results of an effectiveness trial in Malawi |
+| 基于多组学孟德尔随机化的见解：中性粒细胞胞外陷阱相关基因在脓毒症中的作用 | Liu, Y. | [PDF](https://doi.org/10.1101/2024.12.24.24319599) | N/A | Multiomic Mendelian randomization-based insights into the role of neutrophil extracellular trap-related genes in sepsis |
 # MedRxiv 2024-12-26 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
