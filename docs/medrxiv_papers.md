@@ -1,3 +1,35 @@
+# MedRxiv 2024-12-30 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 《感染之后：病原体与非传染性人类疾病调查》 | Lape, M. | [PDF](https://doi.org/10.1101/2023.09.14.23295428) | N/A | After the Infection: A Survey of Pathogens and Non-communicable Human Disease |
+| COLOFIT：利用年龄、性别、粪便免疫化学检测和血液检测开发并进行内外验证的模型，以优化有症状患者结直肠癌的诊断 | Crooks, C. J. | [PDF](https://doi.org/10.1101/2024.03.01.24303196) | N/A | COLOFIT: Development and internal-external validation of models using age, sex, faecal immunochemical and blood tests to optimise diagnosis of colorectal cancer in symptomatic patients |
+| 任务导向 vs. 目标导向：患者“分诊”新范式 | Tsige, T. T. | [PDF](https://doi.org/10.1101/2024.10.17.24315639) | N/A | Task-oriented vs. Goal-oriented: A New Paradigm for "Rooming" Patients |
+| 三种关键行政错误对患者对医生信任的影响：处方错误、保密性违规和预约错误 | Aita, T. | [PDF](https://doi.org/10.1101/2024.12.27.24319703) | N/A | The Effect of Three Key Administrative Errors on Patient Trust in Physicians: Prescription Errors, Confidentiality Breaches, and Appointment Errors |
+| 从聚合数据中估计时变流行病严重程度的挑战 | Goldwasser, J. | [PDF](https://doi.org/10.1101/2024.12.27.24319518) | N/A | Challenges in Estimating Time-Varying Epidemic Severity Rates from Aggregate Data |
+| 常规免疫与COVID-19疫苗接种在小岛屿发展中国家之间的关联 | Patel, C. | [PDF](https://doi.org/10.1101/2024.12.28.24319741) | N/A | The association between routine immunisation and COVID-19 vaccination in small island developing states |
+| 了解通过急性运动预防阿尔茨海默病的脑血流动力学（flADex）：一项随机交叉试验方案 | Martin-Fuentes, I. | [PDF](https://doi.org/10.1101/2024.12.28.24319064) | N/A | Understanding cerebral blood flow dynamics for Alzheimer's disease prevention through acute exercise (flADex): Protocol for a randomized crossover trial |
+| 感知安全与亚裔美国女性的心理健康：探讨孤独感与韧性的调节作用 | Cao, J. | [PDF](https://doi.org/10.1101/2024.12.28.24319739) | N/A | Perceived Safety and Mental Health among Asian American Women: Exploring the Moderating Role of Loneliness and Resilience |
+| 农村地区HPV疫苗犹豫的影响因素：一项多层次混合方法研究 | Sheinfeld Gorin, S. | [PDF](https://doi.org/10.1101/2024.12.29.24319671) | N/A | Influences on rural HPV vaccine hesitancy: A multi-level mixed methods study |
+| 《归家之路：提升慢性肾病患者居家透析使用率的公共卫生策略范围综述》 | Yongphiphatwong, N. | [PDF](https://doi.org/10.1101/2024.12.29.24319745) | N/A | The Way Home: A Scoping Review of Public Health Strategies to Increase the Utilization of Home Dialysis in Chronic Kidney Disease Patients |
+| 跨多种神经退行性疾病的新型血液蛋白质组学特征 | Durcan, R. | [PDF](https://doi.org/10.1101/2024.12.28.24319680) | N/A | Novel blood-based proteomic signatures across multiple neurodegenerative diseases |
+| 通过对三种受体基因（HTR3A、HTR3B、TACR1）的药物遗传学分析，制定个性化的预防性止吐方案以控制化疗引起的恶心和呕吐。 | Yeo, W. | [PDF](https://doi.org/10.1101/2024.12.29.24319754) | N/A | Personalized prophylactic antiemetic regimens for the control of chemotherapy-induced nausea and vomiting by pharmacogenetic analysis of three receptors genes: HTR3A, HTR3B, TACR1 |
+| 揭开遗传之谜：慢性结节病中的表型塑造特征 | Kullberg, S. | [PDF](https://doi.org/10.1101/2024.12.29.24319750) | N/A | Unraveling genetic mysteries: phenotype-shaping profiles in chronic sarcoidosis |
+| 科学相关民粹主义对全球公共卫生的威胁：来自伊朗的教训 | Taefehshokr, N. | [PDF](https://doi.org/10.1101/2024.12.28.24319727) | N/A | The Threat of Science-Related Populism to Global Public Health: Lessons from Iran |
+| 在三个大型学术医疗系统中实施和利用实时处方福利工具 | Ali, M. | [PDF](https://doi.org/10.1101/2024.12.27.24318670) | N/A | Implementation and Utilization of Real-time Prescription Benefit Tools Across Three Large Academic Health Systems |
+| MentalQLM：基于指令微调和双LoRA模块的轻量级心理健康大语言模型 | Shi, J. | [PDF](https://doi.org/10.1101/2024.12.29.24319755) | N/A | MentalQLM: A lightweight large language model for mental healthcare based on instruction tuning and dual LoRA modules |
+| 使用Miniunet架构从眼底图像中进行视盘和血管分割 | Jana, S. | [PDF](https://doi.org/10.1101/2024.12.28.24319728) | N/A | Optic Disc and Vessel Segmentation from Fundus Image using Miniunet Architecture |
+| 患者适应性家长主义在心移植患者心内膜心肌活检政策变更中的应用：一项混合方法研究
+
+这段翻译将英文标题转换为中文，同时保持了专业术语的准确性和语境的一致性。"Patient Adapted Paternalism" 翻译为 "患者适应性家长主义"，"Endomyocardial Biopsy" 翻译为 "心内膜心肌活检"，"Policy Changes" 翻译为 "政策变更"，"Heart Transplant Patients" 翻译为 "心移植患者"，"A Mixed-Methods Study" 翻译为 "一项混合方法研究"。整体翻译力求简洁明了，符合学术论文标题的规范。 | Kim, H. | [PDF](https://doi.org/10.1101/2024.12.29.24319749) | N/A | Patient Adapted Paternalism for Endomyocardial Biopsy Policy Changes in Heart Transplant Patients: A Mixed-Methods Study |
+| 在高风险人群中，广泛的遗传相互作用（上位效应）与酒精使用障碍相关联。 | Listopad, S. | [PDF](https://doi.org/10.1101/2024.12.29.24319759) | N/A | EXTENSIVE GENETIC INTERACTIONS (EPISTASIS) LINKED TO ALCOHOL USE DISORDER IN A HIGH-RISK POPULATION |
+| 低资源环境下高血糖急性卒中一年预后研究（SHAPE）：一项前瞻性队列研究方案 | Rajbhandari, B. | [PDF](https://doi.org/10.1101/2024.12.29.24319757) | N/A | One-Year Outcomes in Acute Strokes with Hyperglycemia in Low Resource Settings (SHAPE): A Prospective Cohort Study Protocol |
+| 在全切片图像中采用符合性不确定性感知AI框架实现非小细胞肺癌诊断的信任建立 | Zhang, X. | [PDF](https://doi.org/10.1101/2024.12.27.24319715) | N/A | Implementing Trust in Non-Small Cell Lung Cancer Diagnosis with a Conformalized Uncertainty-Aware AI Framework in Whole-Slide Images |
+| 一种非药物性、具有镇痛作用的制剂可减轻癌症患者化疗引起的周围神经病变。 | Servitja, S. | [PDF](https://doi.org/10.1101/2024.12.29.24319628) | N/A | A Non-Pharmacological, Nociceutical Formulation Lessens Chemotherapy-Induced Peripheral Neuropathy in Cancer Patients |
+| 地西泮调节了临床高精神病风险人群前扣带回的谷氨酸水平。 | Kiemes, A. | [PDF](https://doi.org/10.1101/2024.12.28.24319730) | N/A | Diazepam modulates anterior cingulate glutamate levels in people at clinical high-risk for psychosis |
+| 探索数字健康解决方案：加纳的个性化医学与N-of-1试验：范围综述 | Sackey, G. | [PDF](https://doi.org/10.1101/2024.12.29.24319752) | N/A | Exploring Digital Health Solutions: Personalised Medicine and N-of-1 Trials in Ghana: A Scoping Review |
+| 《更年期对高胆固醇血症及其合并症的影响：一项基于人群的研究》 | Esteban-Medina, A. | [PDF](https://doi.org/10.1101/2024.12.29.24319724) | N/A | The Impact of Menopause on Hypercholesterolemia and Comorbidities: A Population-Based Study. |
+| 开发和内部验证用于预测手术和麻醉后谵妄的梯度提升树模型（BioCog研究） | Lammers-Lietz, F. | [PDF](https://doi.org/10.1101/2024.12.30.24319760) | N/A | Development and internal validation of a gradient-boosted trees model for prediction of delirium after surgery and anesthesia (the BioCog study) |
 # MedRxiv 2024-12-29 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
