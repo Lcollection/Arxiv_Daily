@@ -1,3 +1,24 @@
+# MedRxiv 2025-01-01 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 基因组多样性和CTC池中BCL9L基因突变状态可预测转移性结直肠癌的总体生存率。 | Alves, J. M. | [PDF](https://doi.org/10.1101/2024.12.26.24319649) | N/A | Genomic diversity and BCL9L mutational status in CTC pools predict overall survival in metastatic colorectal cancer |
+| 在印度COVID-19大流行期间，城市污水作为多重耐药肠杆菌科的环境储存库 | Qamar, H. | [PDF](https://doi.org/10.1101/2025.01.01.24319799) | N/A | Urban Wastewater as Environmental Reservoirs of Multidrug-resistance Enterobacteriaceae during the COVID-19 Pandemic in India |
+| 基底节区血管周围间隙扩大在不同癫痫亚型中的表现 | Sinclair, B. | [PDF](https://doi.org/10.1101/2024.12.31.24319825) | N/A | Enlarged Perivascular Spaces in the Basal Ganglia Across Epilepsy Subtypes |
+| 深度学习识别出前列腺外扩展和精囊侵犯作为前列腺癌预后的MRI生物标志物。 | Hossain, S. | [PDF](https://doi.org/10.1101/2024.12.31.24319822) | N/A | Deep Learning Identified Extra-Prostatic Extension and Seminal Vesicle Invasion as an MRI Biomarker for Prostate Cancer Outcomes |
+| 整合血浆、磁共振成像（MRI）和认知生物标志物，以实现跨认知领域的个性化衰退预测 | Moradi, E. | [PDF](https://doi.org/10.1101/2024.12.31.24319830) | N/A | Integrating plasma, MRI, and cognitive biomarkers for personalized prediction of decline across cognitive domains |
+| 介绍与评估用于人工智能护理交接的患者报告模板 | Vald, G. M. | [PDF](https://doi.org/10.1101/2024.12.31.24319818) | N/A | Introducing and Evaluating the Patient Report Template for AI-Powered Nursing Handoffs |
+| 通过机器学习进行医疗保险的利用率分析与欺诈检测 | Tajrobehkar, M. | [PDF](https://doi.org/10.1101/2024.12.30.24319784) | N/A | Utilization Analysis and Fraud Detection in Medicare via Machine Learning |
+| 乌干达间日疟原虫对抗疟药物敏感性的变化趋势：2019-2024年 | Okitwi, M. | [PDF](https://doi.org/10.1101/2024.12.31.24319821) | N/A | Changes in susceptibility of Plasmodium falciparum to antimalarial drugs in Uganda over time: 2019-2024 |
+| 尼日利亚北部坏疽性口炎的发病率与临床表现（1999-2024年） | Braimah, R. O. | [PDF](https://doi.org/10.1101/2024.12.31.24319808) | N/A | Incidence and Clinical Presentation of Noma in Northern Nigeria (1999-2024) |
+| 探索药物再利用治疗罕见疾病：利用生物医学知识图谱与科学文献获取 | Yuryev, A. | [PDF](https://doi.org/10.1101/2024.12.31.24319817) | N/A | Exploring Drug Repurposing for Rare Diseases: Leveraging Biomedical Knowledge Graphs and Access to Scientific Literature |
+| 标题翻译：**裸盖菇素辅助团体心理治疗 + 基于正念的减压疗法（MBSR）用于一线医护人员COVID-19相关抑郁与职业倦怠：一项随机临床试验**
+
+内容简介：本研究探讨了结合裸盖菇素辅助的团体心理治疗与基于正念的减压疗法（MBSR）在缓解一线医护人员因COVID-19疫情引发的抑郁和职业倦怠方面的效果。研究采用随机临床试验设计，旨在评估这种综合干预方法的有效性和安全性。 | Lewis, B. | [PDF](https://doi.org/10.1101/2024.12.31.24319806) | N/A | Psilocybin-Assisted Group Psychotherapy + Mindfulness Based Stress Reduction (MBSR) for Frontline Healthcare Provider COVID-19 Related Depression and Burnout: A Randomized Clinical Trial |
+| 检测加利福尼亚城市污水处理区中甲型流感病毒H5血凝素RNA及其潜在输入模型 | Paulos, A. P. | [PDF](https://doi.org/10.1101/2024.12.31.24319823) | N/A | Detection of Hemagglutinin H5 influenza A virus RNA and model of potential inputs in an urban California sewershed |
+| 多层次评估社会决定因素对加拿大城市收入相关健康不平等相对影响的研究方案：加拿大社会决定因素城市实验室 | Plante, C. | [PDF](https://doi.org/10.1101/2024.12.31.24319827) | N/A | Multilevel estimation of the relative impacts of social determinants on income-related health inequalities in urban Canada: Protocol for the Canadian Social Determinants Urban Laboratory |
+| 卡芬太尼PET全身成像用于μ-阿片受体的研究：首次人体试验 | Dubroff, J. G. | [PDF](https://doi.org/10.1101/2024.12.31.24319819) | N/A | Carfentanil PET Whole-Body Imaging of Mu-Opioid Receptors: A First In-Human Study |
+| 关于流行病学模型中时间依赖性传播率的估计 | Zubelli, J. | [PDF](https://doi.org/10.1101/2024.12.27.24319687) | N/A | On the Estimation of the Time-Dependent Transmission Rate in Epidemiological Models |
 # MedRxiv 2024-12-31 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
