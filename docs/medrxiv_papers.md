@@ -1,3 +1,90 @@
+# MedRxiv 2025-01-02 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 多参数MRI结合机器学习揭示儿童低级别胶质瘤的分子基础、预后及治疗反应 | Fathi Kazerooni, A. | [PDF](https://doi.org/10.1101/2024.04.18.24306046) | N/A | Multiparametric MRI Along with Machine Learning Informs on Molecular Underpinnings, Prognosis, and Treatment Response in Pediatric Low-Grade Glioma |
+| MUTATE：基于GWAS汇总统计的多器官AI内表型人类遗传图谱 | boquetipujadas, a. | [PDF](https://doi.org/10.1101/2024.06.15.24308980) | N/A | MUTATE: A Human Genetic Atlas of Multi-organ AI Endophenotypes using GWAS Summary Statistics |
+| 以下是这段文字的中文翻译：
+
+**女性在肯尼亚使用自我给药、家庭配送的阴道内5-氟尿嘧啶乳膏治疗宫颈癌前病变的体验和接受度**
+
+翻译说明：
+- **self-administered**：自我给药，指患者自行使用药物。
+- **home delivered**：家庭配送，指药物直接配送到患者家中。
+- **intravaginal**：阴道内，指药物通过阴道给药。
+- **5-Fluorouracil cream**：5-氟尿嘧啶乳膏，一种用于治疗癌前病变的药物。
+- **cervical precancer treatment**：宫颈癌前病变治疗。
+
+希望这段翻译对你有帮助！ | Adewumi, K. | [PDF](https://doi.org/10.1101/2024.08.27.24312651) | N/A | Womens experiences and acceptability of self-administered, home delivered, intravaginal 5-Fluorouracil cream for cervical precancer treatment in Kenya |
+| 额颞叶痴呆的行为变化及其认知和神经解剖学相关性 | Rouse, M. A. | [PDF](https://doi.org/10.1101/2024.09.24.24314224) | N/A | Behavioural changes in frontotemporal dementia and their cognitive and neuroanatomical correlates |
+| 妊娠中期母体血清中的胎盘生物标志物与产后出血相关：NuMoM2b数据集的二次分析 | Rutherford, J. N. | [PDF](https://doi.org/10.1101/2024.12.30.24319779) | N/A | Placental biomarkers in second trimester maternal serum are associated with postpartum hemorrhage: a secondary analysis of the NuMoM2b dataset |
+| 开发和外部验证用于预测肺活量测定限制的机器学习模型 | Moffett, A. T. | [PDF](https://doi.org/10.1101/2025.01.02.25319890) | N/A | Development and External Validation of a Machine Learning Model to Predict Restriction from Spirometry |
+| 对阿尔茨海默病患者大脑的转录组分析发现，导致癫痫的基因出现了失调。 | Eteleeb, A. M. | [PDF](https://doi.org/10.1101/2025.01.02.25319900) | N/A | Transcriptomic analyses of human brains with Alzheimer disease identified dysregulated epilepsy-causing genes |
+| 快速眼动睡眠行为障碍中的快速眼动睡眠微结构改变：超越肌张力 | NICOLAS, J. | [PDF](https://doi.org/10.1101/2025.01.02.24319683) | N/A | REM sleep microstructure alterations in REM sleep behavior disorder: beyond muscle tone |
+| 使用7T MRI研究局灶性癫痫中大脑结构枢纽的钠稳态 | Gauer, L. | [PDF](https://doi.org/10.1101/2025.01.02.25319878) | N/A | Investigating sodium homeostasis of structural brain hubs in focal epilepsy using 7T MRI |
+| 散瞳对手持相机在现实环境中进行图像可分级性和自动化糖尿病视网膜病变筛查的影响 | Diogenes Azevedo Costa, I. | [PDF](https://doi.org/10.1101/2025.01.02.25319898) | N/A | Impact of Mydriasis on Image Gradability and Automated Diabetic Retinopathy Screening with a Handheld Camera in Real-World Settings |
+| 一种半经验贝叶斯方法用于校准性别特异性孟德尔随机化研究中的弱工具偏倚 | Huang, Y.-J. | [PDF](https://doi.org/10.1101/2025.01.02.25319889) | N/A | A semi-empirical Bayes approach for calibrating weak instrumental bias in sex-specific Mendelian randomization studies |
+| 提出一种基于权重的期望最大化算法，用于估计离散时间马尔可夫转移概率矩阵，并在健康技术评估中提供一个概念验证示例 | Bollee, M. | [PDF](https://doi.org/10.1101/2025.01.02.25319899) | N/A | Proposing a Weight-Based Expectation-Maximization Algorithm for Estimating Discrete-Time Markov Transition Probability Matrices with a Proof-of-Concept Example in Health Technology Assessment |
+| 以下是这段文字的中文翻译：
+
+**“关于HIV结构性干预实施决定因素和策略的文献调查：系统综述方案”**
+
+这个标题描述了一项系统综述的研究计划，旨在调查与HIV（人类免疫缺陷病毒）结构性干预相关的实施决定因素和策略的文献。结构性干预是指通过改变社会、经济、政策或环境条件来影响HIV传播和预防的措施。系统综述是一种严谨的文献研究方法，通过系统性地收集、评估和综合现有研究，以回答特定的研究问题。 | zamantakis, a. | [PDF](https://doi.org/10.1101/2025.01.02.25319901) | N/A | Surveying the Literature on Implementation Determinants and Strategies for HIV Structural Interventions: A Systematic Review Protocol |
+| 柬埔寨间日疟原虫感染患者14天高剂量与低剂量伯氨喹治疗的随机开放标签疗效研究 | Eng, V. | [PDF](https://doi.org/10.1101/2025.01.01.25319862) | N/A | High versus low dose of 14 days treatment of primaquine in Plasmodium vivax infected patients in Cambodia: a randomised open-label efficacy study |
+| 从数据到洞察：连续血糖监测全面量化工具（QoCGM） | Cichosz, S. L. | [PDF](https://doi.org/10.1101/2025.01.01.25319870) | N/A | From Data to Insights: A Tool for Comprehensive Quantification of Continuous Glucose Monitoring (QoCGM) |
+| 使用机器学习技术预测西班牙巴斯克地区入侵蚊子的数量 | Steindorf, V. | [PDF](https://doi.org/10.1101/2025.01.02.25319885) | N/A | Forecasting invasive mosquito abundance in the Basque Country, Spain using machine learning techniques |
+| 遗传、生活方式和环境对健康的影响——芬兰生物样本库回顾研究方案（BioRecall） | Sillanpaa, E. | [PDF](https://doi.org/10.1101/2025.01.02.25319875) | N/A | Genetic, lifestyle and environmental influences on health - a Finnish biobank recall study protocol (BioRecall) |
+| 用于超高场10.5T磁共振成像的高阻抗微带谐振器和收发器阵列 | Zhang, X. | [PDF](https://doi.org/10.1101/2025.01.02.25319876) | N/A | High Impedance Microstrip Resonators and Transceiver Arrays for Ultrahigh Field 10.5T MR Imaging |
+| 成纤维细胞-神经元相互作用驱动类风湿性关节炎持续性疼痛（FiND-Pain RA）——研究方案 | Xenophontos, M. | [PDF](https://doi.org/10.1101/2025.01.02.25319882) | N/A | Fibroblast-Neuron Interactions Driving Persistent Pain in Rheumatoid Arthritis (FiND-Pain RA) - a study protocol |
+| 信任医生作为中介因素在个体化护理与接受血液透析患者药物依从性之间关系的研究：一项横断面调查 | Kanakubo, Y. | [PDF](https://doi.org/10.1101/2025.01.02.25319883) | N/A | Trust in physicians as a mediator of the relationship between person-centered care and medication adherence in patients undergoing hemodialysis: A cross-sectional study |
+| 以下是这段文字的中文翻译：
+
+**在布塔雷大学教学医院接受抗逆转录病毒治疗的HIV/AIDS患者心血管疾病风险评估**
+
+这段文字描述了一项研究或评估的主题，即在布塔雷大学教学医院接受抗逆转录病毒治疗的HIV/AIDS患者中，对其心血管疾病风险进行评估。 | Nemeyimana, P. | [PDF](https://doi.org/10.1101/2024.12.27.24319701) | N/A | RISKS ASSESSMENT OF CARDIOVASCULAR DISEASES AMONG HIV/AIDS PATIENTS RECEIVING ANTIRETROVIRAL THERAPY AT UNIVERSITY TEACHING HOSPITAL OF BUTARE CHUB |
+| 在中心大学公共卫生健康中心（CUSP）就诊的丙型肝炎病毒感染患者的家庭成员中丙型肝炎病毒的流行情况 | Nemeyimana, P. | [PDF](https://doi.org/10.1101/2024.12.27.24319696) | N/A | PREVALENCE OF HCV AMONG HOUSEHOLD MEMBERS OF HEPATITIS C VIRUS-INFECTED PATIENTS ATTENDING CENTRE UNIVERSITAIRE DE SANTE PUBLIQUE (CUSP) HEALTH CENTER |
+| LUKB DT：一个用于快速高效识别疾病轨迹的网络工具 | Li, X. | [PDF](https://doi.org/10.1101/2025.01.01.25319864) | N/A | LUKB DT: A Web Tool for Quick and Efficient Identification of Disease Trajectories |
+| 以下是这段英文的中文翻译：
+
+通过新的语言表型评估（LPA）评估的典型发育儿童的语言理解发展里程碑
+
+翻译说明：
+1. "Language comprehension developmental milestones" 翻译为 "语言理解发展里程碑"，指的是儿童在语言理解能力发展过程中的重要标志性阶段。
+2. "typically developing children" 翻译为 "典型发育儿童"，指的是按照正常速度发育的儿童。
+3. "assessed by" 翻译为 "通过...评估"，表示评估的方式或工具。
+4. "new Language Phenotype Assessment (LPA)" 翻译为 "新的语言表型评估（LPA）"，其中 "LPA" 是英文缩写，通常在中文中保留。 | Vyshedskiy, A. | [PDF](https://doi.org/10.1101/2024.12.30.24318918) | N/A | Language comprehension developmental milestones in typically developing children assessed by the new Language Phenotype Assessment (LPA) |
+| 超越自我报告来表征药物成瘾：利用药物偏向行为前瞻性地指导阿片类药物使用障碍的治疗依从性。 | McClain, N. | [PDF](https://doi.org/10.1101/2025.01.01.25319860) | N/A | Moving beyond self-report in characterizing drug addiction: Using drug-biased behavior to prospectively inform treatment adherence in opioid use disorder. |
+| 创伤后应激障碍（PTSD）评估中PCL-5与CAPS-5一致性的性别差异 | Bakshi, B. | [PDF](https://doi.org/10.1101/2024.12.31.24319829) | N/A | Sex differences in the coherence of PCL-5 and CAPS-5 assessments for Post-Traumatic Stress Disorder |
+| 健康老龄化的社会决定因素：使用“我们所有人”队列的研究 | Chen, W.-H. | [PDF](https://doi.org/10.1101/2025.01.02.25319907) | N/A | Social Determinants of Healthy Aging: An Investigation using the All of Us Cohort |
+| 深度学习胸部X射线年龄、表观遗传衰老时钟及其与基线健康研究中年龄相关亚临床疾病的关联 | Chandra, J. | [PDF](https://doi.org/10.1101/2025.01.02.24319734) | N/A | Deep Learning Chest X-Ray Age, Epigenetic Aging Clocks and Associations with Age-Related Subclinical Disease in the Project Baseline Health Study |
+| 系统性地优先处理人工智能检测出的胸部X光异常，以优化肺癌检测 | Bramley, R. | [PDF](https://doi.org/10.1101/2024.12.30.24319499) | N/A | Systematic Prioritisation of AI-Detected Chest X-ray Abnormalities for Optimised Lung Cancer Detection |
+| 脊髓刺激感觉反馈对经胫骨截肢后行走时肌肉激活和关节运动变化的影响：一项案例研究 | Bose, R. | [PDF](https://doi.org/10.1101/2024.12.27.24319684) | N/A | Changes in Muscle Activation and Joint Motion During Walking After Transtibial Amputation with Sensory Feedback from Spinal Cord Stimulation: A Case Study |
+| 识别肉芽肿性肌炎中的独特基因特征。 | Pinal-Fernandez, I. | [PDF](https://doi.org/10.1101/2024.12.27.24319708) | N/A | Identification of a distinctive gene signature in granulomatous myositis. |
+| 机器学习模型在癌症诊断中的比较分析 | Eladl, O. S. M. M. | [PDF](https://doi.org/10.1101/2025.01.02.25319913) | N/A | Comparative Analysis of Machine Learning Models for Cancer Diagnosis |
+| 研究维生素B12缺乏与帕金森病之间的遗传关系 | Dering, R. | [PDF](https://doi.org/10.1101/2025.01.01.25319858) | N/A | Investigating the genetic relationship between vitamin B12 deficiency and Parkinson's disease |
+| 重症监护病房脑出血患者静息心率与全因死亡率的关系：基于MIMIC-IV数据库的回顾性研究 | Yao, X. | [PDF](https://doi.org/10.1101/2024.12.31.24319835) | N/A | Association between resting heart rate and all-cause mortality in patients with intracerebral hemorrhage in the intensive care unit: a retrospective study based on the MIMIC-IV database |
+| 加纳东部地区恩萨瓦姆中等安全监狱狱警的职业倦怠综合征及其应对机制 | Djoletoe, F. | [PDF](https://doi.org/10.1101/2025.01.02.25319893) | N/A | Burnout Syndrome and coping mechanisms among Prison Officers at Nsawam Medium Security Prison, Eastern Region, Ghana |
+| 手持式ISFET芯片实验室检测YAP1核酸及AR-FL与AR-V7 mRNA从前列腺癌液体活检中用于预后评估 | Broomfield, J. | [PDF](https://doi.org/10.1101/2024.12.30.24317910) | N/A | Handheld ISFET Lab-on-Chip detection of YAP1 nucleic acid and AR-FL and AR-V7 mRNA from Liquid Biopsies for Prostate Cancer Prognosis |
+| 在多中心注册研究中，97名梅尼埃病患者中短版言语、空间及听力质量量表的适用性分析。 | Spiegel, J. L. | [PDF](https://doi.org/10.1101/2025.01.01.25319849) | N/A | Applicability of a short form of the Speech, Spatial und Qualities of Hearing Scale in 97 individuals with Meniere's disease in a multicentric registry |
+| 兹卡病毒感染后产前脑损伤的遗传修饰因素：范围综述 | Marques, F. J. P. | [PDF](https://doi.org/10.1101/2025.01.02.25319896) | N/A | Genetic Modifiers of Prenatal Brain Injury After Zika Virus Infection: A Scoping Review |
+| 通过整合GWAS和转录组数据，利用PrediXcan和多模态深度学习揭示阿尔茨海默病的遗传基础及新的药物重定位机会 | Tian, X. | [PDF](https://doi.org/10.1101/2025.01.02.25319880) | N/A | Integrating GWAS and Transcriptome Data through PrediXcan and Multimodal Deep Learning to Reveal Genetic Basis and Novel Drug Repositioning Opportunities for Alzheimer's Disease |
+| 卢旺达基邦戈转诊医院中HIV患者抗逆转录病毒治疗不依从性的流行率及相关因素。 | Niyonsenga, P. M. | [PDF](https://doi.org/10.1101/2025.01.02.25319892) | N/A | PREVALENCE AND FACTORS ASSOCIATED WITH NON-ADHERENCE TO ANTIRETROVIRAL THERAPY IN HIV PATIENTS AT KIBUNGO REFERRAL HOSPITAL, IN RWANDA. |
+| 在赞比亚南部低疟疾传播地区，青蒿素部分抗性标记Kelch13 P441L的出现和流行率上升 | Martin, A. C. | [PDF](https://doi.org/10.1101/2025.01.02.24319706) | N/A | Emergence and Rising Prevalence of Artemisinin Partial Resistance Marker Kelch13 P441L in a Low Malaria Transmission Setting in Southern Zambia |
+| 23价肺炎球菌多糖疫苗（PPV23）在中国儿童、成人和老年人中的安全性和免疫原性：一项第四阶段、随机、双盲、活性对照的临床试验 | Liu, X. | [PDF](https://doi.org/10.1101/2025.01.01.25319861) | N/A | Safety and immunogenicity of 23-valent pneumococcal polysaccharide vaccine (PPV23) in Chinese children, adults and elderly: a phase 4, randomized, double-blind, active-controlled clinical trial |
+| 以下是这段英文的中文翻译：
+
+**金奈三级医院分离菌株的抗菌药物耐药性模式**
+
+翻译说明：
+- "Antimicrobial Resistance Pattern" 翻译为“抗菌药物耐药性模式”，指的是细菌对抗菌药物（如抗生素）的耐药性特征。
+- "Organisms" 在这里指的是微生物，通常指细菌或其他病原体。
+- "Tertiary Care Hospital" 翻译为“三级医院”，指的是提供高级医疗服务的医院。
+- "Chennai" 是印度的一个城市，中文通常翻译为“金奈”。
+
+希望这个翻译对你有帮助！ | G F, M. | [PDF](https://doi.org/10.1101/2025.01.01.25319855) | N/A | Antimicrobial Resistance Pattern among Organisms Isolated from Tertiary Care Hospital Chennai |
+| 葡萄糖：一种用于心脏手术后最佳血糖控制的分布式强化学习模型 | Desman, J. | [PDF](https://doi.org/10.1101/2025.01.01.25319851) | N/A | GLUCOSE: A Distributional Reinforcement Learning Model for Optimal Glucose Control After Cardiac Surgery |
+| 测量撒哈拉以南非洲健康研究中社会经济地位的方法：范围综述 | Yopa, D. S. | [PDF](https://doi.org/10.1101/2025.01.01.25319868) | N/A | Approaches for measuring socioeconomic status in health studies in Sub-Saharan Africa: a scoping review |
+| 尿路感染患者的尿蛋白与肌酐比值 | SV, S. B. | [PDF](https://doi.org/10.1101/2024.12.29.24319746) | N/A | Spot Urine Protein to Creatinine Ratio in Patients with Urinary Tract Infection |
 # MedRxiv 2025-01-01 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
