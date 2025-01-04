@@ -1,3 +1,57 @@
+# MedRxiv 2025-01-03 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 通过公民科学和元条形码技术对中国家庭饮用水中的总微生物群落和水传播病原体进行映射分析。 | Wen, X. | [PDF](https://doi.org/10.1101/2023.10.16.23297104) | N/A | Mapping total microbial communities and waterborne pathogens in household drinking water in China by citizen science and metabarcoding |
+| 治疗耐药性癌细胞的计算机分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.29.24312813) | N/A | Computational Analysis of Treatment Resistant Cancer Cells |
+| 治疗耐药性癌细胞的计算分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.29.24312813) | N/A | Computational Analysis of Treatment Resistant Cancer Cells |
+| 中西部阿米什人阿尔茨海默病血浆生物标志物 | Wang, P. | [PDF](https://doi.org/10.1101/2024.12.23.24319579) | N/A | Alzheimer Disease Plasma Biomarkers in the Mid-Western Amish |
+| 《实用试验操作新手册：临床实践中环境人工智能的监测与评估》 | Afshar, M. | [PDF](https://doi.org/10.1101/2024.12.27.24319685) | N/A | A Novel Playbook for Pragmatic Trial Operations to Monitor and Evaluate Ambient Artificial Intelligence in Clinical Practice |
+| 兴奋剂药物使用与多巴胺系统发育：对患有ADHD的男孩和男性的自然长期随访研究 | van der Pal, Z. | [PDF](https://doi.org/10.1101/2024.12.30.24319766) | N/A | Stimulant medication use and development of the dopamine system: a naturalistic long-term follow-up of boys and men with ADHD |
+| 快速眼动睡眠行为障碍中的快速眼动睡眠微结构改变：超越肌张力 | NICOLAS, J. | [PDF](https://doi.org/10.1101/2025.01.02.24319683) | N/A | REM sleep microstructure alterations in REM sleep behavior disorder: beyond muscle tone |
+| 癌症诊断机器学习模型的比较分析 | Eladl, O. | [PDF](https://doi.org/10.1101/2025.01.02.25319913) | N/A | Comparative Analysis of Machine Learning Models for Cancer Diagnosis |
+| 解读心电图上的T波形态：简化的蛋与变化蛋黄模型及QTp间期的重要性 | Stone, K. | [PDF](https://doi.org/10.1101/2024.12.17.24318926) | N/A | Deciphering T-wave Morphologies on ECGs: The Simplified Egg and Changing Yolk Model and the Importance of the QTp Interval |
+| 使用FHIR和OMOP自动监测临床实践指南依从性：一项重症监护病房的多中心研究 | Lichtner, G. | [PDF](https://doi.org/10.1101/2025.01.02.24319597) | N/A | Automated Monitoring of Clinical Practice Guideline Adherence Using FHIR and OMOP: A Multi-Center Study in Intensive Care Units |
+| 邻里社会脆弱性与快速伴侣治疗处方获取：一项秘密购物者审计调查 | Solnick, R. E. | [PDF](https://doi.org/10.1101/2024.12.28.24319274) | N/A | Neighborhood Social Vulnerability and Access to Expedited Partner Therapy Prescriptions: A Secret Shopper Audit Survey |
+| 多巴胺能网络连接改变与术后认知功能障碍相关 | Lammers-Lietz, F. | [PDF](https://doi.org/10.1101/2025.01.02.25319918) | N/A | Dopaminergic network connectivity alterations are associated with postoperative cognitive dysfunction |
+| 揭示肠道微生物群和血浆代谢物在纤维肌痛中的作用：孟德尔随机化和饮食干预的见解 | Niu, M. | [PDF](https://doi.org/10.1101/2025.01.02.25319928) | N/A | Unraveling the Role of Gut Microbiota and Plasma Metabolites in Fibromyalgia: Insights from Mendelian Randomization and Dietary Interventions |
+| 秘鲁医疗氧气生态系统中的挑战：政治经济学分析 | Garcia, P. J. | [PDF](https://doi.org/10.1101/2025.01.02.25319915) | N/A | Challenges in the medical oxygen ecosystem of Peru: a political economy analysis |
+| 介绍并测试孕产妇脆弱性分层工具（MVST）在基本服务利用中的应用：来自埃塞俄比亚奥罗米亚地区实施研究的初步证据 | Lakew, Y. | [PDF](https://doi.org/10.1101/2024.12.28.24319732) | N/A | Introducing and Testing Maternal Vulnerability Segmentation Tool (MVST) for Essential Service Utilization: Initial Evidence from Implementation Research in Oromia, Ethiopia |
+| 在资源有限的情况下，以最高准确率对肺部肺炎、肺结核以及正常和非X光图像进行高效分类 | Majumder, R. I. | [PDF](https://doi.org/10.1101/2024.12.31.24319820) | N/A | Efficient Classification of Pulmonary Pneumonia and Tuberculosis Alongside Normal and Non-X-ray Images with Minimal Resources and Maximum Accuracy |
+| 左心室射血分数（LVEF）与冠状动脉狭窄及介入治疗疗效之间的关联 | Tang, C. | [PDF](https://doi.org/10.1101/2024.12.30.24319795) | N/A | Association between LVEF-1 and Coronary Artery Stenosis and Interventional Treatment Efficacy |
+| 在坦桑尼亚穆希比利国家医院接受药物辅助治疗诊所治疗的海洛因使用者中，肺功能下降幅度较大。 | Nkongoki, A. M. | [PDF](https://doi.org/10.1101/2025.01.01.25319867) | N/A | High magnitude of lung function decline among heroin users attending Medication- Assisted Therapy clinic at Muhimbili National Hospital, Tanzania |
+| 转录组范围内的异常值分析方法识别出具有轻微剪接病变的个体 | Arriaga, M. T. | [PDF](https://doi.org/10.1101/2025.01.02.24318941) | N/A | Transcriptome-wide outlier approach identifies individuals with minor spliceopathies |
+| 评估孕妇对分娩硬膜外镇痛的认识和态度以及影响其选择该镇痛方式的因素：一项横断面研究。 | Kassa, A. A. | [PDF](https://doi.org/10.1101/2025.01.01.25319869) | N/A | Assessment of awareness and attitudes of pregnant women toward labor epidural analgesia and factors influencing the decision to opt for it: A cross-sectional study. |
+| 生物阻抗谱在急性失代偿性心力衰竭中的应用：关于液体状态和预后的见解 | Yang, S.-F. | [PDF](https://doi.org/10.1101/2024.12.31.24319833) | N/A | Bioimpedance Spectroscopy in Acute Decompensated Heart Failure: Insights on Fluid Status and Outcomes |
+| 年龄与血管内治疗结果之间的关联：来自韩国和台湾的9941例EVT病例的双国注册研究 | Kim, B. J. | [PDF](https://doi.org/10.1101/2024.12.31.24319838) | N/A | Association Between Age And Endovascular Treatment Outcomes: Binational Registry Of 9941 EVT Cases From Korea And Taiwan |
+| 孟加拉国临床革兰氏阴性菌分离株中碳青霉烯酶产生的流行情况：使用盘增强试验（DPT）方法的综合研究 | Das, S. K. | [PDF](https://doi.org/10.1101/2024.12.30.24319797) | N/A | Prevalance of Carbapenemase Production Among Clinical Gram-Negative Isolates in Bangladesh: A Comprehensive Study Using Disc Potentiation Test (DPT) Method |
+| 基于抗炎策略的抗抑郁药物治疗现状与未来展望：随机对照临床试验的范围综述 | Bo, Y. | [PDF](https://doi.org/10.1101/2024.12.31.24319839) | N/A | AI Perspectives on the Present and Future of Antidepressant Pharmaceutical Treatment Based on Anti-inflammatory Strategies: A Scoping Review of Randomised Controlled Clinical Trials |
+| 美国成年人饮食模式在心血管健康和社会经济脆弱性方面的差异 | Brandt, E. J. | [PDF](https://doi.org/10.1101/2025.01.02.25319924) | N/A | Differences in US Adult Dietary Patterns by Cardiovascular Health and Socioeconomic Vulnerability |
+| 在人格障碍的维度模型中，自我-他人心智化与依恋不安全感：从研究到临床实践 | Janczak, M. O. | [PDF](https://doi.org/10.1101/2025.01.02.25319931) | N/A | Self-other mentalizing and attachment insecurity in the dimensional model of personality disorders: From research to clinical practice |
+| 识别门诊抑郁和焦虑患者的精神症状：一种基于大型语言模型的方法 | Xu, S. | [PDF](https://doi.org/10.1101/2025.01.03.24318117) | N/A | Identifying Psychiatric Manifestations in Outpatients with Depression and Anxiety: A Large Language Model-Based Approach |
+| PHIVE：一种物理信息变分编码器，能够在7T下快速进行脑代谢物映射的光谱拟合 | Shamaei, A. | [PDF](https://doi.org/10.1101/2025.01.02.25319930) | N/A | PHIVE: A Physics-Informed Variational Encoder Enables Rapid Spectral Fitting of Brain Metabolite Mapping at 7T |
+| 径向体外冲击波疗法（rESWT）结合特定康复计划（rESWT + RP）对于急性腘绳肌复合体3b型损伤的治疗效果优于假rESWT + RP：一项随机对照试验 | Crupnik, J. | [PDF](https://doi.org/10.1101/2025.01.03.24319763) | N/A | Radial ESWT combined with a specific rehabilitation program (rESWT + RP) is more effective than sham rESWT + RP for acute hamstring muscle complex injury type 3b: a randomized, controlled trial |
+| 图雷特综合征中感觉运动噪声的增加 | Gialopsou, A. | [PDF](https://doi.org/10.1101/2025.01.03.24319737) | N/A | Increased sensorimotor noise in Tourette syndrome |
+| 使用从丘脑深部脑刺激电极记录的局部场电位分析震颤的生物标志物 | Kumaravelu, K. | [PDF](https://doi.org/10.1101/2025.01.03.24319798) | N/A | Analyses of biomarkers for tremor using local field potentials recorded from deep brain stimulation electrodes in the thalamus |
+| 以下是这段文字的中文翻译：
+
+**购物篮营养分析模型的开发与验证：杂货篮评分（GBS）**
+
+这个标题描述了一项研究，旨在开发和验证一种用于评估购物篮营养质量的模型，称为“杂货篮评分”（GBS）。 | Marcon, S. | [PDF](https://doi.org/10.1101/2025.01.03.25319947) | N/A | Development and Validation of a Nutrient Profiling Model for Shopping Baskets: The Grocery Basket Score (GBS) |
+| 围产期心肌病与美国大型国家队列中的情绪障碍 | Neuburg, B. | [PDF](https://doi.org/10.1101/2025.01.02.25319920) | N/A | Peripartum Cardiomyopathy and Mood Disorders among a large U.S. National Cohort |
+| 妊娠期高血压疾病后的血压与高血压 | Urrutia, R. P. | [PDF](https://doi.org/10.1101/2025.01.02.25319922) | N/A | Blood Pressure and Hypertension after Hypertensive Disorders of Pregnancy |
+| 从遗传学角度识别前列腺癌的潜在药物靶点：一项孟德尔随机化研究 | Huang, j. | [PDF](https://doi.org/10.1101/2025.01.02.25319933) | N/A | Identifying Potential Drug Targets for Prostate Cancer from a Genetic Perspective: A Mendelian Randomization Study |
+| 生物样本库与整合基因组学资源在包容性基因组学中的应用：来自多样化儿科和混合人群队列的见解 | Buonaiuto, S. | [PDF](https://doi.org/10.1101/2025.01.03.25319944) | N/A | The Biorepository and Integrative Genomics resource for inclusive genomics: insights from a diverse pediatric and admixed cohort |
+| 铁蛋白指导的全血捐献者铁补充研究（FORTE）：一项双盲随机对照试验的结果。 | Karregat, J. H. M. | [PDF](https://doi.org/10.1101/2025.01.03.25319940) | N/A | Ferritin-guided iron supplementation in whole blood donors (FORTE): results of a double-blind randomized controlled trial. |
+| 从发病到动脉瘤安全处理的时间与动脉瘤性蛛网膜下腔出血患者的再出血相关。 | Daurel, E. | [PDF](https://doi.org/10.1101/2025.01.02.25319926) | N/A | Time from onset to aneurysm securing is associated with rebleeding in patients with aneurysmal subarachnoid hemorrhage |
+| GLP-1受体激动剂在管理癌症治疗相关心功能障碍中的作用 | Vignarajah, A. | [PDF](https://doi.org/10.1101/2025.01.02.25319923) | N/A | The Role of GLP-1 Receptor Agonists in Managing Cancer Therapy-Related Cardiac Dysfunction |
+| 妊娠期高血压疾病（HDP）不良母体结局期间的心脏功能障碍 | Giorgione, V. | [PDF](https://doi.org/10.1101/2025.01.02.25319925) | N/A | CARDIAC DYSFUNCTION DURING ADVERSE MATERNAL OUTCOMES IN HDP |
+| 身体圆度指数Z分数与高血压 | Wu, L. | [PDF](https://doi.org/10.1101/2025.01.02.25319921) | N/A | Body Roundness Index Z-Scores and Hypertension |
+| 孟德尔随机化揭示血浆蛋白数量性状位点与Graves病之间的因果路径由免疫细胞介导 | cui, s. | [PDF](https://doi.org/10.1101/2025.01.02.25319932) | N/A | Mendelian Randomization Reveals Causal Pathways Between Plasma Protein Quantitative Trait Loci and Graves'Disease Mediated by Immune Cells |
+| 过去二十年儿科内分泌转诊模式的变化：一项来自印度西部三级医疗中心的回顾性研究 | Khadilkar, V. | [PDF](https://doi.org/10.1101/2025.01.03.25319937) | N/A | Changing Pattern of Paediatric Endocrinology Referrals over two decades: A Retrospective Study from a Tertiary Centre in Western India |
+| 机器学习模型在预测青少年脑震荡后心理健康后遗症中的比较 | Peng, J. | [PDF](https://doi.org/10.1101/2025.01.02.24319733) | N/A | Comparison of Machine Learning Models in Predicting Mental Health Sequelae Following Concussion in Youth |
+| 胆碱能抗炎反射作为青少年非自杀性自伤行为中抑郁严重程度的功能 | Nguyen, T. P. | [PDF](https://doi.org/10.1101/2025.01.02.25319936) | N/A | The Cholinergic Anti-Inflammatory Reflex as a Function of Depression Severity in Adolescent Non-Suicidal Self-Injury |
+| 饮食策略的潜力：低碳水化合物饮食对心血管-肾脏-代谢综合征的影响 | Xiao, X. | [PDF](https://doi.org/10.1101/2025.01.03.25319951) | N/A | The Potential of Dietary Strategies: The Impact of Low-Carbohydrate Diet on Cardiovascular-Kidney-Metabolic Syndrome |
 # MedRxiv 2025-01-02 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
