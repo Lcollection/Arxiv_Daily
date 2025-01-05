@@ -1,3 +1,21 @@
+# MedRxiv 2025-01-04 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 加纳半农村地区死产产妇风险因素：一项回顾性观察研究的结果 | Adjei-Gyamfi, S. | [PDF](https://doi.org/10.1101/2023.10.25.23297496) | N/A | Maternal risk factors for stillbirths in a semi-rural municipality in Ghana: Findings from a retrospective observational study |
+| 助产士主导的盆底肌肉训练对埃塞俄比亚女性盆腔器官脱垂症状及生活质量的影响：一项集群随机对照试验 | Siyoum, M. | [PDF](https://doi.org/10.1101/2024.08.30.24312827) | N/A | Effect of Midwife-Led Pelvic Floor Muscle Training on Prolapse Symptoms and Quality of Life in Women with Pelvic Organ Prolapse in Ethiopia: A Cluster-Randomized Controlled Trial |
+| 以下是这段文字的中文翻译：
+
+**印度表型组-科学与工业研究委员会健康队列知识库（PI-CHeCK）研究方案：一项全国性员工队列的前瞻性多模态随访研究**
+
+翻译说明：
+- "Phenome India-CSIR Health Cohort Knowledgebase (PI-CHeCK)" 翻译为“印度表型组-科学与工业研究委员会健康队列知识库（PI-CHeCK）”。
+- "Prospective multi-modal follow-up study" 翻译为“前瞻性多模态随访研究”。
+- "nationwide employee cohort" 翻译为“全国性员工队列”。
+
+希望这段翻译对您有帮助！ | Phenome India Consortium,   | [PDF](https://doi.org/10.1101/2024.10.17.24315252) | N/A | Study Research Protocol for Phenome India-CSIR Health Cohort Knowledgebase (PI-CHeCK): A Prospective multi-modal follow-up study on a nationwide employee cohort |
+| 印度初级医疗保健中心用于痴呆症检测的认知筛查工具：范围综述 | R, J. G. | [PDF](https://doi.org/10.1101/2024.12.04.24318472) | N/A | Cognitive Screening Tools for Dementia Detection in Primary Healthcare Centres in India: A Scoping Review |
+| 迎接超灵敏快速诊断挑战：浮力分析物磁性（BAM）检测法 | Wang, C. | [PDF](https://doi.org/10.1101/2024.12.23.24319448) | N/A | Rising to the Ultrasensitive Rapid Diagnostic Challenge with Buoyant-Analyte-Magnetic (BAM) Assays |
 # MedRxiv 2025-01-03 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
