@@ -1,3 +1,55 @@
+# MedRxiv 2025-01-05 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 沟通属性调节与社交媒体成瘾相关的焦虑风险：一项前瞻性日记方法研究 | Weng, C. A. | [PDF](https://doi.org/10.1101/2022.11.30.22282943) | N/A | Communication attributes modify the anxiety risk associated with social media addiction: A prospective diary method study |
+| RSV相关医疗负担：一项在资源有限环境下进行的前瞻性观察研究 | Saha, S. | [PDF](https://doi.org/10.1101/2024.04.29.24306491) | N/A | RSV-Related Healthcare Burden: A Prospective Observational Study in a resource-constrained setting |
+| 2020年至2023年加拿大采用多种招募策略的SARS-CoV-2血清监测研究的社会人口学特征 | Knight, M. J. | [PDF](https://doi.org/10.1101/2024.12.30.24319767) | N/A | Sociodemographic characteristics of SARS-CoV-2 serosurveillance studies with diverse recruitment strategies, Canada, 2020 to 2023 |
+| 使用潜在类别分析识别术后老年人群的亚组 | McLaughlin, K. H. | [PDF](https://doi.org/10.1101/2025.01.03.25319954) | N/A | Using Latent Class Analysis to Identify Subgroups of Post-Operative Older Adults |
+| 心血管疾病自动化数字生物标志物发现流程 | Manimaran, G. | [PDF](https://doi.org/10.1101/2025.01.03.25319955) | N/A | Automated Digital Biomarker Discovery Pipeline for Cardiovascular Diseases |
+| COVID-19诊断对美国国家COVID队列合作研究中儿童体重轨迹的影响 | Mottalib, M. M. | [PDF](https://doi.org/10.1101/2025.01.03.25319927) | N/A | Impact of COVID-19 Diagnosis on Weight Trajectories of Children in the US National COVID Cohort Collaborative |
+| 在喀麦隆，针对霍乱控制的多部门干预优先领域（PAMIs） | Ngomba, A. | [PDF](https://doi.org/10.1101/2025.01.03.25319978) | N/A | Prioritizing areas for multisectoral interventions (PAMIs) for cholera control in Cameroon |
+| 2023-2024年度流感疫苗接种后对美国65岁及以上医疗保险受益人健康结果的安全监测 | Lloyd, P. C. | [PDF](https://doi.org/10.1101/2025.01.03.25319959) | N/A | Safety Monitoring of Health Outcomes following Influenza Vaccination during the 2023-2024 Season among U.S. Medicare Beneficiaries Aged 65 Years and Older |
+| 冷冻干燥作为一种新型浓缩方法用于废水中SARS-CoV-2的检测 | Dong, R. | [PDF](https://doi.org/10.1101/2025.01.04.25319877) | N/A | Freeze-drying as a novel concentrating method for wastewater detection of SARS-CoV-2 |
+| 在刚果民主共和国东部爆发的Mpox亚分支Ib疫情中，疑似患者出现的Mpox样病变脓疱的跨界谱系分析。 | Murhula Masirika, L. | [PDF](https://doi.org/10.1101/2025.01.04.24319669) | N/A | The trans-kingdom spectrum of Mpox-like lesion pustules of suspect patients in the Mpox subclade Ib outbreak in Eastern Democratic Republic of the Congo |
+| 实时功能磁共振成像神经反馈用于失语症阅读障碍康复的可行性研究。 | Boukrina, O. | [PDF](https://doi.org/10.1101/2025.01.03.25319980) | N/A | Feasibility of real-time fMRI neurofeedback for rehabilitation of reading deficits in aphasia. |
+| 以色列北部高血压儿科人群的特征 | Weiss, L. | [PDF](https://doi.org/10.1101/2025.01.03.25319982) | N/A | Characteristics of the Hypertensive Pediatric Population of Northern Israel |
+| 丘脑底核深部脑刺激后语言流畅性变化的侧化电路机制 | Kim, M. J. | [PDF](https://doi.org/10.1101/2025.01.03.25319977) | N/A | Lateralized Circuitry for Verbal Fluency Changes After Subthalamic Nucleus Deep Brain Stimulation |
+| 心脏病患者妊娠期高血压疾病的风险 | Jones Pullins, M. E. | [PDF](https://doi.org/10.1101/2025.01.03.25319981) | N/A | Risk of Hypertensive Disorders of Pregnancy in Patients With Cardiac Disease |
+| 原发性开角型青光眼与早期视觉皮层中的皮质-皮质感受野变化有关。 | Invernizzi, A. | [PDF](https://doi.org/10.1101/2025.01.03.25319969) | N/A | Primary open angle glaucoma is associated with cortico-cortical receptive fields changes in early visual cortex |
+| 对人类新生突变（de novo mutations）的队列水平分析指向了精原细胞克隆扩增的驱动因素。 | Seplyarskiy, V. | [PDF](https://doi.org/10.1101/2025.01.03.25319979) | N/A | Cohort-level analysis of human de novo mutations points to drivers of clonal expansion in spermatogonia |
+| 以下是这段英文的中文翻译：
+
+**APOE2通过脂质途径对神经保护作用的因果中介分析**
+
+翻译说明：
+- "Causal mediation analysis" 翻译为 "因果中介分析"，这是一种统计方法，用于研究变量之间的因果关系及其中介效应。
+- "neuroprotection" 翻译为 "神经保护作用"，指的是对神经细胞的保护作用。
+- "lipid pathways" 翻译为 "脂质途径"，指的是与脂质代谢相关的生物学通路。
+
+希望这个翻译对你有帮助！如果有其他问题，欢迎随时提问。 | Xiang, Q. | [PDF](https://doi.org/10.1101/2025.01.03.25319984) | N/A | Causal mediation analysis of the neuroprotection of APOE2 through lipid pathways |
+| 一项关于退伍军人在酒精使用障碍早期恢复期间进行失眠认知行为疗法的随机对照试验 | Chakravorty, S. | [PDF](https://doi.org/10.1101/2025.01.03.25319973) | N/A | A Randomized Controlled Trial of Cognitive Behavioral Therapy for Insomnia During Early Recovery from Alcohol Use Disorder Among Veterans |
+| 缺血性卒中并发急性失代偿性心力衰竭及其与血红蛋白水平的关系 | Yamazaki, Y. | [PDF](https://doi.org/10.1101/2024.12.30.24319796) | N/A | Ischemic Stroke Complicated by Acute Decompensated Heart Failure and Its Association with Hemoglobin Levels |
+| 产后利尿剂与妊娠高血压疾病的血压控制 | Keen, S. K. | [PDF](https://doi.org/10.1101/2025.01.03.25319983) | N/A | Postpartum Diuretics and Blood Pressure in Hypertensive Disorders of Pregnancy |
+| 炎症在抑郁症中的作用：机制、证据及治疗潜力的范围界定综述方案 | Bo, Y. | [PDF](https://doi.org/10.1101/2025.01.05.25320002) | N/A | The Role of Inflammation in Depression: A Scoping Review Protocol in Mechanisms, Evidence, and Therapeutic Potential |
+| 患有FOXP1综合征的青少年和成年人表现出高比例的焦虑和外部化行为，但并未出现精神失代偿或技能丧失的情况。 | Levy, T. | [PDF](https://doi.org/10.1101/2025.01.04.24318923) | N/A | Adolescents and adults with FOXP1 syndrome show high rates of anxiety and externalizing behaviors but not psychiatric decompensation or skill loss |
+| 苏达山克里亚瑜伽（SKY）呼吸冥想对健康个体心率变异性、睡眠及心理健康的影响：一项试点与可行性随机对照试验 | Ganesan, V. | [PDF](https://doi.org/10.1101/2025.01.04.25319992) | N/A | Effects of Sudarshan Kriya Yoga (SKY) Breath Meditation on Heart Rate Variability, Sleep and Mental Health in Healthy Individuals : A Pilot and Feasibility Randomized Controlled Trial |
+| 2023-2024年COVID-19疫苗接种后美国65岁及以上医疗保险受益人多种健康结果的安全监测 | Gruber, J. F. | [PDF](https://doi.org/10.1101/2025.01.03.25319975) | N/A | Safety Monitoring of Multiple Health Outcomes Following 2023-2024 COVID-19 Vaccination among Medicare Beneficiaries Aged 65 Years and Older in the United States |
+| 促进医生和医学院在农村社区中推动社会责任的挑战与促进因素：范围综述与主题分析 | Wasim, A. | [PDF](https://doi.org/10.1101/2025.01.04.25319991) | N/A | Challenges and Facilitators for Physicians and Medical Schools to Promote Social Accountability in Rural Communities: A Scoping Review and Thematic Analysis |
+| 提高淀粉样蛋白PET诊断准确性：MR引导的PET重建的影响 | Khalighi, M. M. | [PDF](https://doi.org/10.1101/2025.01.04.25319996) | N/A | Enhancing the Diagnostic Accuracy of Amyloid PET: The Impact of MR-Guided PET Reconstruction |
+| 透明细胞肾细胞癌中的嗅觉受体表达谱揭示了潜在的诊断和预后标志物 | Hasegawa, K. | [PDF](https://doi.org/10.1101/2025.01.05.25320001) | N/A | Olfactory Receptor Expression Profiles in Clear Cell Renal Cell Carcinoma Reveal Potential Diagnostic and Prognostic Markers |
+| 正常体重与超重/肥胖健康成年人食用白面包和全麦面包后的餐后血糖反应比较 | Dong, H. | [PDF](https://doi.org/10.1101/2025.01.04.25319987) | N/A | Postprandial glycaemic response to white and wholemeal bread consumption between normal weight and overweight/obese healthy adults |
+| 埃塞俄比亚成年糖尿病患者使用连续血糖监测设备的成本效益分析：一项半马尔科夫模型研究 | Mengesha, M. E. | [PDF](https://doi.org/10.1101/2025.01.05.25320005) | N/A | The Cost-effectiveness of a Continuous Glucose Monitoring Device for Adult Diabetes Patients in Ethiopia: A Semi-Markov Modelling Study |
+| 量化远程帕金森病AI驱动评估中的设备类型和惯用手偏向 | Tumpa, Z. N. | [PDF](https://doi.org/10.1101/2025.01.03.25319964) | N/A | Quantifying Device Type and Handedness Biases in a Remote Parkinson's Disease AI-Powered Assessment |
+| 通过多器官成像遗传学和蛋白质组学揭示的脑-心-眼轴 | Boquet-Pujadas, A. | [PDF](https://doi.org/10.1101/2025.01.04.25319995) | N/A | Brain-heart-eye axis revealed by multi-organ imaging genetics and proteomics |
+| 正常间歇期脑电图在癫痫诊断和治疗规划中的价值：基于群体水平频谱功率和连接模式的回顾性队列研究
+
+本研究旨在探讨正常间歇期脑电图（EEG）在癫痫诊断和治疗规划中的应用价值。通过回顾性队列研究，我们利用群体水平的频谱功率和连接模式，分析了正常间歇期EEG在癫痫患者中的表现及其对临床决策的潜在影响。研究发现，正常间歇期EEG不仅有助于癫痫的诊断，还能为治疗方案的制定提供重要参考。通过频谱功率和连接模式的分析，我们可以更准确地识别癫痫患者的脑电活动特征，从而优化治疗策略，提高治疗效果。 | Wagh, N. | [PDF](https://doi.org/10.1101/2025.01.03.25319963) | N/A | The Value of Normal Interictal EEGs in Epilepsy Diagnosis and Treatment Planning: A Retrospective Cohort Study using Population-level Spectral Power and Connectivity Patterns |
+| GPS-健康：一种新颖的分析基础设施，用于捕捉、可视化和分析多层次、多领域的地理分布健康社会决定因素 | Huang, S. J. | [PDF](https://doi.org/10.1101/2025.01.03.25319962) | N/A | GPS-Health: A Novel Analytic Infrastructure for Capturing, Visualizing, and Analyzing Multi-Level, Multi-Domain Geographically Distributed Social Determinants of Health |
+| 生活在穆滕格内的喀麦隆儿童队列中，针对AMA1、GLURP和MSP3的免疫球蛋白G抗体的模式及其与疟疾保护的关联：贫血可能是附带损害吗？
+
+在这项研究中，研究者探讨了生活在喀麦隆穆滕格内的一群儿童中，针对疟疾抗原AMA1、GLURP和MSP3的免疫球蛋白G（IgG）抗体的模式及其与疟疾保护之间的关系。研究还提出了贫血是否可能是疟疾感染或免疫反应的一种附带损害的问题。通过分析这些抗体的水平及其与疟疾发病率、贫血状况的关联，研究者旨在更好地理解免疫反应在疟疾保护中的作用，并评估贫血在这一过程中的潜在影响。 | Njua-Yafi, C. | [PDF](https://doi.org/10.1101/2025.01.04.24319738) | N/A | Pattern and association of immunoglobulin G antibodies to AMA1, GLURP, and MSP3 with protection from malaria in a cohort of Cameroonian children living in Mutengene: Anaemia a possible collateral damage? |
+| 联合使用孕激素和阴道宫颈环扎术是否能改善早产高风险女性的妊娠结局？对C-STICH宫颈环扎试验数据的回顾性二次分析 | Hodgetts Morton, V. | [PDF](https://doi.org/10.1101/2024.12.23.24319536) | N/A | Does combination treatment with progesterone and vaginal cervical cerclage improve pregnancy outcomes in women at high risk of preterm birth? A retrospective, secondary analysis of the C-STICH suture thread for cerclage trial data |
 # MedRxiv 2025-01-04 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
