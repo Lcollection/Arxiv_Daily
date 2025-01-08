@@ -1,3 +1,79 @@
+# MedRxiv 2025-01-07 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 屏幕行为与青少年心理健康之间的关系：表型与遗传分析 | Frei, E. | [PDF](https://doi.org/10.1101/2023.09.14.23295537) | N/A | The relationship between screen behaviors and adolescent mental health: a phenotypic and genetic analysis |
+| 桥接捕获技术实现了经济高效、快速且灵敏的分子精准诊断。 | Adamusova, S. | [PDF](https://doi.org/10.1101/2024.04.12.24301526) | N/A | Bridge Capture permits cost-efficient, rapid and sensitive molecular precision diagnostics |
+| 在一项针对大规模韩国人群的全基因组关联研究中，研究人员发现了与36种性状相关的新型数量性状基因座（QTL），并揭示了这些性状的遗传结构。 | Jee, Y. H. | [PDF](https://doi.org/10.1101/2024.05.17.24307550) | N/A | Genome-wide association studies in a large Korean cohort identify novel quantitative trait loci for 36 traits and illuminate their genetic architectures |
+| I型干扰素反应有助于免疫保护，抵抗分枝杆菌感染。 | Szydlo-Shein, A. | [PDF](https://doi.org/10.1101/2024.06.26.24309490) | N/A | Type I interferon responses contribute to immune protection against mycobacterial infection |
+| 政策建模在实践中是如何运作的？全球范围内对流行病学建模在健康危机中应用的分析 | Hadley, L. | [PDF](https://doi.org/10.1101/2024.08.12.24311899) | N/A | How does policy modelling work in practice? A global analysis on the use of epidemiological modelling in health crises |
+| 使用回顾性数据开发和验证机器学习模型以预测接受丙泊酚镇静的重症患者高三酰甘油血症风险的方案 | Deng, J. | [PDF](https://doi.org/10.1101/2024.08.17.24312159) | N/A | Protocol for the development and validation of machine-learning models for predicting the risk of hypertriglyceridemia in critically ill patients receiving propofol sedation using retrospective data |
+| 以下是这段英文的中文翻译：
+
+**医疗专业人员对孕前保健的信念和态度：系统综述**
+
+翻译说明：
+- "Health professionals" 翻译为 "医疗专业人员"。
+- "beliefs and attitudes" 翻译为 "信念和态度"。
+- "preconception care" 翻译为 "孕前保健"。
+- "systematic review" 翻译为 "系统综述"。
+
+希望这段翻译对你有帮助！ | Caut, C. | [PDF](https://doi.org/10.1101/2024.09.16.24313739) | N/A | Health professionals beliefs and attitudes towards preconception care: A systematic review |
+| 使用脑电图（EEG）、肌电图（EMG）和睡眠阶段标签在一组疑似睡眠呼吸暂停患者中进行呼吸暂停和低通气事件检测 | Zhang, D. | [PDF](https://doi.org/10.1101/2024.10.24.24316077) | N/A | Apnea and hypopnea event detection using EEG, EMG, and sleep stage labels in a cohort of patients with suspected sleep apnea |
+| 探索药物再利用治疗罕见疾病：利用生物医学知识图谱和科学文献资源 | Yuryev, A. | [PDF](https://doi.org/10.1101/2024.12.31.24319817) | N/A | Exploring Drug Repurposing for Rare Diseases: Leveraging Biomedical Knowledge Graphs and Access to Scientific Literature |
+| ENTAgents：用于复杂知识耳鼻喉科的AI代理 | Dinh, N.-D. | [PDF](https://doi.org/10.1101/2025.01.01.25319863) | N/A | ENTAgents: AI Agents for Complex Knowledge Otolaryngology |
+| 对18岁以下儿童队列中登革热、基孔肯雅热和寨卡病毒表现的比较分析 | Bustos Carrillo, F. A. | [PDF](https://doi.org/10.1101/2025.01.06.25320089) | N/A | A comparative analysis of dengue, chikungunya, and Zika manifestations in a pediatric cohort over 18 years |
+| 了解2007年至2018年美国黑人与白人预期寿命差距 | Wetzler, H. P. | [PDF](https://doi.org/10.1101/2025.01.06.25319966) | N/A | Understanding the United States Black-White Life Expectancy Gap, 2007-2018 |
+| 与一碳代谢相关的化合物与表观遗传衰老生物标志物相关：基于1999-2002年美国国家健康与营养调查（NHANES）的结果 | Bozack, A. K. | [PDF](https://doi.org/10.1101/2025.01.06.25320074) | N/A | One-carbon metabolism-related compounds are associated with epigenetic aging biomarkers: Results from National Health and Nutrition Examination Survey (NHANES) 1999-2002 |
+| 将这段翻译成中文：在中西部阿米什人中，保留认知功能与阿尔茨海默病较高遗传风险之间的连锁和关联。 | Dorfsman, D. A. | [PDF](https://doi.org/10.1101/2025.01.06.25320073) | N/A | Linkage and association of preserved cognitive function in the Midwestern Amish at higher genetic risk of Alzheimer disease |
+| 秘鲁的人力资源与医疗基础设施：2018年至2024年的横断面分析 | Bellido-Boza, L. | [PDF](https://doi.org/10.1101/2025.01.01.25319872) | N/A | Human resources and healthcare infrastructure in Peru: A cross-sectional analysis from 2018 to 2024 |
+| 小手大梦想：通过比阿特丽斯·阿勒玛尼娅的《什么是孩子？》探索养育关怀 | Ravaldi, C. | [PDF](https://doi.org/10.1101/2025.01.04.25319990) | N/A | Small Hands, Big Ideas: Exploring Nurturing Care Through Beatrice Alemagna's "What is a Child?" |
+| 与健康个体相比，转移性脊柱疾病会改变患者的脊柱负荷-强度比。 | Anderson, D. E. | [PDF](https://doi.org/10.1101/2025.01.06.25320075) | N/A | Metastatic spine disease alters spinal load-to-strength ratios in patients compared to healthy individuals. |
+| 慢性肾脏病贫血发病机制中炎症的作用：探讨炎症生物标志物对红细胞生成及促红细胞生成素反应的影响。 | Ogolla, C. O. | [PDF](https://doi.org/10.1101/2025.01.01.25319873) | N/A | Role of Inflammation in the Pathogenesis of Anemia in Chronic Kidney Disease: Exploring the Impact of Inflammatory Biomarkers on Erythropoiesis and Erythropoietin Response. |
+| 社会经济状况与经导管主动脉瓣植入术后的结果：一项系统综述与荟萃分析 | verhemel, s. | [PDF](https://doi.org/10.1101/2025.01.06.25320082) | N/A | Socio-economic status and outcomes after transcatheter aortic valve implantation: a systematic review and meta-analysis |
+| 尼日利亚夸拉州伊洛林都市区淋巴丝虫病的分子和显微镜评估 | Omah, P. | [PDF](https://doi.org/10.1101/2025.01.03.25319939) | N/A | Molecular and Microscopy Evaluation of Lymphatic filariasis in Ilorin Metropolis, Kwara State Nigeria |
+| 弗吉尼亚州农村地区高风险非甾体抗炎药（NSAID）处方比例失衡
+
+这段翻译成中文的意思是：在弗吉尼亚州的农村地区，高风险非甾体抗炎药（NSAID）的处方比例存在不合理的现象。 | Rockwell, M. S. | [PDF](https://doi.org/10.1101/2025.01.03.25319965) | N/A | Disproportionate High-Risk Nonsteroidal Anti-inflammatory Drug (NSAID) Prescribing in Rural Virginia |
+| 对青少年屏幕行为的全基因组分析揭示了新的基因位点，并与教育成就和精神障碍存在重叠 | Frei, E. | [PDF](https://doi.org/10.1101/2025.01.07.25320110) | N/A | Genome-wide analysis of screen behaviors among adolescents identifies novel loci and overlap with educational attainment and mental disorders |
+| SLaM 图像库 - 这是一个真实世界的多样化伦敦队列，将脑部核磁共振成像（MRI）与电子心理健康和痴呆症记录相连接，旨在利用人工智能开发临床决策支持工具。 | Venkataraman, A. V. | [PDF](https://doi.org/10.1101/2025.01.07.25319950) | N/A | SLaM Image Bank - a real-world diverse London cohort linking brain MRI to electronic mental health and dementia records for the development of clinical decision support tools using artificial intelligence |
+| "Mens是唯一且最终的词汇。" 一项关于也门社区助产士对妇女和女童暴力问题的洞察的质性研究，包括幸存者及其家人的暴力形式、原因及应对方式。 | Al Zumair, M. | [PDF](https://doi.org/10.1101/2025.01.02.25319891) | N/A | "Mens is the only and final word ." A qualitative study of community midwives insights on violence against women and girls in Yemen, including the forms, causes, and responses of survivors and their families |
+| 多中心“重复研究”质疑电子烟气溶胶对头颈癌细胞顺铂耐药性的影响 | Emma, R. | [PDF](https://doi.org/10.1101/2025.01.07.25319886) | N/A | Multi-Center "Replica Study" Challenges the Impact of Electronic Cigarette Aerosols on Cisplatin Resistance in Head and Neck Cancer Cells |
+| 非洲大陆乳腺癌患者五年生存率：基于文献综述与荟萃分析的当代研究 | Badu-Peprah, A. | [PDF](https://doi.org/10.1101/2025.01.03.25319952) | N/A | Five-Year Survival Outcomes for Breast Cancer Patients Across Continental Africa: A Contemporary Review of Literature with Meta Analysis |
+| 轻度至中度慢性腰痛患者的大脑灰质密度较高 | Sean, M. | [PDF](https://doi.org/10.1101/2025.01.07.25320128) | N/A | Higher Brain Grey Matter Density in Mild to Moderate Chronic Low Back Pain Patients |
+| 与年龄相关的双手协调变化作为健康老龄化的筛查工具 | Shizuka, Y. | [PDF](https://doi.org/10.1101/2025.01.06.25320094) | N/A | Aging-related Changes in Bimanual Coordination As a Screening Tool for Healthy Aging |
+| 全髋关节置换术后早期开始物理康复锻炼是否优于不进行物理康复锻炼？一项系统综述与叙述性综合分析 | Madsen, M. N. | [PDF](https://doi.org/10.1101/2025.01.07.24319217) | N/A | Is early initiated physical rehabilitation exercise superior to no physical rehabilitation exercise following total hip arthroplasty? A systematic review and narrative synthesis |
+| 动脉瘤性蛛网膜下腔出血后的系统性代谢改变：基于血浆代谢组学的研究方法 | Yang, B. S. K. | [PDF](https://doi.org/10.1101/2025.01.06.25320083) | N/A | Systemic Metabolic Alterations after Aneurysmal Subarachnoid Hemorrhage: A Plasma Metabolomics Approach |
+| 使用可穿戴传感器捕捉步态障碍进行机器学习的帕金森病与正常压力脑积水的鉴别诊断 | Magni, S. | [PDF](https://doi.org/10.1101/2025.01.07.24318198) | N/A | Machine learning differentiation of Parkinson's disease and normal pressure hydrocephalus using wearable sensors capturing gait impairments |
+| 关于南非HIV感染女性及其男性伴侣的宫颈癌预防策略和宫颈癌前病变联合治疗的观点 | Chibwesha, C. | [PDF](https://doi.org/10.1101/2025.01.07.25320108) | N/A | Perspectives on Cervical Cancer Prevention Strategies and a Combination Treatment for Cervical Precancer in South African Women Living with HIV and Male Partners |
+| 英国孕妇一氧化碳暴露情况——IPPCO研究结果 | Place, E. | [PDF](https://doi.org/10.1101/2025.01.07.25320119) | N/A | Carbon monoxide exposure in pregnant women in the UK - results from the IPPCO study |
+| 头颈部转移性或复发性鳞状细胞癌患者的化疗、西妥昔单抗和厄洛替尼的II期临床试验。 | Bhatia, A. | [PDF](https://doi.org/10.1101/2025.01.07.25320123) | N/A | Phase II trial of chemotherapy, cetuximab and erlotinib in patients with metastatic or recurrent squamous cell carcinoma of the head and neck. |
+| 使用人工智能分析眼底成像的非接触式光学血压生物识别技术 | Bressler, I. | [PDF](https://doi.org/10.1101/2025.01.06.25320084) | N/A | Non-Contact Optical Blood Pressure Biometry Using AI Analysis of Fundus Imaging |
+| 评估APOE基因型与超级老年人认知韧性之间的关联 | Durant, A. | [PDF](https://doi.org/10.1101/2025.01.07.25320117) | N/A | Evaluating the association of APOE genotype and cognitive resilience in SuperAgers |
+| 来自英国生物库颈动脉超声自动管腔直径测量的遗传学洞见 | Ortin Vela, S. | [PDF](https://doi.org/10.1101/2025.01.07.25320106) | N/A | Genetic Insights from Automated Lumen Diameter Measurements in Carotid Ultrasounds of the UK Biobank |
+| 多基因转录组风险评分提高了特应性皮炎的预测准确性 | Antonatos, C. | [PDF](https://doi.org/10.1101/2025.01.07.25320097) | N/A | Polygenic transcriptome risk scores enhance predictive accuracy in atopic dermatitis |
+| 从患者之声到政策制定：数据分析揭示安大略省医院反馈的模式 | Momtaz, P. | [PDF](https://doi.org/10.1101/2025.01.06.25320076) | N/A | From Patient Voices to Policy: Data Analytics Reveals Patterns in Ontarios Hospital Feedback |
+| 《通胀削减法案》对早期风险投资的影响 | Schulthess, D. | [PDF](https://doi.org/10.1101/2025.01.07.25320113) | N/A | The Inflation Reduction Act's Impact upon Early-stage Venture Capital Investments |
+| 透析依从性慢性肾病患者与非依从性慢性肾病患者的铁代谢特征变化比较 | Ogolla, C. O. | [PDF](https://doi.org/10.1101/2025.01.03.25319943) | N/A | Variations in iron profile among dialysis adherent chronic kidney disease patients and compare with the non-adherence chronic kidney disease patients |
+| HIV发病率和流行率下降及预测因素在青少年和年轻成人中的观察性队列研究：乌干达拉凯，2005-2020年 | Grilo, S. A. | [PDF](https://doi.org/10.1101/2025.01.07.25320118) | N/A | Declines in HIV Incidence and Prevalence and Predictors Among Adolescents and Young Adults: An Observational Cohort Study, Rakai, Uganda, 2005-2020 |
+| 以下是将这段英文翻译成中文的结果：
+
+**VISITECT(R) CD4检测在赞比亚AHF支持点快速识别晚期HIV疾病的表现：赞比亚人群中的诊断准确性分析**
+
+翻译说明：
+1. **VISITECT(R) CD4 Test**：VISITECT(R) CD4检测，是一种用于检测CD4细胞计数的医疗检测方法。
+2. **Rapid Identification of Advanced HIV Disease**：快速识别晚期HIV疾病，指的是通过该检测方法迅速诊断出HIV感染者是否已进入疾病晚期。
+3. **AHF-Supported Sites in Zambia**：赞比亚AHF支持点，AHF（AIDS Healthcare Foundation）是一个国际艾滋病防治组织，在赞比亚设有支持点。
+4. **Diagnostic Accuracy Analysis**：诊断准确性分析，指对该检测方法在特定人群中的准确性进行评估。
+5. **Zambian Population**：赞比亚人群，指研究针对的是赞比亚的特定人群。
+
+希望这段翻译对您有帮助！ | Mulumba, E. M. | [PDF](https://doi.org/10.1101/2025.01.06.25320078) | N/A | Performance of the VISITECT(R) CD4 Test for Rapid Identification of Advanced HIV Disease at AHF-Supported Sites in Zambia: A Diagnostic Accuracy Analysis in a Zambian Population |
+| 尼日利亚西南部医院门诊患者中铜绿假单胞菌的产毒性和毒力变异研究 | Akinboye, O. A. | [PDF](https://doi.org/10.1101/2025.01.07.25320112) | N/A | Toxigenecity and Virulence variations of Pseudomonas aeruginosa from out-patients hospitals in Southwest Nigeria |
+| 结合季节性疟疾化学预防与新型疟疾预防疗法：一项数学模型研究 | Braunack-Mayer, L. | [PDF](https://doi.org/10.1101/2025.01.06.24319074) | N/A | Combining seasonal malaria chemoprevention with novel therapeutics for malaria prevention: a mathematical modelling study |
+| 母体甲状腺激素失衡与自闭症谱系障碍的风险 | Elbedour, L. | [PDF](https://doi.org/10.1101/2025.01.07.25320099) | N/A | Maternal thyroid hormone imbalance and risk of autism spectrum disorder |
+| 供体历史对输血相关感染风险的影响 | Ogolla, C. O. | [PDF](https://doi.org/10.1101/2025.01.03.25319941) | N/A | Impact of Donor History on the Risk of Transfusion-Related Infections |
+| 青少年心理健康不平等的出现与持续：韧性、种族与青少年心理健康（REACH）队列研究。 | Knowles, G. | [PDF](https://doi.org/10.1101/2025.01.07.25320111) | N/A | The emergence and persistence of inequalities in adolescent mental health: the Resilience, Ethnicity and AdolesCent Mental Health (REACH) cohorts. |
+| 2003年至2040年苏格兰成人超重患病率的历史趋势与未来预测：一项贝叶斯年龄-时期-队列建模研究 | De Pauw, R. | [PDF](https://doi.org/10.1101/2025.01.07.24319409) | N/A | Historic trends and future projections of the prevalence of adult excess weight in Scotland, 2003 to 2040: a Bayesian age-period-cohort modelling study |
 # MedRxiv 2025-01-06 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
