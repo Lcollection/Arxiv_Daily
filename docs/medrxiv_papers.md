@@ -1,3 +1,87 @@
+# MedRxiv 2025-01-08 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 结直肠癌中全基因组无细胞DNA片段长度分布的信道容量 | Matov, A. | [PDF](https://doi.org/10.1101/2024.07.17.24310568) | N/A | Channel Capacity of Genome-Wide Cell-Free DNA Fragment Length Distribution in Colorectal Cancer |
+| 一项关于苯二氮卓类药物/ Z类药物与阿片类药物联合使用模式及过量风险的质量研究 | Family, H. | [PDF](https://doi.org/10.1101/2024.07.26.24311053) | N/A | A qualitative study of Benzodiazepine/Z-drug and Opioid co-use patterns and overdose risk |
+| 临床严重程度对前痴呆期阿尔茨海默病中血浆磷酸化tau蛋白表现的影响 | Gonzalez-Ortiz, F. | [PDF](https://doi.org/10.1101/2024.08.06.24311532) | N/A | Impact of clinical severity on plasma p-tau performance in predementia Alzheimers disease |
+| 与GLP1-RA和减重手术相关的合理遗传因素与体重减轻之间的关联：一项基于9个生物库中10,960名个体的多族裔研究 | German, J. | [PDF](https://doi.org/10.1101/2024.09.11.24313458) | N/A | Association between plausible genetic factors and weight loss from GLP1-RA and bariatric surgery: a multi-ancestry study in 10 960 individuals from 9 biobanks |
+| 气候变化与疟疾：呼唤强有力的分析 | Laydon, D. J. | [PDF](https://doi.org/10.1101/2024.09.16.24313623) | N/A | Climate Change and Malaria: A Call for Robust Analytics |
+| 针对儿童负担的改进型红细胞前疟疾疫苗的性能特征和潜在公共卫生影响 | Malinga, J. | [PDF](https://doi.org/10.1101/2024.11.12.24317082) | N/A | Performance characteristics and potential public health impact of improved pre-erythrocytic malaria vaccines targeting childhood burden |
+| 以下是将这段英文翻译成中文的结果：
+
+**一个用于研究人类舌头肌肉组织的多站点、多对比度磁共振成像数据集及其注释**
+
+翻译说明：
+1. **Annotated** 翻译为“带注释的”或“有标注的”，表示数据集包含额外的解释或标记信息。
+2. **Multi-Site** 翻译为“多站点”，表示数据来自多个不同的地点或机构。
+3. **Multi-Contrast** 翻译为“多对比度”，指磁共振成像中使用了多种不同的成像技术或参数。
+4. **Magnetic Resonance Imaging Dataset** 翻译为“磁共振成像数据集”，指用于研究的图像数据集合。
+5. **Human Tongue Musculature** 翻译为“人类舌头肌肉组织”，指研究的对象是舌头的肌肉结构。
+
+希望这个翻译对你有帮助！如果需要进一步调整或解释，请告诉我。 | Ribeiro, F. L. | [PDF](https://doi.org/10.1101/2024.12.09.24318591) | N/A | An Annotated Multi-Site and Multi-Contrast Magnetic Resonance Imaging Dataset for the study of the Human Tongue Musculature |
+| 了解2007年至2018年美国黑人与白人预期寿命差距 | Wetzler, H. P. | [PDF](https://doi.org/10.1101/2025.01.06.25319966) | N/A | Understanding the United States Black-White Life Expectancy Gap, 2007-2018 |
+| 中风后康复服务及功能恢复中的种族与民族差异 | Bishop, L. | [PDF](https://doi.org/10.1101/2025.01.06.25320085) | N/A | Race and ethnic disparities in rehabilitation services and functional recovery post-stroke |
+| 急性腰痛患者的脊柱运动功能障碍 | Krueger, K. O. | [PDF](https://doi.org/10.1101/2025.01.07.25320124) | N/A | Spinal Movement Impairments in People with Acute Low Back Pain |
+| 在肺通气应用中的电气气动回路中使用PID与模糊逻辑进行流量控制的评估 | Molino, J. J. | [PDF](https://doi.org/10.1101/2025.01.07.25320144) | N/A | Evaluation of Flow Control Using PID versus Fuzzy Logic in an Electropneumatic Circuit for Pulmonary Ventilation Applications |
+| 利用Mondo和国际抗癫痫联盟（ILAE）分类对71,942例癫痫患者变异进行整理和分析 | Ivaniuk, A. | [PDF](https://doi.org/10.1101/2025.01.07.25320161) | N/A | Harnessing Mondo and the ILAE Classification for Curation and Analysis of 71,942 epilepsy patient variants |
+| 计算优化的循环肿瘤DNA（ctDNA）监测用于HPV阳性头颈部鳞状细胞癌复发检测 | Mohammadi, N. | [PDF](https://doi.org/10.1101/2025.01.07.25320131) | N/A | Computationally optimized ctDNA surveillance for recurrence detection in HPV-positive head and neck squamous cell carcinoma |
+| 卡瓜拉渔村HIV阴性年轻男性对暴露前预防的接受度及相关因素研究——塞雷雷区：一项横断面研究
+
+该研究旨在探讨位于塞雷雷区卡瓜拉渔村的HIV阴性年轻男性对暴露前预防（PrEP）的接受程度及其相关影响因素。研究采用横断面设计，通过调查问卷收集数据，分析该群体对PrEP的接受度及其与人口学特征、性行为、健康知识等因素的关联。研究结果将为制定针对该人群的HIV预防策略提供科学依据。 | Omoding, A. | [PDF](https://doi.org/10.1101/2025.01.07.25320147) | N/A | Acceptability of pre-exposure prophylaxis and associated factors among HIV-negative young men in Kagwara fishing community- Serere district: a cross-sectional study |
+| 以下是这段英文的中文翻译：
+
+**临床开发与性能评估：首个用于非处方使用的“先知晓”梅毒自测产品——一种新型快速检测梅毒螺旋体抗体的方法**
+
+翻译说明：
+1. **Clinical Development and Performance** 翻译为“临床开发与性能评估”，强调该产品在临床阶段的开发过程及其性能测试。
+2. **the First To Know Syphilis Self-Test** 翻译为“先知晓梅毒自测产品”，其中“First To Know”作为品牌名，保留了原文的直译。
+3. **Over-the-Counter Usage** 翻译为“非处方使用”，指该产品无需医生处方即可购买和使用。
+4. **De Novo Rapid Test** 翻译为“新型快速检测方法”，强调其创新性和快速性。
+5. **Treponemal Antibody** 翻译为“梅毒螺旋体抗体”，是检测梅毒感染的关键指标。
+
+希望这段翻译对您有帮助！ | Clark, K. | [PDF](https://doi.org/10.1101/2025.01.07.25320135) | N/A | Clinical Development and Performance of the First To Know Syphilis Self-Test for Over-the-Counter Usage: a De Novo Rapid Test for Treponemal Antibody |
+| 孕烯醇酮减少男性和女性可卡因使用障碍患者的诱发渴求和可卡因使用：一项初步试验 | Sakmar, E. | [PDF](https://doi.org/10.1101/2025.01.07.25320141) | N/A | Pregnenolone Reduces Provoked Craving and Cocaine Use in Men and Women with Cocaine Use Disorder: A Pilot Trial |
+| 心率片段化通过机器学习改善了全身麻醉状态的分类 | Aude, J.-C. | [PDF](https://doi.org/10.1101/2025.01.07.25320157) | N/A | Heart rate fragmentation improves general anesthesia state classification using machine learning |
+| 以下是这段英文的中文翻译：
+
+**长期使用dupilumab治疗皮肤免疫相关不良事件的免疫治疗接受者的死亡率结果**
+
+翻译说明：
+- "Long-term mortality outcomes" 翻译为 "长期死亡率结果"
+- "immunotherapy recipients" 翻译为 "免疫治疗接受者"
+- "treated with dupilumab" 翻译为 "使用dupilumab治疗"
+- "cutaneous immune-related adverse events" 翻译为 "皮肤免疫相关不良事件"
+
+希望这对你有帮助！ | Khattab, S. | [PDF](https://doi.org/10.1101/2025.01.07.25320156) | N/A | Long-term mortality outcomes among immunotherapy recipients treated with dupilumab for the management of cutaneous immune-related adverse events |
+| 旁观者干预对院外心脏骤停临床结果的影响——基于欧洲心脏骤停登记处（2014-2022年）8,253例波兰病例的研究 | Zadlo, A. | [PDF](https://doi.org/10.1101/2025.01.05.24319824) | N/A | Impact of bystander intervention on clinical outcome in out-of-hospital cardiac arrest. A study of 8,253 Polish cases from the European Registry of Cardiac Arrest (2014-2022) |
+| 缺乏证据支持心血管疾病患者中存在肥胖悖论：一项英国生物银行队列研究 | Yu, W. | [PDF](https://doi.org/10.1101/2025.01.07.25320160) | N/A | Lack of evidence for obesity paradox in patients with cardiovascular diseases: A UK Biobank cohort study |
+| 研究维生素D在预防和控制登革热病毒媒介及相关疾病中的作用：一项系统综述研究 | Abbasi, E. | [PDF](https://doi.org/10.1101/2025.01.07.25320153) | N/A | Investigating the Role of Vitamin D in the Prevention and Control of Dengue Virus Vectors and Related Diseases: A Systematic Review Study |
+| 大西洋加拿大地区肺癌患者中的多原发癌症及其对筛查和管理的意义 | Coyle, K. M. | [PDF](https://doi.org/10.1101/2025.01.07.25320152) | N/A | MULTIPLE PRIMARY CANCERS IN LUNG CANCER PATIENTS IN ATLANTIC CANADA AND IMPLICATIONS FOR SCREENING AND MANAGEMENT |
+| 在一项针对威尔士11至16岁青少年的全国代表性调查中，探讨青少年心理健康与幸福感之间的关系。 | Mahedy, L. | [PDF](https://doi.org/10.1101/2024.12.30.24318837) | N/A | Investigating the relationship between adolescent mental health and wellbeing in a nationally representative survey of 11-16 year olds in Wales |
+| 评估光子计数CT在心血管应用中的光谱成像性能：管腔大小、剂量和患者体型的影响 | Rybertt, M. V. | [PDF](https://doi.org/10.1101/2025.01.07.25320150) | N/A | Evaluation of Photon-Counting CT for Spectral Imaging in Cardiovascular Applications: Impact of Lumen Size, Dose, and Patient Habitus |
+| MARC 东南非仪表板：携手应对东南非地区新出现的抗疟药耐药性问题 | van Wyk, S. | [PDF](https://doi.org/10.1101/2025.01.07.25320158) | N/A | The MARC SE-Africa Dashboard: Joining Forces to Counteract Emerging Antimalarial Resistance in South and East Africa |
+| 量化美国前两波SARS-CoV-2感染的时空动态 | Lopes, R. | [PDF](https://doi.org/10.1101/2025.01.08.24319433) | N/A | Quantifying the spatiotemporal dynamics of the first two epidemic waves of SARS-CoV-2 infections in the United States |
+| 体育锻炼后脑龄差距的缩小与精神分裂症谱系障碍阴性症状的改善相呼应 | Yilmaz, D. | [PDF](https://doi.org/10.1101/2025.01.08.24319554) | N/A | Brain Age Gap Reduction Following Physical Exercise Mirrors Negative Symptom Improvement in Schizophrenia Spectrum Disorders |
+| 多维度深度表型分析揭示了22q11.2缺失综合征中非恢复性睡眠的行为相关性 | Reich, N. | [PDF](https://doi.org/10.1101/2025.01.08.24319440) | N/A | Multivariate deep phenotyping reveals behavioral correlates of non-restorative sleep in 22q11.2 Deletion Syndrome |
+| 乡村饮食面临压力：南亚的食品环境及其对食品选择的影响 | Chauhan, A. | [PDF](https://doi.org/10.1101/2025.01.04.25319997) | N/A | Rural Diets Under Pressure: Food Environments and their Influence on Food Choice in South Asia |
+| 径向体外冲击波疗法对于肩袖损伤的治疗效果优于物理疗法组合：一项随机对照试验 | Wang, Z. | [PDF](https://doi.org/10.1101/2025.01.07.25320065) | N/A | Radial extracorporeal shock wave therapy is more effective than a combination of physical therapy modalities for rotator cuff injury: a randomized controlled trial |
+| 慢性阻塞性肺疾病负担的区域差异 | Mehareen, J. | [PDF](https://doi.org/10.1101/2025.01.07.25320159) | N/A | Regional Variations in Burden of Chronic Obstructive Pulmonary Disease |
+| 血清Slit3与类风湿性关节炎的疾病活动性和间质性肺病相关。 | Zhang, X. | [PDF](https://doi.org/10.1101/2025.01.05.25320017) | N/A | Serum Slit3 is associated with disease activity and interstitial lung disease in rheumatoid arthritis |
+| 改良渐进性肌肉放松结合缓慢背部按摩对老年人降压、缓解压力及提升睡眠质量的效果：文献综述 | Asriadi, A. | [PDF](https://doi.org/10.1101/2025.01.05.25320000) | N/A | EFFECTS OF MODIFIED PROGRESSIVE MUSCLE RELAXATION COMBINED WITH SLOW STROKE BACK MASSAGE ON BLOOD PRESSURE REDUCTION, STRESS ALLEVIATION, AND ENHANCED SLEEP QUALITY IN OLDER ADULTS: A LITERATUR REVIEW |
+| 心率变异性在预测和理解癌症及化疗相关疲劳、疼痛和神经病变症状变化中的预后和诊断效用：一项系统性综述 | Bolanos, J. L. | [PDF](https://doi.org/10.1101/2025.01.08.25320191) | N/A | Prognostic and Diagnostic Utility of Heart Rate Variability to Predict and Understand Change in Cancer and Chemotherapy Related Fatigue, Pain, and Neuropathic Symptoms: A Systematic Review |
+| 德诺沃（de novo）和超罕见变异在先天性巨结肠症（HSCR）中的作用：扩展基因发现以进行患者风险分析
+
+先天性巨结肠症（Hirschsprung Disease, HSCR）是一种复杂的遗传性疾病，主要表现为肠道神经节细胞的缺失，导致肠道功能障碍。近年来，随着基因组学技术的进步，研究人员发现德诺沃（de novo）变异和超罕见（ultra-rare）变异在HSCR的发病机制中起着重要作用。这些变异通常指在患者中新出现的或极为罕见的基因突变，它们可能对疾病的发生和发展具有显著影响。
+
+通过对这些变异的深入研究，科学家们能够更好地理解HSCR的遗传基础，并为患者提供更为精准的风险评估和个性化治疗方案。扩展基因发现不仅有助于识别新的致病基因，还能为未来的基因治疗和预防策略提供重要线索。
+
+总之，德诺沃和超罕见变异的研究为HSCR的遗传风险分析开辟了新的途径，有望在未来改善患者的诊断和治疗效果。 | Fu, M. | [PDF](https://doi.org/10.1101/2025.01.07.25320162) | N/A | The Role of de novo and Ultra-Rare Variants in Hirschsprung Disease (HSCR): Extended Gene Discovery for Risk Profiling of Patients |
+| 在孟加拉国一家三级医院中，儿童胰岛素抵抗稳态模型评估（HOMA-IR指数）的临界值识别。 | Jahan, I. | [PDF](https://doi.org/10.1101/2025.01.05.25320014) | N/A | Identification of cutoff value for Homeostatic Model Assessment for insulin resistance (HOMA-IR index) in children at a tertiary care hospital of Bangladesh. |
+| 协议：关于COVID-19疫情期间多部门协调的系统性回顾——实践、挑战及未来准备的建议 | Okello, J. S. | [PDF](https://doi.org/10.1101/2025.01.08.25320177) | N/A | Protocol: A Systematic Review of Multi-Sectoral Coordination during the COVID-19 Pandemic Practices, Challenges, and Recommendations for Future Preparedness |
+| 测量和解释哈拉雷HIV综合预防优先人群中的级联效应：津巴布韦青少年女孩、年轻女性及年轻男性的群体调查 | Moorhouse, L. R. | [PDF](https://doi.org/10.1101/2025.01.08.25320195) | N/A | Measurement and interpretation of the Harare HIV combination prevention cascade in priority populations: A population survey of adolescent girls and young women and young men in Zimbabwe |
+| 利用牛津纳米孔技术对常规血培养进行宏基因组测序，快速临床诊断和治疗常见、未检测到和不可培养的血流感染。 | Govender, K. N. | [PDF](https://doi.org/10.1101/2025.01.08.25320182) | N/A | Rapid clinical diagnosis and treatment of common, undetected, and uncultivable bloodstream infections using metagenomic sequencing from routine blood cultures with Oxford Nanopore |
+| 美国多病原体住院预测模型：一种优化的地理层次集成框架 | Xu, S. | [PDF](https://doi.org/10.1101/2025.01.08.25320187) | N/A | A Multi-pathogen Hospitalization Forecasting Model for the United States: An Optimized Geo-Hierarchical Ensemble Framework |
 # MedRxiv 2025-01-07 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
