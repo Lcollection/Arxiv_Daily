@@ -1,3 +1,91 @@
+# MedRxiv 2025-01-09 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 利用ChatGPT进行文献筛选以支持元分析的研究表明，尽管工作量有所减少，但其召回率与人工筛选保持相近水平。 | Cai, X. | [PDF](https://doi.org/10.1101/2023.09.06.23295072) | N/A | Utilizing ChatGPT to select literature for meta-analysis shows workload reduction while maintaining a similar recall level as manual curation |
+| 多组学分析揭示了溃疡性结肠炎患者肠袋中的细胞、转录组和表观遗传变化 | Zhao, Y. | [PDF](https://doi.org/10.1101/2023.11.11.23298309) | N/A | Multiomic analysis reveals cellular, transcriptomic and epigenetic changes in intestinal pouches of ulcerative colitis patients |
+| 这是一项关于机会窗口的外科手术试验，旨在评估PCSK9抑制剂evolocumab对神经胶质瘤中肿瘤MHC-I表达和CD8+浸润的影响。 | Singh, K. | [PDF](https://doi.org/10.1101/2024.06.19.24309192) | N/A | A surgical window of opportunity trial evaluating the effect of the PCSK9 inhibitor evolocumab on tumoral MHC-I expression and CD8+ infiltration in glioma |
+| 对混杂因素过敏：利用青霉素过敏作为工具变量来估计抗生素使用对耐药性的因果效应 | Saciuk, Y. | [PDF](https://doi.org/10.1101/2024.08.19.24312204) | N/A | Allergic to Confounding: Leveraging Penicillin Allergy as an Instrumental Variable to Estimate the Causal Effect of Antibiotic Use on Resistance |
+| 慢性肾病前期——连续肌酐监测显示肾小球滤过率下降超过60毫升/分钟 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.17.24313678) | N/A | Pre-chronic kidney disease -- Serial creatinine tracks glomerular filtration rate decline above 60 mL/min |
+| 重新分析的APOL1肾脏数据支持新的“种族”伦理 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.15.24313684) | N/A | Re-analyzed APOL1 kidney data support new ethics of 'race' |
+| 社会健康决定因素与功能性大脑连接预测新诊断心血管疾病老年患者的长期身体活动依从性 | Thovinakere, N. | [PDF](https://doi.org/10.1101/2024.09.30.24314678) | N/A | Social Determinants of Health and Functional Brain Connectivity Predict Long-Term Physical Activity Adherence in Older Adults With a New Cardiovascular Diagnosis |
+| 基于视频的癫痫发作检测使用三维卷积神经网络 | Boyne, A. | [PDF](https://doi.org/10.1101/2024.10.11.24315247) | N/A | VIDEO BASED DETECTION OF EPILEPTIC SEIZURES USING A THREE-DIMENSIONAL CONVOLUTIONAL NEURAL NETWORK |
+| 以下是这段英文的中文翻译：
+
+**职业足球运动员的表观遗传年龄监测：追踪恢复情况和剧烈运动的影响**
+
+翻译解释：
+- **Epigenetic Age Monitoring**：表观遗传年龄监测
+- **Professional Soccer Players**：职业足球运动员
+- **Tracking Recovery**：追踪恢复情况
+- **Effects of Strenuous Exercise**：剧烈运动的影响
+
+整体翻译旨在准确传达原文的科学性和专业性。 | Brooke, R. T. | [PDF](https://doi.org/10.1101/2024.11.28.24317877) | N/A | Epigenetic Age Monitoring in Professional Soccer Players for Tracking Recovery and the Effects of Strenuous Exercise |
+| 基于抗炎策略的抗抑郁药物治疗现状与未来展望：随机对照临床试验的范围综述 | Bo, Y. | [PDF](https://doi.org/10.1101/2024.12.31.24319839) | N/A | AI Perspectives on the Present and Future of Antidepressant Pharmaceutical Treatment Based on Anti-inflammatory Strategies: A Scoping Review of Randomised Controlled Clinical Trials |
+| 量化美国前两波SARS-CoV-2感染的时空动态 | Lopes, R. | [PDF](https://doi.org/10.1101/2025.01.08.24319433) | N/A | Quantifying the spatiotemporal dynamics of the first two epidemic waves of SARS-CoV-2 infections in the United States |
+| 困惑的倾向：术前微结构损伤与术后谵妄相关 | Reekes, T. | [PDF](https://doi.org/10.1101/2025.01.08.24319243) | N/A | Predilection for Perplexion: Preoperative microstructural damage is linked to postoperative delirium |
+| 新型三维成像平台用于数字化面部白癜风区域评估 | He, T. | [PDF](https://doi.org/10.1101/2025.01.08.25319956) | N/A | Novel Three-Dimensional Imaging Platform for Digital Facial Vitiligo Area Assessment |
+| 一项前瞻性队列研究，旨在评估通过常规孕期自我报告测量的酒精摄入量是否能预测由常规健康访视员在儿童30个月大时筛查出的发育问题。 | Tappin, D. | [PDF](https://doi.org/10.1101/2025.01.08.25320200) | N/A | A prospective cohort study to assess if alcohol intake measured by routine pregnancy self-report predicts developmental concerns uncovered by routine health visitor screening of children at 30 months of age. |
+| 在《年轻成年人冠状动脉风险发展》（CARDIA）研究中，心血管风险因素的纵向测量与生育能力低下相关。 | Kim, C. | [PDF](https://doi.org/10.1101/2025.01.08.25320210) | N/A | Longitudinal Measures of Cardiovascular Risk Factors Are Associated with Subfertility in the Coronary Artery Risk Development in Young Adults (CARDIA) Study |
+| 政策未引导的优先事项？对孕产妇待产所政策和战略框架的全面审视 | Mwansa, M. K. | [PDF](https://doi.org/10.1101/2025.01.08.25320219) | N/A | A priority not guided by policy? A scooping review of policy and strategic framework on Maternal Waiting Homes |
+| 开发和评估行为干预以减少危地马拉农村家庭塑料废物焚烧：Ecolectivos研究方案，一项集群随机社区试验
+
+本研究旨在开发和评估一种行为干预措施，以减少危地马拉农村地区家庭焚烧塑料废物的行为。研究方案名为Ecolectivos，采用集群随机社区试验设计。通过这一干预，我们希望能够改变当地居民处理塑料废物的方式，从而减少环境污染和健康风险。研究将评估干预措施的有效性，并为未来的环境保护和公共卫生政策提供科学依据。 | Thompson, L. M. | [PDF](https://doi.org/10.1101/2025.01.08.25320211) | N/A | Development and evaluation of a behavioral intervention to reduce household plastic waste burning in rural Guatemala: Study protocol for Ecolectivos, a cluster-randomized community trial |
+| 感知到的健康饮食障碍：来自南亚农村农业食品系统评估的证据 | Patwardhan, S. | [PDF](https://doi.org/10.1101/2025.01.06.25320037) | N/A | Perceived constraints to healthy diets: Evidence from agrifood system assessments in rural South Asia |
+| 胰腺导管内乳头状黏液性肿瘤影像学中的人工智能应用：系统性综述 | Qadir, M. I. | [PDF](https://doi.org/10.1101/2025.01.08.25320130) | N/A | Artificial Intelligence in Pancreatic Intraductal Papillary Mucinous Neoplasm Imaging: A Systematic Review |
+| 用于模拟呼吸挑战和功能障碍的胸壁限制装置 | Ribeiro Rodrigues, V. | [PDF](https://doi.org/10.1101/2025.01.08.24319742) | N/A | Chest Wall Restriction Device for Modeling Respiratory Challenges and Dysfunction |
+| 年龄相关性血压下降与认知功能下降之间关联的性别差异：一项前瞻性队列研究 | Baumgartner, N. W. | [PDF](https://doi.org/10.1101/2025.01.08.25320209) | N/A | Sex differences in the association between age-related decline in blood pressure and decline in cognition: A prospective cohort study |
+| 基底动脉的血管内结构：基底动脉未融合谱系的形式 | Sługocki, M. R. | [PDF](https://doi.org/10.1101/2025.01.07.25320164) | N/A | Endovascular structures of the basilar artery: forms of the basilar nonfusion spectrum |
+| 联合抗血栓治疗的出血风险：一项倾向评分匹配分析 | Farrokh, S. | [PDF](https://doi.org/10.1101/2025.01.07.25320165) | N/A | Bleeding Risk with Combination Antithrombotic Therapy: A Propensity-Score Matched Analysis |
+| 完全自动化的蓝斑分割：应用于评估年龄、性别和教育的影响 | de Flores, R. | [PDF](https://doi.org/10.1101/2025.01.08.25320149) | N/A | Fully automated segmentation of the locus coeruleus: application to assess the effects of age, sex and education |
+| 测量育龄女性的血浆容量：羟乙基淀粉与其他方法的比较研究 | Martin, L. A. | [PDF](https://doi.org/10.1101/2025.01.08.25320201) | N/A | Measuring plasma volume in women of reproductive age: a comparison study of hydroxyethyl starch to other methods |
+| 南亚家庭内部动态：理解女性赋权、任务分担、决策制定与饮食之间的关系 | Kumar, N. | [PDF](https://doi.org/10.1101/2025.01.08.25320196) | N/A | Intrahousehold dynamics in South Asia: understanding the relationships between empowerment, task sharing, decision making, and diets among women |
+| VTE发病率缩短了IDH野生型胶质母细胞瘤患者的生存期。 | Sloan, A. R. | [PDF](https://doi.org/10.1101/2025.01.08.25319908) | N/A | VTE incidence shortens survival in IDH-WT glioblastoma |
+| 一项前瞻性暴露-非暴露队列研究，比较了既往乳腺癌患者与来自合作研究网络的对照组之间的怀孕时间：经过三年随访后的结果。 | Hamy, A.-S. | [PDF](https://doi.org/10.1101/2025.01.08.25320208) | N/A | A prospective exposed-unexposed cohort study comparing time-to-pregnancy in patients with previous breast cancer and controls from a collaborative research network: results after three years of follow-up |
+| 多组学预后标志物发现与生存建模：以女性癌症泛癌生存分析为例 | Nguyen, R. | [PDF](https://doi.org/10.1101/2025.01.08.25320212) | N/A | Multi-Omics Prognostic Marker Discovery and Survival Modeling: A Case Study on Pan-Cancer Survival Analyses in Women's Cancers |
+| 患者报告胫骨平台骨折复位后效果更佳：一项系统性综述。 | Kitchen, D. S. | [PDF](https://doi.org/10.1101/2025.01.08.25320009) | N/A | Patients Report Better Outcomes Following Reduction of Tibial Plateau Fractures: A Systematic Review. |
+| 经颅磁刺激测量在患有疼痛性周围神经病变的黑人和西班牙裔/拉丁裔人群中的皮质脊髓兴奋性 | Wong, M. L. | [PDF](https://doi.org/10.1101/2025.01.08.25320215) | N/A | Transcranial Magnetic Stimulation Measures of Corticospinal Excitability in Black and Hispanic/Latino People with Painful Peripheral Neuropathy |
+| 多组学分析用于识别阿尔茨海默病中细胞类型特异性的可药物靶点 | Liu, S. | [PDF](https://doi.org/10.1101/2025.01.08.25320199) | N/A | Multi-Omics Analysis for Identifying Cell-Type-Specific Druggable Targets in Alzheimer's Disease |
+| 孟德尔随机化研究：质量评估的指标 | Rosas-Chavez, F. | [PDF](https://doi.org/10.1101/2025.01.08.25320206) | N/A | Mendelian randomization studies: a metric for quality evaluation |
+| 出院后儿童姑息治疗：乌干达东部布索加次区域癌症儿童姑息治疗非连续性发生率及相关因素的混合方法研究 | Ajambo, M. | [PDF](https://doi.org/10.1101/2025.01.07.25320167) | N/A | Paediatric Palliative Care following Hospital discharge: Prevalence and factors associated with non-continuity of palliative care for children with cancer in Busoga sub-region-eastern Uganda; A mixed methods study |
+| WHITE-Net：使用深度学习网络的白质高信号组织提取 | Cathala, C. | [PDF](https://doi.org/10.1101/2025.01.09.25320242) | N/A | WHITE-Net : White matter HyperIntensities Tissue Extraction using deep learning Network |
+| 以下是这段英文的中文翻译：
+
+**人类暴露于单纯疱疹病毒（HSV）后神经细胞内运输系统改变的直接证据：一项系统性综述**
+
+翻译说明：
+- "Direct evidence" 翻译为“直接证据”
+- "alteration" 翻译为“改变”
+- "human neural intracellular trafficking system" 翻译为“人类神经细胞内运输系统”
+- "following exposure to HSV" 翻译为“暴露于单纯疱疹病毒（HSV）后”
+- "A systematic review" 翻译为“一项系统性综述”
+
+希望这对你有帮助！如果需要进一步调整或补充，请告诉我。 | Vaughan, M. B. | [PDF](https://doi.org/10.1101/2025.01.09.25320268) | N/A | Direct evidence of alteration to the human neural intracellular trafficking system following exposure to HSV: A systematic review |
+| 量化急性严重感染观察性研究中的潜在不朽时间偏倚 | Yates, T. A. | [PDF](https://doi.org/10.1101/2025.01.09.25320251) | N/A | Quantifying potential immortal time bias in observational studies in acute severe infection |
+| 结合猴痘疫苗接种与行为改变对男男性行为者中猴痘控制的数学建模研究 | Xiridou, M. | [PDF](https://doi.org/10.1101/2025.01.06.25320043) | N/A | Combining mpox vaccination and behavioural changes for mpox control among men who have sex with men: a mathematical modelling study |
+| 可溶性免疫检查点蛋白与脂质网络与全因死亡风险的关联：精准医学跨组学（TOPMed）计划 | Rodriguez, A. | [PDF](https://doi.org/10.1101/2025.01.08.25320225) | N/A | Soluble Immune Checkpoint Protein and Lipid Network Associations with All-Cause Mortality Risk: Trans-Omics for Precision Medicine (TOPMed) Program |
+| 机器学习指导的血浆蛋白水平反卷积 | Pietzner, M. | [PDF](https://doi.org/10.1101/2025.01.09.25320257) | N/A | Machine learning-guided deconvolution of plasma protein levels |
+| 卡梅伦县西班牙裔队列中认知障碍的心脏代谢指标 | Musfee, F. I. | [PDF](https://doi.org/10.1101/2025.01.08.25320180) | N/A | Cardiometabolic Indicators of Cognitive Impairment in The Cameron County Hispanic Cohort |
+| 癫痫患者合并症的患病率及危险因素：亚洲观察性研究的Meta分析 | Hussain, Z. A. | [PDF](https://doi.org/10.1101/2025.01.09.25320254) | N/A | Prevalence and Risk Factors of Comorbidities in Epilepsy Patients: A Meta-Analysis of Observational Studies in Asia |
+| 以下是这段文字的中文翻译：
+
+**在加拿大安大略省针对猴痘疫情公共卫生应对措施中，接受完整两剂猴痘疫苗接种的个体特征：一项CIRN研究**
+
+翻译说明：
+- "Characteristics of individuals" 翻译为“个体特征”。
+- "received a complete, 2-dose mpox vaccine regimen" 翻译为“接受完整两剂猴痘疫苗接种”。
+- "as part of the public health response to the mpox epidemic" 翻译为“作为针对猴痘疫情的公共卫生应对措施的一部分”。
+- "in Ontario, Canada" 翻译为“在加拿大安大略省”。
+- "A CIRN study" 翻译为“一项CIRN研究”。
+
+希望这段翻译对你有帮助！ | Grewal, R. | [PDF](https://doi.org/10.1101/2025.01.09.25320269) | N/A | Characteristics of individuals who received a complete, 2-dose mpox vaccine regimen as part of the public health response to the mpox epidemic in Ontario, Canada: A CIRN study |
+| 尼泊尔下肢疾病的患病率及类型 | Gates, L. | [PDF](https://doi.org/10.1101/2025.01.09.25320193) | N/A | Prevalence and types of lower limb conditions in Nepal |
+| 与卫生相关的赋权资源与女性的福祉、焦虑和抑郁有关：来自孟加拉国、印度、塞内加尔和乌干达的研究发现 | Mink, T. | [PDF](https://doi.org/10.1101/2025.01.08.25320223) | N/A | Sanitation-related empowerment resources are associated with womens well-being, anxiety, and depression: findings from Bangladesh, India, Senegal, and Uganda |
+| 将阿尔茨海默病表型中的音韵学与音韵短期记忆分离 | Henderson, S. K. | [PDF](https://doi.org/10.1101/2025.01.07.25320125) | N/A | Disentangling phonology from phonological short-term memory in Alzheimer's disease phenotypes |
+| 细胞滋养层壳中过度表达的KRT8促进了先兆子痫的发展。 | Chen, M. | [PDF](https://doi.org/10.1101/2025.01.06.25320086) | N/A | Over-expressed KRT8 in the cytotrophoblast shell promotes the development of preeclampsia |
+| 纳米比亚北部与青蒿素、磺胺多辛和乙胺嘧啶耐药性相关的分子标记高流行率 | Eloff, L. M. | [PDF](https://doi.org/10.1101/2025.01.09.25320247) | N/A | High Prevalence of Molecular Markers Associated with Artemisinin, Sulphadoxine and Pyrimethamine Resistance in Northern Namibia |
+| 非传染性疾病和耐药性结核病，在肯尼亚东部HIV感染者中日益加重负担。 | Muriuki, P. K. | [PDF](https://doi.org/10.1101/2025.01.08.25320218) | N/A | Non communicable diseases and resistant tuberculosis, a growing burden among people living with HIV in Eastern Kenya |
+| 替格瑞洛与氯吡格雷在ST段抬高型心肌梗死患者中的梗死面积比较：来自心脏磁共振成像的见解 | Fonseca, F. A. | [PDF](https://doi.org/10.1101/2025.01.08.25320224) | N/A | Smaller Infarct Size with Ticagrelor vs. Clopidogrel in STEMI Patients: Insights from Cardiac MRI |
 # MedRxiv 2025-01-08 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
