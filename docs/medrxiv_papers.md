@@ -1,3 +1,9 @@
+# MedRxiv 2025-01-11 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 自我报告的季节性夏令时偏好与人类生理学基础相吻合：2018年欧盟委员会公众咨询中的相关性分析 | Martin-Olalla, J. M. | [PDF](https://doi.org/10.1101/2024.03.01.24303549) | N/A | Self-reported preferences for seasonal Daylight Saving Time meet fundamentals of human physiology: correlations in the 2018 Public Consultation by the European Commission |
+| COVID-19大流行之前、期间和之后美国成年人的疼痛状况：基于2019-2023年国家健康访谈调查的重复横断面研究 | Zajacova, A. | [PDF](https://doi.org/10.1101/2024.10.24.24316018) | N/A | Pain Among US Adults Before, During, and After the COVID-19 Pandemic: A Repeated Cross-Sectional Study using the 2019-2023 National Health Interview Survey |
 # MedRxiv 2025-01-10 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
