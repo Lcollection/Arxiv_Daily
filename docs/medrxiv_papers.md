@@ -1,3 +1,68 @@
+# MedRxiv 2025-01-12 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 利用去识别化、聚合的医疗保险索赔数据进行COVID-19住院病例的实时预测 | Shen, X. | [PDF](https://doi.org/10.1101/2023.12.22.23300471) | N/A | Nowcasting Reported COVID-19 Hospitalizations Using De-Identified, Aggregated Medical Insurance Claims Data |
+| 由于eGFR和提供者偏好导致的一线2型糖尿病治疗差异：一种新颖的统计分析 | Ji, C. X. | [PDF](https://doi.org/10.1101/2024.09.19.24313155) | N/A | Variation in First-line Type 2 Diabetes Treatment due to eGFR and Provider Preferences: A Novel Statistical Analysis |
+| 俄亥俄州逆境与韧性（SOAR）研究方案：一项全面、多模式、基于家庭的纵向调查，旨在探讨心理健康和物质使用障碍中的风险与韧性因素
+
+该研究方案旨在通过综合运用多种研究方法，以家庭为单位，进行长期跟踪调查，深入分析心理健康和物质使用障碍中的风险因素及韧性机制。 | King, A. P. | [PDF](https://doi.org/10.1101/2024.11.19.24316679) | N/A | The State of Ohio Adversity and Resilience (SOAR) Study Protocol: A Comprehensive, Multimodal, Family-based, Longitudinal Investigation of Risk and Resilience in Mental Health and Substance Use Disorders |
+| RNAsum：一种用于个性化基因组和转录组解读的工具，旨在提升癌症诊断的准确性 | Kanwal, S. | [PDF](https://doi.org/10.1101/2025.01.10.24319650) | N/A | RNAsum: A tool for personalised genome and transcriptome interpretation for improved cancer diagnostics |
+| 氧饱和度目标对心脏骤停后神经功能结局的影响：PILOT试验的二次分析 | DeMasi, S. C. | [PDF](https://doi.org/10.1101/2025.01.10.25320197) | N/A | Effect of Oxygen Saturation Targets on Neurologic Outcomes after Cardiac Arrest: A Secondary Analysis of the PILOT Trial |
+| 社会对非药物干预措施的遵守、人口流动模式与病毒复制数：来自欧洲COVID-19的经验教训 | Baccega, D. | [PDF](https://doi.org/10.1101/2025.01.10.25320334) | N/A | Social Compliance with NPIs, Mobility Patterns, and Reproduction Number: Lessons from COVID-19 in Europe |
+| 脂肪分布与十二种肥胖相关癌症的风险：一项孟德尔随机化分析 | Hazelwood, E. | [PDF](https://doi.org/10.1101/2025.01.10.25320324) | N/A | Adiposity distribution and risks of twelve obesity-related cancers: a Mendelian randomization analysis |
+| 估计2005年至2019年间，纽约州各年龄和社会经济群体中与RSV（呼吸道合胞病毒）和流感相关的住院、重症监护室（ICU）入院及死亡负担。 | Xu, H. | [PDF](https://doi.org/10.1101/2025.01.10.24319265) | N/A | Estimating the burden of RSV- and influenza-associated hospitalizations, ICU admissions, and deaths across age and socioeconomic groups in New York State, 2005-2019 |
+| 分析不同亚型和分级的阴茎鳞状细胞癌肿瘤和间质区域中CD8和FOXP3表达比例 | Canete-Portillo, S. | [PDF](https://doi.org/10.1101/2025.01.11.25320379) | N/A | Analysis of CD8 and FOXP3 Expression Ratios in Tumor and Stromal Compartments of Penile Squamous Cell Carcinoma Across Different Subtypes and Grades |
+| 婴儿大脑处理的不同时间阶段与早期和晚期自闭症诊断相关 | Bazelmans, T. | [PDF](https://doi.org/10.1101/2025.01.10.25320053) | N/A | Distinct temporal stages of infant brain processing associate with early versus later autism diagnosis |
+| 使用快速诊断检测（RDTs）加强国家霍乱监测：一项混合方法评估。 | Baumgartner, E. T. | [PDF](https://doi.org/10.1101/2025.01.10.25320331) | N/A | Enhancing national cholera surveillance using rapid diagnostic tests (RDTs): a mixed methods evaluation. |
+| 乌干达卡拉莫贾地区15至24岁青年避孕措施使用及使用意愿的决定因素 | Ojanduru, L. | [PDF](https://doi.org/10.1101/2025.01.09.25320305) | N/A | Determinants of contraceptive use and intention to use among youth  15-24 years  in Karamoja, Uganda |
+| 早期发病膀胱癌的分析揭示了关键的基因组改变和潜在的治疗靶点 | Magnani, C. J. | [PDF](https://doi.org/10.1101/2025.01.10.25320337) | N/A | Profiling of early-onset bladder cancer identifies key genomic alterations and potential targets |
+| 基于土耳其一系列大规模国家健康研究，探讨尿失禁与抑郁症之间的关联 | Dasdelen, M. F. | [PDF](https://doi.org/10.1101/2025.01.10.25320344) | N/A | Exploring the Association Between Urinary Incontinence and Depression Based on a Series of Large-Scale National Health Studies in Turkiye |
+| 年轻成人脊柱裂患者的尿失禁和便失禁日常体验：一项生态瞬时评估研究的初步结果 | Hensel, D. J. | [PDF](https://doi.org/10.1101/2025.01.10.24313751) | N/A | Daily Experiences of Urinary and Fecal Incontinence Among Young Adults with Spina Bifida: Preliminary Results from an Ecological Momentary Assessment Study |
+| 在日本全国性横断面研究中，患者对肾脏替代疗法选择的共同决策：患者认知、偏好及影响因素
+
+这段翻译为中文后，标题表达了研究的核心内容，即探讨在日本全国范围内，患者在选择肾脏替代疗法时，对共同决策过程的认知、个人偏好以及影响这些选择的因素。通过横断面的研究方法，收集并分析了相关数据，以期为临床实践和患者教育提供有价值的参考。 | Shibagaki, Y. | [PDF](https://doi.org/10.1101/2025.01.11.25320378) | N/A | Shared Decision-Making in Renal Replacement Therapy Selection: Patient Perceptions, Preferences, and Influencing Factors in a Nationwide Cross-Sectional Study in Japan |
+| 大脑中动脉主干闭塞中结果与血管形态与梗死模式的相关性 | Cai, Z. | [PDF](https://doi.org/10.1101/2025.01.10.25320365) | N/A | The correlations of outcomes and vascular morphology with infarct patterns in middle cerebral arterial trunk occlusion |
+| 白质完整性和神经可塑性在卒中恢复中的作用：来自DTI和VBM的见解 | zhang, r. | [PDF](https://doi.org/10.1101/2025.01.07.25320143) | N/A | The Role of White Matter Integrity and Neuroplasticity in Stroke Recovery: Insights from DTI and VBM |
+| 神经纤维轻链蛋白的稳定同位素标记动力学研究：体外与体内实验 | Leckey, C. A. | [PDF](https://doi.org/10.1101/2025.01.10.24319636) | N/A | Stable isotope labeling kinetics of neurofilament light in vitro and in vivo |
+| 发酵泡菜在塑造女性肠道微生物群和免疫反应中的作用：一项基于巴基斯坦社区的试验 | Hafeez, S. H. | [PDF](https://doi.org/10.1101/2025.01.10.25320071) | N/A | The role of fermented pickles in shaping gut-microbiota and immune response in women: A community-based trial in Pakistan |
+| 以下是这段文字的中文翻译：
+
+**RATION试验参与者和利益相关者对基于食物的干预的可接受性、益处和可行性的定性研究**
+
+翻译说明：
+- **Qualitative Study** 翻译为“定性研究”，指的是通过非数值数据（如访谈、观察等）来探索和理解现象的研究方法。
+- **Acceptability** 翻译为“可接受性”，指干预措施被参与者接受的程度。
+- **Benefits** 翻译为“益处”，指干预措施带来的积极效果或优势。
+- **Feasibility** 翻译为“可行性”，指干预措施在实际操作中的可行程度。
+- **Food-based Intervention** 翻译为“基于食物的干预”，指通过食物或饮食调整来实现健康目标的干预措施。
+- **Participants and Stakeholders** 翻译为“参与者和利益相关者”，指直接参与试验的个体以及对该试验有利益关系的各方（如研究人员、资助者等）。
+- **RATIONS Trial** 保留原文“RATION试验”，因为这是一个特定试验的名称，通常不需要翻译。
+
+希望这对你有帮助！ | Bandewar, S. S. | [PDF](https://doi.org/10.1101/2025.01.10.25320312) | N/A | Qualitative Study of Acceptability, Benefits, and Feasibility of a Food-based Intervention among Participants and Stakeholders of the RATIONS Trial |
+| 使用消化、吸收和微生物代谢（DAMM）模型模拟微生物对人类能量平衡的贡献 | Davis, T. L. | [PDF](https://doi.org/10.1101/2025.01.10.25320296) | N/A | Modeling the microbial contribution to human Energy Balance using the Digestion, Absorption, and Microbial Metabolism (DAMM) model |
+| SGLT2抑制剂对接受化疗和/或放疗的胃肠道癌症患者生存率的影响：一项真实世界数据的回顾性队列研究 | Flausino, L. E. | [PDF](https://doi.org/10.1101/2025.01.10.25320355) | N/A | Impact of SGLT2 Inhibitors on Survival in Gastrointestinal Cancer Patients Undergoing Chemotherapy and/or Radiotherapy: A Real-World Data Retrospective Cohort Study |
+| 开发一项专注于非侵入性脑刺激治疗少数族裔社区周围神经病变的研究计划 | Wong, M. L. | [PDF](https://doi.org/10.1101/2025.01.10.25320213) | N/A | Development of a Research Program Focused on Non-Invasive Brain Stimulation for Peripheral Neuropathy in Minoritized Communities |
+| 使用机器学习预测南非东开普省农村地区接受抗逆转录病毒治疗的HIV患者中的高血压情况 | Tsuro, U. | [PDF](https://doi.org/10.1101/2025.01.11.25320377) | N/A | Predicting Hypertension Among HIV Patients on Antiretroviral Therapy in Rural Eastern Cape, South Africa Using Machine Learning |
+| 系统性探索医院成本变异性：基于保形预测的电子健康记录异常检测方法 | Grolleau, F. | [PDF](https://doi.org/10.1101/2025.01.10.25320349) | N/A | Systematic Exploration of Hospital Cost Variability: A Conformal Prediction-Based Outlier Detection Method for Electronic Health Records |
+| 评估乌干达少女和年轻女性中HIV-1发病率下降的生物医学和行为驱动因素：一项数学模型研究 | Akullian, A. | [PDF](https://doi.org/10.1101/2025.01.10.24319101) | N/A | Evaluating the biomedical and behavioural drivers of HIV-1 incidence decline in adolescent girls and young women in Uganda: A mathematical modelling study |
+| 第二阶段b期临床研究评估RTS,S/AS01E疫苗在接触过恶性疟原虫并接受抗疟疾化学预防药物治疗的肯尼亚成年人中的疗效。 | Copeland, N. K. | [PDF](https://doi.org/10.1101/2025.01.10.25320353) | N/A | Phase 2b clinical study evaluating efficacy of RTS,S/AS01E in Plasmodium falciparum-exposed Kenyan adults treated with antimalarial chemopreventive drugs |
+| COVID-19大流行扰乱了呼吸道病毒的生态平衡，揭示了流感在病毒间相互作用网络中的关键作用。 | Liang, S. | [PDF](https://doi.org/10.1101/2025.01.11.24319626) | N/A | Disturbed respiratory viral ecology by COVID-19 pandemic reveals the pivotal role of Influenza in virus-virus interaction network. |
+| 基于深度学习的心胸血管手术中主要不良脑损伤的早期检测 | Yoo, D. | [PDF](https://doi.org/10.1101/2025.01.10.25320368) | N/A | Deep Learning-Based Early Detection of Major Adverse Cerebral Injuries in Cardiothoracic and Vascular Surgery |
+| 基线铁蛋白水平预测静脉铁剂治疗后心肌铁摄取——一项假设生成研究 | Nunez, J. | [PDF](https://doi.org/10.1101/2025.01.11.25320372) | N/A | Baseline ferritin predicts myocardial iron uptake following intravenous iron therapy- a hypothesis generating study |
+| 在一项比较纯素食和杂食饮食的双胞胎研究中，一种肠道致病共生菌调节了循环甘氨酸和宿主代谢。 | Carter, M. | [PDF](https://doi.org/10.1101/2025.01.08.25320192) | N/A | A gut pathobiont regulates circulating glycine and host metabolism in a twin study comparing vegan and omnivorous diets |
+| 评估用于症状监测的年龄分组。 | Morbey, R. A. | [PDF](https://doi.org/10.1101/2025.01.10.25320339) | N/A | Evaluation of age groupings used for syndromic surveillance. |
+| 机器学习用于评估和比较使用抗生素治疗腹泻疾病的临床规则 | Codi, A. M. | [PDF](https://doi.org/10.1101/2025.01.10.25320357) | N/A | Machine learning for estimating and comparing clinical rules for treating diarrheal illness with antibiotics |
+| 癌症患者戒烟干预措施的有效性：随机对照试验的系统综述与荟萃分析。 | Aduse-Poku, L. | [PDF](https://doi.org/10.1101/2025.01.11.25320383) | N/A | Effectiveness of Smoking Cessation Interventions in People With Cancer: A Systematic Review and Meta-analysis of Randomized Controlled Trials. |
+| 个人护理用品使用与成人发病哮喘风险的关系：《姐妹研究》的发现 | Lim, J. | [PDF](https://doi.org/10.1101/2025.01.10.25320341) | N/A | Personal care product use and risk of adult-onset asthma: findings from the Sister Study |
+| 伊伐布雷定与房颤发生率：一项嵌套匹配研究 | KIM, K. | [PDF](https://doi.org/10.1101/2025.01.10.25320367) | N/A | Ivabradine and Atrial Fibrillation Incidence: A Nested Matching Study |
+| 评估协作护理模式的持续覆盖范围和有效性：纽约州协作护理医疗补助计划的横断面研究 | Kim, K. | [PDF](https://doi.org/10.1101/2025.01.11.25320387) | N/A | Evaluating sustained reach and effectiveness of collaborative care models: A Cross-sectional study of the New York State Collaborative Care Medicaid Program |
+| 比较神经遗传障碍中心理病理学结构的新工具：在男性中X染色体与Y染色体非整倍体效应的应用 | Larsen, I. G. | [PDF](https://doi.org/10.1101/2025.01.10.25320352) | N/A | Novel tools for comparing the architecture of psychopathology between neurogenetic disorders: An application to X- vs. Y-chromosome aneuploidy effects in males |
+| 揭示年轻酗酒者的酒精偏见和受损的抑制控制：来自酒精Hayling任务的见解 | Carbia, C. | [PDF](https://doi.org/10.1101/2025.01.10.25320346) | N/A | Unveiling Alcohol Bias and Impaired Inhibitory Control in Young Binge Drinkers: Insights from the Alcohol Hayling Task |
+| 公众对疫苗接种的情绪：科学研究中的全球模式与驱动因素特征分析 | balsamo, D. | [PDF](https://doi.org/10.1101/2025.01.11.25320376) | N/A | Public sentiment towards vaccination: characterizing global patterns and drivers of scientific research |
+| 长期护理院之间的连通性与随后的SARS-CoV-2疫情爆发之间的关系 | Xia, Y. | [PDF](https://doi.org/10.1101/2025.01.08.25320217) | N/A | Connectivity between long-term care homes and subsequent SARS-CoV-2 outbreaks |
+| 一种利用合成MRI在不同MRI对比权重下进行自动轮廓算法敏感性分析的方法 | McCullum, L. | [PDF](https://doi.org/10.1101/2025.01.10.25319895) | N/A | A Method for Sensitivity Analysis of Automatic Contouring Algorithms Across Different MRI Contrast Weightings Using SyntheticMR |
+| HaptiKart：一款引人入胜的视频游戏揭示了自闭症谱系障碍患者中提升的本体感觉与视觉偏好 | Lidstone, D. E. | [PDF](https://doi.org/10.1101/2025.01.10.25320221) | N/A | HaptiKart: An engaging videogame reveals elevated proprioceptive vs. visual bias in individuals with autism spectrum disorder |
 # MedRxiv 2025-01-11 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
