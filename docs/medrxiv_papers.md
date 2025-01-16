@@ -1,3 +1,139 @@
+# MedRxiv 2025-01-15 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 收入不平等与肺癌先进免疫疗法的可及性：以荷兰Durvalumab为例 | Katsimpokis, D. | [PDF](https://doi.org/10.1101/2024.04.24.24306222) | N/A | Income inequality and access to advanced immunotherapy for lung cancer: the case of Durvalumab in the Netherlands |
+| 比较动态与静态图像测试在神经退行性疾病中情绪识别的价值 | Ulugut, H. | [PDF](https://doi.org/10.1101/2024.11.20.24317663) | N/A | COMPARING THE VALUE OF DYNAMIC VS. STATIC-IMAGE-BASED TESTS OF EMOTION RECOGNITION IN NEURODEGENERATIVE DISEASES |
+| 计算模型能够对个体在减重手术后的餐后血糖和胰岛素反应进行评估。 | Poyraz, O. | [PDF](https://doi.org/10.1101/2024.11.25.24317927) | N/A | Computational modeling enables individual assessment of postprandial glucose and insulin responses after bariatric surgery |
+| 对非洲及非洲混血人群中的帕金森病进行大规模遗传特征分析 | Akcimen, F. | [PDF](https://doi.org/10.1101/2025.01.14.25320205) | N/A | Large-scale genetic characterization of Parkinson's disease in the African and African admixed populations |
+| 大规模听力表型分析揭示了参与不同听力损失亚型的独特基因和通路 | Ahmed, S. | [PDF](https://doi.org/10.1101/2025.01.14.24318673) | N/A | Large-scale audiometric phenotyping identifies distinct genes and pathways involved in hearing loss subtypes |
+| 扩展β-甘露糖苷酶缺乏症的表型谱 | Martin Rios, A. M. | [PDF](https://doi.org/10.1101/2025.01.13.24316445) | N/A | Expanding the phenotype spectrum of β-mannosidosis |
+| SARS-CoV-2感染与心血管和肾脏疾病的长期风险 | Boyd, H. A. | [PDF](https://doi.org/10.1101/2025.01.14.25320050) | N/A | SARS-CoV-2 Infection and Long-Term Risk of Cardiovascular and Renal Morbidity |
+| COVID-19大流行后铜绿假单胞菌菌血症中抗菌药物耐药性的下降：一项纵向观察研究 | Butscheid, Y. | [PDF](https://doi.org/10.1101/2025.01.11.25320374) | N/A | Decline of Antimicrobial Resistance in Pseudomonas aeruginosa Bacteremia Following the COVID-19 Pandemic: a Longitudinal Observational Study |
+| 高密度脑电图（EEG）与深度学习技术相结合，显著提高了心脏骤停后昏迷患者首日的预后预测准确性。 | Pelentritou, A. | [PDF](https://doi.org/10.1101/2025.01.14.25320516) | N/A | High density EEG and deep learning improves outcome prediction on the first day of coma after cardiac arrest |
+| 低铁血症通过避免心肌反应性铁风暴，降低了ST段抬高型心肌梗死（STEMI）后主要不良心血管事件的长期风险。 | Vera-Aviles, M. | [PDF](https://doi.org/10.1101/2025.01.13.25320244) | N/A | Hypoferremia reduces long-term risk of major adverse cardiovascular events after STEMI by averting the myocardial reactive iron storm |
+| 新的可见和真实流行病动态的再生数 | Nesteruk, I. | [PDF](https://doi.org/10.1101/2025.01.10.25320319) | N/A | New reproduction numbers for the visible and real epidemic dynamics |
+| 使用潜在样条模型描述密集收集的纵向有序数据的变异性 | Lunt, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320507) | N/A | Describing variability of intensively collected longitudinal ordinal data with latent spline models |
+| 在自我采样人群中进行多分子表型分析 | Dahl, L. | [PDF](https://doi.org/10.1101/2025.01.14.25320405) | N/A | Multi-molecular phenotyping in a self-sampling population |
+| 基于伪p值的聚类增强全蛋白质组孟德尔随机化方法及其在识别冠心病相关血浆蛋白中的应用 | Wang, Y. | [PDF](https://doi.org/10.1101/2025.01.13.25320450) | N/A | Pseudp-p-Value-Based Clumping Enhanced Proteome-wide Mendelian Randomization with Application in Identifying Coronary Heart Disease-Associated Plasma Proteins |
+| 如何在研究生医学教育的工作场所学习中发展以患者为中心的咨询？通过使用四种咨询表现叙事框架来揭开黑匣子 | Timmerman, A. | [PDF](https://doi.org/10.1101/2025.01.14.25320523) | N/A | How to Develop Patient Centered Consulting during Workplace Learning in Postgraduate Medical Education? Opening the Black Box Using the Framework of Four Narrative Profiles for Consultation Performance |
+| 组蛋白去乙酰化酶抑制剂丙戊酸联合恐惧记忆检索在蜘蛛恐惧症暴露疗法前的效果：一项随机对照试验 | Schicktanz, N. S. | [PDF](https://doi.org/10.1101/2025.01.12.25320288) | N/A | Effects of the Histone Deacetylase Inhibitor Valproic Acid in Combination with Fear Memory Retrieval before Exposure Therapy for Spider Phobia: A Randomized Controlled Trial |
+| 南部非洲癌症诊断路径中的挑战与促进因素：一项质性研究 | Day, S. K. | [PDF](https://doi.org/10.1101/2025.01.14.25320521) | N/A | Challenges and facilitators in pathways to cancer diagnosis in Southern Africa: A qualitative study |
+| 人类面部是健康的生物标志物吗？——一项范围综述 | Obrochta, W. M. | [PDF](https://doi.org/10.1101/2025.01.14.25320526) | N/A | Is the human face a biomarker of health? - a scoping review |
+| 在埃塞俄比亚西北部巴希尔达尔市，2024年高血压监测点卫生机构慢性随访单位就诊的成年高血压患者中，对推荐生活方式改变的依从性水平及相关因素的研究。 | Abebe, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320524) | N/A | Level of Adherence to Recommended Lifestyle Modifications and Associated Factors Among Adult Hypertensive Patients Attending Chronic Follow-Up Units at Hypertension Sentinel Site Health Facilities - Bahir Dar City, Northwest Ethiopia, 2024 |
+| 以下是翻译成中文的结果：
+
+**o1 pro 和 GPT-4 在肾病学委员会续期自测题中的表现**
+
+如果需要进一步调整或补充，请告诉我！ | Noda, R. | [PDF](https://doi.org/10.1101/2025.01.14.25320525) | N/A | Performance of o1 pro and GPT-4 in self-assessment questions for nephrology board renewal |
+| 选择性细胞分离装置对急性肾损伤（AKI）患者中性粒细胞与淋巴细胞比值及血液学参数的影响：一项汇总分析
+
+在这项研究中，我们探讨了选择性细胞分离装置（Selective Cytopheretic Device, SCD）对急性肾损伤（AKI）患者中性粒细胞与淋巴细胞比值（Neutrophil-to-Lymphocyte Ratio, NLR）及其他血液学参数的影响。通过对多项研究数据的汇总分析，我们发现SCD治疗显著降低了AKI患者的NLR，并改善了其他关键的血液学指标。这些结果表明，SCD可能通过调节免疫细胞比例，对AKI患者的炎症反应和免疫状态产生积极影响，从而为AKI的治疗提供了新的思路。 | Iyer, S. P. N. | [PDF](https://doi.org/10.1101/2025.01.14.25320534) | N/A | The Impact of the Selective Cytopheretic Device on Neutrophil-to-Lymphocyte Ratios and Hematological Parameters in AKI: A Pooled Analysis |
+| Tau进展指数（TPI）：一种个体化、临床可应用的多模态衍生评分，用于预测阿尔茨海默病（AD）的进展。 | Hojjati, S. H. H. | [PDF](https://doi.org/10.1101/2025.01.14.25320550) | N/A | Tau Progression Index (TPI): An individualized, clinically applicable, multimodally-derived score to predict AD progression |
+| 帕金森病神经病理共病：从较年轻老年到较年长老年的患病率，与非痴呆、非帕金森病受试者的比较 | Beach, T. G. | [PDF](https://doi.org/10.1101/2025.01.13.25319971) | N/A | Parkinson Disease Neuropathological Comorbidities: Prevalences from Younger-Old to Older-Old, With Comparison to Non-Demented, Non-Parkinsonian Subjects |
+| 在大型退伍军人群体中，COVID-19感染三年后癌症发病率降低 | Bradley, J. | [PDF](https://doi.org/10.1101/2025.01.14.25320527) | N/A | Lower Cancer Incidence Three Years After COVID-19 Infection in a Large Veteran Population |
+| 可行性、可接受性及临床效果：针对接受根治性放疗患者的区域性肺癌预康复计划在真实世界中的应用 | Gourlay, E. | [PDF](https://doi.org/10.1101/2025.01.11.25320256) | N/A | Feasibility, acceptability and clinical outcomes of a real-world, regional lung cancer prehabilitation programme for patients undergoing curative intent radiotherapy |
+| 全球DNA甲基化组揭示了癌症患者无细胞DNA中与致癌相关的5-羟甲基化胞嘧啶（5hmC）特征。 | Rech, G. E. | [PDF](https://doi.org/10.1101/2025.01.09.25320283) | N/A | Global DNA methylomes reveal oncogenic-associated 5-hydroxylmethylated cytosine (5hmC) signatures in the cell-free DNA of cancer patients |
+| 血浆蛋白质组学与人体器官成像关联的景观 | Fan, Z. | [PDF](https://doi.org/10.1101/2025.01.14.25320532) | N/A | The landscape of plasma proteomic links to human organ imaging |
+| 根据神经精神病学量表（Neuropsychiatric Inventory）评估，ADAMS、ADNI和NACC研究中神经精神症状的共现情况 | Bespalov, A. | [PDF](https://doi.org/10.1101/2025.01.14.25320545) | N/A | Co-occurrence of neuropsychiatric symptoms in ADAMS, ADNI and NACC studies as assessed by Neuropsychiatric Inventory |
+| 自适应迁移学习在事件时间建模中的应用及其在疾病风险评估中的作用 | Lu, Y. | [PDF](https://doi.org/10.1101/2025.01.14.25320536) | N/A | Adaptive Transfer Learning for Time-to-Event Modeling with Applications in Disease Risk Assessment |
+| 预测埃塞俄比亚西北部地区车祸严重程度：一种利用驾驶员、环境和道路条件的机器学习方法 | Mengistu, A. K. | [PDF](https://doi.org/10.1101/2025.01.12.25320441) | N/A | Predicting Car Accident Severity in Northwest Ethiopia: A Machine Learning Approach Leveraging Driver, Environmental, and Road Conditions |
+| SPIRIT-CONSORT-TM：一个用于评估临床试验方案和结果发表透明度的语料库 | Jiang, L. | [PDF](https://doi.org/10.1101/2025.01.14.25320543) | N/A | SPIRIT-CONSORT-TM: a corpus for assessing transparency of clinical trial protocol and results publications |
+| 关于日本和韩国药学院教授性别差异的横断面研究 | Soh, H. | [PDF](https://doi.org/10.1101/2025.01.14.25320528) | N/A | Cross-sectional Study on Sex Disparities among Japanese and Korean University School of Pharmacy Professors |
+| 极端天气事件预警系统、医疗保健意识技术、公平交付与韧性（WEATHER）项目：一项混合方法研究方案
+
+该研究项目旨在通过结合定量与定性研究方法，开发一个综合系统，以应对极端天气事件对公共健康的影响。项目重点关注以下几个方面：
+
+1. **极端天气预警系统**：建立及时、准确的预警机制，帮助社区和医疗机构提前做好准备。
+2. **医疗保健意识技术**：利用先进技术提升公众和医疗专业人员对极端天气相关健康风险的认识。
+3. **公平交付**：确保预警信息和医疗资源能够公平、有效地传递给所有人群，特别是弱势群体。
+4. **韧性建设**：增强社区和医疗系统应对极端天气事件的韧性，减少其对公共健康的长期影响。
+
+通过混合方法研究，项目将收集和分析多源数据，以制定和实施有效的应对策略，最终提升社会对极端天气事件的整体应对能力。 | Lynch, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320537) | N/A | Warning system for Extreme weather events, Awareness Technology for Healthcare, Equitable delivery, and Resilience (WEATHER) Project: A mixed methods research study protocol |
+| 血清叶酸和维生素B12水平与非糖尿病人群心血管死亡率的关联 | Chen, Z. | [PDF](https://doi.org/10.1101/2025.01.13.25320498) | N/A | Associations of Serum Folate and Vitamin B12 levels with Cardiovascular Mortality among Non-diabetic Population |
+| 了解在英格兰有效提供同伴支持的障碍和促进因素：一项定性访谈研究 | Foye, U. | [PDF](https://doi.org/10.1101/2025.01.14.25320189) | N/A | Understanding the barriers and facilitators to delivering peer support effectively in England: a qualitative interview study |
+| 英格兰东北部NHS员工对烟草依赖治疗的可接受性：一项混合方法研究 | Thompson, C. L. | [PDF](https://doi.org/10.1101/2025.01.10.25320250) | N/A | The Acceptability of a Tobacco Dependency Treatment for NHS Staff in the North East of England: A Mixed-Methods Study |
+| 一个促进疾病诊断和医学影像的肺部CT基础模型 | Gao, Z. | [PDF](https://doi.org/10.1101/2025.01.13.25320295) | N/A | A Lung CT Foundation Model Facilitating Disease Diagnosis and Medical Imaging |
+| 通过基于上下文的模型强化学习实现基于人工智能的精准康复 | Ye, D. | [PDF](https://doi.org/10.1101/2025.01.13.24319196) | N/A | Towards AI-based Precision Rehabilitation via Contextual Model-based Reinforcement Learning |
+| 与动脉粥样硬化和免疫回路相关的早期关节炎中，年龄相关B细胞（Age-associated B-cells）的数量增加——其作为风险分层生物标志物的潜在作用 | Miranda-Prieto, D. | [PDF](https://doi.org/10.1101/2025.01.14.25320531) | N/A | Age-associated B-cells are expanded in early arthritis linked to atherosclerosis and immune circuits - a potential role as a biomarker for risk stratification |
+| 激素避孕药对青春期女孩和年轻女性HPV动态的影响：来自南非一项随机对照子研究的见解 | Tanko, R. | [PDF](https://doi.org/10.1101/2025.01.14.25320519) | N/A | Impact of Hormonal Contraceptives on HPV Dynamics in Adolescent Girls and Young Women: Insights from a Randomized Controlled Sub-Study in South Africa |
+| 与颈动脉支架植入术相比，颈动脉内膜切除术的再干预率较低。 | Adkar, S. S. | [PDF](https://doi.org/10.1101/2025.01.13.25320499) | N/A | Carotid endarterectomy is associated with lower rates of reintervention compared to carotid stenting |
+| 整合多基因和表观遗传风险评分在中国人群超重相关高血压中的应用 | Zhang, Y. | [PDF](https://doi.org/10.1101/2025.01.13.25320495) | N/A | An Integrative Polygenic and Epigenetic Risk Score for Overweight-Related Hypertension in Chinese Population |
+| 基于PHT-meDIC的分布式机器学习中隐私保护AUC计算 | de Arruda Botelho Herr, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320558) | N/A | Privacy-preserving AUC Computation in Distributed Machine Learning with PHT-meDIC |
+| 法布里病的心脏受累：视网膜血管分析在检测早期微血管改变中的意义，尽管进行了酶替代治疗（ERT）。 | Kuchler, T. | [PDF](https://doi.org/10.1101/2025.01.14.25320513) | N/A | Cardiac involvement in Fabry disease: Implications of retinal vessel analysis in detecting early microvascular alterations despite ERT |
+| 结直肠癌筛查测试的环境影响比较分析 | Rudrapatna, V. A. | [PDF](https://doi.org/10.1101/2025.01.14.25320553) | N/A | A Comparative Environmental Impact Analysis of Screening Tests for Colorectal Cancer |
+| 社会资本与安哥拉年轻女性其他生活条件之间的关联：一项在三个省份进行的横断面研究 | Priebe, G. E. | [PDF](https://doi.org/10.1101/2025.01.14.25320530) | N/A | Associations between social capital and other living conditions among young Angolan women: A cross-sectional study in three provinces |
+| 撒哈拉以南非洲地区出租车司机和商业摩托车驾驶员中的HIV流行率、感染风险因素、预防方法的使用及干预措施：范围界定综述 | Asiimwe, J. B. | [PDF](https://doi.org/10.1101/2025.01.15.25320591) | N/A | HIV prevalence, risk factors for infection, use of prevention methods, and interventions among taxi drivers and commercial motorcyclists in sub-Saharan Africa: A scoping review |
+| 肯尼亚西部用于疟疾控制的有吸引力的目标糖饵（ATSB-Kenya）- ATSBs对流行病学和昆虫学指标的影响：一项III期、开放标签、集群随机对照试验
+
+这项研究旨在评估在肯尼亚西部使用有吸引力的目标糖饵（ATSBs）作为疟疾控制策略的效果。研究采用III期、开放标签、集群随机对照试验设计，主要关注ATSBs对流行病学（如疟疾发病率）和昆虫学（如蚊子种群密度）指标的影响。通过这种方法，研究者希望能够确定ATSBs在减少疟疾传播方面的有效性和可行性。 | Ogwang, C. | [PDF](https://doi.org/10.1101/2025.01.14.25320559) | N/A | Attractive Targeted Sugar Baits for malaria control in western Kenya (ATSB-Kenya) - Effect of ATSBs on epidemiologic and entomologic indicators: a Phase III, open-label, cluster-randomised, controlled trial |
+| 预显性亨廷顿病中丘脑-小脑功能连接的短暂改变 | Morrison, M. A. | [PDF](https://doi.org/10.1101/2025.01.15.25320232) | N/A | TRANSIENT ALTERATIONS IN THALAMO-CEREBELLAR FUNCTIONAL CONNECTIVITY IN PREMANIFEST HUNTINGTON'S DISEASE |
+| 袖状胃切除术后12个月体重减轻的微生物组和遗传预测因素：一项试点回顾性队列研究的见解
+
+这段文字翻译成中文后，描述了关于袖状胃切除术后12个月体重减轻的研究，特别是通过微生物组和遗传因素来预测体重减轻的效果。研究采用了一种试点回顾性队列研究的方法，旨在提供有关这些预测因素的初步见解。 | Pedroso, I. | [PDF](https://doi.org/10.1101/2025.01.14.25319888) | N/A | Microbiome and Genetic Predictors of Weight Loss 12 Months Post Sleeve Gastrectomy: Insights from a Pilot Retrospective Cohort Study |
+| 孤立性快速眼动睡眠行为障碍中的类淋巴系统缺陷与向帕金森病的表型转化相关 | Ayral, V. | [PDF](https://doi.org/10.1101/2025.01.14.25320259) | N/A | Glymphatic defect in isolated REM sleep behavior disorder is associated with phenoconversion to Parkinson's disease |
+| 在LEADS研究中，关于散发性早发性阿尔茨海默病的改善空间分辨率对PET SUVR估计值的影响 | Schonhaut, D. R. | [PDF](https://doi.org/10.1101/2025.01.13.25320481) | N/A | Effect of improved spatial resolution on PET SUVR estimates in the LEADS study of sporadic early-onset Alzheimer's disease |
+| 一种可解释的稀疏图对比学习方法用于识别乳腺癌风险变异 | Gudhe, N. R. | [PDF](https://doi.org/10.1101/2025.01.13.25320451) | N/A | An Interpretable Sparse Graph Contrastive Learning Approach for Identifying Breast Cancer Risk Variants |
+| 以下是这段文字的中文翻译：
+
+**14种精神疾病共有和不同遗传影响的概况**
+
+这个翻译保留了原文的核心意思，同时使用了更符合中文表达习惯的措辞。具体来说：
+- "Landscape" 翻译为 "概况"，表示对整体情况的描述
+- "Shared and Divergent" 翻译为 "共有和不同"，准确传达了遗传影响的一致性和差异性
+- "Genetic Influences" 翻译为 "遗传影响"，直接表达了原文的含义
+- "Psychiatric Disorders" 翻译为 "精神疾病"，这是该术语的标准中文译法
+
+这个翻译既忠实于原文，又符合中文的学术表达习惯，适合用于专业文献或学术讨论中。 | Grotzinger, A. D. | [PDF](https://doi.org/10.1101/2025.01.14.25320574) | N/A | The Landscape of Shared and Divergent Genetic Influences across 14 Psychiatric Disorders |
+| 美洲原住民类似血统对西班牙裔/拉丁裔儿童急性淋巴细胞白血病风险的影响 | Langie, J. | [PDF](https://doi.org/10.1101/2025.01.14.25320563) | N/A | The impact of Indigenous American-like ancestry on risk of acute lymphoblastic leukemia in Hispanic/Latino children |
+| 大型语言模型在编码医学概念方面面临挑战——一项多语言基准测试与比较分析 | Rouhizadeh, H. | [PDF](https://doi.org/10.1101/2025.01.15.25320579) | N/A | Large Language Models Struggle to Encode Medical Concepts - A Multilingual Benchmarking and Comparative Analysis |
+| 以下是这段文字的中文翻译：
+
+**明尼苏达州东南部当代成人队列中RSV抗体的血清流行率**
+
+翻译说明：
+- "Seroprevalence" 翻译为“血清流行率”，指的是在特定人群中某种抗体的存在比例。
+- "RSV Antibodies" 翻译为“RSV抗体”，RSV是呼吸道合胞病毒的缩写。
+- "Contemporary Cohort" 翻译为“当代队列”，指的是当前研究中的一组人群。
+- "Southeast Minnesota" 翻译为“明尼苏达州东南部”，是美国的一个地理区域。
+
+希望这个翻译对你有帮助！ | Teodoro, L. I. | [PDF](https://doi.org/10.1101/2025.01.14.25320554) | N/A | Seroprevalence of RSV Antibodies in a Contemporary Cohort of Adults in Southeast Minnesota |
+| 仅使用鼻咽拭子检测呼吸道合胞病毒（RSV）会低估成人中与RSV相关的住院发生率：多标本研究的最终分析 | Begier, E. | [PDF](https://doi.org/10.1101/2025.01.14.25320406) | N/A | Detection of RSV using nasopharyngeal swabs alone underestimates RSV-related hospitalization incidence in adults: the Multispecimen study's Final Analysis |
+| 以下是这段英文的中文翻译：
+
+**黑质纹状体多巴胺能神经传递与老年人从平坦地面过渡到不平坦地面时步态减慢的外周系统性风险因素的抵抗力**
+
+翻译说明：
+- "Nigrostriatal Dopaminergic Neurotransmission" 翻译为 "黑质纹状体多巴胺能神经传递"。
+- "Resilience to Peripheral Systemic Risk Factors" 翻译为 "对外周系统性风险因素的抵抗力"。
+- "Gait Slowing upon Transition to Uneven Surfaces in Older Adult" 翻译为 "老年人从平坦地面过渡到不平坦地面时步态减慢"。
+
+希望这个翻译对你有帮助！ | Chahine, L. M. | [PDF](https://doi.org/10.1101/2025.01.14.25320551) | N/A | Nigrostriatal Dopaminergic Neurotransmission and Resilience to Peripheral Systemic Risk Factors for Gait Slowing upon Transition to Uneven Surfaces in Older Adult |
+| 医疗专业人员的痴呆症培训：系统性政策与证据回顾 | Zabihi, S. | [PDF](https://doi.org/10.1101/2025.01.15.25320582) | N/A | Dementia Training for Healthcare Professionals: A Systematic Policy and Evidence Review |
+| 非常规的脑电图-血氧水平依赖（EEG-BOLD）耦合在默认状态下及精神分裂症中的表现 | Jacob, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320216) | N/A | Noncanonical EEG-BOLD coupling by default and in schizophrenia |
+| 成瘾中线索、渴求和使用的时序影响的计算建模：基于生态瞬时评估的动态系统分析 | Gauld, C. | [PDF](https://doi.org/10.1101/2025.01.13.25320446) | N/A | Computational modeling of the temporal influences between cues, craving and use in addiction: A dynamical system analysis based on ecological momentary assessment |
+| COVID-19时代孕妇血清血红蛋白水平与贫血干预措施的关系：系统综述与荟萃分析 | MUTHUKA, J. K. | [PDF](https://doi.org/10.1101/2025.01.15.25320586) | N/A | Maternal Serum Hemoglobin Levels Relative to Anemia Interventions in the COVID-19 era: A systematic review and meta-analysis |
+| 非高密度脂蛋白胆固醇与高血压发病风险的关联 | He, X. | [PDF](https://doi.org/10.1101/2025.01.14.25320570) | N/A | Association of non-HDL-C and risk of incident hypertension |
+| 重置公众遵守度：应对疫情疲劳的迭代策略。 | Rikani, A. | [PDF](https://doi.org/10.1101/2025.01.15.25320470) | N/A | Resetting public adherence: iterative strategies to counteract pandemic fatigue. |
+| 预测ADC图质量基于T2加权MRI：一种用于早期质量评估的深度学习方法以辅助即时护理 | Brender, J. R. | [PDF](https://doi.org/10.1101/2025.01.15.25320592) | N/A | Predicting ADC Map Quality from T2-Weighted MRI: A Deep Learning Approach for Early Quality Assessment to Assist Point-of-Care |
+| 发现与肝脏和胰腺疾病相关的新基因组突变：来自放射基因组学研究的见解 | Koohi-Moghadam, M. | [PDF](https://doi.org/10.1101/2025.01.14.25320567) | N/A | Discovering Novel Genome Mutations Associated with Liver and Pancreas Disorders: Insights from a Radiogenomics Study |
+| 使用单次动态PI-2620记录进行A/T/N的评估和分期 | Gnoerich, J. | [PDF](https://doi.org/10.1101/2025.01.14.25320240) | N/A | Assessment and staging of A/T/N with a single dynamic PI-2620 recording |
+| 匹莫范色林与阿托莫西汀联合用药可减轻阻塞性睡眠呼吸暂停的严重程度：一项随机交叉试验 | Messineo, L. | [PDF](https://doi.org/10.1101/2025.01.15.25320565) | N/A | The combination of pimavanserin and atomoxetine reduces obstructive sleep apnea severity: a randomized crossover trial |
+| 在孤立性快速眼动睡眠行为障碍和帕金森病患者的尿液中，α-突触核蛋白聚集体的水平升高。 | Müller, L. | [PDF](https://doi.org/10.1101/2025.01.14.25320280) | N/A | Elevated α-synuclein aggregate levels in the urine of patients with isolated REM sleep behavior disorder and Parkinson's disease |
+| 阿尔茨海默病的多组织蛋白质组学特征：对脑、脑脊液、血液的系统研究及泪液的探索性研究 | Shen, J. | [PDF](https://doi.org/10.1101/2025.01.14.25320538) | N/A | Multi-tissue proteomic signatures of Alzheimer's disease: a systematic investigation in brain, CSF, blood and an exploratory study in tears |
+| 多学科学生医疗保健工作团队的痴呆症教育与培训：系统综述 | Muralidhar, M. | [PDF](https://doi.org/10.1101/2025.01.15.25320583) | N/A | Dementia Education and Training for the Multidisciplinary Student Healthcare Workforce: A Systematic Review |
+| 比较优化抑郁症护理的实施策略：一项随机对照试验。 | Moise, N. | [PDF](https://doi.org/10.1101/2025.01.14.25320533) | N/A | Comparing implementation strategies for optimizing depression care: A randomized control trial. |
+| 差异化HIV服务提供与常规护理：撒哈拉以南非洲地区HIV感染者结核病预防治疗结果对比 | Johnson, A. | [PDF](https://doi.org/10.1101/2025.01.15.25320590) | N/A | Differentiated HIV Service Delivery vs Conventional Care: Tuberculosis Preventive Therapy Outcomes for People Living with HIV in Sub-Saharan Africa |
+| 2008年至2022年巴西门诊血液透析手术和肾移植血管通路的流行病学：一项全国横断面分析 | Ponte, B. J. | [PDF](https://doi.org/10.1101/2025.01.15.25320581) | N/A | EPIDEMIOLOGY OF VASCULAR ACCESS FOR OUTPATIENT HEMODIALYSIS PROCEDURES AND RENAL TRANSPLANTATION IN BRAZIL BETWEEN 2008 AND 2022: A NATIONAL CROSS-SECTIONAL ANALYSIS |
+| 克隆性造血与高危人群中心血管代谢疾病的患病率和发病率相关 | Regan, J. A. | [PDF](https://doi.org/10.1101/2025.01.14.25320566) | N/A | Clonal Hematopoiesis Associates with Prevalent and Incident Cardiometabolic Disease in High-Risk Individuals |
+| 将这段英文翻译成中文为：“妊娠糖尿病后女性中超重/肥胖和胰岛素抵抗与循环先天淋巴样细胞激活的关联。” | Sbierski-Kind, J. | [PDF](https://doi.org/10.1101/2025.01.15.25320580) | N/A | Association of overweight/obesity and insulin resistance with activation of circulating innate lymphoid cells in women after gestational diabetes mellitus |
+| 利用高通量数据估算百万退伍军人计划中的白细胞端粒长度 | Iyer, K. R. | [PDF](https://doi.org/10.1101/2025.01.14.25320560) | N/A | Leveraging High-Throughput Data to estimate Leukocyte Telomere Length in the Million Veteran Program |
+| 抗生素处方对呼吸道感染患者未来在初级保健中就诊的影响：一项系统综述与荟萃分析 | Adamu, I. | [PDF](https://doi.org/10.1101/2025.01.15.25320600) | N/A | The effects of antibiotic prescribing for respiratory tract infection on future consultations in primary care: a systematic review and meta-analysis |
+| 以下是您提供的内容的中文翻译：
+
+**与Hazelwood煤矿火灾九年后烟雾暴露相关的全因死亡率和心脏死亡率**
+
+这个标题指的是一项研究，探讨了Hazelwood煤矿火灾发生九年后，烟雾暴露与全因死亡率（所有原因导致的死亡）和心脏死亡率（因心脏相关疾病导致的死亡）之间的关系。 | Walker-Bone, K. | [PDF](https://doi.org/10.1101/2025.01.14.25320562) | N/A | All-cause and cardiac mortality in relation to smoke exposure nine years after the Hazelwood coal mine fire |
 # MedRxiv 2025-01-14 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
