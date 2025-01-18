@@ -1,3 +1,153 @@
+# MedRxiv 2025-01-17 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 2019年印度死胎的疾病与经济负担 | Wadhwani, V. | [PDF](https://doi.org/10.1101/2023.10.16.23297071) | N/A | Disease and Economic Burden of Stillbirths in India in 2019 |
+| 肺动脉高压临床试验中患者报告结局指标的选择：系统综述、荟萃分析及健康相关生活质量框架 | Varian, F. L. | [PDF](https://doi.org/10.1101/2024.08.09.24311740) | N/A | Selection of patient-reported outcome measures in pulmonary arterial hypertension clinical trials: a systematic review, meta-analysis and health-related quality of life framework |
+| 以下是这段内容的中文翻译：
+
+**针对接受β-干扰素、富马酸二甲酯、那他珠单抗或特立氟胺治疗的多发性硬化症患者，通过交替疫苗加强频率进行COVID-19预防**
+
+翻译说明：
+- **COVID-19 prevention**：COVID-19预防
+- **alternate vaccine boosting frequencies**：交替疫苗加强频率
+- **multiple-sclerosis patients**：多发性硬化症患者
+- **undergoing therapy with**：接受...治疗
+- **beta-interferon**：β-干扰素
+- **dimethyl fumarate**：富马酸二甲酯
+- **natalizumab**：那他珠单抗
+- **teriflunomide**：特立氟胺
+
+希望这段翻译对您有帮助！如果需要进一步调整或解释，请随时告诉我。 | Dornburg, A. | [PDF](https://doi.org/10.1101/2024.09.19.24313891) | N/A | COVID-19 prevention with alternate vaccine boosting frequencies for multiple-sclerosis patients undergoing therapy with beta-interferon, dimethyl fumarate, natalizumab, or teriflunomide |
+| MDA5变异体以抗病毒活性为代价换取对自身免疫性疾病的保护。 | Wallace, C. | [PDF](https://doi.org/10.1101/2024.10.04.24314884) | N/A | MDA5 variants trade antiviral activity for protection from autoimmune disease |
+| 大规模纵向粪便钙卫蛋白和C反应蛋白谱在炎症性肠病中的聚类分析 | Constantine-Cooke, N. | [PDF](https://doi.org/10.1101/2024.11.08.24316916) | N/A | Large-scale clustering of longitudinal faecal calprotectin and C-reactive protein profiles in inflammatory bowel disease |
+| 社交焦虑障碍的生活体验：基于已发表文献和社交媒体倾听的概念模型 | Schmidt, A. L. | [PDF](https://doi.org/10.1101/2024.11.28.24318127) | N/A | The lived experience of social anxiety disorder: A conceptual model based on published literature and social media listening |
+| 尿路感染患者的尿蛋白与肌酐比值 | SV, S. B. | [PDF](https://doi.org/10.1101/2024.12.29.24319746) | N/A | Spot Urine Protein to Creatinine Ratio in Patients with Urinary Tract Infection |
+| 以下是这段文字的中文翻译：
+
+**临床开发与性能表现：首个用于非处方使用的“First To Know”梅毒自测产品——一种用于检测梅毒螺旋体抗体的全新快速检测方法**
+
+翻译说明：
+1. **Clinical Development and Performance** 翻译为“临床开发与性能表现”，强调该测试在临床环境中的开发过程和性能评估。
+2. **First To Know Syphilis Self-Test** 翻译为“First To Know梅毒自测产品”，保留品牌名称“First To Know”，并明确其为梅毒自测产品。
+3. **Over-the-Counter Usage** 翻译为“非处方使用”，指该产品无需处方即可购买和使用。
+4. **De Novo Rapid Test** 翻译为“全新快速检测方法”，强调其创新性和快速检测的特点。
+5. **Treponemal Antibody** 翻译为“梅毒螺旋体抗体”，明确检测的目标是梅毒螺旋体相关的抗体。
+
+希望这段翻译对您有帮助！ | Clark, K. | [PDF](https://doi.org/10.1101/2025.01.07.25320135) | N/A | Clinical Development and Performance of the First To Know Syphilis Self-Test for Over-the-Counter Usage: a De Novo Rapid Test for Treponemal Antibody |
+| 双手上肢任务训练和经皮电刺激可增强慢性颈脊髓损伤后的脊髓可塑性和手部功能 | Capozio, A. | [PDF](https://doi.org/10.1101/2025.01.06.24319679) | N/A | Bimanual upper limb task practice and Transcutaneous electrical stimulation enhance spinal plasticity and hand function after chronic cervical spinal cord injury |
+| 人工智能生成的胸腹主动脉计算机断层扫描分割 | Chatterjee, D. | [PDF](https://doi.org/10.1101/2025.01.13.25320502) | N/A | Artificial Intelligence Generated Computed Tomography Segmentation of the Thoracoabdominal Aorta |
+| 在阅读段落时进行眼动追踪支持对共济失调症患者进行精确的眼动评估 | Oubre, B. | [PDF](https://doi.org/10.1101/2025.01.13.25320487) | N/A | Eye Tracking during Passage Reading Supports Precise Oculomotor Assessment in Ataxias |
+| 哈泽尔伍德煤矿火灾九年后，全因死亡率和心脏疾病死亡率与烟雾暴露的关系 | Walker-Bone, K. | [PDF](https://doi.org/10.1101/2025.01.14.25320562) | N/A | All-cause and cardiac mortality in relation to smoke exposure nine years after the Hazelwood coal mine fire |
+| 医院和社区环境中的髋部骨折康复：证据的快速回顾 | Spencer, L. H. | [PDF](https://doi.org/10.1101/2025.01.15.25320606) | N/A | Hip fracture rehabilitation in hospital and community settings: A rapid review of the evidence |
+| 口服避孕药的使用与L1CAM相关细胞外囊泡中微小RNA（MicroRNA）含量的显著差异有关 | Lapato, D. M. | [PDF](https://doi.org/10.1101/2025.01.15.25320605) | N/A | Oral Contraceptive Use Is Associated with Significant Differences in MicroRNA Cargo of L1CAM-Associated Extracellular Vesicles |
+| 埃塞俄比亚亚的斯亚贝巴试点高血压防控卫生机构高血压监测系统评估，2022年。 | Goshim, N. | [PDF](https://doi.org/10.1101/2025.01.15.24314484) | N/A | Evaluation of the Hypertension Surveillance System at Pilot Hypertension Prevention and Control Health Facilities in Addis Ababa, Ethiopia, 2022. |
+| 在不同来源的标本中，对H&E染色和IHC染色的病理切片进行组织区域分割 | Naghshineh Kani, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320663) | N/A | TISSUE REGION SEGMENTATION IN H&E-STAINED ANDIHC-STAINED PATHOLOGY SLIDES OF SPECIMENS FROMDIFFERENT ORIGINS |
+| 数字生物标志物、孤独感与社会隔离之间的关联：一项系统综述与荟萃分析 | Lau, Y. | [PDF](https://doi.org/10.1101/2025.01.16.25320671) | N/A | Association between digital biomarkers, loneliness and social isolation: a systematic review and meta-analysis |
+| 在祖先多样化的队列中进行罕见变异分析揭示了新的ADHD风险基因 | Jung, S. | [PDF](https://doi.org/10.1101/2025.01.14.25320294) | N/A | Rare Variant Analyses in Ancestrally Diverse Cohorts Reveal Novel ADHD Risk Genes |
+| 预测自闭症特征的最佳大脑状态是什么？ | Horien, C. | [PDF](https://doi.org/10.1101/2025.01.14.24319457) | N/A | What is the best brain state to predict autistic traits? |
+| 基于社区的结核病筛查算法的有效性和成本效益：单独使用计算机辅助检测（CAD）技术与CAD结合即时C反应蛋白检测的比较：一项配对筛查阳性试验的方案
+
+这段文字描述了一项研究方案，旨在比较两种基于社区的结核病筛查算法的有效性和成本效益。第一种算法仅使用计算机辅助检测（CAD）技术，而第二种算法则结合了CAD技术和即时C反应蛋白检测。研究采用配对筛查阳性试验的设计，以评估这两种方法在结核病筛查中的表现。 | Signorell, A. | [PDF](https://doi.org/10.1101/2025.01.16.25320687) | N/A | Effectiveness and cost-effectiveness of community-based TB screening algorithms using Computer-Aided Detection (CAD) technology alone compared to CAD combined with point-of-care C-reactive protein testing: protocol for a paired screen-positive trial |
+| 抑郁症与炎症相关身体健康状况的发病率：一项在英国生物银行进行的队列研究 | Saha, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320668) | N/A | Depression and incidence of inflammation-related physical health conditions: a cohort study in UK Biobank |
+| "传递爱心策略减少了追赶年龄组女孩的HPV疫苗接种延迟并提高了接种率：一项随机临床试验" | Li, J. / | [PDF](https://doi.org/10.1101/2025.01.16.25320655) | N/A | Pay-it-forward strategy reduced HPV vaccine delay and increased uptake among catch-up age girls: A randomized clinical trial |
+| 在巴基斯坦推动私营药店参与肺结核疑似病例转诊：研究发现与意义
+
+该研究探讨了如何有效动员巴基斯坦的私营药店参与到肺结核疑似病例的转诊工作中，并分析了相关的研究发现及其对公共卫生政策的潜在影响。 | Saleem, Z. | [PDF](https://doi.org/10.1101/2025.01.14.25320381) | N/A | Engaging Private Pharmacies in Referring Tuberculosis Suspects in Pakistan: Findings and Implications |
+| 以下是将这段翻译成中文的结果：
+
+使用SpeechVive设备对面对面治疗和远程治疗模式进行比较 | Covert, R. | [PDF](https://doi.org/10.1101/2025.01.16.25320611) | N/A | A comparison of in-person and telehealth treatment modalities using the SpeechVive device |
+| 康复之路：一项随机试验比较基于家庭和自我管理的网络与纸质方案，以改善中风后手臂和手部功能 | Westlake, K. P. | [PDF](https://doi.org/10.1101/2025.01.14.25320542) | N/A | Rehabilitation your way: A randomized trial comparing home-based and self-managed web versus paper programs to improve arm and hand function after stroke |
+| 成人急性呼吸窘迫综合征：基于eICU协作研究数据库的温度趋势、人口统计学因素及临床结果的回顾性分析 | Al Mahrizi, A. D. | [PDF](https://doi.org/10.1101/2025.01.16.25320573) | N/A | Acute Respiratory Distress Syndrome in Adults: A Retrospective Analysis of Temperature Trends, Demographic Factors, and Clinical Outcomes from the eICU Collaborative Research Database |
+| 南非少女和年轻女性中持续存在的沙眼衣原体感染的高流行率和基因型多样性：两个城市的故事
+
+在这项研究中，我们发现南非两个城市的少女和年轻女性中，沙眼衣原体（Chlamydia trachomatis）感染的持续存在具有高流行率和显著的基因型多样性。这一现象揭示了在不同城市环境中，沙眼衣原体感染的传播和持续存在的复杂性。研究结果表明，尽管两个城市的地理和社会经济背景不同，但沙眼衣原体感染的流行率和基因型多样性均较高，这可能与当地的性健康服务、教育水平以及社区对性传播感染的认识和预防措施有关。这一发现强调了在南非乃至全球范围内，针对沙眼衣原体感染的预防、诊断和治疗策略的重要性，特别是在青少年和年轻女性这一高风险群体中。 | Dabee, S. | [PDF](https://doi.org/10.1101/2025.01.17.25320646) | N/A | High Prevalence and Genotypic Diversity of Persistent Chlamydia trachomatis Infections Among South African Adolescent Girls and Young Women: A Tale of Two Cities |
+| 脑电图预处理参数对超低功耗癫痫检测的影响 | Reisinger, P. | [PDF](https://doi.org/10.1101/2025.01.17.25320722) | N/A | The impact of EEG preprocessing parameters on ultra-low-power seizure detection |
+| 多发性硬化症易感性的遗传决定因素在不同祖先背景中的研究 | jacobs, B. M. | [PDF](https://doi.org/10.1101/2025.01.16.25320672) | N/A | Genetic determinants of Multiple Sclerosis susceptibility in diverse ancestral backgrounds |
+| 深部脑刺激中结构连通性招募的激活指标 | Butenko, K. | [PDF](https://doi.org/10.1101/2025.01.16.25320420) | N/A | Activation Metrics for Structural Connectivity Recruitment in Deep Brain Stimulation |
+| 统一量化疼痛和体感感知强度与相似性的测量方法 | Earley, E. J. | [PDF](https://doi.org/10.1101/2025.01.16.25320030) | N/A | Unified Measures Quantifying Intensity and Similarity of Pain and Somatosensory Percepts |
+| 以下是“Cortical Manifolds in Cognitive Recovery following Supratentorial Neurosurgery”的中文翻译：
+
+**幕上神经外科手术后认知恢复中的皮质流形**
+
+这个标题可以进一步解释为：研究幕上神经外科手术后，大脑皮质流形（即皮质结构和功能的空间组织模式）在认知功能恢复过程中的作用和变化。 | Poologaindran, A. | [PDF](https://doi.org/10.1101/2025.01.16.25320459) | N/A | Cortical Manifolds in Cognitive Recovery following Supratentorial Neurosurgery |
+| 糖尿病患者的连贯感与自我护理：系统综述。 | Vega-Martinez, M. d. C. | [PDF](https://doi.org/10.1101/2025.01.16.25320434) | N/A | Sense of coherence and self-care in people with diabetes: systematic review. |
+| 免疫分析确定了预测性生物标志物，并强调了IL-6R阻断在检查点抑制剂相关心肌炎中的潜在疗效。 | Boughdad, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320675) | N/A | Immune profiling identifies predictive biomarkers and highlights the potential efficacy of IL-6R blockade in checkpoint inhibitor-related myocarditis. |
+| 浆果补充剂修饰的人类微生物组在小鼠模型中改善免疫治疗反应 | Jahanbahkshi, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320666) | N/A | Berry Supplement-Modified Human Microbiome Improves Immunotherapy Response in Mouse Models |
+| 一个CTC模型揭示了乳腺癌中的转移驱动因素和预后标志物 | Fernandez-Santiago, C. | [PDF](https://doi.org/10.1101/2025.01.16.25320597) | N/A | A CTC Model Uncovers Metastatic Drivers and Prognostic Markers in Breast Cancer |
+| 确定与测量视力和屈光度相关的变异性：一项系统性综述 | van der Zee, C. | [PDF](https://doi.org/10.1101/2025.01.17.25320329) | N/A | Determining the variability associated with measuring visual acuity and refractive error measurements: a systematic review |
+| 视网膜母细胞瘤中的RB1序列变异。分析数据库中RB1变异与pRB蛋白结构域及临床表现的相关性。 | Parma, D. | [PDF](https://doi.org/10.1101/2025.01.16.24319096) | N/A | RB1 sequence variants in retinoblastoma. Analysis of RB1 variants in a database for correlation with pRB protein domains and clinical presentation |
+| 泛癌症蛋白质基因组网络分析揭示免疫微环境及预后生物标志物
+
+在这项研究中，通过整合多组学数据，研究人员构建了一个泛癌症蛋白质基因组网络，深入分析了不同癌症类型中的免疫微环境特征，并识别出一系列与患者预后密切相关的潜在生物标志物。这些发现为理解癌症的分子机制、优化免疫治疗策略以及开发新的预后评估工具提供了重要依据。 | Shi, W. | [PDF](https://doi.org/10.1101/2025.01.15.24319471) | N/A | Pan-Cancer Proteogenomic Network Analysis Uncovers Immune Microenvironment and Prognostic Biomarkers |
+| TTN基因中的两种单倍型的复合杂合性以隐性方式增加了唇腭裂的风险。 | SINGH, V. P. | [PDF](https://doi.org/10.1101/2025.01.15.24319654) | N/A | A compound heterozygosity of two haplotypes in the TTN gene contributes to risk for Cleft Lip and Palate in a recessive manner |
+| 成人心理治疗对就业和收入的影响：来自英格兰的证据 | Rzepnicka, K. | [PDF](https://doi.org/10.1101/2025.01.16.25320685) | N/A | The effect of adult psychological therapies on employment and earnings: Evidence from England |
+| 替代性家族性高胆固醇血症级联筛查策略的成本效益分析，考虑实际级联筛查接受率及高成本药物的使用情况 | Lou, J. | [PDF](https://doi.org/10.1101/2025.01.17.25320710) | N/A | Cost-effectiveness of alternative cascade screening strategies for familial hypercholesterolemia with realistic cascade screening acceptance rates and use of high-cost drugs |
+| 结合临床嵌入与多组学特征以提升帕金森病患者分类及可解释性 | Ryan, B. | [PDF](https://doi.org/10.1101/2025.01.17.25320664) | N/A | Combining Clinical Embeddings with Multi-Omic Features for Improved Patient Classification and Interpretability in Parkinsons Disease |
+| 大型语言模型在识别免疫抑制患者方面优于传统的基于结构化数据的方法。 | Guggilla, V. | [PDF](https://doi.org/10.1101/2025.01.16.25320564) | N/A | Large language models outperform traditional structured data-based approaches in identifying immunosuppressed patients |
+| 基于电子健康记录的预测模型在HIV暴露前预防决策中的应用：一项系统性综述 | Agovi, A. M.-A. | [PDF](https://doi.org/10.1101/2025.01.17.25320732) | N/A | Electronic Health Record-Based Prediction Models to Inform Decisions about HIV Pre-exposure Prophylaxis: A Systematic Review |
+| 对三级医院中万古霉素耐药肠球菌的纵向废水监测 | Au, E. | [PDF](https://doi.org/10.1101/2025.01.16.25320689) | N/A | Longitudinal wastewater-based surveillance of vancomycin-resistant Enterococci in tertiary-care hospitals |
+| 宿主与病毒遗传变异在调节基因型3a丙型肝炎病毒抗体反应中的相互作用：对疫苗设计的启示
+
+这段翻译主要涉及以下几个关键点：
+1. **宿主与病毒遗传变异**：指的是宿主（即被感染的个体）和病毒（丙型肝炎病毒）在遗传层面上的变异。
+2. **调节抗体反应**：这些遗传变异如何影响宿主对病毒的免疫反应，特别是抗体的产生。
+3. **基因型3a丙型肝炎病毒**：特指丙型肝炎病毒的一种特定基因型，即3a型。
+4. **疫苗设计**：这些发现对开发针对丙型肝炎病毒的疫苗具有重要的指导意义。
+
+整体而言，这段翻译强调了宿主和病毒遗传变异在免疫反应中的复杂相互作用，以及这些相互作用对疫苗开发的重要性。 | Wang, Z. | [PDF](https://doi.org/10.1101/2025.01.16.25320631) | N/A | Interplay of Host and Viral Genetic Variations in Modulating Antibody Responses to Genotype 3a Hepatitis C Virus: Implications for Vaccine Design |
+| 对患有和未患有结核病的幼儿对结核分枝杆菌的免疫致敏研究 | Gutierrez, J. | [PDF](https://doi.org/10.1101/2025.01.16.25320625) | N/A | Immune-sensitization to Mycobacterium tuberculosis Among Young Children With and Without Tuberculosis |
+| 收到BNT162b2 KP.2疫苗与美国成年人COVID-19 CVS MinuteClinic就诊情况 | Rudolph, A. E. | [PDF](https://doi.org/10.1101/2025.01.15.24319342) | N/A | Receipt of BNT162b2 KP.2 Vaccine and COVID-19 CVS MinuteClinic Visits in US Adults |
+| 一项二次分析表明，针对左背外侧前额叶皮层进行重复经颅磁刺激，可以减少寻求治疗的大麻使用障碍患者在提示诱导下的渴求感。 | Wong, B. L. | [PDF](https://doi.org/10.1101/2025.01.16.25320690) | N/A | A Secondary Analysis Suggests That Repetitive Transcranial Magnetic Stimulation Applied to the Left Dorsolateral Prefrontal Cortex Reduces Cue-Induced-Craving in Treatment Seeking Participants with Cannabis Use Disorder |
+| 先前SARS-CoV-2感染对老年患者围手术期心脏、肺部和神经认知并发症的影响：一项观察性队列研究的研究方案 | Saller, T. | [PDF](https://doi.org/10.1101/2025.01.13.25320412) | N/A | Impact of prior SARS-CoV-2 infection on perioperative cardiac, pulmonary and neurocognitive complications in elderly patients: study protocol for an observative cohort study |
+| 新心血管药物：调查心脏病专家的采用趋势 | Varjabedian, L. | [PDF](https://doi.org/10.1101/2025.01.14.25320511) | N/A | New Cardiovascular Medications: Surveying Adoption Trends Among Cardiologists |
+| 非对比剂增强自由运行全心MRI中快速中断稳态（FISS）与水激发技术在脂肪信号抑制方面的比较 | Safarkhanlo, Y. | [PDF](https://doi.org/10.1101/2025.01.16.25320660) | N/A | Comparison between fast-interrupted steady-state (FISS) and water excitation for fat signal suppression in non-contrast-enhanced free-running whole-heart MRI |
+| 跨多族裔人群队列对1型糖尿病多基因风险的标准化测量 | Luckett, A. M. | [PDF](https://doi.org/10.1101/2025.01.16.25320691) | N/A | Standardized Measurement of Type 1 Diabetes Polygenic Risk Across Multi-Ancestry Population Cohorts |
+| 儿童营养、神经发育与24-60个月大马达加斯加儿童的粪便微生物群：AFRIBIOTA横断面研究结果 | Tamarelle, J. | [PDF](https://doi.org/10.1101/2025.01.16.25320667) | N/A | Child nutrition, neurodevelopment and fecal microbiota in children aged 24-60 months old in Madagascar: results from the AFRIBIOTA cross-sectional study |
+| 英国生物库中基于加速度计的身体活动和睡眠测量的可重复性及相关回归稀释偏差 | Zisou, C. | [PDF](https://doi.org/10.1101/2025.01.16.25320679) | N/A | Reproducibility and associated regression dilution bias of accelerometer-derived physical activity and sleep in the UK Biobank |
+| 儿童和青少年幽门螺杆菌感染一线治疗的有效性：阿拉伯联合酋长国的一项多中心研究 | Al Atrash, E. | [PDF](https://doi.org/10.1101/2025.01.16.25320652) | N/A | Effectiveness of first line therapy for Helicobacter pylori infection in children and adolescents: a multicenter study in the United Arab Emirates |
+| 印度医学研究理事会-死胎汇总印度队列（ICMR-SPIC）概况：估计印度死胎的患病率、分析风险因素及开发预测模型
+
+这段翻译介绍了印度医学研究理事会（ICMR）关于死胎的研究项目，旨在通过汇总数据来估计印度死胎的患病率，分析相关风险因素，并开发预测模型。 | ICMR-SPIC Consortium,   | [PDF](https://doi.org/10.1101/2025.01.16.25320656) | N/A | Cohort profile of the ICMR-Stillbirth Pooled India Cohort (ICMR-SPIC): Estimating Prevalence, Analyzing Risk Factors, and Developing Prediction Models for Stillbirths in India |
+| 肯尼亚农村地区的围产期抑郁及其相关风险和保护因素：COVID-19疫情前后的前瞻性队列研究 | Wainaina, C. W. | [PDF](https://doi.org/10.1101/2025.01.15.25320322) | N/A | Perinatal depression in Rural Kenya and the associated risk and protective factors: A prospective cohort study before and during the COVID-19 pandemic |
+| 预测免疫效应细胞相关神经毒性综合征的新风险因素 | Friedman, A. R. | [PDF](https://doi.org/10.1101/2025.01.17.25320737) | N/A | Novel Risk Factors for Predicting Immune Effector Cell-Associated Neurotoxicity Syndrome |
+| PRKCI基因中的罕见变异会导致范德伍德综合征（Van der Woude syndrome）以及其他表皮发育异常（peridermopathy）的特征。 | Robinson, K. R. | [PDF](https://doi.org/10.1101/2025.01.17.25320742) | N/A | Rare variants in PRKCI cause Van der Woude syndrome and other features of peridermopathy |
+| NUBP2的缺乏会破坏大脑中的中心体检查点，从而导致原发性小头畸形。 | Rushforth, R. | [PDF](https://doi.org/10.1101/2025.01.16.25320041) | N/A | NUBP2 deficiency disrupts the centrosome-check point in the brain and causes primary microcephaly |
+| 基于全基因组测序的成人胶质母细胞瘤遗传易感性分析 | van Opijnen, M. P. | [PDF](https://doi.org/10.1101/2025.01.16.25320661) | N/A | Whole genome sequencing-based analysis of genetic predisposition to adult glioblastoma |
+| 评估监督式自然语言处理（NLP）对暴力死亡叙述的分类：开发与评估一种紧凑的大型语言模型（LLM）方法 | Parker, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320680) | N/A | Assessing Supervised Natural Language Processing (NLP) Classification of Violent Death Narratives: Development and Assessment of a Compact Large Language Model (LLM) Approach |
+| 在分娩和新生儿复苏过程中，基于同意的半自动化数据收集：来自NewbornTime研究的见解 | Brunner, S. | [PDF](https://doi.org/10.1101/2025.01.15.24319287) | N/A | Consent-driven, semi-automated data collection during birth and newborn resuscitation: Insights from the NewbornTime study |
+| 超越部分之和？——对影响刚果民主共和国产前保健咨询内容因素的分析 | Hagedorn, B. | [PDF](https://doi.org/10.1101/2025.01.17.25320735) | N/A | More than the sum of its parts? An analysis of the factors impacting the content of antenatal care consultations in the Democratic Republic of Congo |
+| 评估基于废水的监测方法在公立学校中检测SARS-CoV-2 RNA的性能和适用性 | Acosta, N. | [PDF](https://doi.org/10.1101/2025.01.16.25320681) | N/A | Assessing the performance and suitability of wastewater based-surveillance for SARS-CoV-2 RNA in public schools |
+| 主动与被动式学校新冠肺炎筛查：法国在德尔塔和奥密克戎疫情期间的实验方案经验 | Colosi, E. | [PDF](https://doi.org/10.1101/2025.01.17.25320676) | N/A | Proactive vs. reactive COVID-19 screening in schools: lessons from experimental protocols in France during the Delta and Omicron waves |
+| 2021-2022年美国马萨诸塞州基于人群的SARS-CoV-2传播血清学调查 | Cramer, E. Y. | [PDF](https://doi.org/10.1101/2025.01.17.25320194) | N/A | Population-based serosurveys for SARS-CoV-2 transmission 2021-2022, Massachusetts USA |
+| 新型深度学习框架用于同时评估左心室质量和纵向应变：在肥厚型心肌病患者中的临床可行性和验证
+
+本研究介绍了一种创新的深度学习框架，旨在同时评估左心室质量和纵向应变，特别是在肥厚型心肌病患者中的应用。研究不仅探讨了该技术的临床可行性，还对其进行了验证，以确保其准确性和可靠性。通过这种方法，医生可以更有效地诊断和监测患者的心脏健康状况，从而提供更精准的治疗方案。 | Park, J. | [PDF](https://doi.org/10.1101/2025.01.17.25320694) | N/A | Novel Deep Learning Framework for Simultaneous Assessment of Left Ventricular Mass and Longitudinal Strain: Clinical Feasibility and Validation in Patients with Hypertrophic Cardiomyopathy |
+| 血浆蛋白质组学特征揭示了体力活动的生物学影响及其对痴呆症的保护作用。 | Arani, G. | [PDF](https://doi.org/10.1101/2025.01.16.25320290) | N/A | Plasma Proteomic Signatures of Physical Activity Provide Insights into Biological Impacts of Physical Activity and its Protective Role Against Dementia. |
+| 成人2型糖尿病患者的自我报告健康状况（IFIS）：有效性及其与心脏代谢和身体成分结果的关系 | Herraiz-Adillo, A. | [PDF](https://doi.org/10.1101/2025.01.17.25320713) | N/A | Self-Reported Fitness (IFIS) in Adults with Type 2 Diabetes Mellitus: Validity and Associations with Cardiometabolic and Body Composition Outcomes |
+| 了解英格兰心理健康同伴支持工作者的角色与经历：一项质性研究 | Cooper, R. E. | [PDF](https://doi.org/10.1101/2025.01.16.25320547) | N/A | Understanding the roles and experiences of mental health peer support workers in England: a qualitative study |
+| 《疫情日记项目：关于COVID-19大流行的第一人称叙述新数据集》 | Willen, S. S. | [PDF](https://doi.org/10.1101/2025.01.17.25320717) | N/A | The Pandemic Journaling Project: A new dataset of first-person accounts of the COVID-19 pandemic |
+| 青少年性别与心理健康：德尔菲研究中开发的概念框架 | Alaze, A. | [PDF](https://doi.org/10.1101/2025.01.17.25320719) | N/A | Gender and mental health of adolescents: a conceptual framework developed in a Delphi study |
+| XCompostion：基于胸部X光片和临床数据的多模态深度学习模型，用于估计基于CT的身体成分指标 | Alipour, E. | [PDF](https://doi.org/10.1101/2025.01.16.25320684) | N/A | XCompostion: Multimodal Deep Learning Model to Estimate CT-based Body Composition Measures Using Chest radiographs and Clinical Data |
+| 韩国重症儿科患者的三重全基因组测序 | Lee, S. | [PDF](https://doi.org/10.1101/2025.01.16.25320442) | N/A | Trio-Based Whole-Genome Sequencing for Critically Ill Pediatric Patients in Korea |
+| 以下是将这段英文翻译成中文的结果：
+
+**一种临床算法，用于识别葡萄糖-6-磷酸脱氢酶p.Val68Met变异携带者中面临糖尿病治疗不足风险的人群**
+
+翻译说明：
+- "clinical algorithm" 翻译为“临床算法”。
+- "identify" 翻译为“识别”。
+- "glucose-6-phosphate dehydrogenase p.Val68Met variant" 翻译为“葡萄糖-6-磷酸脱氢酶p.Val68Met变异”。
+- "at risk for" 翻译为“面临...风险”。
+- "diabetes undertreatment" 翻译为“糖尿病治疗不足”。
+
+希望这段翻译对您有帮助！ | Pershad, Y. | [PDF](https://doi.org/10.1101/2025.01.17.25320736) | N/A | A clinical algorithm to identify people with the glucose-6-phosphate dehydrogenase p.Val68Met variant at risk for diabetes undertreatment |
+| 了解ENACT联合研究网络中的数据差异 | Wang, T. D. | [PDF](https://doi.org/10.1101/2025.01.17.25320686) | N/A | Understanding Data Differences across the ENACT Federated Research Network |
+| 对DWELL（糖尿病与福祉）2型糖尿病12周心理教育自我管理计划在四个欧洲国家的参与者成果评估 | Hatzidimitriadou, E. | [PDF](https://doi.org/10.1101/2025.01.13.25320460) | N/A | Participant outcomes evaluation of the DWELL (Diabetes and WELLbeing) type 2 diabetes 12-week psychoeducational self-management programme across four European countries |
+| 腹部肌肉脂肪变性与认知功能下降的双种族队列研究：来自CARDIA研究的见解 | Acevedo-Fontanez, A. I. | [PDF](https://doi.org/10.1101/2025.01.17.25320741) | N/A | Abdominal Myosteatosis and Cognitive Decline in a Biracial Cohort: Insights from CARDIA Study |
+| 在乌干达西南部，裂谷热（Rift Valley fever）的非典型高度流行性与快速进化的C系病毒有关。 | Bakamutumaho, B. | [PDF](https://doi.org/10.1101/2025.01.14.25320317) | N/A | Atypical hyperendemicity of Rift Valley fever in Southwestern Uganda associated with the rapidly evolving lineage C viruses |
+| 研究方案：2024年中国居民心理与行为调查全国横断面研究，PBICR | Fan, S. | [PDF](https://doi.org/10.1101/2025.01.14.25320520) | N/A | Study protocol: A national cross-sectional study on psychology and behaviour investigation of Chinese residents in 2024, PBICR |
+| 血栓切除术后淋巴流动与大血管闭塞性卒中中的无效再通相关 | Finkelstein, A. J. | [PDF](https://doi.org/10.1101/2025.01.16.25320702) | N/A | Glymphatic Flow after Thrombectomy is Associated with Futile Recanalization in Large Vessel Occlusion Stroke |
 # MedRxiv 2025-01-16 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
