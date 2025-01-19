@@ -1,3 +1,49 @@
+# MedRxiv 2025-01-18 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 大规模血清流行病学研究揭示了存在tau蛋白自身免疫的人群中的肾脏病理学问题。 | Magalhaes, A. D. | [PDF](https://doi.org/10.1101/2021.11.24.21266833) | N/A | Large-scale seroepidemiology uncovers nephrological pathologies in people with tau autoimmunity |
+| 精神分裂症患者中，言语诱导抑制受损预示着听觉言语幻觉的发生 | Tan, S. | [PDF](https://doi.org/10.1101/2024.09.30.24314623) | N/A | Impaired speaking-induced suppression in schizophrenia predicts auditory verbal hallucinations |
+| 与rTMS诱导的书写痉挛性肌张力障碍患者书写改善相关的运动网络重组 | Bukhari-Parlakturk, N. | [PDF](https://doi.org/10.1101/2024.09.30.24314652) | N/A | Motor network reorganization associated with rTMS-induced writing improvement in writer's cramp dystonia |
+| 早期生活中的传染病暴露、“卫生假说”与寿命：来自钩虫的证据 | Lawton, R. | [PDF](https://doi.org/10.1101/2024.12.09.24318730) | N/A | Early-life infectious disease exposure, the 'hygiene hypothesis', and lifespan: evidence from hookworm |
+| 在97名梅尼埃病患者的 multicenter registry 中，简短版 Speech, Spatial and Qualities of Hearing Scale 的适用性 | Spiegel, J. L. | [PDF](https://doi.org/10.1101/2025.01.01.25319849) | N/A | Applicability of a short form of the Speech, Spatial and Qualities of Hearing Scale in 97 individuals with Meniere's disease in a multicenter registry |
+| 满足慢性病青少年及其父母在从儿科向成人护理共同过渡中的需求并确定支持措施：范围界定审查协议 | Maini, P. | [PDF](https://doi.org/10.1101/2025.01.17.25320750) | N/A | Addressing the Needs and Identifying Supports for Parents of Chronically Ill Adolescents and Young Adults in their Shared Transition from Pediatric to Adult Care: A Scoping Review Protocol |
+| 在携带m.3243A>G突变的患者中，自体间血管母细胞的动脉内移植是安全的：首项I/II期人类临床研究 | van Tienen, F. H. J. | [PDF](https://doi.org/10.1101/2025.01.17.24319434) | N/A | Intra-arterial transplantation of autologous mesoangioblasts in m.3243A>G mutation carriers is safe: first phase I/II human clinical study |
+| 物理治疗师对后疫情时代肌肉骨骼疾病患者远程康复的认知 | McLaughlin, K. H. | [PDF](https://doi.org/10.1101/2025.01.17.25320739) | N/A | Physical therapists' perceptions of telerehabilitation for patients with musculoskeletal conditions in a post-pandemic world |
+| 以下是将这段英文翻译成中文的结果：
+
+**与未婚青少年意外怀孕相关的因素及利用移动货币商店的潜力：乌干达东部的一项横断面研究**
+
+希望这个翻译对你有帮助！ | Komasawa, M. | [PDF](https://doi.org/10.1101/2025.01.17.25320704) | N/A | Factors associated with unintended pregnancies among unmarried adolescents and the potential of using mobile money shops: A Cross-sectional study in Eastern Uganda |
+| 阐明在患有注意力缺陷/多动障碍（ADHD）、对立违抗性障碍（ODD）和强迫症（OCD）诊断的青春期前儿童中，功能性磁共振成像（fMRI）复杂性的独特和共同模式。 | Zhang, R. | [PDF](https://doi.org/10.1101/2025.01.17.25320748) | N/A | Elucidating distinct and common fMRI-complexity patterns in pre-adolescent children with Attention-Deficit/Hyperactivity Disorder, Oppositional Defiant Disorder, and Obsessive-Compulsive Disorder diagnoses |
+| 卢旺达东部锡石（锡矿）矿工中矽肺病患病率及相关职业风险因素：一项针对在职和退休矿工群体的采矿实践与风险的横断面分析 | Hatfield, S. | [PDF](https://doi.org/10.1101/2025.01.17.24319661) | N/A | Silicosis Prevalence and Associated Occupational Risk Factors Among Cassiterite (Tin Ore) Miners in Eastern Rwanda: A Cross-Sectional Analysis of Mining Practice and Risk in an Active and Retired Mining Cohort |
+| 以下是这段英文的中文翻译：
+
+**受者细胞是成人镰状细胞病（SCD）患者移植失败和混合嵌合后血液系统恶性肿瘤的来源**
+
+翻译说明：
+- **Recipient Cells**：受者细胞，指接受移植的患者自身的细胞。
+- **Hematologic Malignancies**：血液系统恶性肿瘤，包括白血病、淋巴瘤等。
+- **Graft Failure**：移植失败，指移植的细胞未能成功植入或发挥功能。
+- **Mixed Chimerism**：混合嵌合，指受者体内同时存在供者和受者来源的细胞。
+- **SCD**：镰状细胞病（Sickle Cell Disease），一种遗传性血液疾病。
+
+希望这段翻译对你有帮助！如果有其他问题，欢迎随时提问。 | Ali, M. A. E. | [PDF](https://doi.org/10.1101/2025.01.17.25320670) | N/A | Recipient Cells Are the Source of Hematologic Malignancies After Graft Failure and Mixed Chimerism in Adults with SCD |
+| 在晚期黑色素瘤治疗过程中，对过继性细胞转移产品的T细胞库进行描绘和监测 | Kerr, C. | [PDF](https://doi.org/10.1101/2025.01.17.24311574) | N/A | Delineation and monitoring of the T cell repertoire of adoptive cell transfer product during the treatment of advanced melanoma |
+| 开发和初步评估患者决策辅助工具以支持初级保健中肩峰下疼痛综合征患者寻求护理的决策 | Lyng, K. D. | [PDF](https://doi.org/10.1101/2025.01.17.25320492) | N/A | Development and Initial Evaluation of a Patient Decision Aid to Support Decision-Making in Care-seeking Patients with Subacromial Pain Syndrome in Primary Care |
+| 《居住在护理机构中的痴呆症患者的非正式照顾者的第一手需求：范围界定综述》
+
+这篇综述文章探讨了在护理机构中，那些非正式照顾者（通常是家庭成员或朋友）对于照顾痴呆症患者的第一手需求。文章通过范围界定综述的方法，系统地收集和分析了相关研究，旨在识别和理解这些照顾者在实际照顾过程中所面临的主要需求和挑战。 | Moody, C. | [PDF](https://doi.org/10.1101/2025.01.18.25320759) | N/A | The First-Hand Needs of Informal Caregivers of People Living with Dementia, in Residential Care Settings: A Scoping Review |
+| 临床试验的预测驱动推断 | Poulet, P.-E. | [PDF](https://doi.org/10.1101/2025.01.15.25320578) | N/A | Prediction-powered Inference for Clinical Trials |
+| “全民研究计划”中呼吸道病毒感染的可计算表型 | Waxse, B. J. | [PDF](https://doi.org/10.1101/2025.01.17.25320744) | N/A | Computable Phenotypes for Respiratory Viral Infections in the All of Us Research Program |
+| 在撒哈拉以南非洲地区通过一次性大规模疫苗接种活动实现MPXV Clade I疫情控制的疫苗需求：基于情景的建模研究 | Jin, S. | [PDF](https://doi.org/10.1101/2025.01.17.25320753) | N/A | Vaccine demands to achieve outbreak control for MPXV Clade I with one-time mass campaign in sub-Saharan Africa: scenario-based modelling study |
+| 以下是这段文字的中文翻译：
+
+**镇静剂选择用于插管的随机试验（RSI）的研究方案和统计分析计划**
+
+如果您需要进一步的解释或调整，请告诉我！ | DeMasi, S. C. | [PDF](https://doi.org/10.1101/2025.01.18.25320768) | N/A | Protocol and Statistical Analysis Plan for the Randomized Trial of Sedative Choice for Intubation (RSI) |
+| 量化里约热内卢市的热暴露及其相关死亡率：支持里约近期热协议的证据 | Araujo Morais, J. H. | [PDF](https://doi.org/10.1101/2025.01.17.25320740) | N/A | Quantifying heat exposure and its related mortality in Rio de Janeiro City: evidence to support Rio's recent heat protocol |
+| 孕期家庭空气污染暴露与产后血压 | Kaali, S. | [PDF](https://doi.org/10.1101/2025.01.17.25320752) | N/A | Household Air Pollution Exposures Over Pregnancy and Postpartum Blood Pressure |
 # MedRxiv 2025-01-17 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
