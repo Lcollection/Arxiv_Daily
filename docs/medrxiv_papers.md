@@ -1,3 +1,24 @@
+# MedRxiv 2025-01-19 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 带有测量误差校正的线性混合模型（LMM-MEC）：一种基于汇总数据的多变量孟德尔随机化方法 | Ding, M. | [PDF](https://doi.org/10.1101/2023.04.25.23289099) | N/A | A Linear Mixed Model with Measurement Error Correction (LMM-MEC): A Method for Summary-data-based Multivariable Mendelian Randomization |
+| 基于智能手表的干预计划改善抑郁症状的可行性和有效性：一项试点研究。 | Tamm, J. | [PDF](https://doi.org/10.1101/2025.01.18.25320669) | N/A | Feasibility and effectiveness of a smartwatch-based intervention program for ameliorating depressive symptoms: a pilot-study. |
+| 在非洲环境下用于结核性胸水诊断的机器学习模型 | Pefura-Yone, E. W. | [PDF](https://doi.org/10.1101/2025.01.18.25320778) | N/A | Machine learning models for tuberculous pleural effusion diagnosis in Africa setting |
+| 高效的基于计数的模型提升了大规模单细胞eQTL（表达数量性状位点）映射的效能和稳健性。 | Zhang, Z. | [PDF](https://doi.org/10.1101/2025.01.18.25320755) | N/A | Efficient count-based models improve power and robustness for large-scale single-cell eQTL mapping |
+| 通过投影主成分匹配异质队列揭示了西班牙裔人群中两个新的阿尔茨海默病相关基因 | Willett, J. D. S. | [PDF](https://doi.org/10.1101/2025.01.18.25320774) | N/A | Matching Heterogeneous Cohorts by Projected Principal Components Reveals Two Novel Alzheimer's Disease-Associated Genes in the Hispanic Population |
+| 基于动态超图的领域知识增强对比学习在健康风险预测中的应用与改进 | Choudhuri, A. | [PDF](https://doi.org/10.1101/2025.01.18.25320096) | N/A | Domain Knowledge Augmented Contrastive Learning on Dynamic Hypergraphs for Improved Health Risk Prediction |
+| 确保关键人群在复杂社会文化环境中公平获得优质艾滋病护理：来自尼日利亚的经验教训 | Salihu, A. | [PDF](https://doi.org/10.1101/2025.01.19.25320786) | N/A | Ensuring Equitable Access to Quality HIV Care for Key Populations in Complex Sociocultural Settings: Lessons from Nigeria |
+| 保持医院清洁：十种不同分子和基于培养的方法检测Candidozyma auris的诊断性能。 | Korsten, K. | [PDF](https://doi.org/10.1101/2025.01.18.25320756) | N/A | Keep the hospital clean: diagnostic performance of ten different molecular and culture-based methods to detect Candidozyma auris. |
+| ORAKLE：利用深度学习对急性肾损伤患者进行30天风险预测的最优模型 | Oh, W. | [PDF](https://doi.org/10.1101/2025.01.18.25320769) | N/A | ORAKLE: Optimal Risk prediction for mAke30 in patients with acute Kidney injury using deep LEarning |
+| 阿布扎比人口中的癌症负担：一项回顾性队列研究 | ashoor, r. | [PDF](https://doi.org/10.1101/2025.01.18.25320767) | N/A | The Cancer Burden in the Abu Dhabi Population: A Retrospective Cohort Study |
+| 通过预测性机器学习对3000名患者报告的结果进行特征分析，以开发一个科学平台来研究炎症性肠病中的疲劳问题。 | Hall, R. | [PDF](https://doi.org/10.1101/2025.01.18.25320777) | N/A | Characterisation of 3000 patient reported outcomes with predictive machine learning to develop a scientific platform to study fatigue in Inflammatory Bowel Disease |
+| 澳大利亚孕前保健的机会：初级保健专业人员观点的定性研究 | Caut, C. | [PDF](https://doi.org/10.1101/2025.01.16.25320705) | N/A | Opportunities for preconception care in Australia: A qualitative study of the perspectives of primary care professionals |
+| 了解澳大利亚初级保健中的孕前保健实践、信念和态度：一项针对卫生专业人员的定性研究 | Caut, C. | [PDF](https://doi.org/10.1101/2025.01.16.25320103) | N/A | Understanding preconception care practices, beliefs, and attitudes in Australian primary care: A qualitative study of health professionals |
+| 表演艺术家受伤的心理社会风险因素：筛查和预测工具的范围综述 | Cahalan, R. | [PDF](https://doi.org/10.1101/2025.01.19.25320784) | N/A | Psychosocial Risk Factors for Injury in Performing Artists: A Scoping Review of Screening and Predictive Tools |
+| CAG中间等位基因在HTT基因中的协同影响与微RNA失调共同加剧了剪接体损伤，并加速了晚发性阿尔茨海默病尾状核中Tau病理的发展。 | Castilla Silgado, J. | [PDF](https://doi.org/10.1101/2025.01.19.25320764) | N/A | Synergistic impact of CAG intermediate alleles in the HTT gene and microRNA dysregulation exacerbates spliceosome impairment and accelerates Tau pathology in the caudate nucleus of late-onset Alzheimer's disease |
+| 高分辨率计算模型在经颅光生物调节中的应用：光传播与热效应研究 | Guillen, A. R. | [PDF](https://doi.org/10.1101/2025.01.18.25320758) | N/A | High-resolution computational modeling of Transcranial Photobiomodulation: Light propagation and thermal effects |
+| 一项随机双盲二期临床试验：使用PepCan或念珠菌治疗宫颈上皮内瘤变2/3级 | Nakagawa, M. | [PDF](https://doi.org/10.1101/2025.01.18.25320725) | N/A | A Randomized Double-Blind Phase 2 Clinical Trial Treating Cervical Intraepithelial Neoplasia 2/3 with PepCan or Candida |
 # MedRxiv 2025-01-18 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
