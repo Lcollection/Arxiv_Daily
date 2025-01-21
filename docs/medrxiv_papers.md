@@ -1,3 +1,90 @@
+# MedRxiv 2025-01-20 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 母体和胎儿蛋白质组对出生体重的影响：一项孟德尔随机化分析 | McBride, N. | [PDF](https://doi.org/10.1101/2023.10.20.23297135) | N/A | Effects of the maternal and fetal proteome on birth weight: a Mendelian randomization analysis |
+| 解释耐药性和敏感性病原体稳定共存的机制：耐药性获得纯化选择模型 | Pennings, P. S. | [PDF](https://doi.org/10.1101/2023.12.07.23299709) | N/A | Explaining the stable coexistence of drug-resistant and -susceptible pathogens: the Resistance Acquisition Purifying Selection model |
+| 利用多祖先长读长测序面板进行结构变异的填补，能够识别疾病关联。 | Noyvert, B. | [PDF](https://doi.org/10.1101/2023.12.20.23300308) | N/A | Imputation of structural variants using a multi-ancestry long-read sequencing panel enables identification of disease associations |
+| 近视与模糊状态下的皮层视觉处理差异。 | Steinfeld, K. | [PDF](https://doi.org/10.1101/2024.03.22.24304534) | N/A | Cortical Visual Processing Differences in Myopia and Blur. |
+| 利用基因组数据追踪本地范围内的SARS-CoV-2病毒集群 | Lyu, L. | [PDF](https://doi.org/10.1101/2024.09.18.24313896) | N/A | Tracing SARS-CoV-2 Clusters Across Local Scales Using Genomic Data |
+| 模拟Clade Ib MPXV在亚洲城市的潜在传播 | Jin, S. | [PDF](https://doi.org/10.1101/2024.10.16.24315640) | N/A | Modelling the potential spread of Clade Ib MPXV in Asian cities |
+| 整合多维数据分析用于慢性腰痛的精准诊断 | Vickery, S. | [PDF](https://doi.org/10.1101/2024.10.29.24316352) | N/A | Integrating Multidimensional Data Analytics for Precision Diagnosis of Chronic Low Back Pain |
+| 结合猴痘疫苗接种与行为改变以控制男男性行为者中的猴痘传播：一项数学模型研究 | Xiridou, M. | [PDF](https://doi.org/10.1101/2025.01.06.25320043) | N/A | Combining mpox vaccination and behavioural changes for mpox control among men who have sex with men: a mathematical modelling study |
+| 婴儿大脑处理的不同时间阶段与早期和晚期的自闭症诊断相关联 | Bazelmans, T. | [PDF](https://doi.org/10.1101/2025.01.10.25320053) | N/A | Distinct temporal stages of infant brain processing associate with early versus later autism diagnosis |
+| 对非洲及非洲混血人群中的帕金森病进行大规模遗传特征研究 | Akcimen, F. | [PDF](https://doi.org/10.1101/2025.01.14.25320205) | N/A | Large-scale genetic characterization of Parkinson's disease in the African and African admixed populations |
+| 阿布扎比人口中的癌症负担：一项回顾性队列研究 | Baynouna Alketbi, L. M. | [PDF](https://doi.org/10.1101/2025.01.18.25320767) | N/A | The Cancer Burden in the Abu Dhabi Population: A Retrospective Cohort Study |
+| 居住在加纳的围产期感染HIV的儿童血脂水平的变化 | Ayanful-Torgby, R. | [PDF](https://doi.org/10.1101/2025.01.16.25320654) | N/A | Alterations in Lipid Profiles in Children with Perinatally Acquired HIV Infection living in Ghana |
+| 白细胞计数比低密度脂蛋白胆固醇更能预测新型颈动脉粥样硬化 | Li, Y. | [PDF](https://doi.org/10.1101/2025.01.14.25320572) | N/A | Leukocyte Count Is Better than LDL-C as Predictor of Novel Carotid Atherosclerosis |
+| DspS311A基因敲入小鼠模拟了显性和隐性形式的Desmoplakin相关心肌病的临床病理特征。 | Di Bona, A. | [PDF](https://doi.org/10.1101/2025.01.14.24319713) | N/A | DspS311A knock-in mice replicate the clinical-pathological features of dominant and recessive forms of Desmoplakin-related cardiomyopathies |
+| 挪威长期护理居民的心肺复苏状况 | Skirbekk, V. | [PDF](https://doi.org/10.1101/2025.01.15.25320634) | N/A | Cardiopulmonary resuscitation status among long-term care residents in Norway |
+| 海滩工人的职业概况及工作场所事故的普遍性 | Cremonese, C. | [PDF](https://doi.org/10.1101/2025.01.15.25320620) | N/A | Occupational profile and prevalence of workplace accidents among beach workers |
+| 全球难民堕胎权利：2022年堕胎法律与强制流离失所的范围界定审查与定量分析 | Erhardt-Ohren, B. | [PDF](https://doi.org/10.1101/2025.01.16.25320653) | N/A | Abortion rights for refugees around the world: A scoping review and quantitative analysis of abortion laws and forced displacement in 2022 |
+| 埃塞俄比亚奥罗米亚州阿西区苏德地区产后妇女现代避孕方法使用情况及相关因素 | Feyissa, G. D. | [PDF](https://doi.org/10.1101/2025.01.15.25320617) | N/A | Modern contraceptive utilization and associated factors among postpartum women, Sude District, Arsi Zone, Oromia, Ethiopia |
+| 将这段翻译成中文如下：
+
+“在电子健康记录中对精神分裂症诊断代码的丢失进行建模，可以提高表型数据的质量以及多基因评分的跨祖先可转移性。”
+
+这句话的意思是，通过改进电子健康记录中精神分裂症诊断数据的处理方式，可以提升数据的准确性，并且使得基于这些数据的多基因评分在不同种族或人群中的适用性更强。 | Burstein, D. | [PDF](https://doi.org/10.1101/2025.01.19.25320806) | N/A | Modeling diagnostic code dropout of schizophrenia in electronic health records improves phenotypic data quality and cross-ancestry transferability of polygenic scores |
+| 系统性药物基因组范围的孟德尔随机化研究确定了慢性牙周炎的治疗靶基因 | Cheng, Z. | [PDF](https://doi.org/10.1101/2025.01.19.25320804) | N/A | Systematic druggable genome-wide Mendelian randomization identifies therapeutic target genes for chronic periodontitis |
+| 医生交接对急诊科住院患者预后的影响：一项基于医疗管理数据库的回顾性队列研究 | Mokhtari, A. | [PDF](https://doi.org/10.1101/2025.01.16.25320692) | N/A | The impact of physician handoffs on the outcomes of admitted emergency department patients: a medical administrative database retrospective cohort study |
+| 关于符合肥胖治疗条件的真实世界成年患者中新型GLP1受体激动剂启动的趋势与差异 | Radwan, R. M. | [PDF](https://doi.org/10.1101/2025.01.20.25320839) | N/A | Trends and Disparities in Newer GLP1 Receptor Agonist Initiation among Real-World Adult Patients Eligible for Obesity Treatment |
+| 基于行为驱动的多主体建模分析数字接触追踪对疫情控制的影响 | Lopera Gonzalez, L. I. | [PDF](https://doi.org/10.1101/2025.01.20.25320711) | N/A | Impact of Digital Contact Tracing on Pandemic Control Analysed with Behaviour-driven Agent-based Modelling |
+| 遗传多态性与抗结核药物性肝损伤（AT-DILI）风险的关系：系统综述与荟萃分析 | Dehghan Tarazjani, A. | [PDF](https://doi.org/10.1101/2025.01.20.25320827) | N/A | Genetic polymorphism and risk of anti-tuberculosis drug-induced liver injury (AT-DILI): a systematic review and meta-analysis |
+| 广义线性混合模型方法在分析孟加拉国水、卫生和卫生设施中的应用：基于2022年BDHS数据的洞察 | Mim, M. S. | [PDF](https://doi.org/10.1101/2025.01.19.25320801) | N/A | Generalized Linear Mixed Model Approach for Analyzing Water, Sanitation, and Hygiene Facilities in Bangladesh: Insights from BDHS 2022 Data |
+| 从医疗保健专业人员的角度看睡眠障碍专科服务转诊的障碍和促进因素：定性研究证据的范围综述 | Sykorova, M. | [PDF](https://doi.org/10.1101/2025.01.20.25320835) | N/A | Barriers and facilitators to specialist service referrals for sleep disorders from healthcare professionals perspective: A scoping review of qualitative research evidence |
+| 妊娠相关风险和分娩地点趋势：来自印度尼西亚人口与健康调查数据的洞察 | Hodgkin, K. | [PDF](https://doi.org/10.1101/2025.01.19.25320813) | N/A | Pregnancy-related risk and birth setting trends: Insights from Indonesian Demographic Health Survey data |
+| 利用人工智能对合并肺纤维化与肺气肿进行精准诊断与放射组学分析：来自一项多中心队列研究的洞见
+
+在这项研究中，研究者们探索了人工智能技术在诊断和分析合并肺纤维化与肺气肿（Combined Pulmonary Fibrosis and Emphysema, CPFE）中的应用。通过多中心队列研究，他们旨在提高CPFE的诊断准确性，并深入理解该疾病的放射组学特征。研究结果表明，人工智能不仅能够提升诊断的精确度，还能通过放射组学分析揭示疾病潜在的生物学特征，为未来的个性化治疗策略提供重要参考。 | Zhang, S. | [PDF](https://doi.org/10.1101/2025.01.20.25320811) | N/A | Harnessing Artificial Intelligence for Accurate Diagnosis and Radiomics Analysis of Combined Pulmonary Fibrosis and Emphysema: Insights from a Multicenter Cohort Study |
+| 以下是将这段英文翻译成中文的结果：
+
+**基于稀疏标注训练的深度卷积神经网络在转移性脊柱疾病放疗患者中对躯干肌肉组织的自动分割。**
+
+翻译说明：
+- **Automated Segmentation**：自动分割
+- **Trunk Musculature**：躯干肌肉组织
+- **Deep CNN**：深度卷积神经网络
+- **Trained from Sparse Annotations**：基于稀疏标注训练
+- **Radiation Therapy Patients**：放疗患者
+- **Metastatic Spine Disease**：转移性脊柱疾病
+
+希望这个翻译对你有帮助！ | Hong, V. | [PDF](https://doi.org/10.1101/2025.01.13.25319967) | N/A | Automated Segmentation of Trunk Musculature with a Deep CNN Trained from Sparse Annotations in Radiation Therapy Patients with Metastatic Spine Disease. |
+| 《基于MRI的前列腺癌检测的少样本学习：与放射科医生表现的比较分析》 | Yamagishi, Y. | [PDF](https://doi.org/10.1101/2025.01.19.25320503) | N/A | Few-Shot Learning for Prostate Cancer Detection on MRI: Comparative Analysis with Radiologists' Performance |
+| 前庭-眼反射功能在晕车个体中的表现：一项横断面研究 | AMBODE, O. I. | [PDF](https://doi.org/10.1101/2025.01.19.25320802) | N/A | Vestibulo-Ocular Reflex Function in Individuals with Car Sickness: A Cross-Sectional Study |
+| 与运动适应相关的生物电路：剂量和个体间反应异质性的影响 | McAdam, J. S. | [PDF](https://doi.org/10.1101/2025.01.20.25320845) | N/A | Biocircuitry linked to exercise adaptations: impact of dose and inter-individual response heterogeneity |
+| 非洲眼外伤文献综述 | PHILEMON, M. N. | [PDF](https://doi.org/10.1101/2025.01.16.25319949) | N/A | Literature review on eye trauma in Africa |
+| 静态和动态脑内信号分析揭示了耐药性局灶性癫痫中的保护性网络 | Di Giacomo, R. | [PDF](https://doi.org/10.1101/2025.01.20.25320855) | N/A | Static and dynamic intracerebral signal analysis reveals protective networks against seizures in drug-resistant focal epilepsy |
+| 阿尔及利亚患者重症肌无力的临床特征与血清学诊断：一项针对小规模患者的前瞻性研究 | Bouchtout, M. N. | [PDF](https://doi.org/10.1101/2025.01.19.25320522) | N/A | Clinical aspects and serodiagnosis of myasthenia gravis in Algerian patients: a prospective study on a small group of patients |
+| 使用新型检测方法对神经退行性疾病中脑脊液神经丝中链、轻链和重链的比较分析 | Fazeli, B. | [PDF](https://doi.org/10.1101/2025.01.20.25320650) | N/A | Comparative analysis of cerebrospinal fluid neurofilament medium, light and heavy chain in neurodegenerative diseases using a novel assay for the detection of neurofilament medium chain |
+| 分子特征对局部尤文肉瘤患者的预后具有指导意义：来自儿童肿瘤学组的报告 | Gillani, R. | [PDF](https://doi.org/10.1101/2025.01.20.25320840) | N/A | Molecular characterization informs prognosis in patients with localized Ewing sarcoma: A report from the Children's Oncology Group |
+| 基因预测与逆向选择 | Azevedo, E. M. | [PDF](https://doi.org/10.1101/2025.01.20.25320832) | N/A | Genetic prediction and adverse selection |
+| 酒精使用严重程度和多基因风险对年轻成年人灰质体积的影响 | Chen, Y. | [PDF](https://doi.org/10.1101/2025.01.20.25320842) | N/A | The effects of alcohol use severity and polygenic risk on gray matter volumes in young adults |
+| 评估大型语言模型在与遗传条件相关的衰老问题上的表现 | Othman, A. A. | [PDF](https://doi.org/10.1101/2025.01.19.25320798) | N/A | Assessing Large Language Model Performance Related to Aging in Genetic Conditions |
+| 使用大型语言模型（LLMs）总结临床笔记以预测ICU再入院和住院时长 | Choudhuri, A. | [PDF](https://doi.org/10.1101/2025.01.19.25320797) | N/A | Summarizing Clinical Notes using LLMs for ICU Bounceback and Length-of-Stay Prediction |
+| 增强对COVID-19疫苗接种功能抗体反应的遗传标记 | Purcell, R. A. | [PDF](https://doi.org/10.1101/2025.01.20.25320822) | N/A | Genetic markers of enhanced functional antibody responses to COVID-19 vaccination |
+| 对与肺结核患者有家庭接触的成年人进行无症状结核病筛查 | Mendelsohn, S. C. | [PDF](https://doi.org/10.1101/2025.01.20.25320843) | N/A | Screening for Asymptomatic Tuberculosis among Adults with Household Exposure to a Patient with Pulmonary Tuberculosis |
+| 减少肾损伤中的导尿管使用（DUCKI）：重症监护病房中的有效性和实施研究 | Patten, C. | [PDF](https://doi.org/10.1101/2025.01.19.25320779) | N/A | Decreasing Urinary Catheterization in Kidney Injury (DUCKI): an effectiveness and deimplementation study in the Intensive Care Unit |
+| 阿联酋人口中年龄和性别相关的共病研究：基因与环境交互作用对冠状动脉疾病的影响 | Iftikhar, H. | [PDF](https://doi.org/10.1101/2025.01.20.25320831) | N/A | Age and Gender-Dependent Comorbidities in UAE Population identifies Coronary Artery Disease with Gene-Environment Interactions |
+| 评估糖尿病专用代餐对超重和肥胖2型糖尿病患者血糖控制的效果：一项随机对照试验的方案
+
+在这段翻译中，我尽量保持了原文的专业性和准确性，同时确保语言流畅，易于理解。以下是翻译的详细解释：
+
+1. **Evaluating** - 评估：表示对某事物进行系统的检查和评价。
+2. **Diabetes-Specific Meal Replacements** - 糖尿病专用代餐：指专门为糖尿病患者设计的替代餐食。
+3. **Glycaemic Control** - 血糖控制：指通过饮食、药物等手段维持血糖在正常范围内。
+4. **Overweight and Obese T2DM Patients** - 超重和肥胖2型糖尿病患者：T2DM是Type 2 Diabetes Mellitus的缩写，即2型糖尿病。
+5. **A Protocol for a Randomized Controlled Trial** - 一项随机对照试验的方案：随机对照试验是一种科学实验设计，用于比较不同干预措施的效果。
+
+整体翻译旨在传达原文的核心信息，同时确保中文表达的自然和准确。 | CHE WAN MANSOR, W. A. N. W. | [PDF](https://doi.org/10.1101/2025.01.20.25320837) | N/A | Evaluating Diabetes-Specific Meal Replacements for Glycaemic Control in Overweight and Obese T2DM Patients: A Protocol for a Randomized Controlled Trial |
+| 严重精神疾病患者通过辅助他汀类药物处方改善精神症状：三项目标试验模拟研究 | Launders, N. | [PDF](https://doi.org/10.1101/2025.01.20.25320829) | N/A | Psychiatric symptom improvement from adjunctive statin prescribing in severe mental illness: three target trial emulation studies |
+| 从节制饮酒者到依赖饮酒者：葡萄牙大学生饮酒模式及风险因素 | Saldanha, L. | [PDF](https://doi.org/10.1101/2025.01.20.25320850) | N/A | From Abstainers to Dependent Drinkers: Alcohol Consumption Patterns and Risk Factors Among Portuguese University Students |
+| 儿童非特应性哮喘的成因与机制研究（CAMERA研究）：研究背景与方案
+
+注：CAMERA是Causes And MEchanisms foR non-atopic Asthma in Children的缩写，翻译时保留了英文缩写形式，并在括号中注明了全称的中文翻译。 | Njoroge, M. W. | [PDF](https://doi.org/10.1101/2025.01.20.25320833) | N/A | Causes And MEchanisms foR non-atopic Asthma in Children CAMERA Study: rationale and protocol |
+| 乌干达本迪布焦地区社区中蝙蝠与人类互动及相关因素的横断面研究 | Baguma, J. N. | [PDF](https://doi.org/10.1101/2025.01.19.25320814) | N/A | Bat-Human Interactions and associated factors among communities in Bundibugyo District, Uganda: A Cross-sectional Study |
+| 评估血浆p-tau217在多样化和异质性社区队列中检测淀粉样蛋白病理的有效性 | Rudolph, M. D. | [PDF](https://doi.org/10.1101/2025.01.20.25320851) | N/A | Evaluation of plasma p-tau217 for detecting amyloid pathology in a diverse and heterogeneous community-based cohort |
+| 基于超声的血脑屏障开放后卡铂和荧光素脑内滞留的药代动力学分析 | Habashy, K. J. | [PDF](https://doi.org/10.1101/2025.01.20.25320847) | N/A | Pharmacokinetic analysis of carboplatin and fluorescein brain permanence following ultrasound-based blood-brain barrier opening |
+| 呼吸路径 - 通过分析呼吸特征管理手术患者肺癌的协议 | Barata, R. | [PDF](https://doi.org/10.1101/2025.01.19.25320800) | N/A | BREATH-PATH - Protocol for lung cancer management in surgical patients through analysis of breath profiles |
 # MedRxiv 2025-01-19 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
