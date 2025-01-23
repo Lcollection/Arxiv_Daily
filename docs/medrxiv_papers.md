@@ -1,3 +1,95 @@
+# MedRxiv 2025-01-22 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 跨模型系统的功能分析表明，核糖体蛋白与左心发育不全综合征相关的生长和增殖缺陷有关。 | Nielsen, T. | [PDF](https://doi.org/10.1101/2022.07.01.22277112) | N/A | Functional analysis across model systems implicates ribosomal proteins in growth and proliferation defects associated with hypoplastic left heart syndrome |
+| 在Cox回归中进行两组比较的贝叶斯因子及其在从汇总统计量逆向工程原始数据中的应用 | Linde, M. | [PDF](https://doi.org/10.1101/2022.11.02.22281762) | N/A | Bayes Factors for Two-group Comparisons in Cox Regression with an Application for Reverse-Engineering Raw Data from Summary Statistics |
+| 基于应用程序的心理治疗练习对焦虑的即时影响：一项随机对照试验 | Kahl, F. | [PDF](https://doi.org/10.1101/2023.11.27.23299083) | N/A | The Immediate Impact of App-Based Psychotherapeutic Exercises on Anxiety: An RCT |
+| 时间校正剂量累积——再照射生物学研究的下一步 | Gopalakrishnan, V. | [PDF](https://doi.org/10.1101/2024.08.25.24312201) | N/A | Temporally Corrected Dose Accumulation -- Next Steps in the Biology of Reirradiation |
+| 一种混合计算机视觉模型，用于预测不同人群中的肺癌 | Zakkar, A. | [PDF](https://doi.org/10.1101/2024.10.07.24315011) | N/A | A hybrid computer vision model to predict lung cancer in diverse populations |
+| 电子健康记录揭示了不同时间段和医疗专科在使用血液单位方面的差异。 | Turkulainen, E. | [PDF](https://doi.org/10.1101/2024.11.08.24316743) | N/A | Electronic health records reveal variations in the use of blood units by hour and medical specialty |
+| 积极保护性组合分析：一种可扩展的新方法，用于检测高风险个体中降低疾病流行率的变异 | Sardell, J. | [PDF](https://doi.org/10.1101/2024.12.19.24319349) | N/A | Actively Protective Combinatorial Analysis: a Scalable Novel Method for Detecting Variants that Contribute to Reduced Disease Prevalence in High-Risk Individuals |
+| 抑郁症患者偏好结果的范畴界定综述方案 | Boreham, M. A. | [PDF](https://doi.org/10.1101/2024.12.20.24319426) | N/A | Protocol For a Scoping Review of Patient-Preferred Outcomes in Depressive Disorders |
+| 遗传、生活方式及环境对健康的影响：芬兰生物样本库回顾研究方案（BioRecall） | Sillanpaa, E. | [PDF](https://doi.org/10.1101/2025.01.02.25319875) | N/A | Genetic, lifestyle and environmental influences on health: A Finnish biobank recall study protocol (BioRecall) |
+| 脂肪分布与十二种肥胖相关癌症的风险：一项孟德尔随机化分析 | Hazelwood, E. | [PDF](https://doi.org/10.1101/2025.01.10.25320324) | N/A | Adiposity distribution and risks of twelve obesity-related cancers: a Mendelian randomization analysis |
+| 从医疗保健专业人员的角度来看，睡眠障碍专科服务转诊的障碍和促进因素：定性研究证据的范围综述 | Sykorova, M. | [PDF](https://doi.org/10.1101/2025.01.20.25320835) | N/A | Barriers and facilitators to specialist service referrals for sleep disorders from healthcare professionals perspective: A scoping review of qualitative research evidence |
+| 解释刚果民主共和国布卡武市卡杜图卫生区霍乱疫情发生的因素 | KALIMIRA KACHELEWA, B. | [PDF](https://doi.org/10.1101/2025.01.20.25320821) | N/A | Explanatory factors for the occurrence of the cholera epidemic in the Kadutu health zone, city of Bukavu in the Democratic Republic of Congo |
+| 揭示百日咳的“暗物质”：来自母婴纵向队列的无症状携带状态证据 | Gunning, C. E. | [PDF](https://doi.org/10.1101/2025.01.20.25320623) | N/A | Shining light on the dark matter of pertussis: evidence for an asymptomatic carriage state from a longitudinal cohort of mother/infant dyads |
+| 注册报告：系统性耐力训练对脂水肿女性治疗效果的影响——LipidEx研究 | Saether, J. C. | [PDF](https://doi.org/10.1101/2025.01.21.25320877) | N/A | Registered Report: The effect of systematic endurance training in treatment of women with lipedema - The LipidEx study |
+| 超重或肥胖儿童及青少年参与体育活动干预后的健康结果：一项涵盖超过1,200项试验的综合综述 | Massierer, F. D. | [PDF](https://doi.org/10.1101/2025.01.21.25320866) | N/A | Health outcomes in children and adolescents with overweight or obesity exposed to physical activity interventions: an umbrella review covering over 1,200 trials |
+| 母乳喂养与自闭症谱系之间的相互作用 | Ben-Sasson, A. | [PDF](https://doi.org/10.1101/2025.01.21.25320785) | N/A | The Interplay Between Breastfeeding and Autism Spectrum |
+| 识别低收入和中等收入国家乳制品行业中抗生素耐药性管理的社会经济障碍 | Singh, H. | [PDF](https://doi.org/10.1101/2025.01.20.25320874) | N/A | Identifying socio-economic barriers to antibiotic resistance stewardship in the Dairy Industry in LICs and LMICs |
+| 纽约州居民在孕期及产后一年内非致命性药物过量及注射相关细菌感染的模式 | Cooper, H. L. | [PDF](https://doi.org/10.1101/2025.01.21.25320879) | N/A | Patterns of non-fatal overdose and injection-related bacterial infections during pregnancy and the postpartum year among New York State residents |
+| 演出必须继续：评估精英舞者受伤后重返舞蹈准备的可用工具有哪些？一项范围界定审查协议
+
+这段翻译保留了原文的主要信息和结构，同时确保中文表达流畅自然。标题中的“The show must go on”翻译为“演出必须继续”，传达了原文的紧迫感和决心。接下来的部分详细说明了研究的主题和目的，即评估精英舞者受伤后重返舞蹈准备的可用工具，并指出这是一项范围界定审查协议。 | Cahalan, R. | [PDF](https://doi.org/10.1101/2025.01.19.25320330) | N/A | The show must go on: What are the available tools to assess readiness to return to dance post injury in elite dancers? A scoping review protocol |
+| 乳腺癌相关淋巴水肿患者的在线综合运动管理（GEM）计划：一项试点随机对照试验的方案 | Arinaga, Y. | [PDF](https://doi.org/10.1101/2025.01.20.25320868) | N/A | Online General Exercise Management (GEM) Program for patients with Breast Cancer-Related Lymphedema: A Protocol for a Pilot Randomized Controlled Trial |
+| 高压氧在中强度运动后对疲劳的影响：一项单盲交叉随机试验 | YAGISHITA, K. | [PDF](https://doi.org/10.1101/2025.01.19.25320809) | N/A | Effect of Hyperbaric Oxygen After Moderate-Intensity Exercise on Fatigue: A Single-blind Crossover Randomized Trial |
+| 理解造血细胞移植中的端粒生物学：一个动力学系统的视角。 | Toor, A. A. | [PDF](https://doi.org/10.1101/2025.01.20.24319630) | N/A | Understanding Telomere Biology in Hematopoietic Cell Transplantation: A Dynamical Systems Perspective. |
+| 以下是将这段英文翻译成中文的结果：
+
+**证据表明一部分儿童在中度/重度创伤性脑损伤（TBI）后存在长期神经炎症：UCLA RAPBI研究**
+
+翻译说明：
+- **Evidence Suggesting** 翻译为“证据表明”。
+- **Prolonged Neuroinflammation** 翻译为“长期神经炎症”。
+- **Subset of Children** 翻译为“一部分儿童”。
+- **Moderate/Severe TBI** 翻译为“中度/重度创伤性脑损伤”。
+- **UCLA RAPBI Study** 翻译为“UCLA RAPBI研究”，其中 UCLA 是加州大学洛杉矶分校的缩写，RAPBI 是研究的名称或缩写。
+
+希望这段翻译对您有帮助！ | McCabe, C. | [PDF](https://doi.org/10.1101/2025.01.20.25320782) | N/A | Evidence Suggesting Prolonged Neuroinflammation in a Subset of Children after Moderate/Severe TBI: A UCLA RAPBI Study |
+| 丹麦间皮瘤病例的详细地图绘制以识别风险升高地区：一项全国性基于人群的研究 | Christensen, H. S. | [PDF](https://doi.org/10.1101/2025.01.20.25320820) | N/A | Detailed mapping of mesothelioma cases in Denmark to identify areas with elevated risk: a nationwide population-based study |
+| 视网膜和视神经病变与常染色体显性遗传性阿尔茨海默病中的淀粉样蛋白相对应 | Kashani, A. H. | [PDF](https://doi.org/10.1101/2025.01.21.25319904) | N/A | Retinal and Optic Nerve Lesions Correspond to Amyloid in Autosomal Dominant Alzheimer's Disease |
+| 国际角膜与眼表疾病电子健康记录数据集 | Ting, D. S. J. | [PDF](https://doi.org/10.1101/2025.01.18.25320772) | N/A | International Corneal and Ocular Surface Disease Dataset for Electronic Health Records |
+| ## Regnase-1 缺陷中表达 VCAM1 的 T 细胞与系统性自身免疫
+
+**背景:** Regnase-1 是一种 RNA 结合蛋白，在免疫系统中起着关键的调控作用。Regnase-1 缺陷会导致严重的系统性自身免疫疾病，但其具体机制尚不完全清楚。
+
+**研究发现:** 本研究发现，在 Regnase-1 缺陷的小鼠中，T 细胞会异常表达血管细胞粘附分子 1 (VCAM1)。这些表达 VCAM1 的 T 细胞具有以下特征：
+
+* **活化表型:** 高表达活化标志物，如 CD44 和 CD69。
+* **效应功能增强:** 产生更多的促炎性细胞因子，如 IFN-γ 和 IL-17。
+* **组织浸润能力增强:** 更容易迁移到非淋巴组织，如肺部和肝脏。
+
+**机制研究:** 进一步研究发现，Regnase-1 通过直接结合 VCAM1 mRNA 并促进其降解，从而抑制 VCAM1 的表达。Regnase-1 缺陷导致 VCAM1 mRNA 稳定性增加，进而引起 VCAM1 蛋白表达上调。
+
+**病理意义:** 在 Regnase-1 缺陷的小鼠中，清除表达 VCAM1 的 T 细胞可以显著缓解系统性自身免疫症状，表明这些细胞在疾病发生发展中起着关键作用。
+
+**结论:** 本研究揭示了 Regnase-1 通过调控 VCAM1 表达维持 T 细胞稳态的新机制，为理解 Regnase-1 缺陷相关自身免疫疾病的发病机制提供了新的思路。
+
+**关键词:** Regnase-1, VCAM1, T 细胞, 系统性自身免疫 | Cuchet-Lourenco, D. | [PDF](https://doi.org/10.1101/2025.01.21.25320127) | N/A | VCAM1-expressing T cells and systemic autoimmunity in Regnase-1 deficiency |
+| 运用交叉性方法检验全国性样本中性少数群体压力源、韧性及物质滥用差异之间的关联 | Zhang, C. | [PDF](https://doi.org/10.1101/2025.01.21.25320897) | N/A | Applying an Intersectional Approach to Examine the Associations between Sexual Minority Stressors, Resilience, and Substance Misuse Disparities among a National Sample of Sexual Minority Populations |
+| 核酸氧化尿生物标志物与结直肠癌风险之间的时间依赖性关系 | Zhao, Y. | [PDF](https://doi.org/10.1101/2025.01.21.25320898) | N/A | Time-dependent relationship between urinary biomarkers of nucleic acid oxidation and colorectal cancer risk |
+| 将宏观经济和公共卫生影响纳入应对疫情的社会规划政策中 | Cornfeld, O. | [PDF](https://doi.org/10.1101/2025.01.21.25320900) | N/A | Integrating macroeconomic and public health impacts in social planning policies for pandemic response |
+| 在常规干预措施存在的情况下，猴痘病毒感染缓解策略的最优控制与成本效益分析 | Naandam, S. | [PDF](https://doi.org/10.1101/2025.01.20.25320862) | N/A | Optimal control and cost-effectiveness analysis of mitigation strategies for monkeypox virus infection in the presence of routine interventions |
+| 溃疡性结肠炎患者静脉血栓栓塞、重大心血管不良事件、肿瘤及严重感染的真实世界数据分析 | de la Oliva, V. | [PDF](https://doi.org/10.1101/2025.01.21.25320903) | N/A | Real world data analysis of venous thromboembolism, adverse major cardiovascular events, neoplasia and serious infections in ulcerative colitis patients |
+| 估计由单倍体不足引起的癫痫疾病修饰疗法的全球市场规模 | Perez-Palma, E. | [PDF](https://doi.org/10.1101/2025.01.20.25320871) | N/A | Estimating the Global Market Size for Disease-Modifying Therapies in Epilepsy Caused by Haploinsufficiency |
+| 肝硬化与肝细胞癌患者的营养因素、细胞因子、肝功能参数及生存率的评估：一项横断面研究 | Faria, I. | [PDF](https://doi.org/10.1101/2025.01.19.25320796) | N/A | Evaluation of nutritional factors, cytokines, liver parameters and survival of patients with liver cirrhosis and hepatocellular carcinoma: a cross-sectional study |
+| 伙伴的军事部署和战争状况会增加围产期抑郁症的发生率，并减少产后母婴之间的情感联系。 | Allouche-Kam, H. | [PDF](https://doi.org/10.1101/2025.01.20.25320861) | N/A | Partner military deployment and war conditions increase perinatal depression and decrease postpartum mother-infant bonding |
+| 液体和白质抑制对比MRI提高了深度学习对多发性硬化症皮质病变的检测能力 | Gordaliza, P. M. | [PDF](https://doi.org/10.1101/2025.01.19.25320792) | N/A | Fluid and White Matter Suppression Contrasts MRI Improves Deep Learning Detection of Multiple Sclerosis Cortical Lesions |
+| 基于小波的尺度保持短波红外高光谱数据压缩方法 | Biswas, H. | [PDF](https://doi.org/10.1101/2025.01.18.25320781) | N/A | Wavelet-Based Compression Method for Scale-Preserving SWIR Hyperspectral Data |
+| 头颈癌易感基因的外显子组测序 | Yu, Y. | [PDF](https://doi.org/10.1101/2025.01.20.25320626) | N/A | Exome Sequencing for Head and Neck Cancer Predisposition Genes |
+| 一项基于人工智能（AI）预测分析监测的实用随机对照试验，用于早期检测临床恶化 | Keim-Malpass, J. | [PDF](https://doi.org/10.1101/2025.01.20.25320838) | N/A | A pragmatic randomized controlled trial of artificial intelligence (AI)-based predictive analytics monitoring for early detection of clinical deterioration |
+| 英格兰NHS信托机构中使用andexanet alfa逆转直接口服抗凝剂的趋势与变化 | Fisher, L. | [PDF](https://doi.org/10.1101/2025.01.21.25320733) | N/A | Trends and variation in andexanet alfa for the reversal of direct oral anticoagulants in NHS Trusts in England |
+| 将这段翻译成中文为：将常规血液检测的轨迹建模作为脊髓损伤结果的动态生物标志物。 | Mussavi Rizi, M. | [PDF](https://doi.org/10.1101/2025.01.20.25320728) | N/A | Modeling trajectories of routine blood tests as dynamic biomarkers for outcome in spinal cord injury |
+| 将常规血液检测的轨迹建模为脊髓损伤结果的动态生物标志物 | Mussavi Rizi, M. | [PDF](https://doi.org/10.1101/2025.01.20.25320728) | N/A | Modeling trajectories of routine blood tests as dynamic biomarkers for outcome in spinal cord injury |
+| 人工智能在临床试验风险评估中的应用范围综述 | Teodoro, D. | [PDF](https://doi.org/10.1101/2025.01.21.25320310) | N/A | A Scoping Review of Artificial Intelligence Applications in Clinical Trial Risk Assessment |
+| 模拟中年和老年人处方药费用分摊方案变化的影响 | Larkin, J. | [PDF](https://doi.org/10.1101/2025.01.21.25320791) | N/A | Modelling the impact of changes to prescription medicine cost-sharing schemes among middle aged and older adults |
+| 无并发症疟疾晚期治疗失败的概率分类 | Mehra, S. | [PDF](https://doi.org/10.1101/2025.01.21.25320790) | N/A | Probabilistic classification of late treatment failure in uncomplicated malaria |
+| 贝达喹啉耐药结核病的治疗结果：一项回顾性与匹配队列研究 | Mdlenyani, L. | [PDF](https://doi.org/10.1101/2025.01.21.25320876) | N/A | Treatment outcomes of bedaquiline-resistant tuberculosis: a retrospective and matched cohort study |
+| 评估坦桑尼亚达累斯萨拉姆市药品进口商和认证药品销售网点所选克霉唑阴道栓剂的物理化学参数 | Brashi, B. H. | [PDF](https://doi.org/10.1101/2025.01.21.25320887) | N/A | Evaluation of Physico-chemical parameters of selected Clotrimazole pessaries from pharmaceutical importers and Accredited Drug Dispensing Outlets in Dar es Salaam, Tanzania |
+| 评估混合物理治疗技术的有效性：一项关于退伍军人患者群体中可穿戴袖套的试点研究 | Truntzer, J. | [PDF](https://doi.org/10.1101/2025.01.21.25320682) | N/A | Evaluating the Efficacy of a Hybrid Physical Therapy Technology: A Pilot Study on Wearable Sleeves within a Veteran Patient Population |
+| 血清催化模型的数学及其在公共卫生数据中的应用 | Kamau, E. | [PDF](https://doi.org/10.1101/2025.01.21.25320864) | N/A | The Mathematics of Serocatalytic Models with applications to public health data |
+| 优化传递坏消息时的压力：一项关于压力唤醒重新评估和工作示例干预在医学生中心理生理影响的随机对照试验。 | Bosshard, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320844) | N/A | Optimizing stress in breaking bad news: a randomized controlled trial on the psychophysiological effects of stress arousal reappraisal and worked-example interventions among medical students. |
+| 突破生长障碍：阿富汗儿童（6-59个月）发育迟缓问题——基于2023年联合国儿童基金会多指标类集调查的洞察 | Ashor, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320890) | N/A | Breaking the Growth Barrier: Stunting Among Afghan Children (6-59 Months) - Insights from the 2023 UNICEF MICS Survey |
+| 融合癌蛋白和协同突变定义了NUP98重排白血病的疾病表型 | Umeda, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320683) | N/A | Fusion oncoproteins and cooperating mutations define disease phenotypes in NUP98-rearranged leukemia |
+| 利用大型语言模型推进慢性背痛中安慰剂反应的预测与理解 | A.P. Nunes, D. | [PDF](https://doi.org/10.1101/2025.01.21.25320888) | N/A | Advancing the prediction and understanding of placebo responses in chronic back pain using large language models |
+| CALD1、ESRP1和RBFOX1基因的变异与口面部裂风险相关。 | Carlson, J. | [PDF](https://doi.org/10.1101/2025.01.21.25320889) | N/A | Variants in CALD1, ESRP1, and RBFOX1 are associated with orofacial cleft risk |
+| COVID-19疫情对塞拉利昂地区和国家HIV检测服务接受度的影响：描述性分析 | Sheriff, H. | [PDF](https://doi.org/10.1101/2025.01.21.25320892) | N/A | Impact of the COVID-19 pandemic on regional and national uptake of HIV testing services in Sierra Leone: a descriptive analysis |
+| 在国家内部，与结核病感染传播、预防和护理相关的社会接触模式存在异质性。 | LeGrand, K. E. | [PDF](https://doi.org/10.1101/2025.01.21.25320893) | N/A | Within-country heterogeneity in patterns of social contact relevant for tuberculosis infection transmission, prevention, and care |
+| 在接种一剂诺瓦瓦克斯（Novavax）COVID-19疫苗后，临床唾液样本中检测到抗SARS-CoV-2黏膜IgA抗体。 | Zhu, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320906) | N/A | Detection of anti-SARS-CoV-2 mucosal IgA in clinical saliva samples after a dose of Novavax COVID-19 vaccine |
+| COVID-19大流行对塞拉利昂孕妇使用间歇性磺胺多辛-乙胺嘧啶预防疟疾的影响 | Pessima, W. T. | [PDF](https://doi.org/10.1101/2025.01.21.25320891) | N/A | Impact of the COVID-19 pandemic on the uptake of intermittent sulphadoxine-pyrimethamine for prevention of malaria amongst pregnant women in Sierra Leone |
+| 在《家庭空气污染干预网络试验》中，女性暴露于金属与收缩压和舒张压之间的基线关联 | KARAKWENDE, P. | [PDF](https://doi.org/10.1101/2025.01.21.25320894) | N/A | Baseline associations between exposure to metals and systolic and diastolic blood pressure among women in the Household Air Pollution Intervention Network Trial |
 # MedRxiv 2025-01-21 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
