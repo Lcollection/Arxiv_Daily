@@ -1,3 +1,70 @@
+# MedRxiv 2025-01-23 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 开发和应用于预测COVID-19疫情的流行病预测措施（PPM） | Chang, S.-R. | [PDF](https://doi.org/10.1101/2020.05.30.20118158) | N/A | Development and application of Pandemic Projection Measures (PPM) for forecasting the COVID-19 outbreak |
+| 一个经过验证的基于云的基因组平台，用于协调、快速地进行SARS-CoV-2基因组流行病学的全球分析。 | Amoako, D. | [PDF](https://doi.org/10.1101/2023.11.27.23298986) | N/A | A validated cloud-based genomic platform for co-ordinated, expedient global analysis of SARS-CoV-2 genomic epidemiology |
+| 脓毒症与急性肾损伤患者的个体化液体管理：基于决策树模型的方法
+
+（注：这里将"Policy Tree Approach"翻译为"基于决策树模型的方法"，以更符合中文语境和表达习惯。在医学研究中，决策树模型常用于辅助临床决策，因此这种翻译方式更能准确传达原文的含义。同时，"Personalized Fluid Management"翻译为"个体化液体管理"，强调了针对患者具体情况制定个性化治疗方案的核心理念。） | Oh, W. | [PDF](https://doi.org/10.1101/2024.08.06.24311556) | N/A | Personalized Fluid Management in Patients with Sepsis and AKI: A Policy Tree Approach |
+| ACVR2A通过TCF7/c-JUN途径促进滋养层细胞侵袭在先兆子痫进展中的作用 | Yang, S. | [PDF](https://doi.org/10.1101/2024.09.03.24312808) | N/A | ACVR2A Facilitates Trophoblast Cell Invasion through TCF7/c-JUN Pathway in Pre-eclampsia Progression |
+| 超声估计胎儿体重对生物测量变量的部分依赖性 | Bitsouni, V. | [PDF](https://doi.org/10.1101/2024.09.17.24313697) | N/A | Partial dependence of ultrasonically estimated fetal weight on biometric variables |
+| 胰高血糖素样肽-1受体激动剂使用与围手术期误吸之间的关联：系统综述与荟萃分析 | Elkin, J. | [PDF](https://doi.org/10.1101/2024.11.10.24317070) | N/A | Association Between Glucagon-like Peptide-1 Receptor Agonist Use and Perioperative Aspiration: A Systematic Review and Meta-Analysis |
+| FGF14重复长度和嵌合中断：SCA27B的修饰因子？ | Lass, J. | [PDF](https://doi.org/10.1101/2024.11.21.24317532) | N/A | FGF14 repeat length and mosaic interruptions: modifiers of SCA27B? |
+| 频率动态预测病毒的适应性、抗原关系及疫情增长 | Figgins, M. D. | [PDF](https://doi.org/10.1101/2024.12.02.24318334) | N/A | Frequency dynamics predict viral fitness, antigenic relationships and epidemic growth |
+| 饮食策略的潜力：低碳水化合物饮食对心血管-肾脏-代谢综合征的影响 | Xiao, X. | [PDF](https://doi.org/10.1101/2025.01.03.25319951) | N/A | The Potential of Dietary Strategies: The Impact of Low-Carbohydrate Diet on Cardiovascular-Kidney-Metabolic Syndrome |
+| 基于全基因组测序的成人胶质母细胞瘤遗传易感性分析 | van Opijnen, M. P. | [PDF](https://doi.org/10.1101/2025.01.16.25320661) | N/A | Whole genome sequencing-based analysis of genetic predisposition to adult glioblastoma |
+| 2021-2022年美国马萨诸塞州基于人群的SARS-CoV-2传播血清学调查 | Cramer, E. Y. | [PDF](https://doi.org/10.1101/2025.01.17.25320194) | N/A | Population-based serosurveys for SARS-CoV-2 transmission 2021-2022, Massachusetts USA |
+| 简短的处方练习可以量化神经退行性疾病中的上肢功能 | Straczkiewicz, M. | [PDF](https://doi.org/10.1101/2025.01.20.25320857) | N/A | Short prescribed exercises can quantify upper limb functioning in neurodegenerative disease |
+| 在孟加拉国实施针对中重度贫血孕妇的静脉铁剂干预措施的现实可行性和可接受性测试：一项示范项目协议 | Prang, K.-H. | [PDF](https://doi.org/10.1101/2025.01.22.25320952) | N/A | Testing real-world feasibility and acceptability of implementing an intravenous iron intervention for pregnant women with moderate and severe anaemia in Bangladesh: A demonstration project protocol |
+| 以下是将这段英文翻译成中文的结果：
+
+**审查协议：探讨大型语言模型在医疗教育和公共卫生学习空间中的应用**
+
+希望这对你有帮助！如果有其他问题，欢迎随时提问。 | Ndukwe, H. | [PDF](https://doi.org/10.1101/2025.01.22.25320953) | N/A | A review protocol examining the application of large language models in healthcare education and public health learning spaces |
+| MenstLLaMA: 一款专为印度月经健康教育设计的大型语言模型 | Adhikary, P. K. | [PDF](https://doi.org/10.1101/2025.01.22.25320466) | N/A | MenstLLaMA: A specialized large language model for menstrual health education in India |
+| 研究生医学课程中的反种族主义 | Sharma, C. | [PDF](https://doi.org/10.1101/2025.01.22.25320921) | N/A | Anti-racism in postgraduate medical curricula |
+| 基于虚拟现实的伽马感官刺激：一项可行性研究 | Reis, C. | [PDF](https://doi.org/10.1101/2025.01.21.25320913) | N/A | VR-based Gamma Sensory Stimulation: A feasibility study |
+| 多组学分析雌激素受体阳性人表皮生长因子阴性乳腺癌的转移潜力 | Mosquim, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320944) | N/A | Multiomic profiling of metastatic potential in estrogen receptor-positive human epidermal growth factor-negative breast cancer |
+| 自身免疫性内耳疾病诊断的最新进展：范围综述
+
+近年来，随着医学技术的不断进步，自身免疫性内耳疾病（Autoimmune Inner Ear Disease, AIED）的诊断方法也取得了显著进展。本文旨在通过范围综述的方法，系统回顾和总结近年来在AIED诊断领域的最新研究成果。我们将探讨包括生物标志物、影像学技术、听力测试以及免疫学检测在内的多种诊断手段，并评估其在临床实践中的应用价值和局限性。通过这一综述，我们希望为临床医生和研究人员提供一个全面的视角，以促进AIED的早期诊断和精准治疗。 | Liu, J. | [PDF](https://doi.org/10.1101/2025.01.22.25320943) | N/A | Recent Advances in the Diagnosis of Autoimmune Inner Ear Disease: A Scoping Review |
+| 在多医疗机构实施针对肌肉骨骼疼痛患者的干预措施时的障碍和促进因素：使用理论领域框架（TDF）进行的定性范围综述 | Lindberg, L. | [PDF](https://doi.org/10.1101/2025.01.22.25320947) | N/A | Barriers and facilitators when implementing interventions for treating patients with musculoskeletal pain across multiple healthcare settings: a qualitative scoping review using the Theoretical Domains Framework (TDF) |
+| 巴西稀有基因组项目中的ACMG次要发现：来自5,402个基因组测序的见解 | Perrone, E. | [PDF](https://doi.org/10.1101/2025.01.22.25320957) | N/A | ACMG Secondary Findings in the Brazilian Rare Genomes Project: Insights from 5,402 genome sequencing |
+| 在未充分研究的魁北克人群中，罕见变异与奠基者效应 | Gagnon, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320907) | N/A | Rare variants and founder effect in an understudied Quebec population |
+| 使用健康系统模型进行健康系统成本核算的方法 | Mohan, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320881) | N/A | Method for costing a health system using a Health Systems Model |
+| 基于纵向住院电子健康记录的临床结果预测深度学习模型 | Rong, R. | [PDF](https://doi.org/10.1101/2025.01.21.25320916) | N/A | A deep learning model for clinical outcome prediction using longitudinal inpatient electronic health records |
+| 医生特征与患者结果之间关联研究的Meta分析 | Haslam, A. | [PDF](https://doi.org/10.1101/2025.01.22.25320956) | N/A | Meta-analysis of studies on the association between physician characteristics and patient outcomes |
+| 使用拓扑深度学习诊断血液疾病和紊乱 | Koung, P. | [PDF](https://doi.org/10.1101/2025.01.21.25320908) | N/A | Diagnosis of Blood Diseases and Disorders with Topological Deep Learning |
+| 利用手机基础设施为马拉维诊断周转时间的缩短和HIV病毒载量监测的改善提供了证据 | Haggard, R. A. | [PDF](https://doi.org/10.1101/2025.01.22.25320358) | N/A | Using Mobile Phone Infrastructure Provides Evidence of a Reduction in Diagnostic Turnaround Times and Improved HIV Viral Load Monitoring in Malawi |
+| 推导与验证基于评分的SARS-CoV-2重症监护床位占用预测工具 | Grima, A. A. | [PDF](https://doi.org/10.1101/2025.01.21.25320912) | N/A | Derivation and Validation of a Point-based Forecasting Tool for SARS-CoV-2 Critical Care Occupancy |
+| 2015年至2018年日本老年人呼吸道合胞病毒相关住院情况估计：基于行政健康索赔数据库的分析 | Seki, M. | [PDF](https://doi.org/10.1101/2025.01.21.25320883) | N/A | Estimation of Respiratory Syncytial Virus-attributable Hospitalizations among Older Adults in Japan between 2015 and 2018: an Administrative Health Claims Database Analysis |
+| 美国公共历史癌症死亡率数据中的差异：倡导关注胃肠道癌症、采取针对性预防措施以及纳入海外死亡病例。- 癌症死亡病例的漏报是健康不平等的一个标志。 | Zhang, T. | [PDF](https://doi.org/10.1101/2025.01.22.25320955) | N/A | Disparities in US public historic cancer mortality data: Advocacy for gastrointestinal cancers, tailored prevention measures, and the inclusion of oversea deaths. -Under-reporting of cancer deaths as sign of health disparity |
+| JYNNEOS疫苗接种对确诊感染的顺性别男性病例中mpox临床进展的影响 | Granskog, L. | [PDF](https://doi.org/10.1101/2025.01.21.25320915) | N/A | Effect of JYNNEOS vaccination on mpox clinical progression among cisgender male cases with confirmed infection |
+| 性别在支气管肺发育不良和肺动脉高压风险中的差异：一项贝叶斯荟萃分析 | van Westering-Kroon, E. | [PDF](https://doi.org/10.1101/2025.01.22.25320939) | N/A | Sex Differences in the Risk of Bronchopulmonary Dysplasia and Pulmonary Hypertension: A Bayesian Meta-Analysis |
+| 以下是将这段英文翻译成中文的结果：
+
+**一项探讨老年人在与工作相关的晚年生活转变中心理健康和幸福感体验的定性研究方案**
+
+翻译说明：
+- "Protocol" 翻译为“方案”或“研究方案”，指研究的计划或框架。
+- "qualitative study" 翻译为“定性研究”，指以非数值数据为主的研究方法。
+- "older adults" 翻译为“老年人”或“年长者”。
+- "mental health and wellbeing" 翻译为“心理健康和幸福感”。
+- "work-related later life transitions" 翻译为“与工作相关的晚年生活转变”，指老年人在退休或工作状态变化时的生活过渡。
+
+希望这个翻译对你有帮助！如果需要进一步调整或解释，请告诉我。 | Woodhouse, R. | [PDF](https://doi.org/10.1101/2025.01.23.25321020) | N/A | Protocol for a qualitative study exploring older adults experience of mental health and wellbeing in work-related later life transitions |
+| 多基因因素对单相抑郁症抗抑郁药无反应者锂盐增效治疗结果的影响 | Kraft, J. | [PDF](https://doi.org/10.1101/2025.01.22.25320940) | N/A | Polygenic contributions to lithium augmentation outcomes in antidepressant non-responders with unipolar depression |
+| 在线零售环境中衍生的令人陶醉的大麻电子烟产品属性与营销 | Chen-Sankey, J. | [PDF](https://doi.org/10.1101/2025.01.22.25320970) | N/A | Derived Intoxicating Cannabis Vape Product Attributes and Marketing in an Online Retail Environment |
+| 冷漠进展与帕金森病中的脑萎缩和白质损伤有关。 | Moqadam, R. | [PDF](https://doi.org/10.1101/2025.01.22.25320946) | N/A | Apathy progression is associated with brain atrophy and white matter damage in Parkinsos disease |
+| 多发性硬化症中脊髓病变的自动分割：轴向T2加权MRI扫描的可靠工具 | Naga Karthik, E. | [PDF](https://doi.org/10.1101/2025.01.22.25320959) | N/A | Automatic segmentation of spinal cord lesions in MS: A robust tool for axial T2-weighted MRI scans |
+| 多系统萎缩中的萎缩与线粒体和少突胶质细胞过程有关。 | Chougar, L. | [PDF](https://doi.org/10.1101/2025.01.22.25320961) | N/A | Atrophy in multiple system atrophy relates to mitochondrial and oligodendrocytic processes |
+| 使用GPT-4o和Llama-3.3-70B从自由文本卒中CT报告中提取数据：注释指南的影响 | Wihl, J. | [PDF](https://doi.org/10.1101/2025.01.22.25320938) | N/A | Data Extraction from Free-Text Stroke CT Reports Using GPT-4o and Llama-3.3-70B: The Impact of Annotation Guidelines |
+| 在慢性乙型肝炎患者中检测和表征乙型肝炎病毒双链线性DNA衍生的共价闭合环状DNA | Liu, H.-N. | [PDF](https://doi.org/10.1101/2025.01.20.25320854) | N/A | Detection and characterization of Hepatitis B virus double-stranded linear DNA-derived covalently closed circular DNA in chronic hepatitis B patients |
+| 患者在接受Xpert Ultra检测后，因需要进一步评估和监测而延迟治疗的个人经历 | Visek, C. | [PDF](https://doi.org/10.1101/2025.01.22.25320963) | N/A | Patient Experiences of Treatment Deferral for Evaluation and Monitoring after a Trace Xpert Ultra Result |
+| 老年人群中毛细血管前后运动对肺动脉高压的影响 | Karvasarski, E. | [PDF](https://doi.org/10.1101/2025.01.21.25320932) | N/A | Pre- and post-capillary exercise contributions to pulmonary hypertension in older adults |
+| 原发性甲状旁腺功能亢进症成人患者肾结石形成的危险因素：系统评价与荟萃分析方案 | Jay, M. | [PDF](https://doi.org/10.1101/2025.01.22.25320716) | N/A | Risk factors for renal stone development in adults with primary hyperparathyroidism: A protocol for a systematic review and meta-analysis |
+| 孟加拉国、印度和尼泊尔的社会保护计划与母婴营养干预的共同覆盖情况 | Scott, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320966) | N/A | Co-coverage of social protection programs and maternal and child nutrition interventions in Bangladesh, India and Nepal |
 # MedRxiv 2025-01-22 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
