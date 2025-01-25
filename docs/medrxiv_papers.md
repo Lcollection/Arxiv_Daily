@@ -1,3 +1,52 @@
+# MedRxiv 2025-01-24 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 主题内超短睡眠-觉醒方案用于表征视网膜功能的昼夜节律变化 | Heinrichs, H. S. | [PDF](https://doi.org/10.1101/2024.02.29.24303541) | N/A | Within-subjects ultra-short sleep-wake protocol for characterising circadian variations in retinal function |
+| 疫苗状态误分类对新冠疫苗效力研究的范围和影响 | Neil, M. | [PDF](https://doi.org/10.1101/2024.03.09.24304015) | N/A | The extent and impact of vaccine status miscategorisation on covid-19 vaccine efficacy studies |
+| 随机临床试验的计算表型映射，以实现其现实世界代表性和个性化推断的评估 | Thangaraj, P. M. | [PDF](https://doi.org/10.1101/2024.05.15.24306285) | N/A | Computational Phenomapping of Randomized Clinical Trials to Enable Assessment of their Real-world Representativeness and Personalized Inference |
+| 非洲和南亚血统女性乳腺癌的临床和分子特征 | Thorn, G. J. | [PDF](https://doi.org/10.1101/2024.05.15.24307435) | N/A | The clinical and molecular landscape of breast cancer in women of African and South Asian ancestry |
+| 非洲和南亚裔女性乳腺癌的临床和分子特征 | Thorn, G. J. | [PDF](https://doi.org/10.1101/2024.05.15.24307435) | N/A | The clinical and molecular landscape of breast cancer in women of African and South Asian ancestry |
+| 慢性创伤性脑损伤中的纵向病变扩展 | Freeman, H. J. | [PDF](https://doi.org/10.1101/2024.06.24.24309307) | N/A | Longitudinal Lesion Expansion in Chronic Traumatic Brain Injury |
+| 阿尔茨海默病发病前的观察与处方史关联 | Williams, G. | [PDF](https://doi.org/10.1101/2024.07.17.24310553) | N/A | Pre-Diagnosis Observational and Prescription History associated with Alzheimer's Disease Incidence |
+| 撤回：用于诊断重度抑郁症的脑电图α波段生物标志物的可重复性研究 | Hollenbenders, Y. | [PDF](https://doi.org/10.1101/2024.11.11.24317109) | N/A | WITHDRAWN: Reproducibility of electroencephalography alpha band biomarkers for diagnosis of major depressive disorder |
+| 从人类外周血中识别出与1型糖尿病相关的T细胞受体库特征 | Rawat, P. | [PDF](https://doi.org/10.1101/2024.12.10.24318751) | N/A | Identification of a type 1 diabetes-associated T cell receptor repertoire signature from the human peripheral blood |
+| 从人类外周血中鉴定出与1型糖尿病相关的T细胞受体库特征 | Rawat, P. | [PDF](https://doi.org/10.1101/2024.12.10.24318751) | N/A | Identification of a type 1 diabetes-associated T cell receptor repertoire signature from the human peripheral blood |
+| 严重精神障碍循证心理干预治疗方案和手册的可及性与公开性：随机试验的系统调查 | Blithikioti, C. | [PDF](https://doi.org/10.1101/2024.12.26.24319515) | N/A | Accessibility and public availability of treatment protocols and manuals for evidence-based psychological interventions for severe mental disorders: A systematic survey of randomized trials |
+| 注册报告：系统性耐力训练对女性淋巴水肿治疗效果的影响——LipidEx研究 | Saether, J. C. | [PDF](https://doi.org/10.1101/2025.01.21.25320877) | N/A | Registered Report: The effect of systematic endurance training in treatment of women with lipedema - The LipidEx study |
+| SGLT-2抑制剂对心力衰竭患者心房颤动风险的影响 | Fretz, T. | [PDF](https://doi.org/10.1101/2025.01.21.25320931) | N/A | The impact of SGLT-2 Inhibitors on the Risk of Atrial Fibrillation in Heart Failure |
+| 主要和简单神经认知精神病中的脑损伤生物标志物：与色氨酸分解代谢物的关联 | Al-Hakeim, H. | [PDF](https://doi.org/10.1101/2025.01.22.25320986) | N/A | Brain injury biomarkers in major and simple neurocognitive psychosis: association with tryptophan catabolites |
+| 红线：加纳月经健康与卫生的利益相关者视角 | Gbogbo, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320983) | N/A | The Red Thread: Stakeholder Perspectives on Menstrual Health and Hygiene in Ghana |
+| 塞拉利昂科诺区在COVID-19大流行期间孕产妇卫生服务与结果的韧性证据：一项观察性研究 | Boima, F. | [PDF](https://doi.org/10.1101/2025.01.22.25320951) | N/A | Evidence of Resiliency in Maternal Health Services and Outcomes in Kono District, Sierra Leone during the COVID-19 Pandemic: An Observational Study |
+| 脑龄：理解认知储备背景下衰老的一个有前景的生物标志物 | Beheshti, I. | [PDF](https://doi.org/10.1101/2025.01.22.25320988) | N/A | Brain Age: A Promising Biomarker for Understanding Aging in the Context of Cognitive Reserve |
+| 一种新型长链非编码RNA FAM151B-DT调控自噬和易聚集蛋白的降解 | Renganathan, A. | [PDF](https://doi.org/10.1101/2025.01.22.25320997) | N/A | A novel lncRNA FAM151B-DT regulates autophagy and degradation of aggregation prone proteins |
+| 超声波在治疗重度抑郁症（MDD）中的应用：技术与疗效的系统综述 | Tan, G. | [PDF](https://doi.org/10.1101/2025.01.23.25320960) | N/A | Ultrasound Applications in the Treatment of Major Depressive Disorder (MDD): A Systematic Review of Techniques and Efficacy |
+| 为虚弱人群量身定制胶质母细胞瘤治疗方案：基因组与临床数据的启示 | Mansoor, M. A. | [PDF](https://doi.org/10.1101/2025.01.22.25320979) | N/A | Tailoring Glioblastoma Treatment for Frail Populations: Insights from Genomic and Clinical Data |
+| 非中枢神经系统癌症的儿童患者和幸存者中癌症相关认知障碍的患病率：系统综述与荟萃分析 | Semendric, I. | [PDF](https://doi.org/10.1101/2025.01.22.25320991) | N/A | Prevalence of cancer-related cognitive impairment in pediatric patients and survivors of non-CNS cancers: A systematic review and meta-analysis |
+| 在HIV受到抑制的人群中，诱发的细胞因子反应与痛苦或诱发的继发性痛觉过敏无关。 | Madden, V. J. | [PDF](https://doi.org/10.1101/2025.01.21.25320673) | N/A | Provoked cytokine response is not associated with distress or induced secondary hyperalgesia in people with suppressed HIV |
+| 遗传性组织特异性基因表达与慢性伤口微生物种类相关 | Omeir, K. | [PDF](https://doi.org/10.1101/2025.01.22.25320974) | N/A | HERITABLE TISSUE-SPECIFIC GENE EXPRESSION ASSOCIATES WITH CHRONIC WOUND MICROBIAL SPECIES |
+| 探索贫困、行为因素与肥胖之间的相互作用：对美国糖尿病患病率的影响 | Chatterjee, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320977) | N/A | Exploring the Interplay of Poverty, Behavioral Factors, and Obesity: Implications for Diabetes Prevalence in the United States |
+| 以下是这段英文的中文翻译：
+
+**处方者和药剂师对埃塞俄比亚东北部德西市公共卫生机构采用和实施电子处方与药物管理系统的看法**
+
+翻译说明：
+- "Prescribers" 翻译为 "处方者"，指的是开具处方的医疗专业人员，如医生。
+- "Pharmacists" 翻译为 "药剂师"。
+- "Perception" 翻译为 "看法" 或 "认知"。
+- "Adoption and Implementation" 翻译为 "采用和实施"。
+- "Electronic Prescribing and Medication Management System" 翻译为 "电子处方与药物管理系统"。
+- "Public Health Facilities" 翻译为 "公共卫生机构"。
+- "Dessie city, Northeast Ethiopia" 翻译为 "埃塞俄比亚东北部德西市"。
+
+希望这个翻译对你有帮助！ | Gebrehiwot, G. M. | [PDF](https://doi.org/10.1101/2025.01.23.25321028) | N/A | Prescribers' and Pharmacists' Perception of Adoption and Implementation of Electronic Prescribing and Medication Management System in Public Health Facilities of Dessie city, Northeast Ethiopia |
+| 使用人工智能摘要的电子护理计划能否产生同等的文档质量？（EASY eDocQ） | Dorr, D. A. | [PDF](https://doi.org/10.1101/2025.01.22.25320982) | N/A | Can Electronic care planning using AI Summarization Yield equal Documentation Quality? (EASY eDocQ) |
+| 在采用儿科启发方案的时代，费城染色体阴性的青少年和年轻成人急性淋巴细胞白血病患者的感染并发症 | Vongngakesone, P. | [PDF](https://doi.org/10.1101/2025.01.23.25321023) | N/A | Infectious Complications in Philadelphia-Negative Adolescent and Young Adult Acute Lymphoblastic Leukemia Patients in the Era of Pediatric-Inspired Regimen |
+| 一种克氏锥虫转唾液酸酶肽在拉丁美洲流行地区的感染人群中显示出高血清学流行率 | Kortbawi, H. M. | [PDF](https://doi.org/10.1101/2025.01.22.25320967) | N/A | A Trypanosoma cruzi Trans-Sialidase Peptide Demonstrates High Serological Prevalence Among Infected Populations Across Endemic Regions of Latin America |
+| 高风险抗生素耐药性危重患者的动态治疗方案：一项队列研究 | Liu, Y. | [PDF](https://doi.org/10.1101/2025.01.22.25320993) | N/A | Dynamic treatment regime in critical ill patients with high risk of antibiotic drug resistance, a cohort study |
+| 利用废水进行人群结直肠癌筛查及未来研究需求 | Wurtzler, E. | [PDF](https://doi.org/10.1101/2025.01.22.25320996) | N/A | Using wastewater for population colorectal cancer screening and future research needs |
+| 慢性阻塞性肺疾病（COPD）阶段进展与逆转的决定因素：基于COPDGene队列的马尔可夫转移模型分析 | Sanchez-Romero, L. M. | [PDF](https://doi.org/10.1101/2025.01.17.25320745) | N/A | Determinants of COPD Stage Progression and Regression: a Markov Transition Model Analysis of The COPDGene Cohort |
+| 在2015-2018年加拿大社区健康调查中，15-55岁女性使用含叶酸补充剂的情况 | Hopperton, K. | [PDF](https://doi.org/10.1101/2025.01.21.25320917) | N/A | Folic acid-containing supplement use among females aged 15-55 in the Canadian Community Health Survey 2015-2018 |
 # MedRxiv 2025-01-23 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
