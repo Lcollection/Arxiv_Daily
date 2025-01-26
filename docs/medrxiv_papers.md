@@ -1,3 +1,97 @@
+# MedRxiv 2025-01-25 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 亚太地区体重指数分类与非糖尿病日本成年人新发慢性肾脏病的关系：1998年至2023年基于社区的纵向研究 | Okawa, Y. | [PDF](https://doi.org/10.1101/2024.01.06.23300566) | N/A | The Asia-Pacific body mass index classification and new-onset chronic kidney disease in non-diabetic Japanese adults: A community-based longitudinal study from 1998 to 2023 |
+| 远程监测植入式心脏复律除颤器或心脏再同步治疗除颤器的各个组成部分的效果：系统评价和组成部分网络荟萃分析方案
+
+这段文字描述了一项研究计划，旨在通过系统评价和网络荟萃分析的方法，评估远程监测技术在植入式心脏复律除颤器（ICD）或心脏再同步治疗除颤器（CRT-D）中各个组成部分的效果。研究将遵循预先制定的方案，以确保分析的全面性和科学性。 | Okazaki, M. | [PDF](https://doi.org/10.1101/2024.03.07.24303950) | N/A | Effects of individual components of remote monitoring for implantable cardioverter defibrillators or cardiac resynchronisation therapy defibrillators: protocol for a systematic review and component network meta-analysis |
+| 简化GWAS位点中因果基因的识别 | Schipper, M. | [PDF](https://doi.org/10.1101/2024.07.26.24311057) | N/A | Simplifying causal gene identification in GWAS loci |
+| 高频重复经颅磁刺激对脑卒中后上肢功能的影响：系统综述与荟萃分析 | Russo, N. | [PDF](https://doi.org/10.1101/2025.01.23.25320584) | N/A | Effect of High-Frequency Repetitive Transcranial Magnetic Stimulation on Upper Limb Function After Stroke: A Systematic Review and Meta-Analysis |
+| 与高水平尼古丁代谢物可替宁相关的人体死后额叶皮层和脑脊液中的代谢变化 | Masvosva, W. | [PDF](https://doi.org/10.1101/2025.01.24.25321062) | N/A | Metabolic alterations in human post-mortem frontal cortex and cerebrospinal fluid associated with high levels of nicotine metabolite cotinine |
+| 基于结构化模拟训练和简易眼科仪器，迅速使非眼科医生能够识别疟疾性视网膜病变。 | Wilson, K. J. | [PDF](https://doi.org/10.1101/2025.01.23.24318545) | N/A | Structured simulation-based training with frugal ophthalmic instruments rapidly equips non-ophthalmologists to identify malarial retinopathy |
+| 针对65岁时阿尔茨海默病、帕金森病及痴呆症的2年、5年和10年风险预测的机器学习算法研究：一项基于法国和英国全科医生医疗记录的分析 | Nedelec, T. | [PDF](https://doi.org/10.1101/2025.01.22.25320969) | N/A | Machine learning prediction algorithms for 2- , 5- and 10-year risk of Alzheimer's, Parkinson's and dementia at age 65: a study using medical records from France and the UK General Practitioners |
+| **杏仁核和额叶皮层的脂肪变性：阿尔茨海默病的潜在磁共振成像生物标志物**
+
+**摘要**  
+阿尔茨海默病（AD）是一种神经退行性疾病，其特征是认知功能逐渐下降和大脑病理改变。近年来，研究发现脂肪变性（steatosis）在AD的病理过程中可能扮演重要角色。本文探讨了杏仁核和额叶皮层中的脂肪变性作为AD潜在磁共振成像（MRI）生物标志物的可能性。通过分析现有的研究数据，我们发现这些区域的脂肪变性可能与AD的早期病理变化相关，并可能成为未来诊断和监测AD的重要工具。本文还讨论了脂肪变性与AD病理机制之间的潜在联系，以及未来研究的方向。
+
+**关键词**  
+阿尔茨海默病，脂肪变性，杏仁核，额叶皮层，磁共振成像，生物标志物 | de Oliveira Andrade, L. J. | [PDF](https://doi.org/10.1101/2025.01.15.24319769) | N/A | Steatosis in the Amygdala and Frontal Cortex: Potential Magnetic Resonance Imaging Biomarkers for Alzheimer's Disease |
+| 印度母子对贫血状况：趋势、驱动因素及未来预测
+
+该翻译将原文标题“Anaemia among mother-child dyads in India: trends, drivers, and future projections”转换为中文，同时保持了原文的专业性和准确性。翻译后的标题“印度母子对贫血状况：趋势、驱动因素及未来预测”清晰地传达了研究的核心内容，即关注印度母亲与孩子这一特定群体中贫血的现状、影响因素以及未来的发展趋势。这样的翻译既符合中文表达习惯，又确保了信息的完整传递。 | Pedgaonkar, S. | [PDF](https://doi.org/10.1101/2025.01.23.25321031) | N/A | Anaemia among mother-child dyads in India: trends, drivers, and future projections |
+| 基于基础模型的多实例学习对头颈部鳞状细胞癌临床结果的端到端预测 | Rabasco Meneghetti, A. | [PDF](https://doi.org/10.1101/2025.01.22.25320517) | N/A | End-to-end prediction of clinical outcomes in head and neck squamous cell carcinoma with foundation model-based multiple instance learning |
+| 多基因评分在前列腺癌侵袭性中的特异性 | Dornisch, A. | [PDF](https://doi.org/10.1101/2025.01.23.25321041) | N/A | Specificity of a polygenic score for aggressive prostate cancer |
+| 《拔毛癖的基因组分析》 | Halvorsen, M. W. | [PDF](https://doi.org/10.1101/2025.01.23.25321045) | N/A | Genomic Analysis of Trichotillomania |
+| 一项关于接受免疫检查点抑制剂治疗患者免疫相关不良事件的真实世界队列研究 | Wang, Y. | [PDF](https://doi.org/10.1101/2025.01.24.25321082) | N/A | A real-world cohort study of immune-related adverse events in patients receiving immune checkpoint inhibitors |
+| 测量衰弱：调查数据与常规数据中累积缺陷模型的比较 | Johnson, L. | [PDF](https://doi.org/10.1101/2025.01.24.25321086) | N/A | Measuring Frailty: A Comparison of the Cumulative Deficit Model of Frailty in Survey and Routine Data |
+| 腹泻的成本：来自全球肠道多中心研究（GEMS）七个国家的家庭视角 | Al Fidah, M. F. | [PDF](https://doi.org/10.1101/2025.01.24.25321093) | N/A | The cost of diarrhoea: a household perspective from seven countries in the Global Enteric Multicenter Study (GEMS) |
+| TICTAC：结合化学信息学的目标照明临床试验分析 | Abok, J. I. | [PDF](https://doi.org/10.1101/2025.01.23.25321034) | N/A | TICTAC: Target Illumination Clinical Trial Analytics with Cheminformatics |
+| 创建一个基于多项临床研究的医疗数据通用生成模型 | Maruyama, H. | [PDF](https://doi.org/10.1101/2025.01.23.25320504) | N/A | Creating a General-Purpose Generative Model for Healthcare Data based on Multiple Clinical Studies |
+| 全球医疗保健领域的人工智能监管：现状如何？ | Busch, F. | [PDF](https://doi.org/10.1101/2025.01.25.25321061) | N/A | AI regulation in healthcare around the world: what is the status quo? |
+| 评估从英国市场上四种侧流设备产品中恢复SARS-CoV2基因组序列的能力。 | Lewandowski, K. | [PDF](https://doi.org/10.1101/2025.01.23.25321032) | N/A | Assessment of SARS-CoV2 genome sequence recovery from four lateral flow device products available in the UK. |
+| 废水综合病原体监测仪表板能够实现实时、透明且易于理解的公共卫生风险评估与信息传播。 | Msomi, N. S. | [PDF](https://doi.org/10.1101/2025.01.22.25320865) | N/A | Wastewater-integrated pathogen surveillance dashboards enable real-time, transparent, and interpretable public health risk assessment and dissemination |
+| 在避难所环境中进行的新冠病毒快速抗原检测的准确性 | Garad, Y. | [PDF](https://doi.org/10.1101/2025.01.23.25320556) | N/A | Accuracy of rapid antigen testing for COVID-19 in shelter settings |
+| 高PEEP策略对急性呼吸窘迫综合征生存率的异质性影响：随机试验数据驱动分析的初步结果 | Smit, J. M. | [PDF](https://doi.org/10.1101/2025.01.23.25320649) | N/A | The Heterogeneous Effect of High PEEP strategies on Survival in Acute Respiratory Distress Syndrome: preliminary results of a data-driven analysis of randomized trials |
+| 血浆蛋白质在基因调控网络中起着至关重要的作用，这些网络在血细胞内部和之间、动脉壁以及主要代谢器官中发挥作用。 | Bankier, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320723) | N/A | Plasma proteins are integral to gene-regulatory networks acting within and across blood cells, the arterial wall and major metabolic organs |
+| 了解他汀类药物依从性低的原因和后果：来自英国生物银行初级保健数据的证据 | Türkmen, D. | [PDF](https://doi.org/10.1101/2025.01.23.25321011) | N/A | Understanding the causes and consequences of low statin adherence: evidence from UK Biobank primary care data |
+| 使用现代最优收缩技术从皮肤记录中恢复交感神经活动 | Su, P.-C. | [PDF](https://doi.org/10.1101/2025.01.23.25321036) | N/A | Sympathetic nerve activity recovery from the skin recording using the modern optimal shrinkage technique |
+| 移民如何影响加拿大外籍人口中结核病的负担：基于动态模型的估计 | Chiu, J. | [PDF](https://doi.org/10.1101/2025.01.23.24318580) | N/A | How immigration affects the burden of tuberculosis among foreign-born Canadians: estimates with dynamic models |
+| 提高英国布里斯托尔住院成人中呼吸道合胞病毒（RSV）发病率的准确性 | Lihou, K. | [PDF](https://doi.org/10.1101/2025.01.24.25321075) | N/A | Improving the accuracy of Respiratory Syncytial Virus (RSV) incidence among hospitalised adults in Bristol, UK |
+| 降压药物对青光眼的影响：孟德尔随机化与三角分析研究 | Huang, Y. | [PDF](https://doi.org/10.1101/2025.01.23.25320990) | N/A | Effect of antihypertensive drugs on glaucoma: a Mendelian randomization and triangulation analysis |
+| 比较Esri ArcGIS与SAS地理编码方法：以3,238个威斯康星州地址为测试案例 | Johnson, H. K. | [PDF](https://doi.org/10.1101/2025.01.23.25321040) | N/A | Comparing Esri ArcGIS and SAS Geocoding Approaches: Test case with 3,238 Wisconsin addresses |
+| COVID-19非药物干预效果的不确定性与不一致性：基于多种竞争性统计模型的分析 | Mueller, B. | [PDF](https://doi.org/10.1101/2025.01.22.25320783) | N/A | Uncertainty and Inconsistency of COVID-19 Non-Pharmaceutical Intervention Effects with Multiple Competitive Statistical Models |
+| 网络荟萃分析结合生存和计数结果数据：一种简单的频率学方法 | Noma, H. | [PDF](https://doi.org/10.1101/2025.01.23.25321051) | N/A | Network meta-analysis combining survival and count outcome data: A simple frequentist approach |
+| 南非出生队列中母亲和婴儿的铁缺乏性贫血：在炎症背景下的患病率和特征 | Ringshaw, J. E. | [PDF](https://doi.org/10.1101/2025.01.23.25321033) | N/A | Iron Deficiency Anaemia in Mothers and Infants from a South African Birth Cohort: Prevalence and Profile in the Context of Inflammation |
+| 儿童用药自我效能量表的开发与验证 | Yu, z. | [PDF](https://doi.org/10.1101/2025.01.23.25320754) | N/A | Development and Validation of the Children's Medication Self-Efficacy Scale |
+| 影响2型糖尿病一线治疗处方的因素：系统综述 | Moreira, H. R. S. D. | [PDF](https://doi.org/10.1101/2025.01.22.25320805) | N/A | Factors influencing the prescription of first-line treatment for type 2 diabetes mellitus: a systematic review |
+| 以下是将这段英文翻译成中文的结果：
+
+**一项系统文献综述：比较面对面和数字化干预措施在2型糖尿病预防中的随机试验。**
+
+翻译说明：
+1. **Systematic Literature Review** 翻译为“系统文献综述”，这是一种系统性的研究方法，用于全面收集和分析某一主题的相关文献。
+2. **Randomized Trials** 翻译为“随机试验”，指的是采用随机分组方法的临床试验。
+3. **In-Person and Digital Interventions** 翻译为“面对面和数字化干预措施”，分别指传统的面对面干预和基于数字技术的干预方式。
+4. **Type 2 Diabetes Prevention** 翻译为“2型糖尿病预防”，指的是针对2型糖尿病的预防措施。
+
+希望这个翻译对你有帮助！如果有其他问题，欢迎随时提问。 | Riera-Serra, P. | [PDF](https://doi.org/10.1101/2025.01.23.25321002) | N/A | A Systematic Literature Review of Randomized Trials Comparing In-Person and Digital Interventions for Type 2 Diabetes Prevention. |
+| 暴饮暴食与心理困扰：探讨其与抑郁、焦虑和压力的关系 | Soares Marinho, A. C. | [PDF](https://doi.org/10.1101/2025.01.24.25321068) | N/A | Binge Eating and Psychological Distress: Investigating Relationships with Depression, Anxiety, and Stress |
+| 非自杀性自伤功能的神经相关性：精神疾病中的神经生物学脆弱性与心理社会风险 | Li, M. | [PDF](https://doi.org/10.1101/2025.01.23.25320985) | N/A | Neural Correlates of Non-Suicidal Self-Injury Functions: Neurobiological Vulnerabilities and Psychosocial Risks in Psychiatric Disorders |
+| 2022年，孕妇向澳大利亚免疫登记处报告流感和百日咳疫苗接种情况的模式 | Sonneveld, N. | [PDF](https://doi.org/10.1101/2025.01.23.25320512) | N/A | Patterns of reporting of influenza and pertussis vaccination during pregnancy to the Australian Immunisation Register, 2022 |
+| 在接触ChatGPT后，公众对医疗领域人工智能的看法发生了变化。 | Isaksen, A. A. | [PDF](https://doi.org/10.1101/2025.01.23.25321048) | N/A | Changes in public perception of AI in healthcare after exposure to ChatGPT |
+| 如果我们能够及早处理，我们就能做对：肯尼亚一家转诊医院医护人员处理败血症的经验 | Srour, M. | [PDF](https://doi.org/10.1101/2025.01.23.25321025) | N/A | If we manage early, we can get it right: Healthcare Workers Experiences Managing Sepsis at a Kenyan Referral Hospital |
+| 功能性连接磁共振成像数据在病灶性和非病灶性脑疾病中的去噪策略 | Wunderlich, S. | [PDF](https://doi.org/10.1101/2025.01.22.25320407) | N/A | Denoising Strategies of Functional Connectivity MRI Data in Lesional and Non-Lesional Brain Diseases |
+| 利用手工制作的放射组学特征在多中心FLAIR MRI上预测多发性硬化症患者的残疾进展 | Khan, H. | [PDF](https://doi.org/10.1101/2025.01.23.25320971) | N/A | Leveraging Hand-Crafted Radiomics on Multicenter FLAIR MRI for Predicting Disability Progression in People with Multiple Sclerosis |
+| 将肥胖相关特征与区域白质微结构进行映射，突显了脑干束的重要性以及性别相关的差异。 | Gurholt, T. P. | [PDF](https://doi.org/10.1101/2025.01.24.25321078) | N/A | Mapping obesity-related traits with regional white matter microstructure highlights the importance of brainstem tracts and sex-related differences. |
+| 趋近-回避倾向影响骨关节炎患者对运动的恐惧与身体活动之间的关系 | Goubran, M. | [PDF](https://doi.org/10.1101/2025.01.23.25321044) | N/A | Approach-avoidance tendencies influence the relationship between fear of movement and physical activity in osteoarthritis |
+| 长期氧疗的慢性阻塞性肺疾病（COPD）患者在家中使用自动氧气输送的随机交叉可行性试验 | Kofod, L. M. | [PDF](https://doi.org/10.1101/2025.01.23.25320958) | N/A | Automated Oxygen Delivery in Home Setting for Patients with COPD on Long-Term Oxygen Therapy - a randomized crossover feasibility trial |
+| 使用便携式脑电图（EEG）进行的多晚家庭睡眠测试显示，开始使用持续气道正压通气（CPAP）治疗阻塞性睡眠呼吸暂停后，睡眠质量有所改善。 | Lee, K. O. | [PDF](https://doi.org/10.1101/2025.01.23.25320588) | N/A | Multi-Night Home testing with portable EEG shows Improvement in Sleep Quality after Starting CPAP for Obstructive Sleep Apnoea |
+| 激活素A通过激活ALK4诱导致病性Th17细胞参与系统性红斑狼疮相关肺动脉高压中的内皮间质转化。 | Jing, S. | [PDF](https://doi.org/10.1101/2025.01.23.25321014) | N/A | Activin A activated ALK4 induces pathogenic Th17 involvement in endothelial mesenchymal transition in systemic lupus erythematosus associated pulmonary arterial hypertension |
+| 医学妇科专业高级阶段（DES）实习生对医学论文的现状与期望。 | Poisson, A. | [PDF](https://doi.org/10.1101/2025.01.23.24319156) | N/A | State of affairs and expectations of medical interns in the advanced phase of the DES (specialized medical studies) in medical gynecology regarding medical theses. |
+| 现实世界中的智能手机数据能够预测脑血管症状后的情绪状态，并可能构成数字终点。 | Zawada, S. J. | [PDF](https://doi.org/10.1101/2025.01.23.25320624) | N/A | Real-world smartphone data predicts mood after cerebrovascular symptoms and may constitute digital endpoints |
+| 神经科医生是否该在日常实践中使用大型语言模型了？ | Maiorana, N. V. | [PDF](https://doi.org/10.1101/2025.01.23.25320945) | N/A | Is it time for the neurologist to use Large Language Models in everyday practice? |
+| 以下是这段英文的中文翻译：
+
+"左额顶叶网络伽马频段经颅交流电刺激引起的神经变化：一项初步的eLORETA脑电图研究"
+
+解释：
+- "Neural changes" 翻译为 "神经变化"
+- "transcranial alternating current stimulation" 翻译为 "经颅交流电刺激"
+- "gamma range" 翻译为 "伽马频段"
+- "left frontoparietal network" 翻译为 "左额顶叶网络"
+- "preliminary" 翻译为 "初步的"
+- "eLORETA EEG study" 翻译为 "eLORETA脑电图研究"
+
+这个标题描述了一项使用eLORETA脑电图技术来研究伽马频段经颅交流电刺激对左额顶叶网络神经活动影响的初步研究。 | Lee, T.-W. | [PDF](https://doi.org/10.1101/2025.01.24.25321077) | N/A | Neural changes to transcranial alternating current stimulation in the gamma range over the left frontoparietal network: a preliminary eLORETA EEG study |
+| 颅内光生物调节治疗新诊断帕金森病患者：一项正在进行中的随机对照试验的初步数据。 | Chabardes, S. | [PDF](https://doi.org/10.1101/2025.01.23.25320819) | N/A | Intracranial photobiomodulation in de novo PD patients: preliminary data of an ongoing randomized controlled trial. |
+| 优化癫痫患者前丘脑核深部脑刺激的刺激参数：一项随机交叉试验 | Alcala Zermeno, J. L. | [PDF](https://doi.org/10.1101/2025.01.22.25320034) | N/A | Optimizing stimulation parameters for anterior thalamic nuclei deep brain stimulation in epilepsy: A randomized cross-over trial |
+| 脐带血神经丝轻链与非安心胎儿状态的相关性：一项前瞻性观察研究 | Zalcberg, D. | [PDF](https://doi.org/10.1101/2025.01.23.25320706) | N/A | The association of umbilical cord blood neurofilament light with non-reassuring fetal status: a prospective observational study |
+| 泰国无家可归者工作表现评估的已知群体效度 | Thanapet, U. | [PDF](https://doi.org/10.1101/2025.01.23.25321060) | N/A | Known Group Validity of Assessment of Work Performance for Thai Homeless People |
+| 神经元外泌体的分子特征分析揭示了脑组织特异性信号 | Kalia, V. | [PDF](https://doi.org/10.1101/2025.01.23.25320909) | N/A | Molecular profiling of neuronal extracellular vesicles reveals brain tissue specific signals |
+| FITM2功能的部分丧失会导致遗传性痉挛性截瘫。 | Salazar-Villacorta, A. | [PDF](https://doi.org/10.1101/2025.01.23.24319660) | N/A | Partial loss of FITM2 function causes hereditary spastic paraplegia |
+| 基于患者特征与伤口微生物组构成的结构方程模型预测慢性伤口愈合时间 | Ancira, J. | [PDF](https://doi.org/10.1101/2025.01.23.25320984) | N/A | A STRUCTURAL EQUATION MODEL PREDICTS CHRONIC WOUND HEALING TIME USING PATIENT CHARACTERISTICS AND WOUND MICROBIOME COMPOSITION |
 # MedRxiv 2025-01-24 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
