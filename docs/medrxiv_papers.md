@@ -1,3 +1,11 @@
+# MedRxiv 2025-01-26 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 改善对东非地区克里米亚-刚果出血热病毒、马尔堡病毒和中东呼吸综合征冠状病毒溢出、出现/再现和传播的环境驱动因素的风险分析 | Ajumobi, O. | [PDF](https://doi.org/10.1101/2024.11.07.24316934) | N/A | Improving risk analysis of the environmental drivers of the spillover, emergence/reemergence, and spread of Crimean-Congo haemorrhagic fever virus, Marburg virus, and Middle East respiratory syndrome coronavirus in the East Africa Region |
+| 高PEEP策略对急性呼吸窘迫综合征生存率的异质性影响：随机试验数据驱动分析的初步结果 | Smit, J. M. | [PDF](https://doi.org/10.1101/2025.01.23.25320649) | N/A | The Heterogeneous Effect of High PEEP strategies on Survival in Acute Respiratory Distress Syndrome: preliminary results of a data-driven analysis of randomized trials |
+| 儿童在早期学习和儿童保育中心的户外游戏：考察环境游戏特征对儿童游戏行为的影响 | Ramsden, R. | [PDF](https://doi.org/10.1101/2025.01.21.25320884) | N/A | Childrens outdoor play at early learning and child care centres: examining the impact of environmental play features on children's play behaviour |
+| 视网膜光学相干断层扫描血管成像在人群研究中的应用 | Kashani, A. H. | [PDF](https://doi.org/10.1101/2025.01.22.25320610) | N/A | Retinal optical coherence tomography angiography imaging in population studies |
 # MedRxiv 2025-01-25 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
