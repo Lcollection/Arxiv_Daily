@@ -1,3 +1,131 @@
+# MedRxiv 2025-01-28 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 帕金森病动态骑行中的电生理相关性 | Joshi, P. | [PDF](https://doi.org/10.1101/2024.02.16.24301952) | N/A | Electrophysiological Correlates of Dynamic Cycling in Parkinson's Disease |
+| 机器学习方法在面瘫动态面部功能追踪中的应用 | Rao, A. A. | [PDF](https://doi.org/10.1101/2024.03.16.24304357) | N/A | Machine Learning Methods to Track Dynamic Facial Function in Facial Palsy |
+| 系统性硬化症中食管上皮的细胞和分子失调 | Dapas, M. | [PDF](https://doi.org/10.1101/2024.06.05.24308452) | N/A | Cellular and molecular dysregulation of the esophageal epithelium in systemic sclerosis |
+| 健康寿命的蛋白质组学特征 | Kuo, C.-L. | [PDF](https://doi.org/10.1101/2024.06.26.24309530) | N/A | A proteomic signature of healthspan |
+| 将这段翻译成中文为：针对严重精神疾病患者抗精神病药物引起的体重增加的非药物干预措施的现实综合研究（RESOLVE）。 | MacPhee, M. | [PDF](https://doi.org/10.1101/2024.07.25.24310979) | N/A | REalist Synthesis Of non-pharmacologicaL interVEntions for antipsychotic-induced weight gain (RESOLVE) in people living with severe mental illness |
+| 早发月经和生育加速与衰老相关的结果和年龄相关疾病：人类中拮抗多效性的证据 | Xiang, Y. | [PDF](https://doi.org/10.1101/2024.09.23.24314197) | N/A | Early menarche and childbirth accelerate aging-related outcomes and age-related diseases: Evidence for antagonistic pleiotropy in humans |
+| 机器学习仅在存在全面临床表型分析的情况下才能检测到隐藏的治疗反应模式。 | Auger, S. D. | [PDF](https://doi.org/10.1101/2024.10.09.24315155) | N/A | Machine learning detects hidden treatment response patterns only in the presence of comprehensive clinical phenotyping |
+| 老年急诊管理护士对三十天内急诊科复诊率的影响：一项倾向评分匹配的病例对照研究 | Germain, N. | [PDF](https://doi.org/10.1101/2024.12.30.24319195) | N/A | Impact of a geriatric emergency management nurse on thirty-day emergency department revisits: a propensity score matched case-control study |
+| 一种克氏锥虫转唾液酸酶肽在拉丁美洲流行地区的感染人群中显示出高血清学流行率 | Kortbawi, H. M. | [PDF](https://doi.org/10.1101/2025.01.22.25320967) | N/A | A Trypanosoma cruzi Trans-Sialidase Peptide Demonstrates High Serological Prevalence Among Infected Populations Across Endemic Regions of Latin America |
+| ABCA1活性与APOE ϵ4非携带者中阿尔茨海默病风险降低相关。 | Pena-Tauber, A. | [PDF](https://doi.org/10.1101/2025.01.24.25321105) | N/A | ABCA1 activity is associated with reduced Alzheimer's Disease risk in APOE ϵ4 non-carriers |
+| 泰国无家可归者工作表现评估的重测信度研究 | Chatthong, W. | [PDF](https://doi.org/10.1101/2025.01.23.25321059) | N/A | Test-Retest Reliability of Assessment of Work Performance for Thai Homeless People |
+| 血清样本储存对TRAIL、IP-10和CRP稳定性的影响：对采用生物样本库的生物标志物研究的启示 | Kalfon, R. | [PDF](https://doi.org/10.1101/2025.01.22.25320787) | N/A | Impact of Serum Sample Storage on the Stability of TRAIL, IP-10, and CRP: Implications for Biomarker Research Employing Biobanks |
+| 以下是这段文字的中文翻译：
+
+**保形预测与Venn-ABERS校准用于基于机器学习的细菌感染病灶可靠预测**
+
+这段文字描述了一种结合保形预测（Conformal Prediction）和Venn-ABERS校准技术的方法，旨在提高基于机器学习的细菌感染病灶预测的可靠性。 | Schmidt, J. B. | [PDF](https://doi.org/10.1101/2025.01.21.25320878) | N/A | Conformal Prediction and Venn-ABERS Calibration for Reliable Machine Learning-Based Prediction of Bacterial Infection Focus |
+| 早产儿与足月儿相比，遗传评分与出生体重的关联性 | Beaumont, R. N. | [PDF](https://doi.org/10.1101/2025.01.21.25320880) | N/A | Genetic score associations with birthweight in preterm-born infants compared with term-born infants |
+| 一种集成人工智能的微型ChromaDot阵列，用于在小型便携设备中检测多种生物标志物。 | Lin, Z.-T. | [PDF](https://doi.org/10.1101/2025.01.24.25321103) | N/A | A micro-ChromaDot array with AI integration for the detection of multiple biomarkers in a small portable device |
+| 青少年特发性脊柱侧凸队列的全基因组测序研究表明其涉及多生物途径的多基因疾病 | Tuncay, I. O. | [PDF](https://doi.org/10.1101/2025.01.23.25321049) | N/A | Whole Genome Sequencing in Adolescent Idiopathic Scoliosis Cohort Indicates Polygenic Disease Involving Multiple Biological Pathways |
+| 根据自我报告的种族，卵巢高级别浆液性癌中的同源重组缺陷情况 | Lawson-Michod, K. A. | [PDF](https://doi.org/10.1101/2025.01.21.25320918) | N/A | Homologous recombination deficiency in ovarian high-grade serous carcinoma by self-reported race |
+| 龈下菌斑重建的内部/外部细菌来源 | Gibb, A. | [PDF](https://doi.org/10.1101/2025.01.23.25321046) | N/A | Internal/External Bacterial Sources of Subgingival Plaque Reconstitution |
+| 选择性细胞分离装置在需要肾脏替代治疗的儿童急性肾损伤中的预计成本效益影响 | Kleinman, N. L. | [PDF](https://doi.org/10.1101/2025.01.27.25320922) | N/A | Projected Cost-beneficial Impact of the Selective Cytopheretic Device in Pediatric Acute Kidney Injury Requiring Kidney Replacement Therapy |
+| 胶质瘤及其手术切除对细胞、连接组和认知的影响 | Poologaindran, A. | [PDF](https://doi.org/10.1101/2025.01.27.25320920) | N/A | Cellular, Connectomic, and Cognitive Impact of Glioma and its Surgical Resection |
+| 术后即刻使用MAESTRO技术检测微小残留病灶可预测接受手术治疗的头颈癌患者的复发和生存情况。 | Sim, E. S. | [PDF](https://doi.org/10.1101/2025.01.27.25321202) | N/A | Immediate postoperative minimal residual disease detection with MAESTRO predicts recurrence and survival in head and neck cancer patients treated with surgery |
+| 简化大规模基因组数据管理：来自英国生物银行全基因组测序数据的洞见 | Li, X. | [PDF](https://doi.org/10.1101/2025.01.27.25321225) | N/A | Streamlining Large-Scale Genomic Data Management: Insights from the UK Biobank Whole-Genome Sequencing Data |
+| 痴呆风险因素与认知衰退：2023年行为风险因素监测系统（BRFSS）研究结果 | Adams, M. L. | [PDF](https://doi.org/10.1101/2025.01.27.25321203) | N/A | Dementia risk factors and cognitive decline: Results from the 2023 Behavioral Risk Factor Surveillance System (BRFSS) |
+| 从嘈杂的流行病数据中及时干预的不对称限制 | Parag, K. V. | [PDF](https://doi.org/10.1101/2025.01.28.25321278) | N/A | Asymmetric limits on timely interventions from noisy epidemic data |
+| 韩国皮肤病人工智能验证及全球使用统计数据 | Han, S. S. | [PDF](https://doi.org/10.1101/2025.01.27.25321219) | N/A | Validation of an AI for Skin Diseases in Korea and Global Usage Statistics |
+| 蛋白质组学与BMI波动及长期变化的关联：一项40年随访研究 | Obeso Fernandez, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321236) | N/A | Proteomic associations with fluctuation and long-term changes in BMI: A 40-year follow-up study |
+| 儿科斯皮格尔疝与斯皮格尔-隐睾综合征：综合综述 | Arredondo Montero, J. | [PDF](https://doi.org/10.1101/2025.01.24.25321083) | N/A | Pediatric Spigelian Hernia and Spigelian-Cryptorchidism Syndrome: an Integrating Review |
+| 通过人工智能驱动的播客生成加强罕见病教育。 | Perez-Palma, E. | [PDF](https://doi.org/10.1101/2025.01.27.25320972) | N/A | Enhancing Rare Disease Education through AI-Driven Podcast Generation. |
+| Transformer模型增强了网络医学的预测能力 | Spector, J. | [PDF](https://doi.org/10.1101/2025.01.27.25321204) | N/A | Transformers Enhance the Predictive Power of Network Medicine |
+| 以下是这段英文的中文翻译：
+
+**"检查神经纤维瘤病1型的认知表型：功能性影像学研究的系统综述。"**
+
+翻译解释：
+- **Examining**：检查、研究
+- **cognitive phenotype**：认知表型（指与认知功能相关的表现型特征）
+- **Neurofibromatosis 1**：神经纤维瘤病1型（一种遗传性疾病）
+- **systematic review**：系统综述（对某一主题进行全面、系统的文献回顾）
+- **functional imaging studies**：功能性影像学研究（如fMRI、PET等用于研究大脑功能的技术）
+
+希望这对你有帮助！ | Wild, A. | [PDF](https://doi.org/10.1101/2025.01.27.25321195) | N/A | Examining the cognitive phenotype in Neurofibromatosis 1: a systematic review of functional imaging studies. |
+| 后海马体谷氨酸代谢、视觉皮层连接性与创伤再体验症状之间的多模态关联 | Clancy, K. J. | [PDF](https://doi.org/10.1101/2025.01.27.25320595) | N/A | Multimodal associations between posterior hippocampus glutamate metabolism, visual cortex connectivity, and intrusive trauma reexperiencing symptoms |
+| 心理健康与认知能力之间的关联：来自英国家庭纵向研究的证据 | Vaportzis, E. | [PDF](https://doi.org/10.1101/2025.01.26.25321154) | N/A | The Association between Mental Health and Cognitive Ability: Evidence from The UK Household Longitudinal Study |
+| 精神病中的身体自我功能障碍：对自我产生感觉的神经和脊髓反应的改变 | Salamone, P. C. | [PDF](https://doi.org/10.1101/2025.01.28.25321269) | N/A | Bodily Self-Dysfunction in Psychosis: Altered Neural and Spinal Response to Self-produced Sensations |
+| **中文翻译：**  
+扣带回和前极皮层向小脑蚓部的投射支持女性在识别负面情绪场景时反应时间延长  
+
+**解释：**  
+这项研究探讨了大脑特定区域（扣带回和前极皮层）与小脑蚓部之间的神经连接如何影响女性在识别负面情绪场景时的反应时间。研究发现，这些区域的神经投射可能导致女性在面对负面情绪刺激时反应时间延长。 | Wong, H. K. | [PDF](https://doi.org/10.1101/2025.01.27.25321160) | N/A | Cingulate and Frontopolar Cortical Projections to the Cerebellar Vermis Support Prolonged Reaction Time in Identifying Negative Emotional Scenes in Women |
+| 哌甲酯在任务期间稳定了动态脑网络组织，这些任务旨在探测未接触过兴奋剂的ADHD儿童的注意力和奖励处理能力。 | Nugiel, T. | [PDF](https://doi.org/10.1101/2025.01.27.25321175) | N/A | Methylphenidate stabilizes dynamic brain network organization during tasks probing attention and reward processing in stimulant-naïve children with ADHD |
+| 非洲肿瘤学中生活方式及其他非药物干预措施的现状：已注册临床试验的综述 | Wangari, M. | [PDF](https://doi.org/10.1101/2025.01.26.25321157) | N/A | The current landscape of lifestyle and other non-pharmaceutical interventions in oncology in Africa: A review of registered clinical trials |
+| 生蔬菜中耐甲氧西林金黄色葡萄球菌和产超广谱β-内酰胺酶肠杆菌科细菌的流行情况及耐药性模式 | Ahmed, D. S. | [PDF](https://doi.org/10.1101/2025.01.28.25321130) | N/A | Prevalence and drug-resistance patterns of methicillin-resistant Staphylococcus aureus and extended-spectrum β-lactamase producing Enterobacteriaceae among raw vegetables |
+| 不同年龄段的用户如何评价一款用于自我听力测试的移动应用 | Pastucha, M. | [PDF](https://doi.org/10.1101/2025.01.27.25321176) | N/A | How Users of Different Ages Rate a Mobile App for Self-Testing of Hearing |
+| 全球疥疮趋势与流行率：基于2021年全球疾病负担数据的时空分析 | GUPTA, S. | [PDF](https://doi.org/10.1101/2025.01.24.25321000) | N/A | Global trends and prevalence of scabies: a spatiotemporal analysis using Global Burden of Disease 2021 data |
+| 大肠杆菌O157:H7在从农场到餐桌的新鲜切罗马生菜供应链中的风险评估 | Bulut, E. | [PDF](https://doi.org/10.1101/2025.01.26.25321140) | N/A | Risk Assessment of Escherichia coli O157:H7 along the Farm-to-Fork Fresh-Cut Romaine Lettuce Supply Chain |
+| 电子免疫登记系统和电子物流管理信息系统在四个低收入和中等收入国家的影响：几内亚、洪都拉斯、卢旺达和坦桑尼亚 | Mantel, C. F. | [PDF](https://doi.org/10.1101/2025.01.27.25321171) | N/A | Impact of Electronic Immunization Registries and Electronic Logistics Management Information Systems in four Low-and Middle-Income Countries: Guinea, Honduras, Rwanda, and Tanzania |
+| 瑞士国家猪与人类甲型流感病毒监测计划：2010年至2022年的遗传变异与人畜共患传播 | Lechmann, J. | [PDF](https://doi.org/10.1101/2025.01.28.24319114) | N/A | The Swiss national program for the surveillance of influenza A viruses in pigs and humans: genetic variability and zoonotic transmissions from 2010 - 2022 |
+| 探索成人慢性腰痛患者加强治疗课程出勤率、处方及结果：一项随机临床试验的二次分析 | Lanier, V. M. | [PDF](https://doi.org/10.1101/2025.01.27.25321189) | N/A | Exploring booster session attendance, prescription, and outcomes in adults with chronic low back pain: Secondary analysis of a randomized clinical trial |
+| 计算机辅助干预和虚拟现实在手腕和手部康复中的有效性：范围综述协议
+
+这段文字描述了一个研究计划或协议，旨在通过范围综述的方法，评估计算机辅助干预和虚拟现实技术在手腕和手部康复中的应用效果。范围综述是一种系统性的文献回顾方法，用于识别、选择和综合现有的研究证据，以回答特定的研究问题或探索某一领域的知识现状。在这个协议中，研究者将系统地收集和分析相关文献，以评估这些技术在康复治疗中的有效性和应用情况。 | Santandrea, S. | [PDF](https://doi.org/10.1101/2025.01.28.25320373) | N/A | Effectiveness of Computer-Aided interventions and Virtual Reality in Wrist and Hand rehabilitation: a Scoping Review Protocol |
+| 使用咳嗽声音进行呼吸系统疾病筛查和诊断的SWAASA人工智能平台的临床验证 | Thangakunam, B. | [PDF](https://doi.org/10.1101/2025.01.27.25321216) | N/A | CLINICAL VALIDATION OF SWAASA ARTIFICIAL INTELLIGENCE PLATFORM USING COUGH SOUNDS FOR SCREENING AND DIAGNOSIS OF RESPIRATORY DISEASES |
+| 表观遗传性干扰素信号减弱驱动系统性红斑狼疮与衰老相关的改善 | Narendra, R. | [PDF](https://doi.org/10.1101/2025.01.27.25321143) | N/A | Epigenetic attenuation of interferon signaling drives aging-related improvements in systemic lupus |
+| 一项随机对照试验评估阿达木单抗对ACPA阳性类风湿性关节炎患者心血管疾病临床前生物标志物的影响 | Oakley, S. P. | [PDF](https://doi.org/10.1101/2025.01.26.25321158) | N/A | A Randomized Controlled Trial Evaluating the Effect of Adalimumab Upon Pre-Clinical Biomarkers of Cardiovascular Disease in ACPA-Positive Rheumatoid Arthritis |
+| 计算机辅助骨质疏松症检测的骨密度测量数据集 | masnabadi, n. | [PDF](https://doi.org/10.1101/2025.01.25.24319689) | N/A | Bone Densitometry Dataset for Computer Aided Osteoporosis Disease Detection |
+| 羟氯喹纠正系统性红斑狼疮患者自然杀伤细胞中的线粒体自噬功能障碍。 | Fluder, N. W. | [PDF](https://doi.org/10.1101/2025.01.28.25321013) | N/A | Hydroxychloroquine corrects mitochondrial recycling dysfunction in natural killer cells from patients with systemic lupus erythematosus |
+| 音乐是否在急性运动期间支持认知控制和情感反应？一项探索性系统综述和荟萃分析 | Danso, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321259) | N/A | Does Music Support Cognitive Control and Affective Responses During Acute Exercise? An Exploratory Systematic Review and Meta-analysis |
+| 三维打印模型对共享决策的影响：一项集群随机对照试验 | Khan, A. | [PDF](https://doi.org/10.1101/2025.01.27.25321192) | N/A | Impact of 3D Printed Models on Shared Decision Making: A Cluster Randomized Controlled Trial |
+| 神经包容性在线面试：首次共同设计的异步多迷你面试的过程评估 | Callwood, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321063) | N/A | Neuroinclusive online interviews: a process evaluation of the first co-designed asynchronous Multiple Mini Interview |
+| 肯尼亚基西县抗菌药物使用的知识、态度和实践（KAP） | Babafemi, E. O. | [PDF](https://doi.org/10.1101/2025.01.26.25321155) | N/A | Knowledge, Attitude and Practices (KAP) of Antimicrobial Usage in in Kisii County, Kenya |
+| 脓毒症相关急性肾损伤入院时H3.1核小体水平的预后价值：SISPCT随机临床试验的二次分析 | Neumann, C. | [PDF](https://doi.org/10.1101/2025.01.28.25321238) | N/A | Prognostic value of admission H3.1 nucleosome levels in sepsis-associated acute kidney injury: a secondary analysis of the SISPCT randomised clinical trial |
+| 客观测量的活动水平在个体内的变化作为多发性硬化症中脑萎缩的预测因素 | Fitzgerald, K. C. | [PDF](https://doi.org/10.1101/2025.01.27.25321205) | N/A | Within-person changes in objectively measured activity levels as a predictor of brain atrophy in multiple sclerosis |
+| 长期新冠影响工作记忆：通过单一快速在线测试进行评估 | Asghar, A. | [PDF](https://doi.org/10.1101/2025.01.26.25321152) | N/A | Long COVID affects working memory: Assessment using a single rapid online test |
+| 个性化循环肿瘤DNA动态变化预测复发/转移性头颈癌患者的生存及对免疫检查点阻断治疗的反应 | Ruiz Torres, D. A. | [PDF](https://doi.org/10.1101/2025.01.27.25321198) | N/A | Personalized circulating tumor DNA dynamics predict survival and response to immune checkpoint blockade in recurrent/metastatic head and neck cancer |
+| 利用纵向患者报告结果轨迹预测非小细胞肺癌患者的生存期 | Zhou, J. | [PDF](https://doi.org/10.1101/2025.01.27.25321050) | N/A | Leveraging Longitudinal Patient-Reported Outcomes Trajectories to Predict Survival in Non-Small-Cell Lung Cancer |
+| 多分辨率视觉变换器模型用于基于组织病理学切片的皮肤癌亚型分类 | Chaurasia, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321234) | N/A | Multi-resolution vision transformer model for skin cancer subtype classification using histopathology slides |
+| 脊柱的矢状平衡——一个几何力线模型 | Song, K. | [PDF](https://doi.org/10.1101/2025.01.24.25321026) | N/A | Sagittal balance of the spine - a geometric force-line model |
+| TDP43-C型神经变性的遗传学：一项全基因组测序研究 | Nassan, M. | [PDF](https://doi.org/10.1101/2025.01.25.25320561) | N/A | The genetics of TDP43-Type-C neurodegeneration: a whole genome sequencing study |
+| 预测帕金森病患者的痴呆风险 | Aborageh, M. | [PDF](https://doi.org/10.1101/2025.01.27.25321134) | N/A | Predicting Dementia in People with Parkinson's Disease |
+| GBA1携带者中帕金森病的渗透率取决于变异严重程度和多基因背景。 | Hassanin, E. | [PDF](https://doi.org/10.1101/2025.01.23.25320896) | N/A | Penetrance of Parkinson's disease in GBA1 carriers is depending on the variant severity and polygenic background |
+| 比较在欧盟内针对男男性行为者推荐和提供HIV暴露前预防的不同政策的成本效益 | WANG, B. | [PDF](https://doi.org/10.1101/2025.01.28.25321249) | N/A | Comparing the Cost-Effectiveness of Alternative Policies for Recommending and Providing HIV Pre-exposure Prophylaxis to Men Who Have Sex With Men in the EU |
+| 开发一种基于索赔的可计算表型用于溃疡性结肠炎发作 | Copeland, D. | [PDF](https://doi.org/10.1101/2025.01.26.25321138) | N/A | Development of a Claims-Based Computable Phenotype for Ulcerative Colitis Flares |
+| 数字医疗改革与减少重复检查和检测：基于中国某国家级试点省份的研究，探讨了医生在临床专科需求与信息干预下对互认行为的影响。 | Song, C. | [PDF](https://doi.org/10.1101/2025.01.26.25321151) | N/A | Digital healthcare reform and reduction of duplicate examinations and tests: a study of physicians' behavior on mutual recognition in response to clinical specialized demands and information intervention form a national pilot province in China |
+| 沙特阿拉伯人口因素与健康政策订阅的关联：来自全国调查的见解 | Alasiri, A. A. | [PDF](https://doi.org/10.1101/2025.01.27.25321187) | N/A | The Association of Demographic Factors to Health Policy Subscriptions in Saudi Arabia: insight from National Survey |
+| 基于图像的可解释人工智能准确识别骨髓增生异常肿瘤，超越传统发育不良迹象 | Eckardt, J.-N. | [PDF](https://doi.org/10.1101/2025.01.27.25321165) | N/A | Image-based Explainable Artificial Intelligence Accurately Identifies Myelodysplastic Neoplasms Beyond Conventional Signs of Dysplasia |
+| 50岁及以上成年人记忆功能与COVID-19结局的关联：三项前瞻性队列研究的分析 | Shi, J. | [PDF](https://doi.org/10.1101/2025.01.24.25321065) | N/A | Association of memory function with COVID-19 outcomes in adults aged 50 years and older: Analysis of three prospective cohorts |
+| 在侧流层析检测中，通过CRISPR-Cas9介导的链置换进行病毒检测 | Montagud-Martinez, R. | [PDF](https://doi.org/10.1101/2025.01.27.25320727) | N/A | Virus detection by CRISPR-Cas9-mediated strand displacement in a lateral flow assay |
+| 具有反向血压下降表型的危重患者发生谵妄和死亡的风险增加。 | El Jamal, N. | [PDF](https://doi.org/10.1101/2025.01.28.25321270) | N/A | Critically ill patients with a reverse blood pressure dipping phenotype at increased risk for delirium and death. |
+| 高级器官支持（ADVOS）血液透析系统实现了其预期目的：对来自体外多器官支持（EMOS）注册表中282名患者的数据进行了分析。 | Fuhrmann, V. | [PDF](https://doi.org/10.1101/2025.01.26.25321153) | N/A | The Advanced Organ Support (ADVOS) hemodialysis system fulfills its intended purpose: Analysis of data from 282 patients from the Registry on Extracorporeal Multiple Organ Support (EMOS) |
+| 遗传风险和基于加速度计的步数与心血管疾病的联合关联：一项英国生物银行队列研究 | Birmpili, P. | [PDF](https://doi.org/10.1101/2025.01.26.25321145) | N/A | Joint association of genetic risk and accelerometer-based step count with cardiovascular disease: a UK-Biobank cohort study |
+| 可解释的静息高级心电图可以排除负荷超声心动图上的心肌缺血。 | Yang, K. X. | [PDF](https://doi.org/10.1101/2025.01.24.25320506) | N/A | Explainable advanced electrocardiography at rest can rule out myocardial ischemia on stress echocardiography |
+| 特应性湿疹的基因-环境相互作用分析：来自大规模人群数据集和体外建模的证据。 | Standl, M. | [PDF](https://doi.org/10.1101/2025.01.24.25321071) | N/A | Gene-environment interaction analysis in atopic eczema: evidence from large population datasets and modelling in vitro. |
+| 妊娠期高血糖的患病率：基于早期、标准和晚期筛查的研究——以秘鲁利马初级保健卫生为例 | Seclen, S. N. | [PDF](https://doi.org/10.1101/2025.01.26.25321156) | N/A | Prevalence of Hyperglycemia in Pregnancy using early, standard and late screening: a study in the Primary Care Health  in Lima, Peru |
+| 以下是这段英文的中文翻译：
+
+H5N1流感在美国奶牛中传播的数学模型。
+
+这个翻译保持了原文的专业性和准确性，清晰地表达了研究的主题——关于H5N1流感病毒在美国奶牛群体中传播的数学模型研究。 | Rawson, T. | [PDF](https://doi.org/10.1101/2025.01.28.25321250) | N/A | A mathematical model of H5N1 influenza transmission in US dairy cattle. |
+| 英国生物库中与临床生物标志物相关的性别特异性肥胖代谢特征 | Papagiannopoulos, C. K. | [PDF](https://doi.org/10.1101/2025.01.23.25321010) | N/A | Sex-specific metabolic signatures of adiposity associated with clinical biomarkers in the UK Biobank |
+| 儿科临床决策支持中先进AI推理模型的比较评估：ChatGPT O1与DeepSeek-R1 | Mondillo, G. | [PDF](https://doi.org/10.1101/2025.01.27.25321169) | N/A | Comparative Evaluation of Advanced AI Reasoning Models in Pediatric Clinical Decision Support: ChatGPT O1 vs. DeepSeek-R1 |
+| 越南高中生中的性行为不当问题 | Tran, K. T. | [PDF](https://doi.org/10.1101/2025.01.28.25321240) | N/A | SEXUAL MISCONDUCT AMONG HIGH SCHOOL STUDENTS IN VIETNAM |
+| 中度和高海拔地区对慢性阻塞性肺疾病患者次日脑血管功能的影响——一项在2048米海拔进行的随机交叉试验，包括夜间氧疗与无氧疗的对比研究 | Gilliand, D. | [PDF](https://doi.org/10.1101/2025.01.27.25321003) | N/A | Effect of moderate altitude with and without nocturnal oxygen therapy on the next-day cerebrovascular function in patients with chronic obstructive pulmonary disease -- A randomized, cross-over trial at 2048 m |
+| 肯尼亚马库埃尼县0-6个月母乳喂养儿童的黄曲霉毒素M1暴露与营养状况 | Ogallo, I. O. | [PDF](https://doi.org/10.1101/2025.01.24.25321090) | N/A | Aflatoxin M1 exposure and nutritional status of breastfeeding children 0-6 months in Makueni County, Kenya |
+| 从iRBD到帕金森病：利用自动化DTI-ALPS分析追踪类淋巴系统功能障碍 | Marecek, S. | [PDF](https://doi.org/10.1101/2025.01.26.25321139) | N/A | From iRBD to Parkinson's disease: Tracking Glymphatic Dysfunction Using Automated DTI-ALPS Analysis |
+| 口服曲普坦类药物及其他口服偏头痛治疗与有心血管病史患者心血管结局的关联研究 | Dodick, D. | [PDF](https://doi.org/10.1101/2025.01.27.25321076) | N/A | Association of Oral Triptans and Other Oral Migraine Treatments With Cardiovascular Outcomes in Patients With a History of Cardiovascular Conditions |
+| 基因组和转录组范围的关联荟萃分析揭示了影响冠状动脉和外周动脉疾病基因的新见解 | Rode, M. | [PDF](https://doi.org/10.1101/2025.01.27.25320452) | N/A | Genome- and Transcriptome-wide association meta-analysis reveals new insights into genes affecting coronary and peripheral artery disease |
+| 接触公共住房逆转了镰状细胞病患者邻里劣势与嗜酸性炎症之间的关联。 | McCuskee, S. | [PDF](https://doi.org/10.1101/2025.01.27.25321223) | N/A | Exposure to public housing reverses the association between neighborhood disadvantage and eosinophilic inflammation in patients with sickle cell disease |
+| 脑瘫患者运动障碍与执行或注意认知障碍之间的联系：范围综述 | Martinet, M. | [PDF](https://doi.org/10.1101/2025.01.26.25321141) | N/A | Link between motor impairments and executive or attentional cognitive impairments in people with cerebral palsy: Scoping review |
+| 以下是将这段英文翻译成中文的结果：
+
+**表面肌电评估盆底肌肉方案通过新型气囊式可拉伸电极阵列（ASEA）设备在绝经后女性压力性尿失禁中的测试**
+
+翻译说明：
+- **Surface Electromyographic Assessment**：表面肌电评估
+- **Pelvic Floor Muscles Protocol**：盆底肌肉方案
+- **Airbag-type Stretchable Electrode Array (ASEA)**：气囊式可拉伸电极阵列（ASEA）
+- **Stress Urinary Incontinence**：压力性尿失禁
+- **Postmenopausal Women**：绝经后女性
+
+希望这段翻译对你有帮助！如果需要进一步调整或解释，请告诉我。 | Zhang, Z. | [PDF](https://doi.org/10.1101/2025.01.26.25321148) | N/A | Surface Electromyographic Assessment of Pelvic Floor Muscles Protocol Tested by a Novel Airbag-type Stretchable Electrode Array (ASEA) Device in Stress Urinary Incontinence in Postmenopausal Women |
 # MedRxiv 2025-01-26 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
