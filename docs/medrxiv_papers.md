@@ -1,3 +1,68 @@
+# MedRxiv 2025-01-29 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 帕金森病中动态骑行的电生理相关性 | Joshi, P. | [PDF](https://doi.org/10.1101/2024.02.16.24301952) | N/A | Electrophysiological Correlates of Dynamic Cycling in Parkinson's Disease |
+| 《穿越多元宇宙：多模态生物医学数据协调方法选择指南》 | M S, M. A. | [PDF](https://doi.org/10.1101/2024.03.21.24304655) | N/A | Navigating the Multiverse: A Hitchhiker's Guide to Selecting Harmonisation Methods for Multimodal Biomedical Data |
+| 使用时间驱动作业成本法评估急诊科肌肉骨骼疾病管理的创新护理模式 | Gagnon, R. | [PDF](https://doi.org/10.1101/2024.08.14.24311988) | N/A | Assessing innovative care models for musculoskeletal disorders' management in the emergency department using Time-Driven Activity-Based Costing |
+| 胸主动脉形状：一种数据驱动的尺度空间方法 | Pugar, J. A. | [PDF](https://doi.org/10.1101/2024.08.30.24312310) | N/A | Thoracic Aortic Shape: A Data-Driven Scale Space Approach |
+| 参与肠道与宿主通讯的G蛋白偶联受体基因中的罕见致病性变异与心血管疾病风险相关。 | Camargo Tavares, L. | [PDF](https://doi.org/10.1101/2024.10.01.24314734) | N/A | Rare pathogenic variants in G-protein coupled receptor genes involved in gut-to-host communication are associated with cardiovascular disease risk |
+| 长期使用甘特尼单抗治疗显性遗传性阿尔茨海默病的安全性和有效性：DIAN-TU试验2/3期多中心、随机、双盲、安慰剂对照平台的开放标签扩展研究 | Bateman, R. J. | [PDF](https://doi.org/10.1101/2024.10.29.24316289) | N/A | Safety and efficacy of long-term gantenerumab treatment in dominantly inherited Alzheimer's disease: an open label extension of the phase 2/3 multicentre, randomised, double-blind, placebo-controlled platform DIAN-TU Trial |
+| 血清催化模型的数学及其在公共卫生数据中的应用 | Kamau, E. | [PDF](https://doi.org/10.1101/2025.01.21.25320864) | N/A | The Mathematics of Serocatalytic Models with applications to public health data |
+| 比较在欧盟内针对男男性行为者推荐和提供HIV暴露前预防的不同政策的成本效益 | WANG, B. | [PDF](https://doi.org/10.1101/2025.01.28.25321249) | N/A | Comparing the Cost-Effectiveness of Alternative Policies for Recommending and Providing HIV Pre-exposure Prophylaxis to Men Who Have Sex With Men in the EU |
+| 评估p16/Ki-67细胞学作为高风险HPV阳性女性在“即查即治策略”中的分流测试 | Onyango, C. G. | [PDF](https://doi.org/10.1101/2025.01.26.25321149) | N/A | Evaluation of p16/Ki- 67 cytology as triage test for high-risk HPV-positive women in a "see and treat strategy" |
+| 胎儿性别对孕妇孕期血压的影响 | Decina, C. S. | [PDF](https://doi.org/10.1101/2025.01.28.25321287) | N/A | The influence of fetal sex on maternal blood pressure in pregnancy |
+| 基于fMRI 4D时空数据的精神分裂症与健康对照组分类 | Huan Pham, T. H. | [PDF](https://doi.org/10.1101/2025.01.26.25321159) | N/A | Schizophrenia versus Healthy Controls Classification based on fMRI 4D Spatiotemporal Data |
+| 人类局灶性癫痫发作后睡眠变化 | Kremen, V. | [PDF](https://doi.org/10.1101/2025.01.28.25321285) | N/A | Post-Ictal Sleep Changes in Human Focal Epilepsy |
+| 稀疏多基因风险评分推断与尖峰-平板LASSO方法 | Song, J. | [PDF](https://doi.org/10.1101/2025.01.28.25321292) | N/A | Sparse Polygenic Risk Score Inference with the Spike-and-Slab LASSO |
+| 基因对变异的不耐受谱：来自罕见病队列的见解 | Cacheiro, P. | [PDF](https://doi.org/10.1101/2025.01.28.25321201) | N/A | The spectrum of gene intolerance to variation: Insights from a rare disease cohort |
+| 基因组医学中的变异科学家：人口统计、培训、职责与职业发展调查 | Dickson, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321277) | N/A | Variant Scientists in Genomic Medicine: Survey of Demographics, Training, Duties, and Professional Development |
+| 罕见单核苷酸多态性的网络分析提示17型免疫反应在创伤诱导的、基因型相关的低炎症和危重疾病中的核心作用 | El-Dehaibi, F. K. | [PDF](https://doi.org/10.1101/2025.01.28.25321184) | N/A | Network Analysis of Rare Single-Nucleotide Polymorphisms Suggests a Central Role for Type 17 Immune Responses in Trauma-induced, Genotypically Associated Hypo-Inflammation, and Critical Illness |
+| 在高风险人群中模拟CIZ1B生物标志物血液检测用于肺癌筛查的经济影响 | Hinkel, J. | [PDF](https://doi.org/10.1101/2025.01.28.25321291) | N/A | Modeling the Economic Impact of a CIZ1B Biomarker Blood Test for Lung Cancer Screening in High-Risk Populations |
+| 迈向元认知临床推理：在医疗决策中将MD-PIE与最先进的大型语言模型进行基准测试 | Esteitieh, Y. | [PDF](https://doi.org/10.1101/2025.01.28.25321282) | N/A | Towards Metacognitive Clinical Reasoning: Benchmarking MD-PIE Against State-of-the-Art LLMs in Medical Decision-Making |
+| 在乌干达的一项羟基脲试验中，尽管总体经颅多普勒血流速度有所改善，但儿童镰状细胞贫血患者仍发生卒中：前期和持续风险 | Wambaka, B. | [PDF](https://doi.org/10.1101/2025.01.28.25320389) | N/A | Incident Stroke in Pediatric Sickle cell Anemia Despite Overall Improved Transcranial Doppler Velocity in a Ugandan Hydroxyurea Trial: Antecedent and ongoing risks |
+| 以下是这段文字的中文翻译：
+
+**赞比亚部分地区养牛户对与生奶和未煮熟肉类污染相关的牛结核病的认知和意识**
+
+希望这个翻译对你有帮助！ | Phiri, A. | [PDF](https://doi.org/10.1101/2025.01.27.25321167) | N/A | Knowledge and Awareness of Bovine Tuberculosis Associated with Raw Milk and Under-Cooked Meat Contamination Among Cattle Farmers in Selected Parts of Zambia. |
+| 当代妊娠期心血管疾病的负担：基于真实世界妊娠电子健康记录队列的洞察
+
+这段翻译将英文标题“Contemporary Burden of Cardiovascular Disease in Pregnancy: Insights from a Real-World Pregnancy Electronic Health Record Cohort”转换为中文，旨在传达原文的核心信息。翻译时，我尽量保持了原文的简洁性和专业性，同时确保中文表达流畅、准确。
+
+具体来说，“Contemporary Burden”被译为“当代负担”，以强调当前时期心血管疾病在妊娠期的普遍性和重要性。“Cardiovascular Disease in Pregnancy”直译为“妊娠期心血管疾病”，明确指出了研究的主题。“Insights from”译为“基于……的洞察”，表达了研究数据的来源和分析的深度。“Real-World Pregnancy Electronic Health Record Cohort”则被译为“真实世界妊娠电子健康记录队列”，突出了研究的实际应用背景和数据基础。
+
+整体而言，这段翻译力求在保持原文专业性的同时，使中文读者能够清晰理解研究的核心内容和价值。 | Lau, E. | [PDF](https://doi.org/10.1101/2025.01.28.25320930) | N/A | Contemporary Burden of Cardiovascular Disease in Pregnancy: Insights from a Real-World Pregnancy Electronic Health Record Cohort |
+| 使用单一TriClip可操纵导管进行二尖瓣和三尖瓣联合TEER：一项单中心研究 | Papadopoulos, G. E. | [PDF](https://doi.org/10.1101/2025.01.28.25321297) | N/A | Combined mitral and tricuspid TEER with a single TriClip steerable guide catheter: A single-center study |
+| 利用人工智能从非对比胸部计算机断层扫描中得出的主动脉和心脏结构表型进行心血管风险的机遇性评估 | Oo, D. W. | [PDF](https://doi.org/10.1101/2025.01.28.25321302) | N/A | OPPORTUNISTIC ASSESSMENT OF CARDIOVASCULAR RISK USING AI-DERIVED STRUCTURAL AORTIC AND CARDIAC PHENOTYPES FROM NON-CONTRAST CHEST COMPUTED TOMOGRAPHY |
+| 复制：深度学习在心电图分析中的应用：来自PTB-XL的基准与洞见 | Gitau, A. | [PDF](https://doi.org/10.1101/2025.01.27.25321112) | N/A | Replication: Deep Learning for ECG Analysis: Benchmarks and Insights from PTB-XL |
+| 在一项旨在延缓1型糖尿病临床发病的试验中，对羟氯喹视网膜毒性的过度监测造成了负担，却未带来任何益处。 | Lord, S. M. | [PDF](https://doi.org/10.1101/2025.01.28.25321283) | N/A | Excessive monitoring for Hydroxychloroquine retinal toxicity in a trial to delay clinical type 1 diabetes created burden without benefit |
+| 基于系统发育的流行病种群结构估计优于时间序列方法 | Spencer, J. A. | [PDF](https://doi.org/10.1101/2025.01.28.25321284) | N/A | Phylogeny-based estimates of epidemic population substructure outperform time series approaches |
+| 单任务与双任务条件下的认知成本与步态参数：非特异性颈部疼痛患者与非患者的比较研究 | Moustafa, I. M. | [PDF](https://doi.org/10.1101/2025.01.28.25321245) | N/A | Cognitive Costs and Gait Parameters During Single- and Dual-Task Conditions: A Comparative Study in Individuals With and Without Non-Specific Neck Pain |
+| 肺阻塞的严重程度和年龄较大，而非身体活动水平，是预测慢性阻塞性肺疾病（COPD）患者运动肌肉氧化功能障碍的因素。 | Adami, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321301) | N/A | SEVERITY OF LUNG OBSTRUCTION AND OLDER AGE, BUT NOT PHYSICAL ACTIVITY, PREDICT LOCOMOTOR MUSCLE OXIDATIVE IMPAIRMENT IN COPD |
+| 慢性创伤性脑损伤的不同临床表型及其神经解剖学相关性 | Kumar, R. G. | [PDF](https://doi.org/10.1101/2025.01.27.25321200) | N/A | Distinct clinical phenotypes and their neuroanatomic correlates in chronic traumatic brain injury |
+| 语言与记忆测试：针对神经疾病人群的无监督数字化认知测试的国际可行性研究 | Leavitt, V. M. | [PDF](https://doi.org/10.1101/2025.01.28.25321275) | N/A | The Language & Memory Test: International feasibility study of an unsupervised digital test of cognition for neurologic populations |
+| 围绝经期认知功能与全身及脑铁水平的关系 | Barnett, A. L. | [PDF](https://doi.org/10.1101/2025.01.28.25321122) | N/A | Cognitive Performance in Relation to Systemic and Brain Iron at Perimenopause |
+| 患者报告的90天术前内分泌治疗耐受性：POWER试验结果 | Millard, T. | [PDF](https://doi.org/10.1101/2025.01.28.25321286) | N/A | Patient Reported Tolerance of 90 Days of Pre-Operative Endocrine Therapy: Results from the POWER Trial |
+| 超深度RNA测序在孟德尔遗传病诊断中的应用 | Zhao, S. | [PDF](https://doi.org/10.1101/2025.01.28.25321295) | N/A | The Utility of Ultra-Deep RNA sequencing in Mendelian Disorder Diagnostics |
+| 全球莱姆病传播风险评估 | Cobos-Mayo, M. | [PDF](https://doi.org/10.1101/2025.01.29.25321312) | N/A | Global risk assessment of Lyme borreliosis transmission |
+| 跨自闭症谱系亚型的脑耦合模式的独特占据 | Miguel, V. | [PDF](https://doi.org/10.1101/2025.01.29.25321316) | N/A | Distinctive Occupancy of Brain Coupling Modes across Autism spectrum subtypes |
+| 新英格兰地区农村心血管疾病死亡率的提供者密度与系统性因素 | Krishna, E. S. C. | [PDF](https://doi.org/10.1101/2025.01.29.25321338) | N/A | Provider Density and Systemic Contributors to Rural Cardiovascular Disease Mortality in New England |
+| 重新评估教育在认知衰退和大脑老化中的作用：来自33个国家大规模纵向队列研究的洞见 | Fjell, A. M. M. | [PDF](https://doi.org/10.1101/2025.01.29.25321305) | N/A | Reevaluating the Role of Education in Cognitive Decline and Brain Aging: Insights from Large-Scale Longitudinal Cohorts across 33 Countries |
+| 痛苦与抑制性HIV感染者中诱发的继发性痛觉过敏呈正相关。 | Madden, V. J. | [PDF](https://doi.org/10.1101/2025.01.27.25321015) | N/A | Distress is positively associated with induced secondary hyperalgesia in people with suppressed HIV |
+| 高血压管理远程患者监测项目的成本与投资回报 | Zhang, D. S. | [PDF](https://doi.org/10.1101/2025.01.29.25321334) | N/A | Program Cost and Return on Investment of a Remote Patient Monitoring Program for Hypertension Management |
+| 使用F.A.I.R.临床和放射组学数据的口咽癌放疗结果的联合预测模型及外部验证 | Gouthamchand, V. | [PDF](https://doi.org/10.1101/2025.01.29.25321214) | N/A | Federated Prediction Models and External Validation for Radiotherapy Outcomes in Oropharyngeal Cancer using F.A.I.R. Clinical and Radiomics Data |
+| 从血浆样本中获取的人体内足迹，用于改善脓毒症患者的诊断 | Sonntag, M. | [PDF](https://doi.org/10.1101/2025.01.29.25320179) | N/A | Human in vivo footprints from blood plasma samples for improved diagnostics in septic patients |
+| 恩格列净改善线粒体生物合成并缓解实验性肺血管重塑，但可能对肺动脉高压患者无益 | Yoshida, K. | [PDF](https://doi.org/10.1101/2025.01.27.25321226) | N/A | Empagliflozin Improves Mitochondrial Biogenesis and Ameliorates Experimental Pulmonary Vascular Remodeling, But May Not Benefit Patients with Pulmonary Arterial Hypertension |
+| EPIC4ND：欧洲癌症与营养前瞻性调查神经退行性疾病随访研究 | Lill, C. M. | [PDF](https://doi.org/10.1101/2025.01.29.25321340) | N/A | EPIC4ND: European Prospective Investigation into Cancer and Nutrition follow-up for neurodegenerative diseases |
+| 多中心回顾性分析：III型食管闭锁修复术后儿童期肺功能损害及限制性综合征风险。 | Goulin, J. | [PDF](https://doi.org/10.1101/2025.01.29.25321318) | N/A | Multicentre retrospective analysis of lung function impairment and risks for restrictive syndrome during childhood after type III esophageal atresia repair. |
+| 多理论模型（MTM）在健康行为改变中的应用：范围综述 | Huai, P. | [PDF](https://doi.org/10.1101/2025.01.27.25321021) | N/A | Application of multi- theory model (MTM) health behavior change: A scoping review |
+| 多病症管理：针对多病症结局的综合干预措施的范围综述。 | Seakamela, K. P. | [PDF](https://doi.org/10.1101/2025.01.29.25321304) | N/A | Multimorbidity Management: A scoping review of comprehensive interventions for multimorbidity outcomes. |
+| 睾酮替代疗法改善年龄相关性性腺功能减退症（LOH）患者空间认知功能：基于虚拟三维迷宫的分析 | Kawato, S. | [PDF](https://doi.org/10.1101/2025.01.27.25321222) | N/A | Testosterone replacement therapy ameliorates spatial cognitive function in age-related hypogonadism (LOH) patients: analysis with a virtual three-dimensional maze |
+| 翻译与验证巴西葡萄牙语版本的化疗患者血管通路装置生活质量特定问卷
+
+这段翻译成中文的意思是：对巴西葡萄牙语版本的化疗患者血管通路装置生活质量特定问卷进行翻译和验证。 | Jeronimo Ponte, B. | [PDF](https://doi.org/10.1101/2025.01.29.25320594) | N/A | Translation and Validation of the Brazilian: Portuguese version of Quality of Life on Vascular Access Devices Specific Questionnaire in Chemotherapy patients |
+| 《环境临床文档的基准测试与数据集：AI辅助医疗笔记生成的现有框架与指标综述》 | Gebauer, S. | [PDF](https://doi.org/10.1101/2025.01.29.25320859) | N/A | Benchmarking And Datasets For Ambient Clinical Documentation: A Review Of Existing Frameworks And Metrics For AI-Assisted Medical Note Generation |
 # MedRxiv 2025-01-28 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
