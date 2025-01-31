@@ -1,3 +1,17 @@
+# MedRxiv 2025-01-30 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 在缺乏基因组监测能力的情况下改善对SARS-CoV-2变种的监测：2021年10月至2022年6月玻利维亚献血者的血清学研究 | Inchauste, L. | [PDF](https://doi.org/10.1101/2023.11.23.23298957) | N/A | Improving SARS-CoV-2 variants monitoring in the absence of genomic surveillance capabilities: a serological study in Bolivian blood donors in October 2021 and June 2022 |
+| 动态传播模型用于评估美国肺炎球菌疫苗接种的影响 | Malik, T. | [PDF](https://doi.org/10.1101/2024.06.11.24308671) | N/A | A dynamic transmission model for assessing the impact of pneumococcal vaccination in the United States |
+| 在冈比亚社区层面，疟原虫（Plasmodium falciparum）的家庭聚集性和季节性遗传变异研究 | Guery, M.-A. | [PDF](https://doi.org/10.1101/2024.08.05.24311344) | N/A | Household clustering and seasonal genetic variation of Plasmodium falciparum at the community-level in The Gambia |
+| 重新评估肥胖与头颈癌之间的联系：一项孟德尔随机化研究 | Morales-Berstein, F. | [PDF](https://doi.org/10.1101/2024.11.21.24317707) | N/A | Reassessing the link between adiposity and head and neck cancer: a Mendelian randomization study |
+| 在一项比较纯素食和杂食饮食的双胞胎研究中，一种肠道致病共生菌调节了循环甘氨酸和宿主代谢。 | Carter, M. | [PDF](https://doi.org/10.1101/2025.01.08.25320192) | N/A | A gut pathobiont regulates circulating glycine and host metabolism in a twin study comparing vegan and omnivorous diets |
+| 与创伤后应激障碍相关的内源性大麻素和炎症标志物的性别差异 | Rajasekera, T. A. | [PDF](https://doi.org/10.1101/2025.01.13.25320467) | N/A | Sex Differences in Endocannabinoid and Inflammatory Markers Associated with Posttraumatic Stress Disorder |
+| 具有反向血压下降表型的危重患者发生谵妄和死亡的风险增加。 | El Jamal, N. | [PDF](https://doi.org/10.1101/2025.01.28.25321270) | N/A | Critically ill patients with a reverse blood pressure dipping phenotype at increased risk for delirium and death. |
+| 肥厚型心肌病诊断或家族史个体的遗传、临床及社会人口学特征：一项前瞻性队列研究的见解 | Santos, E. D. S. | [PDF](https://doi.org/10.1101/2025.01.24.25321106) | N/A | Genetic, Clinical, and Sociodemographic Profile in Individuals with Diagnosis or Family History of Hypertrophic Cardiomyopathy: Insights from a Prospective Cohort |
+| 实施SWYC：一项质量改进项目及其对护理服务的影响 | Matsuura, Y. | [PDF](https://doi.org/10.1101/2025.01.28.25320926) | N/A | Implementing the SWYC: A Quality Improvement Project and Its Impact on Care Delivery |
+| 强迫症与重度抑郁症中的独特唾液微生物群特征、BDNF DNA甲基化以及miR-16-5p、miR-29a-3p、miR-191-5p的改变 | Girella, A. | [PDF](https://doi.org/10.1101/2025.01.24.25321067) | N/A | DISTINCT SALIVARY MICROBIOTA PROFILES, BDNF DNA METHYLATION AND MIR-16-5P, MIR-29A-3P, MIR-191-5P ALTERATIONS IN OBSESSIVE-COMPULSIVE DISORDER AND MAJOR DEPRESSIVE DISORDER |
 # MedRxiv 2025-01-29 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
