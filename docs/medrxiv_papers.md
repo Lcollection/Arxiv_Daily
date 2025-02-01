@@ -1,3 +1,87 @@
+# MedRxiv 2025-01-31 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 北欧国家由医科大学和大学医院主导的临床试验结果报告常常缺失或延迟。 | Nilsonne, G. | [PDF](https://doi.org/10.1101/2024.02.04.24301363) | N/A | Results reporting for clinical trials led by medical universities and university hospitals in the Nordic countries was often missing or delayed |
+| 针对性神经刺激与沉浸式现实相结合可减轻神经性疼痛——一项随机对照试验 | Aurucci, G. V. | [PDF](https://doi.org/10.1101/2024.12.10.24318374) | N/A | Targeted neural stimulation congruent with immersive reality decreases neuropathic pain - a Randomized Controlled Trial |
+| 脑损伤重症患者中利奈唑胺的脑脊液药代动力学-药效学研究，无论是否伴有中枢神经系统医疗相关感染。PK-Pop-LCR研究：一项多中心药代动力学与药效学群体研究。 | Dahyot-Fizelier, C. | [PDF](https://doi.org/10.1101/2024.12.13.24318990) | N/A | CSF pharmacokinetics-pharmacodynamics of linezolid in critically brain injured patients, with or without central nervous system healthcare-associated infection. The PK-Pop-LCR Study: A Multicenter Pharmacokinetics and Pharmacodynamics Population Study. |
+| 对阿尔茨海默病患者大脑的转录组学分析发现，导致癫痫的基因出现失调。 | Eteleeb, A. M. | [PDF](https://doi.org/10.1101/2025.01.02.25319900) | N/A | Transcriptomic analyses of human brains with Alzheimer disease identified dysregulated epilepsy-causing genes |
+| 血浆蛋白质组学特征揭示了体力活动的生物学影响及其对痴呆症的保护作用。 | Arani, G. | [PDF](https://doi.org/10.1101/2025.01.16.25320290) | N/A | Plasma Proteomic Signatures of Physical Activity Provide Insights into Biological Impacts of Physical Activity and its Protective Role Against Dementia. |
+| 多族裔瘢痕疙瘩的荟萃分析揭示了不同人群中的新易感位点 | Greene, C. A. | [PDF](https://doi.org/10.1101/2025.01.28.25321288) | N/A | Multi-ancestry meta-analysis of keloids uncovers novel susceptibility loci in diverse populations |
+| 呼气丙酮与1型糖尿病患者的毛细血管β-羟基丁酸酯水平相关 | Jones, K. E. | [PDF](https://doi.org/10.1101/2025.01.30.25321320) | N/A | Breath Acetone Correlates with Capillary β-hydroxybutyrate in Type 1 Diabetes |
+| 揭示负担：孟加拉国医学生中的抑郁及其决定因素——来自MINI诊断工具的见解 | Maliha, Z. T. | [PDF](https://doi.org/10.1101/2025.01.30.25321378) | N/A | Unveiling the burden: Depression and its determinants among Bangladeshi medical students - insights from the MINI diagnostic tool |
+| 探索性因子分析作为验证工具在评估白内障手术接受度的问卷中的应用 | Salowi, M. A. | [PDF](https://doi.org/10.1101/2025.01.29.25321326) | N/A | Exploratory factor analysis as a validation tool in a questionnaire to evaluate the uptake of cataract surgery |
+| 边缘型人格障碍患者外周血单核细胞中线粒体呼吸活性和DNA损伤的研究 | Behnke, A. | [PDF](https://doi.org/10.1101/2025.01.29.25321066) | N/A | Mitochondrial respiratory activity and DNA damage in peripheral blood mononuclear cells in borderline personality disorder |
+| 通过神经特征增强任务功能磁共振成像（fMRI）个体差异研究 | Baranger, D. A. | [PDF](https://doi.org/10.1101/2025.01.30.25321355) | N/A | Enhancing task fMRI individual difference research with neural signatures |
+| 身体畸形障碍和肌肉畸形症的症状与男性自我面部识别困难及负面自我面部评价的增加有关。 | Portingale, J. | [PDF](https://doi.org/10.1101/2025.01.29.25321224) | N/A | Symptoms of body dysmorphic disorder and muscle dysmorphia are related to greater self-face recognition difficulty and negative self-face evaluations among males |
+| 海地农村家庭儿童中由志贺氏菌属和侵袭性大肠杆菌引起的腹泻疾病：一项病例对照研究 | Sriguha, I. | [PDF](https://doi.org/10.1101/2025.01.29.25321342) | N/A | Diarrheal disease attributed to Shigella spp. and Enteroinvasive Escherichia coli among children at households in rural Haïti: A case-control study |
+| 解决肯尼亚常规婴儿免疫接种覆盖率计算中目标人群估算的挑战 | Karanja-Chege, C. | [PDF](https://doi.org/10.1101/2025.01.30.25321415) | N/A | Addressing the challenges of estimating the target population in calculation of routine infant immunization coverage in Kenya |
+| 大学运动员脑震荡后肌肉骨骼损伤风险的机器学习模型 | Claros-Olivares, C. C. | [PDF](https://doi.org/10.1101/2025.01.29.25321362) | N/A | A Machine Learning Model for Post-Concussion Musculoskeletal Injury Risk in Collegiate Athletes |
+| 在治疗巴勒斯坦蝰蛇（Daboia palaestinae）咬伤时，采用剂量调整的抗蛇毒血清方案可能会降低发病率和治疗成本。 | Jakobson, D. J. | [PDF](https://doi.org/10.1101/2025.01.29.25321324) | N/A | A dose scaling antivenin protocol in treatment of Daboia palaestinae envenomation may reduce morbidity and costs. |
+| 与右前颞叶萎缩相关的网络变化：洞察独特症状 | Ulugut, H. | [PDF](https://doi.org/10.1101/2025.01.29.25321213) | N/A | Network changes associated with right anterior temporal lobe atrophy: insight into unique symptoms |
+| 雅典-吕贝克问卷：一种用于区分持续性姿势感知性眩晕亚型的工具 | Anagnostou, E. | [PDF](https://doi.org/10.1101/2025.01.30.25321410) | N/A | The Athens-Luebeck Questionnaire: a tool to discriminate between subtypes of Persistent Postural Perceptual Dizziness |
+| 妊娠期糖尿病与胎盘血管灌注不良病变：系统综述与荟萃分析 | Arcot, A. | [PDF](https://doi.org/10.1101/2025.01.29.25319856) | N/A | Gestational diabetes mellitus and vascular malperfusion lesions in the placenta: a systematic review and meta-analysis |
+| 路易斯安那州WIC项目中针对服务不足母亲的妊娠期体重管理——一项全州范围的随机对照试验 | Flanagan, E. W. | [PDF](https://doi.org/10.1101/2025.01.29.25321347) | N/A | GESTATIONAL WEIGHT GAIN MANAGEMENT IN UNDERSERVED MOTHERS - A STATE-WIDE RANDOMIZED CONTROLLED TRIAL IN LOUISIANA WIC |
+| 智利马乌莱地区农村和城市工人中农药暴露的生物标志物与抑郁症状的预测关系 | LUCERO, B. A. | [PDF](https://doi.org/10.1101/2025.01.30.25321387) | N/A | Biomarkers of pesticide exposure predict Depressive Symptoms in rural and urban workers of the Maule Region, Chile |
+| 南欧儿童癌症与营养前瞻性调查（EPICkids）：研究设计与方案 | Perganti, F. | [PDF](https://doi.org/10.1101/2025.01.29.25321322) | N/A | Southern European Prospective  Investigation Into Childhood Cancer and Nutrition (EPICkids): Study Design and Protocol |
+| 微生群与黑色素瘤肿瘤对免疫检查点抑制剂治疗反应及免疫相关不良事件的关联研究（NCT05102773） | Dravillas, C. | [PDF](https://doi.org/10.1101/2025.01.30.25321413) | N/A | The Association of the Microbiome with Melanoma Tumor Response to Immune Checkpoint Inhibitor Treatment and Immune-Related Adverse Events (NCT05102773) |
+| 危重成人休克复苏直接视网膜成像研究 II (D-RISC II) | Cooper, G. | [PDF](https://doi.org/10.1101/2025.01.29.25321350) | N/A | Direct Retinal Imaging for Shock Resuscitation in Critical Ill Adults II (D-RISC II) |
+| 多模式与单模式体育训练干预对青光眼及老年对照组视觉功能的影响：一项初步研究 | Moffack Djuloun, C. | [PDF](https://doi.org/10.1101/2025.01.30.25321400) | N/A | Effects of multimodal and unimodal physical training interventions on visual function in glaucoma and elderly controls: A pilot study |
+| 识别马来西亚白内障手术接受率的影响因素 | Naing, N. N. | [PDF](https://doi.org/10.1101/2025.01.29.25321323) | N/A | Identifying the Influencing Factors for Cataract Surgery Uptake in Malaysia |
+| 脓毒症期间血管内皮生长因子受体1的基因调控及其与急性呼吸窘迫综合征易感性的关联 | Suarez-Pajes, E. | [PDF](https://doi.org/10.1101/2025.01.30.25321087) | N/A | Genetic regulation of the vascular endothelial growth factor receptor 1 during sepsis and association with ARDS susceptibility |
+| 多祖先全基因组关联研究揭示了临床定义的尼古丁依赖与其他物质使用障碍及健康相关特征之间的强烈遗传相关性。 | Johnson, E. C. | [PDF](https://doi.org/10.1101/2025.01.29.25320962) | N/A | Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits. |
+| 在高维中介分析中测量弱效应 | Li, C. | [PDF](https://doi.org/10.1101/2025.01.30.25321435) | N/A | Measuring weak effects in high dimensional mediation analysis |
+| 医疗数据库研究中用于可扩展特征工程和超高维混杂调整的自然语言处理。 | Wyss, R. | [PDF](https://doi.org/10.1101/2025.01.30.25321403) | N/A | Natural language processing for scalable feature engineering and ultra-high-dimensional confounding adjustment in healthcare database studies. |
+| 以下是这段文字的中文翻译：
+
+**对马拉维布兰太尔市艾滋病民间社会组织进行网络分析以加强艾滋病预防服务提供**
+
+这个标题描述了一项研究，旨在通过分析艾滋病（HIV）民间社会组织的网络结构，提升马拉维布兰太尔市的艾滋病预防服务。研究重点是通过网络分析了解这些组织之间的关系和协作，从而优化服务提供。 | Haggard, R. A. | [PDF](https://doi.org/10.1101/2025.01.29.25321212) | N/A | A Network Analysis of HIV Civil Society Organizations to Enhance HIV Prevention Service Delivery in Blantyre, Malawi |
+| 美国佛罗里达州的HIV暴露前预防（PrEP）实践：临床医生对启动、风险识别、障碍和促进因素的看法 | Siddiqi, K. A. | [PDF](https://doi.org/10.1101/2025.01.30.25321379) | N/A | HIV Pre-exposure Prophylaxis (PrEP) Practices in Florida, USA: Clinicians Perceptions of Initiation, Risk Identification, Barriers, and Facilitators |
+| 怀孕会降低COVID-19疫苗对新变种的免疫力 | Parish, M. A. | [PDF](https://doi.org/10.1101/2025.01.29.25321357) | N/A | Pregnancy Reduces COVID-19 Vaccine Immunity Against Novel Variants |
+| 2019年至2022年日本成人社区获得性肺炎球菌性肺炎的血清型分布：一项多中心观察性研究 | Maeda, H. | [PDF](https://doi.org/10.1101/2025.01.29.25321300) | N/A | Serotype distribution among adults with community-acquired pneumococcal pneumonia in Japan between 2019 and 2022: A multicenter observational study |
+| 关于COVID-19疫苗接种或先前感染对SARS-CoV-2感染和COVID-19死亡的间接群体保护效果的定量观察证据：一项基于人群的回顾性队列研究，加拿大安大略省 | Wang, L. | [PDF](https://doi.org/10.1101/2025.01.30.25321209) | N/A | Quantitative observational evidence of indirect herd benefits from COVID-19 vaccination or prior infection on SARS-CoV-2 infections and COVID-19 deaths: a population-based retrospective cohort study in Ontario, Canada |
+| 一项关于孟加拉国达卡市科拉伊尔贫民窟18岁及以上成年人对登革热预防态度的横断面研究。 | Dhodari, A. | [PDF](https://doi.org/10.1101/2025.01.29.25321358) | N/A | A Cross-Sectional Study on Attitudes Toward Dengue Prevention Among Adults aged 18 and above Living in Korail Slum, Dhaka, Bangladesh. |
+| 通过孟德尔随机化评估免疫细胞对乳腺癌的因果影响及炎症蛋白的中介作用 | Guo, Q. | [PDF](https://doi.org/10.1101/2025.01.30.25321182) | N/A | Evaluating the Causal Impact of Immune Cells on Breast Cancer and the Mediating Role of Inflammatory Proteins through Mendelian Randomization |
+| 设计人工智能驱动的医疗助手，以有效为弱势群体提供医疗服务：一项针对南非大学生的离散选择实验 | Zheng, A. | [PDF](https://doi.org/10.1101/2025.01.30.25321409) | N/A | Designing AI-powered healthcare assistants to effectively reach vulnerable populations with health care services: A discrete choice experiment among South African university students |
+| 使用胃电图预测对促动力药物治疗的症状反应 | Varghese, C. | [PDF](https://doi.org/10.1101/2025.01.30.25321436) | N/A | Predicting symptomatic response to prokinetic treatment using Gastric Alimetry |
+| 对话式卫生系统研究框架（DHSRF）：一种促进卫生系统研究与政策研究中自我批判性、研究者互动和知识管理的工具 | Priya, R. | [PDF](https://doi.org/10.1101/2025.01.29.25320166) | N/A | The Dialogic Health Systems Research Framework (DHSRF): A tool for facilitating self-criticality, researcher interactions and knowledge management in Health Systems Research & Policy Studies |
+| 多对比度机器学习提升了血吸虫病的诊断性能 | Diaz de Leon Derby, M. | [PDF](https://doi.org/10.1101/2025.01.30.25321353) | N/A | Multi-contrast machine learning improves schistosomiasis diagnostic performance |
+| 现代预测疫苗犹豫的方法：范围综述 | Gandhi, K. R. | [PDF](https://doi.org/10.1101/2025.01.29.25321367) | N/A | Modern approaches to predicting vaccine hesitancy: A scoping review |
+| 以下是这段英文的中文翻译：
+
+**青少年父母避孕措施使用率及其相关因素：布基纳法索瓦加杜古和马拉维布兰太尔的横断面调查结果**
+
+翻译说明：
+- "Prevalence" 翻译为“使用率”或“流行率”，这里指避孕措施的使用情况。
+- "correlates" 翻译为“相关因素”，指与避孕措施使用相关的变量或条件。
+- "parenting adolescents" 翻译为“青少年父母”，指已经为人父母的青少年。
+- "cross-sectional survey" 翻译为“横断面调查”，是一种研究方法。
+- "Ouagadougou, Burkina Faso, and Blantyre, Malawi" 分别是布基纳法索的首都瓦加杜古和马拉维的城市布兰太尔。
+
+希望这段翻译对你有帮助！ | Otukpa, E. O. | [PDF](https://doi.org/10.1101/2025.01.30.25321376) | N/A | Prevalence and correlates of contraceptive use among parenting adolescents: results from a cross-sectional survey in Ouagadougou, Burkina Faso, and Blantyre, Malawi |
+| 对英格兰二级医疗保健中成人潜在结核感染检测和治疗进行微观成本分析 | Snoad, L. | [PDF](https://doi.org/10.1101/2025.01.29.25321354) | N/A | A micro-costing of latent tuberculosis infection testing and treatment in adults in secondary care in England |
+| 脊髓小脑共济失调3型生物标志物的进展：基于ESMI队列纵向数据的分析 | Berger, M. | [PDF](https://doi.org/10.1101/2025.01.30.25321426) | N/A | Progression of biological markers in spinocerebellar ataxia type 3: analysis of longitudinal data from the ESMI cohort |
+| 以下是将这段英文翻译成中文的结果：
+
+**听觉稳态反应缺陷在脆性X综合征中暗示了刺激表征维持和GABA能调节的缺陷**
+
+翻译解释：
+- **Auditory steady-state response (ASSR)** 翻译为“听觉稳态反应”，这是一种脑电图（EEG）测量方法，用于评估大脑对周期性听觉刺激的反应。
+- **Fragile X Syndrome** 翻译为“脆性X综合征”，是一种遗传性智力障碍和自闭症谱系障碍的常见原因。
+- **deficits** 翻译为“缺陷”或“不足”，指在特定功能或机制上的异常或缺失。
+- **stimulus representation maintenance** 翻译为“刺激表征维持”，指大脑对刺激信息的持续处理和保持能力。
+- **GABAergic modulation** 翻译为“GABA能调节”，指由γ-氨基丁酸（GABA）介导的神经调节作用，GABA是大脑中主要的抑制性神经递质。
+
+整句话的意思是：脆性X综合征患者的听觉稳态反应缺陷表明，他们可能在刺激信息的持续处理（刺激表征维持）以及GABA能神经调节方面存在不足。 | Norris, J. E. | [PDF](https://doi.org/10.1101/2025.01.29.25321365) | N/A | Auditory steady-state response deficits in Fragile X Syndrome implicate deficits in stimulus representation maintenance and GABAergic modulation |
+| 塞拉利昂两次流行病（埃博拉和COVID-19）期间及之间的儿童营养与服务提供指标：一项基于连续横断面调查的描述性研究 | Bangura, K. | [PDF](https://doi.org/10.1101/2025.01.29.25321348) | N/A | Childhood Nutrition and Service Delivery Indicators across and between two Epidemics (Ebola and COVID-19) in Sierra Leone: A Descriptive Study using Serial Cross-Sectional Surveys |
+| 将这段翻译成中文如下：
+
+**在帕金森病检测中排名预训练语音嵌入：Wav2Vec 2.0 是否在语音模式与语言中优于其 1.0 版本？** | Klempir, O. | [PDF](https://doi.org/10.1101/2025.01.29.25321319) | N/A | Ranking Pretrained Speech Embeddings in Parkinson's Disease Detection: Does Wav2Vec 2.0 Outperform its 1.0 Version Across Speech Modes and Languages? |
+| 比较随机试验设计以估计罕见病治疗效果的纵向模型：一项以常染色体隐性遗传性小脑共济失调症使用SARA评分为例的模拟研究 | Hendrickx, N. | [PDF](https://doi.org/10.1101/2025.01.30.25321311) | N/A | Comparing randomized trial designs to estimate treatment effect in rare diseases with longitudinal models: a simulation study showcased by Autosomal Recessive Cerebellar Ataxias using the SARA score |
+| 地方层面监测敏感性的评估以支持疾病消除的声明 | Nightingale, E. S. | [PDF](https://doi.org/10.1101/2025.01.30.25321401) | N/A | Sub-national estimation of surveillance sensitivity to inform declaration of disease elimination |
+| 加拿大各地零售牛奶中未检测到抗流感核蛋白抗体的证据（2024年4月至7月） | Wallace, H. L. | [PDF](https://doi.org/10.1101/2025.01.31.25321461) | N/A | No Evidence of Anti-influenza Nucleoprotein Antibodies in Retail Milk from Across Canada (April to July 2024) |
+| 重症患者发生急性肾损伤的临床决定因素及相关结局：一项巴西回顾性队列研究 | Menezes, R. C. | [PDF](https://doi.org/10.1101/2025.01.29.25321328) | N/A | Clinical determinants and outcomes associated with the development of acute kidney injury in critically ill patients: a Brazilian retrospective cohort study |
 # MedRxiv 2025-01-30 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
