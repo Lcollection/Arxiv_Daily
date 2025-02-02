@@ -1,3 +1,10 @@
+# MedRxiv 2025-02-01 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 非侵入性检测皮层扩散性去极化与高分辨率直流电-脑电图的概念验证研究 | Brown, B. R. | [PDF](https://doi.org/10.1101/2024.11.12.24311133) | N/A | Proof-of-Concept Validation of Noninvasive Detection of Cortical Spreading Depolarization with High Resolution Direct Current-Electroencephalography |
+| 低铁血症通过避免心肌反应性铁风暴，降低了ST段抬高型心肌梗死（STEMI）后主要不良心血管事件的长期风险。 | Vera-Aviles, M. | [PDF](https://doi.org/10.1101/2025.01.13.25320244) | N/A | Hypoferremia reduces long-term risk of major adverse cardiovascular events after STEMI by averting the myocardial reactive iron storm |
+| 循环细胞因子水平与卒中后5年血管复发：一项多中心前瞻性队列研究 | Zhang, L. | [PDF](https://doi.org/10.1101/2025.01.12.25320408) | N/A | Circulating cytokine levels and 5-year vascular recurrence after stroke: a multicenter prospective cohort study |
 # MedRxiv 2025-01-31 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
