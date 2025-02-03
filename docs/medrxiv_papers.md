@@ -1,3 +1,94 @@
+# MedRxiv 2025-02-02 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 活动前的心理状态可预测日本压力症状的发展轨迹 | Nakai, F. | [PDF](https://doi.org/10.1101/2024.01.14.23300571) | N/A | Pre-event psychiatric states predict trajectories of stress symptoms in Japan |
+| 网络荟萃分析结合生存和计数结果数据：一种简单的频率学方法 | Noma, H. | [PDF](https://doi.org/10.1101/2025.01.23.25321051) | N/A | Network meta-analysis combining survival and count outcome data: A simple frequentist approach |
+| 对首个通用设计的异步多站迷你面试（Multiple Mini Interview, MMI）进行过程评估，以优化跨神经类型的可访问性 | Callwood, A. | [PDF](https://doi.org/10.1101/2025.01.28.25321063) | N/A | Process evaluation of the first universally designed asynchronous Multiple Mini Interview for optimised accessibility across neurotypes |
+| 睡眠时长、体力活动与心脏代谢多发病：来自英国老龄化纵向研究的发现 | Kunutsor, S. K. | [PDF](https://doi.org/10.1101/2025.01.30.25321441) | N/A | Sleep duration, physical activity and cardiometabolic multimorbidity: Findings from the English Longitudinal Study of Ageing |
+| 长期生存率与侵袭性肺炎球菌疾病的关系——一项利用英格兰电子健康记录的匹配队列研究 | Suffel, A. M. | [PDF](https://doi.org/10.1101/2025.01.31.25321460) | N/A | Long-term survival after invasive pneumococcal disease - a matched cohort study using electronic health records in England |
+| 精神病预后预测：探索机器学习模型的补充作用 | van Dee, V. | [PDF](https://doi.org/10.1101/2025.01.30.25321382) | N/A | Prognostic predictions in psychosis: exploring the complementary role of machine learning models |
+| 定义全球移民人群中人类乳头瘤病毒（HPV）疫苗接种的驱动因素以及提高覆盖率的策略和干预措施：一项系统性综述 | Iwami, M. | [PDF](https://doi.org/10.1101/2025.01.31.25321303) | N/A | Defining drivers of human papillomavirus (HPV) vaccine uptake in migrant populations globally and strategies and interventions to improve coverage: a systematic review |
+| Mammo-Bench：一个大规模的乳腺X光影像基准数据集 | Bhole, G. | [PDF](https://doi.org/10.1101/2025.01.31.25321510) | N/A | Mammo-Bench: A Large-scale Benchmark Dataset of Mammography Images |
+| 系统性红斑狼疮中的母胎耐受失败（FaMaLE）：一项前瞻性队列研究，旨在探索妊娠并发症背后的分子机制 | Dankers, W. | [PDF](https://doi.org/10.1101/2025.01.30.25321383) | N/A | Failing maternal-fetal tolerance in Systemic Lupus Erythematosus (FaMaLE): a prospective cohort study for finding the molecular mechanisms behind pregnancy complications |
+| 细胞减灭性肾切除术在转移性肾细胞癌患者中的生存获益：基于SEER的回顾性队列研究证据 | Peng, X. | [PDF](https://doi.org/10.1101/2025.01.28.25321237) | N/A | Survival benefits of cytoreductive nephrectomy in patients with metastatic renal cell carcinoma: evidence from a SEER-based retrospective cohort study |
+| 在手术教育中分析和预测教师评估行为 | Patel, R. K. | [PDF](https://doi.org/10.1101/2025.01.31.25321466) | N/A | Profiling and Predicting Faculty Assessment Behavior in Surgical Education |
+| 维持性血液透析患者的肌间脂肪组织与肌肉功能 | Dilaver, R. G. | [PDF](https://doi.org/10.1101/2025.01.31.25321429) | N/A | Intermuscular Adipose Tissue and Muscle Function in Patients on Maintenance Hemodialysis |
+| 微型癫痫发作：一种新型的发作间期颅内脑电图（iEEG）生物标志物，用于捕捉致痫区的同步网络动态 | Monsoor, T. | [PDF](https://doi.org/10.1101/2025.01.31.25321482) | N/A | Mini-Seizures: Novel Interictal iEEG Biomarker Capturing Synchronization Network Dynamics at the Epileptogenic Zone |
+| 帕金森病患者睡眠慢波的听觉增强：一项概念验证研究 | Schreiner, S. J. | [PDF](https://doi.org/10.1101/2025.01.30.25320306) | N/A | Auditory Enhancement of Sleep Slow Waves in People with Parkinson Disease: A Proof-of-Concept Study |
+| 颅内出血评分与生命维持治疗撤除的关联：来自佛罗里达卒中登记处的十年数据 | Massad, N. | [PDF](https://doi.org/10.1101/2025.01.30.25321442) | N/A | Association of ICH Score with Withdrawal of Life-Sustaining Treatment: A Decade from the Florida Stroke Registry |
+| 蛋白质卡片评估：一种用于代谢减重手术的营养教育工具 | Acosta, P. F. C. | [PDF](https://doi.org/10.1101/2025.01.31.25321467) | N/A | Evaluation of Protein Cards: A nutrition education tool for metabolic bariatric surgery |
+| 2022年法属圭亚那手工金矿工人铅中毒的流行情况 | Korsec, V. | [PDF](https://doi.org/10.1101/2025.01.31.25321474) | N/A | Prevalence of lead poisoning among artisanal gold miners in French Guiana in 2022 |
+| 法国一所大学的室内空气质量：一项参与式的二氧化碳测量活动揭示了现实与法律之间的巨大差距 | CINQUIN, P. | [PDF](https://doi.org/10.1101/2025.01.28.25321193) | N/A | Indoor air quality at a French university: a participatory CO2 measurement campaign highlights the wide gap between reality and the law |
+| 基于机器学习的基因组和转录组数据分析揭示了具有卓越预后和预测价值的肉瘤集群。 | Esperanca-Martins, M. | [PDF](https://doi.org/10.1101/2025.01.31.25321492) | N/A | Machine learning-based analysis of genomic and transcriptomic data unveils sarcoma clusters with superlative prognostic and predictive value |
+| 不稳定型圆锥角膜患者急性角膜水肿的社会人口学预测因素。 | Kanu, L. N. | [PDF](https://doi.org/10.1101/2025.01.29.25321351) | N/A | Sociodemographic predictors of acute corneal hydrops in patients with unstable keratoconus. |
+| MAJIQ-CLIN：一种从RNA-Seq数据中识别孟德尔疾病致病变异的新工具 | Aicher, J. K. | [PDF](https://doi.org/10.1101/2025.01.30.25321185) | N/A | MAJIQ-CLIN: A novel tool for the identification of Mendelian disease-causing variants from RNA-Seq data |
+| 男性和女性性染色体三体症的患病率及疾病风险：一项基于登记的大规模表型关联研究，涉及150万参与者，数据来自MVP、FinnGen和英国生物库 | Davis, S. | [PDF](https://doi.org/10.1101/2025.01.31.25321488) | N/A | Prevalence and disease risks for male and female sex chromosome trisomies: a registry-based phenome-wide association study in 1.5 million participants of MVP, FinnGen, and UK Biobank |
+| 使用临床整理的欧洲血统数据集进行特发性肺纤维化易感性的全基因组关联研究 | Chin, D. | [PDF](https://doi.org/10.1101/2025.01.30.25321017) | N/A | Genome-wide association study of Idiopathic Pulmonary Fibrosis susceptibility using clinically-curated European-ancestry datasets |
+| 在遗传检测结果为阴性或不确定的结节性硬化症（TSC）患者中，TSC1 mRNA加工过程的改变 | Bandeira de Mello Garcia, A. | [PDF](https://doi.org/10.1101/2025.01.30.25321206) | N/A | TSC1 mRNA processing alterations in tuberous sclerosis complex (TSC) patients with negative or inconclusive genetic testing results |
+| 荟萃分析揭示了与先天性心脏缺陷和口面部裂相关的转录因子及DNA结合域变异 | Jeong, R. | [PDF](https://doi.org/10.1101/2025.01.30.25321274) | N/A | Meta-analysis reveals transcription factors and DNA binding domain variants associated with congenital heart defect and orofacial clef |
+| 老年人长期新冠症状：功能恢复与治疗效果 | Wagner, B. L. | [PDF](https://doi.org/10.1101/2025.01.31.25321501) | N/A | Long Covid in Older Adults: Functional Outcomes and Treatment Effectiveness |
+| 为软件应用程序执行整合来自知情同意本体的概念性同意许可模型 | Amith, M. | [PDF](https://doi.org/10.1101/2025.01.31.25321503) | N/A | Integrating a conceptual consent permission model from the informed consent ontology for software application execution |
+| 在药理学计量学中，使用费舍尔信息矩阵优化非线性混合效应模型在设计阶段的协变量分配 | Fayette, L. | [PDF](https://doi.org/10.1101/2025.01.31.25321452) | N/A | Optimising covariate allocation at design stage using Fisher Information Matrix for Non-Linear Mixed Effects Models in pharmacometrics |
+| InfEHR：通过电子健康记录上的深度几何学习解决临床不确定性 | Kauffman, J. | [PDF](https://doi.org/10.1101/2025.01.31.25321471) | N/A | InfEHR: Resolving Clinical Uncertainty through Deep Geometric Learning on Electronic Health Records |
+| 评估算法公平性需要考虑风险分布差异的调整：重新审视机会均等准则 | Hegarty, S. E. | [PDF](https://doi.org/10.1101/2025.01.31.25321489) | N/A | Assessing Algorithm Fairness Requires Adjustment for Risk Distribution Differences: Re-considering the Equal Opportunity Criterion |
+| 远程医疗使用与30天医疗保险支出之间的关联 | Ellimoottil, C. | [PDF](https://doi.org/10.1101/2025.01.31.25321423) | N/A | Association Between Telehealth Use and 30-day Medicare Spending |
+| 利益相关者网络与健康公平系统：加纳新建地区医院的可及性研究。 | FRIMPONG, F. | [PDF](https://doi.org/10.1101/2025.01.31.25321475) | N/A | Stakeholder Networks and Systems for Health Equity: Accessibility of Newly Commissioned District Hospitals in Ghana. |
+| 提高住院患者超声心动图实验室效率：一项质量改进项目 | Samples, S. | [PDF](https://doi.org/10.1101/2025.01.28.25321298) | N/A | Improving Efficiency in the Inpatient Echocardiography Laboratory: A Quality Improvement Project |
+| 农村医院关闭与合并对卫生系统生态的影响：范围综述 | Coates, A. | [PDF](https://doi.org/10.1101/2025.01.31.25321470) | N/A | The Impact of Rural Hospital Closures and Mergers on Health System Ecologies: A Scoping Review |
+| BCMA导向的CAR T细胞治疗复发骨髓瘤中脾肿大的预后意义 | Wiemers, T. C. | [PDF](https://doi.org/10.1101/2025.01.31.25321490) | N/A | Prognostic implications of splenomegaly in BCMA-directed CAR T-Cell therapy for relapsed myeloma |
+| 2015年至2016年坦桑尼亚西北部地区妇女的妊娠结局与HIV感染情况 | Hariharan, S. | [PDF](https://doi.org/10.1101/2025.01.31.25321464) | N/A | Pregnancy outcomes and HIV amongst women in Northwest Tanzania, from 2015-2016 |
+| 令人担忧的全整合酶抑制剂（Pan-INSTI）耐药性出现：一项关于治疗失败后未接触过整合酶抑制剂（INSTI-naive）患者中多替拉韦（Dolutegravir）耐药性的系统性范围综述
+
+这段翻译主要涉及医学术语和药物名称的准确翻译，同时保留了原文的学术性和专业性。 | Arora, S. | [PDF](https://doi.org/10.1101/2025.02.01.25320414) | N/A | Worrisome Emergence of Pan-INSTI Resistance: A Systematic Scoping Review of Dolutegravir Resistance in INSTI-naive Patients Post-Therapy Failure |
+| 军团病（Legionnaires' disease）的宿主内生死过程与时间-剂量反应模型 | Jamieson, N. | [PDF](https://doi.org/10.1101/2025.01.31.25321481) | N/A | A within-host birth-death and time-dose-response model for Legionnaires' disease |
+| 以下是这段文字的中文翻译：
+
+**巴西按年龄和家庭情况划分的因各种原因及与COVID-19相关的孤儿和照顾者死亡影响的儿童的区域和国家估计。**
+
+翻译说明：
+- "Regional and national estimates" 翻译为“区域和国家估计”。
+- "children affected by" 翻译为“受影响的儿童”。
+- "all-cause" 翻译为“各种原因”。
+- "COVID-19-associated" 翻译为“与COVID-19相关的”。
+- "orphanhood and caregiver death" 翻译为“孤儿和照顾者死亡”。
+- "by age and family circumstance" 翻译为“按年龄和家庭情况划分”。
+
+希望这段翻译对你有帮助！ | Steyn, N. | [PDF](https://doi.org/10.1101/2025.01.31.25321479) | N/A | Regional and national estimates of children affected by all-cause and COVID-19-associated orphanhood and caregiver death in Brazil, by age and family circumstance. |
+| 低浓度、低剂量利多卡因在超声引导下骶管麻醉中可减少接受隐匿性阴茎和尿道下裂手术儿童的术后躁动和谵妄：一项前瞻性、随机、对照研究 | guo, g. | [PDF](https://doi.org/10.1101/2025.01.30.25321386) | N/A | Low-concentration, low-dose lidocaine in ultrasound-guided sacral anesthesia reduces postoperative agitation and delirium in children undergoing hidden penis and hypospadias surgery: A prospective, randomized, controlled study |
+| 高血压改变女性肠道微生物群和色氨酸代谢 | Shah, S. | [PDF](https://doi.org/10.1101/2025.01.30.25321440) | N/A | Hypertension Shifts Gut Microbiota and Tryptophan Metabolism in Women |
+| 南亚印度人中具有临床可操作性的肥厚型心肌病基因 | Rao, V. J. | [PDF](https://doi.org/10.1101/2025.01.30.25321368) | N/A | Clinically actionable hypertrophic cardiomyopathy genes in South Asian Indians |
+| 肺动脉瓣环Z评分作为法洛四联症右心室流出道重建中瓣膜保留预测因子的荟萃分析与系统评价 | Sitanggang, J. S. | [PDF](https://doi.org/10.1101/2025.01.31.25321449) | N/A | META-ANALYSIS AND SYSTEMATIC REVIEW OF PULMONARY VALVE ANNULUS Z-SCORE AS A PREDICTOR OF VALVE PRESERVATION IN TETRALOGY OF FALLOT RIGHT VENTRICULAR OUTFLOW TRACT RECONSTRUCTION |
+| 以下是这段英文的中文翻译：
+
+**影响大学附属婴儿口腔健康诊所中幼儿龋齿的因素**
+
+翻译说明：
+- "Factors Influencing" 翻译为“影响因素”。
+- "Early Childhood Caries" 翻译为“幼儿龋齿”，这是指儿童在早期（通常为6岁以下）出现的龋齿问题。
+- "University-Based" 翻译为“大学附属的”，表示该诊所与大学有关联。
+- "Infant Oral Health Clinic" 翻译为“婴儿口腔健康诊所”，指的是专门为婴儿提供口腔健康服务的医疗机构。
+
+整段翻译的意思是：在某个大学附属的婴儿口腔健康诊所中，研究或探讨影响幼儿龋齿发生的各种因素。这可能包括饮食习惯、口腔卫生、遗传因素、家庭环境等。 | Ijaz, A. | [PDF](https://doi.org/10.1101/2025.01.31.25321458) | N/A | Factors Influencing Early Childhood Caries in a University-Based Infant Oral Health Clinic |
+| NIHSS评分和发病至血管造影时间对急性缺血性卒中取栓治疗神经功能结局的影响 | Lin, K.-M. | [PDF](https://doi.org/10.1101/2025.01.29.25321366) | N/A | Impact of NIHSS and Onset-to-Angiography Time on Neurological Outcomes in Acute Ischemic Stroke with Thrombectomy |
+| 人类代谢在等位基因频率谱上的遗传图谱 | Zoodsma, M. | [PDF](https://doi.org/10.1101/2025.01.30.25321073) | N/A | A genetic map of human metabolism across the allele frequency spectrum |
+| 卡萨布兰卡-塞塔特地区（摩洛哥）的皮肤利什曼病：疾病动态的时空分析及基于机器学习的病例预测。 | EL IDRISSI SAIK, I. | [PDF](https://doi.org/10.1101/2025.01.28.25321261) | N/A | Cutaneous leishmaniasis in Casablanca-Settat region (Morocco): spatio-temporal analysis of disease dynamic and machine learning based case prediction. |
+| GWAS将APOE与轻度认知障碍和痴呆中的神经精神症状联系起来 | Vattathil, S. M. | [PDF](https://doi.org/10.1101/2025.01.31.25321498) | N/A | GWAS links APOE to neuropsychiatric symptoms in mild cognitive impairment and dementia |
+| 在ABCD研究中，家族高风险儿童的认知亚组中与精神病相关的症状和大脑结构模式 | Turkozer, H. B. | [PDF](https://doi.org/10.1101/2025.01.31.25321486) | N/A | Psychosis-linked Symptoms and Structural Brain Patterns in Cognitive Subgroups among Familial High-Risk Children in the ABCD Study |
+| 与泰国人群中新诊断缺血性卒中相关的因素：一项基于人群的病例对照研究 | Phasom, J. | [PDF](https://doi.org/10.1101/2025.01.29.25321321) | N/A | Factors associated with newly diagnosed ischemic stroke among people in Thailand: A population-based case-control study |
+| 成功结核病治疗后人群的免疫、代谢、解剖和功能特征：一项探索性分析 | Webber, T. | [PDF](https://doi.org/10.1101/2025.01.30.25321373) | N/A | Immune, metabolic, anatomical, and functional features of people after successful tuberculosis treatment: an exploratory analysis |
+| 孕妇与非孕妇低风险非妇科腹部手术结果的比较研究 | Alotaibi, A. | [PDF](https://doi.org/10.1101/2025.01.29.25321325) | N/A | Outcomes of low-risk non-gynecological abdominal surgery in pregnant and nonpregnant women: a comparative study |
+| 震颤不对称性与双侧相位特异性深部脑刺激治疗姿势性震颤的发展 | He, S. | [PDF](https://doi.org/10.1101/2025.01.29.25321310) | N/A | Tremor asymmetry and the development of bilateral phase-specific deep brain stimulation for postural tremor |
+| 醋酸甲羟孕酮的使用与脑膜瘤风险：一项比较安全性研究 | Etminan, M. | [PDF](https://doi.org/10.1101/2025.01.25.25321119) | N/A | Use of Medroxyprogesterone Acetate and Risk of Meningiomas: A Comparative Safety Study |
+| 非住院COVID-19孕妇用药情况：欧洲和北美的前瞻性个体患者数据荟萃分析 | de Bruin, O. | [PDF](https://doi.org/10.1101/2025.01.28.25321174) | N/A | Medications used among Non-Hospitalized Pregnant Women with COVID-19: a Prospective Individual Patient Data Meta-analysis in Europe and North America |
+| 2022年至2024年夏季秘鲁热相关死亡率的社会人口不平等 | Intimayta-Escalante, C. | [PDF](https://doi.org/10.1101/2025.01.31.25321450) | N/A | Sociodemographic Inequalities in Heat-Related Mortality across Summer Seasons from 2022 to 2024 in Peru |
+| 使用FLT3L和SBRT在晚期非小细胞肺癌中重振系统性免疫反应 | Mathew, D. | [PDF](https://doi.org/10.1101/2025.01.29.25321332) | N/A | Revitalizing systemic immune responses in advanced NSCLC using FLT3L and SBRT |
+| 探索约旦医院中护士和医生实施的血脂异常治疗和护理指南 | bani Salameh, R. | [PDF](https://doi.org/10.1101/2025.01.29.25321329) | N/A | Exploring the implemented guidelines for dyslipidemia treatment and care among nurses and physicians in Jordanian hospitals |
+| 影响马拉维松巴地区孕妇获取和利用静脉铁剂治疗贫血的因素：一项定性研究 | Mamani, E. | [PDF](https://doi.org/10.1101/2025.01.30.25321394) | N/A | Factors Affecting Access to and Utilisation of Intravenous Iron to Treat Anaemia in Pregnancy in Zomba, Malawi: A Qualitative Study |
+| 通过基于视频的教育平台改善肾移植术后相关结果 | Byrns, J. | [PDF](https://doi.org/10.1101/2025.01.29.25321359) | N/A | Improving Post Kidney Transplant Related Outcomes through Video Based Educational Platforms |
+| 印度北方邦零剂量疫苗接种状态的流行率、地理分布及决定因素：基于第五次全国家庭健康调查数据的分析 | Singh, P. | [PDF](https://doi.org/10.1101/2025.01.31.25321468) | N/A | Prevalence, Geographical Distribution and Determinants of Zero Dose Vaccination Status in Uttar Pradesh, India: An Analysis of The National Family Health Survey - 5 Data |
+| 一项二次数据分析研究，探讨了乌干达一家三级精神病医院中天气因素与精神障碍患者就诊情况之间的联系。 | Mwesiga, E. K. | [PDF](https://doi.org/10.1101/2025.01.31.25321476) | N/A | A secondary data analysis investigating the link between weather elements and incident presentation for mental disorders at a Ugandan tertiary psychiatric hospital. |
+| 乌干达女性的性启蒙与首次结合的时间 | Lwanga, C. | [PDF](https://doi.org/10.1101/2025.01.31.25321478) | N/A | Sexual Initiation and the Timing of First Union among women in Uganda |
 # MedRxiv 2025-02-01 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
