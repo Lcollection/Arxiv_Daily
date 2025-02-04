@@ -1,3 +1,69 @@
+# MedRxiv 2025-02-03 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 非人化与数据化：算法管理的主要压力源——对中国快递员的定性分析 | Wei, H. | [PDF](https://doi.org/10.1101/2022.09.13.22279887) | N/A | Dehumanisation and Datafication: Key stressors of Algorithmic Management: A qualitative analysis of Chinese couriers |
+| 带有种族和族裔信息的临床算法在线数据库 | Visweswaran, S. | [PDF](https://doi.org/10.1101/2023.07.04.23292231) | N/A | Online Database of Clinical Algorithms with Race and Ethnicity |
+| 撤回：让我们谈谈性：西班牙一所大学学生对性教育的态度 | Lahoz Garcia, C. | [PDF](https://doi.org/10.1101/2024.03.07.24303955) | N/A | WITHDRAWN: Lets talk about sex: College Students Attitudes towards Sexuality Education in a Spanish University |
+| ChatGPT在癫痫术前决策中的临床价值：对癫痫发作症状学解释的系统评估 | Luo, Y. | [PDF](https://doi.org/10.1101/2024.04.13.24305773) | N/A | The Clinical Value of ChatGPT for Epilepsy Presurgical Decision Making: Systematic Evaluation on Seizure Semiology Interpretation |
+| 宾夕法尼亚州过量用药信息网络中记录的甲苯噻嗪和芬太尼过量用药情况：对执法部门/急救人员报告的过量用药反应的分析 | Cano, M. | [PDF](https://doi.org/10.1101/2024.08.29.24312792) | N/A | Overdoses with Xylazine and Fentanyl Recorded in Pennsylvania's Overdose Information Network: An Analysis of Law Enforcement/First Responder-reported Overdose Response |
+| 通过脑机接口技术恢复完全性脊髓损伤后的手部功能 | Liu, D. | [PDF](https://doi.org/10.1101/2024.09.05.24313041) | N/A | Reclaiming Hand Functions after Complete Spinal Cord Injury with Epidural Brain-Computer Interface |
+| 主动脉瓣狭窄中的舒张功能障碍与左心室回弹的更大阻尼有关，而不是心肌僵硬。 | Salman, K. | [PDF](https://doi.org/10.1101/2024.09.20.24313309) | N/A | Diastolic dysfunction in aortic stenosis is associated with greater damping of left ventricular recoil, and not myocardial stiffness. |
+| 通过纵向采样识别的婴儿肠道病原体感染的人畜共患和环境来源 | Paulos, A. P. | [PDF](https://doi.org/10.1101/2024.12.03.24318441) | N/A | Zoonotic and environmental sources of infant enteric pathogen infections identified with longitudinal sampling |
+| 移民如何影响加拿大外国出生人口的结核病负担：基于动态模型的估计 | Chiu, J. | [PDF](https://doi.org/10.1101/2025.01.23.24318580) | N/A | How immigration affects the burden of tuberculosis among foreign-born Canadians: estimates with dynamic models |
+| 多祖先全基因组关联研究揭示了临床定义的尼古丁依赖与其他物质使用障碍及健康相关特征之间的强烈遗传相关性。 | Johnson, E. C. | [PDF](https://doi.org/10.1101/2025.01.29.25320962) | N/A | Multi-ancestral genome-wide association study of clinically defined nicotine dependence reveals strong genetic correlations with other substance use disorders and health-related traits. |
+| 2023年穆希比利国家医院（MNH）儿童癌症的表现与类型 | Arga, M. | [PDF](https://doi.org/10.1101/2025.01.28.25321242) | N/A | Presentation and Types of Childhood Cancer at the Muhimbili National Hospital (MNH), 2023 |
+| 基于家族的双相情感障碍RNA测序用于候选基因和通路的鉴定 | Garcia Ortiz, I. | [PDF](https://doi.org/10.1101/2025.01.30.25321384) | N/A | FAMILY-BASED RNA SEQUENCING IN BIPOLAR DISORDER FOR CANDIDATE GENE AND PATHWAY IDENTIFICATION |
+| 牙科成本效益研究中的竞争风险模型 | Seth, A. | [PDF](https://doi.org/10.1101/2025.01.30.25320359) | N/A | Competing Risk Model in Dental Cost-Effective Research |
+| 孤独对抑郁、心理健康日及身体健康的影响 | Akinyemi, O. | [PDF](https://doi.org/10.1101/2025.02.02.25321551) | N/A | The Impact of Loneliness on Depression, Mental Health Days, and Physical Health |
+| 独特的行为特征揭示了自闭症中的心理困扰 | Strobl, E. V. | [PDF](https://doi.org/10.1101/2025.02.01.25321517) | N/A | Unique Behavior Profiles that Specify Mental Distress in Autism |
+| 《COVID-19大流行的心理影响：一项元分析与一般人群研究》 | Korff-Korn, D. C. | [PDF](https://doi.org/10.1101/2025.02.02.25321549) | N/A | The Psychological Impact of the COVID-19 Pandemic, A Meta-Analysis and General Population Study |
+| 员工情绪分析与工作场所中COVID-19疫苗犹豫现象 | Akpan, I. J. | [PDF](https://doi.org/10.1101/2025.01.30.25321414) | N/A | Sentiment analysis of employees and COVID-19 vaccine hesitancy at workplace |
+| 人工智能生成文本到视频在医学教育中的应用：系统综述 | Artsi, Y. | [PDF](https://doi.org/10.1101/2025.02.03.25321572) | N/A | Application of AI generated text-to-video in medical education: Systematic review |
+| 大型语言模型中的社会人口统计学偏见改变了医疗保健中的伦理决策 | Sorin, V. | [PDF](https://doi.org/10.1101/2025.02.01.25321523) | N/A | Socio-Demographic Bias in Large Language Models Alters Ethical Decision-Making in Healthcare |
+| 替那帕诺在管理血液透析患者高磷血症和便秘中的疗效：一项随机对照试验 | Suzuki, N. | [PDF](https://doi.org/10.1101/2025.02.02.25321552) | N/A | Efficacy of Tenapanor in Managing Hyperphosphatemia and Constipation in Hemodialysis Patients: A Randomized Controlled Trial |
+| 使用高阶单纯复形传染模型模拟阿尔茨海默病中错误折叠蛋白质的传播 | Wardynski, M. | [PDF](https://doi.org/10.1101/2025.02.01.25321521) | N/A | Modeling the Spread of Misfolded Proteins in Alzheimer's Disease using Higher-Order Simplicial Complex Contagion |
+| 改善使用超声波的引产效果：系统性综述 | Romero-Callejas, E. | [PDF](https://doi.org/10.1101/2025.01.30.25320795) | N/A | Improving Labor Induction With Ultrasound: A Systematic Review |
+| 无分割预治疗评估儿童低级别胶质瘤中的BRAF状态 | Kudus, K. | [PDF](https://doi.org/10.1101/2025.01.30.25321339) | N/A | Segmentation-Free Pretherapeutic Assessment of BRAF-Status in Pediatric Low-Grade Gliomas |
+| 一项临床试验：探讨肿瘤大小、组织学亚型及维生素D状态对基底细胞癌光动力疗法治疗反应的影响 | Maytin, E. V. | [PDF](https://doi.org/10.1101/2025.01.30.25321144) | N/A | A Clinical Trial to Determine the Impact of Tumor Size, Histological Subtype, and Vitamin D Status on the Therapeutic Response of Basal Cell Carcinoma to Photodynamic Therapy |
+| 视力障碍人士在获取心理健康服务方面面临的经济障碍 | Pan, A. A. | [PDF](https://doi.org/10.1101/2025.02.01.25321516) | N/A | Financial barriers to accessing mental healthcare services among visually impaired people |
+| 对负性情绪和重度抑郁症的基因组分类学分析揭示了在严重程度谱上的遗传分化梯度 | Ennis, G. | [PDF](https://doi.org/10.1101/2025.01.30.25321336) | N/A | Genomic Taxometric Analysis of Negative Emotionality and Major Depressive Disorder Highlights a Gradient of Genetic Differentiation across the Severity Spectrum |
+| 肠道微生物组与年龄相关特征之间的因果关系 | Grosso, F. | [PDF](https://doi.org/10.1101/2025.02.03.25321568) | N/A | Causal relationships between gut microbiome and age-related traits |
+| 一种混合数据驱动方法用于分析和预测医疗中心的住院时长 | Chowdhury, T. N. | [PDF](https://doi.org/10.1101/2025.01.30.25321434) | N/A | A Hybrid Data-Driven Approach For Analyzing And Predicting Inpatient Length Of Stay In Health Centers |
+| 使用SNAILS DNA生物传感器进行日本血吸虫的物种特异性检测 | Webb, A. J. | [PDF](https://doi.org/10.1101/2025.02.01.25321522) | N/A | Species-specific detection of 	Schistosoma japonicum using the SNAILS DNA-based biosensor |
+| 利马市圣罗莎医院中，无既往登革热感染史的患者出现异常高频率的登革热病例，并伴有警示症状。 | Durand, S. | [PDF](https://doi.org/10.1101/2025.01.30.25320345) | N/A | Unusually high frequency of dengue cases with warning signs in patients with no history of previous dengue infection at the Santa Rosa Hospital in Lima city |
+| 考察科学作者身份中的性别和种族差异，以促进大学公共卫生学院的公平、多样性和包容性文化。 | Christen, P. | [PDF](https://doi.org/10.1101/2025.02.01.25321228) | N/A | Examining gender and ethnic disparities in scientific authorship to promote a culture of equity, diversity and inclusion at a university school of public health |
+| 无偏倚的多组学网络数据整合方法能够实现对心力衰竭患者进行临床相关结果预测的聚类分析。 | Esenkova, E. E. | [PDF](https://doi.org/10.1101/2025.01.28.25321241) | N/A | Unbiased multi-omics network-based data integration allows clinically relevant outcome-predicting clustering of individuals with heart failure |
+| 经肺蛋白质组梯度揭示了心力衰竭中肺血管疾病发展所涉及的途径 | Melenovsky, V. | [PDF](https://doi.org/10.1101/2025.02.01.25321512) | N/A | Transpulmonary proteome gradients identify pathways involved in the development of pulmonary vascular disease in heart failure |
+| 外周静脉压准确评估缩窄性心包炎的充血情况 | Xia, X. | [PDF](https://doi.org/10.1101/2025.01.31.25321509) | N/A | Peripheral Venous Pressure Accurately Evaluates Congestion in Constrictive pericarditis |
+| Sam68通过抑制心肌细胞葡萄糖氧化加剧病理性心脏肥大 | An, J. | [PDF](https://doi.org/10.1101/2025.01.31.25321508) | N/A | Sam68 Exacerbates Pathological Cardiac Hypertrophy by Suppressing Cardiomyocyte Glucose Oxidation |
+| 使用自然语言转换器和深度学习模型从全景X光片中对儿童牙科疾病进行分类 | Pham, T. | [PDF](https://doi.org/10.1101/2025.01.30.25321418) | N/A | Classification of Pediatric Dental Diseases from Panoramic Radiographs using Natural Language Transformer and Deep Learning Models |
+| 2018-2023年间，某大型城市卫生系统中儿童哮喘的严重程度、病毒传播的重要性以及环境暴露的影响日益增加。 | McCuskee, S. | [PDF](https://doi.org/10.1101/2025.02.01.25321524) | N/A | Increasing severity, importance of viral transmission, and environmental exposures for pediatric asthma in a large urban health system, 2018-2023 |
+| 人类中FGF21的线粒体与应激相关心理生物学调控 | Kurade, M. | [PDF](https://doi.org/10.1101/2025.01.30.25321437) | N/A | Mitochondrial and Stress-Related Psychobiological Regulation of FGF21 in Humans |
+| ImputeBench：单插补方法基准测试 | Richter, R. | [PDF](https://doi.org/10.1101/2025.02.02.25321536) | N/A | ImputeBench: Benchmarking Single Imputation Methods |
+| 《猴痘流行病的建模：阈值、时间动态及天花疫苗接种后的免疫力衰减》 | Jackson, S. Y. | [PDF](https://doi.org/10.1101/2025.01.30.25321258) | N/A | Modeling Monkeypox Epidemics: Thresholds, Temporal Dynamics, and Waning Immunity from Smallpox Vaccination. |
+| 工作期望与心理困扰中的性别差异：来自美国和韩国的见解 | Dang, L. | [PDF](https://doi.org/10.1101/2025.01.30.25321419) | N/A | Gender Differences in Work Expectations and Psychological Distress: Insights from the United States and South Korea |
+| 耦合蚊媒疾病与蚊虫预防行为的传播模型的平衡特性 | Poterek, M. L. | [PDF](https://doi.org/10.1101/2025.02.01.25321519) | N/A | Equilibrium properties of a coupled contagion model of mosquito-borne disease and mosquito preventive behaviors |
+| 英国初级保健中慢性非癌性疼痛患者长期阿片类药物治疗及后续停药趋势：一项回顾性队列研究 | Cai, Q. | [PDF](https://doi.org/10.1101/2025.02.02.25321533) | N/A | Trends of long-term opioid therapy and subsequent discontinuation among people with chronic non-cancer pain in UK primary care: a retrospective cohort study |
+| 身体形象、肥胖与性凝聚力：对尼日利亚大学生抑郁的影响 | Akinyemi, O. | [PDF](https://doi.org/10.1101/2025.02.02.25321550) | N/A | Body Image, Obesity, and Sexual Cohesion: Impacts on Depression among Nigerian University Students |
+| 儿童时期的异食癖：并发及连续的精神疾病共病 | Rubino, L. | [PDF](https://doi.org/10.1101/2025.02.01.25321515) | N/A | Pica in childhood: concurrent and sequential psychiatric comorbidity |
+| 父母与子女之间的情感纽带与学龄前儿童社会情感问题的纵向关联：母亲与父亲的独特及共同作用 | Hatakka, E. | [PDF](https://doi.org/10.1101/2025.01.30.25321411) | N/A | Longitudinal associations between parental bonding and child preschool social-emotional problems: The unique and combined role of mothers and fathers |
+| 墨西哥城COVID-19疫情期间医院需求的复杂性 | de Anda-Jauregui, G. | [PDF](https://doi.org/10.1101/2025.01.30.25321424) | N/A | Complexity of hospital demand during the COVID-19 pandemic in Mexico City |
+| 以下是这段英文的中文翻译：
+
+**运动相关脑震荡后的时间进程反应：一项多模态研究**
+
+这个标题指的是一项研究，旨在通过多种方法（多模态）来探讨运动相关脑震荡后不同时间点的生理或心理反应。 | Pearce, A. J. | [PDF](https://doi.org/10.1101/2025.02.02.25321562) | N/A | Time-course responses following sports-related concussion: A multi-modality study. |
+| 儿童癫痫早期诊断的语言模型应用 | Loyens, J. | [PDF](https://doi.org/10.1101/2025.01.31.25321308) | N/A | Language Model Applications for Early Diagnosis of Childhood Epilepsy |
+| 帕金森病风险的多基因评分与临床结果无关 | Tan, M. M. | [PDF](https://doi.org/10.1101/2025.01.31.25321395) | N/A | Polygenic scores for disease risk are not associated with clinical outcomes in Parkinson's disease |
+| 加速代谢组学老化及其与多发性硬化症中健康社会决定因素的关联 | Siavoshi, F. | [PDF](https://doi.org/10.1101/2025.01.29.25321260) | N/A | Accelerated Metabolomic Aging and Its Association with Social Determinants of Health in Multiple Sclerosis |
+| 心脏代谢疾病进展的遗传学 | Rivas, M. A. | [PDF](https://doi.org/10.1101/2025.02.01.25321518) | N/A | Genetics of cardiometabolic disease progression |
+| 沙特阿拉伯的耐甲氧西林金黄色葡萄球菌：近期克隆扩增和质粒驱动耐药性传播的基因组证据 | Aljurayan, A. N. | [PDF](https://doi.org/10.1101/2025.01.31.25321315) | N/A | Methicillin-resistant Staphylococcus aureus in Saudi Arabia: genomic evidence of recent clonal expansion and plasmid-driven resistance dissemination |
+| 急性运动重塑人类免疫细胞的蛋白质组景观 | Walzik, D. | [PDF](https://doi.org/10.1101/2025.01.30.25321196) | N/A | Acute exercise rewires the proteomic landscape of human immune cells |
+| 甲状旁腺自体荧光检测与PTeye系统的实用性。范围综述 | Refoyo, J. L. P. | [PDF](https://doi.org/10.1101/2025.02.01.25321520) | N/A | Usefulness of autofluorescence detection of the parathyroid glands with PTeye system. Scope review |
+| 了解老年女性继续或停止乳腺癌筛查的动机 | Weller, S. C. | [PDF](https://doi.org/10.1101/2025.01.30.25321380) | N/A | Understanding motivations of older women to continue or discontinue breast cancer screening |
+| 2012年至2019年巴西圣保罗市出生时孕周趋势 | Lira, M. M. T. d. A. | [PDF](https://doi.org/10.1101/2025.02.02.25321548) | N/A | Trends in gestational age at birth in the city of Sao Paulo, Brazil between 2012 and 2019 |
+| 对先天性巨细胞病毒疾病病例中的福尔马林固定、石蜡包埋组织进行全人类巨细胞病毒基因组的DNA测序。 | Li, K. K. | [PDF](https://doi.org/10.1101/2025.01.30.25321147) | N/A | DNA sequencing of whole human cytomegalovirus genomes from formalin-fixed, paraffin-embedded tissues from congenital cytomegalovirus disease cases |
 # MedRxiv 2025-02-02 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
