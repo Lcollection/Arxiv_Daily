@@ -1,3 +1,76 @@
+# MedRxiv 2025-02-07 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 气候变暖正在扩大美洲和亚洲登革热的负担。 | Childs, M. L. | [PDF](https://doi.org/10.1101/2024.01.08.24301015) | N/A | Climate warming is expanding dengue burden in the Americas and Asia |
+| 新辅助立体定向体部放射治疗联合达尔匹西布和依西美坦治疗激素受体阳性、HER2阴性乳腺癌的疗效和安全性：一项前瞻性试点研究 | Zhang, Y. | [PDF](https://doi.org/10.1101/2024.08.31.24312890) | N/A | Efficacy and safety of neoadjuvant stereotactic body radiation therapy plus dalpiciclib and exemestane for hormone receptor-positive, HER2-negative breast cancer: A prospective pilot study |
+| 一种新型的α-突触核蛋白G14R错义变异与非典型神经病理特征相关 | Brücke, C. | [PDF](https://doi.org/10.1101/2024.09.23.24313864) | N/A | A novel alpha-synuclein G14R missense variant is associated with atypical neuropathological features |
+| Galar - 一个大型多标签视频胶囊内窥镜数据集 | Le Floch, M. | [PDF](https://doi.org/10.1101/2024.09.26.24314265) | N/A | Galar - a large multi-label video capsule endoscopy dataset |
+| 通过虚拟现实/眼动追踪范式检测发现，后部视觉通路的参与与儿童卒中患者的高阶视觉障碍相关。 | Da Cruz, E. | [PDF](https://doi.org/10.1101/2024.11.03.24316675) | N/A | Involvement of the Posterior Visual Pathway Correlates with Higher-Order Visual Impairment in Childhood Stroke Patients detected by Virtual Reality/Eye Tracking Paradigm |
+| 多领域音乐干预（MultiMusic）对社区居住老年人的影响：一项关于脑源性神经营养因子（BDNF）唾液生物标志物、听力测量和神经心理学参数的研究方案
+
+该研究方案旨在探讨多领域音乐干预（MultiMusic）对社区居住老年人的影响，特别是通过合唱练习来评估其对脑源性神经营养因子（BDNF）唾液生物标志物、听力测量和神经心理学参数的影响。 | Lippolis, M. | [PDF](https://doi.org/10.1101/2024.11.29.24318152) | N/A | The MultiMusic multidomain intervention including choral practice in community-dwelling older people: A study protocol for Brain-Derived Neurotrophic Factor (BDNF) salivary biomarkers, audiometric and neuropsychological parameters |
+| 动态AI辅助同侧组织匹配用于数字乳腺断层合成成像 | Morrell, S. J. | [PDF](https://doi.org/10.1101/2024.12.02.24318238) | N/A | Dynamic AI-assisted Ipsilateral Tissue Matching for Digital Breast Tomosynthesis |
+| 一项混合方法研究探讨了英格兰地区使用食品俱乐部的家庭中的食品不安全与饮食质量问题 | Ziauddeen, N. | [PDF](https://doi.org/10.1101/2024.12.03.24318378) | N/A | A mixed methods study exploring food insecurity and diet quality in households accessing food clubs in England |
+| 对罕见单核苷酸多态性的网络分析表明，17型免疫反应在创伤诱导的、基因型相关的低炎症和危重疾病中起核心作用。 | El-Dehaibi, F. K. | [PDF](https://doi.org/10.1101/2025.01.28.25321184) | N/A | Network Analysis of Rare Single-Nucleotide Polymorphisms Suggests a Central Role for Type 17 Immune Responses in Trauma-induced, Genotypically Associated Hypo-Inflammation and Critical Illness |
+| 人类疟疾临床免疫的实验模型 | Hou, M. M. | [PDF](https://doi.org/10.1101/2025.02.04.25321636) | N/A | An experimental model of clinical immunity for human malaria |
+| 探索文化和工作结构问题与全科护理中护士留任的关系（GenRet）：一项定性访谈研究 | Anderson, H. | [PDF](https://doi.org/10.1101/2025.02.04.25321392) | N/A | Exploring the relationship between cultural and structural workforce issues and retention of nurses in general practice (GenRet): A qualitative interview study |
+| 雪府逐瘀口服液作为稳定型心绞痛的辅助治疗：一项随机临床试验 | Cao, W. | [PDF](https://doi.org/10.1101/2025.02.03.25321625) | N/A | Xuefu Zhuyu Oral Liquid as Adjunctive Therapy on Stable Angina: A Randomized Clinical Trial |
+| 评估自定义GPT在系统综述全文筛选中的可靠性 | Davis, R. C. | [PDF](https://doi.org/10.1101/2025.02.04.25321655) | N/A | Evaluating the Reliability of a Custom GPT in Full-Text Screening of a Systematic Review |
+| 一项全基因组关联研究确定了与内在能力相关的10个新的基因组位点。 | Beyene, M. B. | [PDF](https://doi.org/10.1101/2025.02.05.25321753) | N/A | A genome-wide association study identified 10 novel genomic loci associated with intrinsic capacity |
+| 非洲采纳和推广世界卫生组织推荐的结核病诊断技术：2007-2021年国际证据的系统综述 | IRAGENA, J. d. D. | [PDF](https://doi.org/10.1101/2025.02.06.25321799) | N/A | Uptake and rollout of the World Health Organization-endorsed technologies for Tuberculosis diagnosis in Africa: A systematic review of international evidence 2007-2021. |
+| 2024/2025年日本A/H1N1流感疫情期间，医护人员接种疫苗后血凝抑制抗体水平较低及其与流感防护的相关性研究 | Yamamoto, S. | [PDF](https://doi.org/10.1101/2025.02.06.25321776) | N/A | Low levels of post-vaccination hemagglutination inhibition antibodies and their correlation with influenza protection among healthcare workers during the 2024/2025 A/H1N1 outbreak in Japan |
+| COVID-19后遗症患者肺免疫细胞的纵向表观遗传重编程 | Nikesjö, F. | [PDF](https://doi.org/10.1101/2025.02.06.25321750) | N/A | Longitudinal epigenetic rewiring in lung immune cells in patients with post-COVID-19 condition |
+| 3D-QRS环映射：可视化心室电活动 | Ghosal, T. | [PDF](https://doi.org/10.1101/2025.02.06.25321576) | N/A | 3D-Mapping of QRS Loops: Visualizing the Ventricular Electrical Activities |
+| 对急性失代偿期肝硬化患者外周血单核细胞进行单细胞RNA测序，揭示了一种与进展至急性慢性肝衰竭（ACLF）风险增加相关的特定单核细胞亚群。 | Wirtz, T. | [PDF](https://doi.org/10.1101/2025.02.04.25321370) | N/A | Single-cell RNA sequencing of peripheral blood mononuclear cells in patients with acutely decompensated cirrhosis reveals a specific monocyte subset associated with an increased risk of progression to ACLF |
+| 以下是这段英文的中文翻译：
+
+**沉思过程中正念认知行为疗法对大脑网络动态活动的影响：一项随机对照试验**
+
+翻译说明：
+- "Dynamical repertoire" 译为 "动态活动" 或 "动态特征"，表示大脑网络在活动中的变化模式。
+- "brain networks" 译为 "大脑网络"，指大脑中不同区域之间的功能连接。
+- "mindfulness cognitive behavioural therapy" 译为 "正念认知行为疗法"，是一种结合正念冥想和认知行为疗法的心理治疗方法。
+- "rumination" 译为 "沉思" 或 "反刍思维"，指反复思考负面情绪或问题的心理状态。
+- "randomized controlled trial" 译为 "随机对照试验"，是一种科学研究的实验设计方法。
+
+希望这个翻译对你有帮助！如果有其他问题，欢迎随时提问。 | Vohryzek, J. | [PDF](https://doi.org/10.1101/2025.02.04.25321569) | N/A | Dynamical repertoire of brain networks in mindfulness cognitive behavioural therapy during rumination: A randomized controlled trial |
+| 远程医疗和数字健康平台在促进青年获取性与生殖健康自我护理方面的作用：以乌干达Rocket健康服务为例 | Ssenfuka, V. | [PDF](https://doi.org/10.1101/2025.02.06.25321563) | N/A | Telehealth and digital health platforms in promoting access to sexual reproductive health self care among youth: A case of Rocket health services in Uganda |
+| 对诺玛（noma）证据格局的系统性回顾：当前知识与研究空白 | Maguire, B. J. | [PDF](https://doi.org/10.1101/2025.02.07.24315593) | N/A | A systematic review of the noma evidence landscape: current knowledge and gaps |
+| 用于欧洲疫情监测的基于卡尔曼滤波状态估计的网络化SIRS模型 | Aalto, A. | [PDF](https://doi.org/10.1101/2025.02.06.25321780) | N/A | Networked SIRS model with Kalman filter state estimation for epidemic monitoring in Europe |
+| 人工智能在神经外科教育中的应用：范围综述 | Pinera-Castro, H. J. | [PDF](https://doi.org/10.1101/2025.02.07.25321681) | N/A | Applications of Artificial Intelligence in Neurosurgical Education: A Scoping Review |
+| 通过Apple SensorKit收集被动手机使用和传感器数据的可行性和可接受性 | Funk, C. | [PDF](https://doi.org/10.1101/2025.02.06.25321806) | N/A | Feasibility and acceptability of collecting passive phone usage and sensor data via Apple SensorKit |
+| 验证六项多发性硬化影响量表简表（MSIS-SF）用于有效评估患者报告的生理障碍 | Sumowski, J. F. | [PDF](https://doi.org/10.1101/2025.02.06.25321807) | N/A | Validation of a Six-Item Multiple Sclerosis Impact Scale Short Form (MSIS-SF) for Efficient Assessment of Patient-Reported Physical Disturbance |
+| 关于在病理学确认的神经退行性疾病中定位精神病的研究 | Breithaupt, A. | [PDF](https://doi.org/10.1101/2025.02.06.25321537) | N/A | Toward Localizing Psychosis in Pathologically Confirmed Neurodegenerative Disease |
+| 将原研药转换为生物类似药natalizumab的实际应用经验 | Hogestol, E. A. | [PDF](https://doi.org/10.1101/2025.02.05.25320428) | N/A | Real-world experience with switching from originator to biosimilar natalizumab |
+| 心力衰竭患者口腔舒适度评估量表的开发与评价 | Lu, M. | [PDF](https://doi.org/10.1101/2025.02.04.25321648) | N/A | Development and Evaluation of Heart Failure Patients Oral Comfort Assessment Questionnaire |
+| 集成可解释的机器学习预测农业事故伤害严重程度 | Mermer, O. | [PDF](https://doi.org/10.1101/2025.02.05.25321769) | N/A | Integrated Explainable Ensemble Machine Learning Prediction of Injury Severity in Agricultural Accidents |
+| 基于智能手机的测量作为晚期癌症患者功能状态的真实世界指标 | Straczkiewicz, M. | [PDF](https://doi.org/10.1101/2025.02.04.25321686) | N/A | Smartphone-based measures as real-world indicators of functional status in advanced cancer patients |
+| 多组学与多器官衰老时钟数字化人类衰老 | WEN, J. | [PDF](https://doi.org/10.1101/2025.02.06.25321803) | N/A | Multi-omics and Multi-organ Aging Clocks Digitize Human Aging |
+| 社区居住老年人血压调节异常的仰卧起坐测试评估：一项横断面研究 | Oyake, K. | [PDF](https://doi.org/10.1101/2025.02.05.25321761) | N/A | Sit-up Test for Assessing Blood Pressure Dysregulation in Community-Dwelling Older Adults: A Cross-Sectional Study |
+| 患者对麻醉的认知及其在自身围手术期安全中的参与——一项观察性研究。 | Agarwal, J. | [PDF](https://doi.org/10.1101/2025.02.05.25321349) | N/A | Patient's perception of anaesthesia and participation in their own perioperative safety- An observational study. |
+| 肥胖手术对月收入和就业的影响：2014-2022年英格兰国家关联数据研究 | Bermingham, C. R. | [PDF](https://doi.org/10.1101/2025.02.05.25321712) | N/A | Impact of bariatric surgery on monthly earnings and employment: a national linked data study in England, 2014-2022 |
+| 平衡稳态自由进动技术使得在7T磁场下对人脑进行高分辨率的动态三维氘代谢成像成为可能。 | Frese, S. | [PDF](https://doi.org/10.1101/2025.02.06.25321580) | N/A | Balanced steady state free precession enables high-resolution dynamic 3D Deuterium Metabolic Imaging of the human brain at 7T |
+| 全球医学教育中气候变化与健康内容的整合——一项范围综述 | Maisoon, B. | [PDF](https://doi.org/10.1101/2025.02.06.25321781) | N/A | Integration of climate change and health components in medical education worldwide- a scoping review |
+| 以下是这段文字的中文翻译：
+
+“10万基因组计划队列中综合征性和非综合征性听力损失的基因组图谱”
+
+翻译说明：
+1. "The genomic landscape" 翻译为“基因组图谱”，指的是基因组数据的整体情况或特征。
+2. "syndromic and non-syndromic hearing loss" 翻译为“综合征性和非综合征性听力损失”，其中“综合征性”指伴随其他症状的听力损失，“非综合征性”指单纯性听力损失。
+3. "within the 100,000 Genomes Project cohort" 翻译为“在10万基因组计划队列中”，指的是研究对象来自10万基因组计划的参与者群体。
+
+希望这个翻译对你有帮助！ | Vestito, L. | [PDF](https://doi.org/10.1101/2025.02.06.25321804) | N/A | The genomic landscape of syndromic and non-syndromic hearing loss within the 100,000 Genomes Project cohort |
+| 理解多种长期病症如何聚集的陷阱：英格兰7,490,874人的全人口和年龄分层关联分析
+
+在这项研究中，我们探讨了英格兰7,490,874人中多种长期病症（MLTC）的聚集模式，特别关注了全人口和不同年龄层的关联分析。研究发现，理解MLTC的聚集存在一些常见的误区，例如忽视年龄对病症组合的影响，以及未能充分考虑不同病症之间的相互作用。通过年龄分层分析，我们揭示了不同年龄段特有的病症组合模式，这为制定针对性的预防和治疗策略提供了重要依据。研究强调了在分析MLTC时，必须考虑年龄因素和病症间的复杂关系，以避免误解和错误的结论。 | Romero Moreno, G. | [PDF](https://doi.org/10.1101/2025.02.06.25321779) | N/A | Pitfalls in understanding how multiple long-term conditions cluster: whole population and age-stratified associations in 7,490,874 people in England |
+| 对中性粒细胞在健康和疾病中作用的全面表型组分析 | Fleming, K. | [PDF](https://doi.org/10.1101/2025.02.06.25321790) | N/A | A comprehensive phenome wide analysis of the role of neutrophils in health and disease |
+| 与衰老相关的细胞因子水平与HIV-1血清状态和持续性相关。 | Li, Y. | [PDF](https://doi.org/10.1101/2025.02.05.25321757) | N/A | Senescence-related cytokine levels are associated with HIV-1 serostatus and persistence |
+| 2021年至2023年间比利时因新冠疫苗接种而避免的死亡人数 | Stouten, V. | [PDF](https://doi.org/10.1101/2025.02.06.25321208) | N/A | AVERTED MORTALITY BY COVID-19 VACCINATION IN BELGIUM BETWEEN 2021 AND 2023 |
+| 基质金属蛋白酶-9介导内皮糖萼降解并与肾综合征出血热的严重程度相关 | Jacquet, C. | [PDF](https://doi.org/10.1101/2025.02.05.25321774) | N/A | Matrix Metalloproteinase-9 Mediates Endothelial Glycocalyx Degradation and Correlates with Severity of Hemorrhagic Fever with Renal Syndrome |
+| 儿科重症监护中拔管准备情况的动态评估机器学习模型 | Liu, Y. | [PDF](https://doi.org/10.1101/2025.02.06.25321800) | N/A | Machine Learning Models for Dynamic Assessment of Extubation Readiness in Pediatric Critical Care |
+| 评估改良血液学脓毒症评分系统在新生儿脓毒症早期诊断中的应用 | Baruwal, S. | [PDF](https://doi.org/10.1101/2025.02.02.25321553) | N/A | Evaluation Of Modified Hematological Sepsis Scoring System In Early Diagnosis Of Neonatal Sepsis |
 # MedRxiv 2025-02-06 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
