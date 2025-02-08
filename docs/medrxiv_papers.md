@@ -1,3 +1,99 @@
+# MedRxiv 2025-02-06 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 深度表示学习用于从电子健康记录中聚类纵向生存数据 | Qiu, J. | [PDF](https://doi.org/10.1101/2024.01.11.24301148) | N/A | Deep representation learning for clustering longitudinal survival data from electronic health records |
+| 高功率瞬态12-29Hz β事件特征作为阿尔茨海默病转化的早期生物标志物：一项MEG研究 | Shpakivska-Bilan, D. | [PDF](https://doi.org/10.1101/2024.09.13.24313611) | N/A | High power transient 12-29Hz beta event features as early biomarkers of Alzheimer's Disease conversion: a MEG study |
+| 青蒿素联合疗法、非青蒿素疗法以及8-氨基喹啉类抗疟疗法的传播阻断活性：个体参与者数据的汇总分析。 | Vanheer, L. N. | [PDF](https://doi.org/10.1101/2024.09.27.24314479) | N/A | The transmission blocking activity of artemisinin-combination, non-artemisinin, and 8-aminoquinoline antimalarial therapies: a pooled analysis of individual participant data. |
+| 新型睡眠动态数字标志物：通过因果推理方法揭示阻塞性睡眠呼吸暂停中的年龄和性别表型 | Bechny, M. | [PDF](https://doi.org/10.1101/2024.10.23.24315965) | N/A | Novel Digital Markers of Sleep Dynamics: A Causal Inference Approach Revealing Age and Gender Phenotypes in Obstructive Sleep Apnea |
+| 柬埔寨出现与人类病例相关的新型重配禽流感A/H5N1病毒2.3.2.1c分支 | Siegers, J. Y. | [PDF](https://doi.org/10.1101/2024.11.04.24313747) | N/A | Emergence of a Novel Reassortant Clade 2.3.2.1c Avian Influenza A/H5N1 Virus Associated with Human Cases in Cambodia |
+| 最大化区分精神病治疗效果的学习成果 | Strobl, E. V. | [PDF](https://doi.org/10.1101/2024.12.03.24318424) | N/A | Learning Outcomes that Maximally Differentiate Psychiatric Treatments |
+| 睾酮对47,XXY/克氏综合征婴儿短期生理、激素及神经发育影响的研究：TESTO随机对照试验 | Davis, S. | [PDF](https://doi.org/10.1101/2024.12.09.24318726) | N/A | Testosterone Effects on Short-Term Physical, Hormonal, and Neurodevelopmental Outcomes in Infants with 47,XXY/Klinefelter Syndrome: the TESTO Randomized Controlled Trial |
+| 在神经学诊所中行为的多模态数字表型分析：Neurobooth平台的开发及前两年数据收集
+
+本文介绍了一个名为Neurobooth的平台，该平台旨在通过多模态数字技术对神经学诊所中的患者行为进行表型分析。文章详细描述了该平台的开发过程，并总结了前两年的数据收集情况。Neurobooth平台整合了多种技术手段，包括视频记录、音频分析、眼动追踪和生理信号监测等，以全面捕捉患者的行为特征。通过这一平台，研究人员能够更精确地识别和分类神经学疾病的行为标志，从而为疾病的诊断和治疗提供更为客观和量化的依据。文章还讨论了在数据收集过程中遇到的挑战和解决方案，并对未来的研究方向进行了展望。 | Nunes, A. S. | [PDF](https://doi.org/10.1101/2024.12.28.24319527) | N/A | Multimodal Digital Phenotyping of Behavior in a Neurology Clinic: Development of the Neurobooth Platform and the First Two Years of Data Collection |
+| 2019-2020年美国城乡连续体中慢性疼痛和高影响慢性疼痛的发展 | Sun, F. | [PDF](https://doi.org/10.1101/2025.01.15.25320640) | N/A | Development of Chronic Pain and High-Impact Chronic Pain across the U.S. Rural-Urban Continuum, 2019-2020 |
+| 基于小波的尺度保持型短波红外高光谱数据压缩方法 | Biswas, H. | [PDF](https://doi.org/10.1101/2025.01.18.25320781) | N/A | Wavelet-Based Compression Method for Scale-Preserving SWIR Hyperspectral Data |
+| 独特的行为特征揭示了自闭症中的心理困扰 | Strobl, E. V. | [PDF](https://doi.org/10.1101/2025.02.01.25321517) | N/A | Unique Behavior Profiles that Specify Mental Distress in Autism |
+| 人工智能系统在基因检测中简化变异解读的临床评估 | Ruzicka, J. | [PDF](https://doi.org/10.1101/2025.02.04.25321641) | N/A | Clinical Evaluation of an AI System for Streamlined Variant Interpretation in Genetic Testing |
+| 通过颈动脉内膜中层厚度预测死亡率：一种新颖的生命表统计模型 | Rembold, C. | [PDF](https://doi.org/10.1101/2025.02.03.25321583) | N/A | Mortality prediction by Carotid Intimal Medial Thickness with a novel Life Table Statistical Model |
+| 研究方案：在印度卡纳塔克邦科拉尔县某塔鲁克选定区域建立“非机构死亡医学死因证明”系统的可行性与有效性研究 | Muralidhar, M. | [PDF](https://doi.org/10.1101/2025.02.05.25321716) | N/A | Protocol of the study for Setting up of a system for "Medical Certification of Cause of Death" for non-institutional deaths in a selected area of a Taluk of Kolar District, Karnataka, India: feasibility and validity |
+| 从衰老大脑中分离出的人类星形胶质细胞的表征 | Serrano, G. | [PDF](https://doi.org/10.1101/2025.02.04.25321542) | N/A | Characterization of isolated human astrocytes from aging brain |
+| 表型分析重度抑郁症中的细胞外囊泡及其5-羟色胺转运蛋白成分 | Zadka, L. | [PDF](https://doi.org/10.1101/2025.02.05.25321729) | N/A | Phenotyping extracellular vesicles and their serotonin transporter cargo in major depressive disorder |
+| 《好，还是足够好？——探讨英国临床心理学家在从业过程中对幸福感与执业能力的指导需求》
+
+这个标题翻译旨在保留原文的学术探讨性质，同时使其更符合中文表达习惯。其中：
+
+- "Well, or Well Enough?" 译为“好，还是足够好？”，保留了原文的疑问语气和对比意味
+- "exploration" 译为“探讨”，符合学术文章的用语习惯
+- "clinician wellbeing" 译为“幸福感”，更贴近中文表达
+- "fitness to practice" 译为“执业能力”，准确传达专业含义
+- 增加了破折号，使标题结构更清晰
+- 补充了“英国”这一地理范围，使读者更清楚研究对象
+
+这个翻译既保持了原文的学术严谨性，又使其更符合中文读者的阅读习惯。 | Birkett, L. | [PDF](https://doi.org/10.1101/2025.02.03.25321570) | N/A | Well, or Well Enough? An exploration of the need for guidance addressing clinician wellbeing and fitness to practice in UK Clinical Psychologists |
+| 公平的疾病预测机器学习模型：与关键健康专家的深度访谈 | Nghiem, N. | [PDF](https://doi.org/10.1101/2025.02.04.25321632) | N/A | Fair machine learning models for disease prediction: In-depth interviews with key health experts |
+| 评估低收入和中等收入国家疫情爆发中缩短疫苗接种响应时间的影响 | Delport, D. | [PDF](https://doi.org/10.1101/2025.02.04.25321698) | N/A | Estimating the impact of decreasing vaccination response times for outbreaks in low- and middle-income countries |
+| 基于机器学习的多模态数据中侵袭性和恶性肾肿瘤分类 | Aminy, M. | [PDF](https://doi.org/10.1101/2025.02.04.25321687) | N/A | Machine Learning Based Classification of Aggressive and Malignant Renal Tumors from Multimodal Data |
+| 葡萄糖昼夜节律紊乱与子痫前期相关 | Bravo, R. | [PDF](https://doi.org/10.1101/2025.02.05.25321670) | N/A | Glucose Circadian Rhythm Disruption is Associated with Preeclampsia |
+| 小儿烟雾病搭桥手术后连续处理中固有认知弱点的恢复 | Chihara, H. | [PDF](https://doi.org/10.1101/2025.02.03.25321628) | N/A | Recovery of intrinsic cognitive weakness in successive processing after bypass surgery for pediatric moyamoya disease |
+| 急性缺血性卒中血管内治疗期间的微血管血流光学脑脉冲监测 | Petautschnig, S. | [PDF](https://doi.org/10.1101/2025.02.04.25320869) | N/A | Optical brain pulse monitoring of microvascular blood flow during endovascular treatment for acute ischemic stroke |
+| 通过在西达马（埃塞俄比亚）分发苋菜加亚麻籽食品产品来改善学龄儿童营养状况和学校表现：研究方案 | Orsango, A. Z. | [PDF](https://doi.org/10.1101/2025.02.05.25321679) | N/A | Improving school age nutrition and school performance through amaranth plus flaxseed food product distribution in Sidama, Ethiopia: a study protocol |
+| 老年人使用和偏好的营养信息来源：范围综述 | McClinchy, J. | [PDF](https://doi.org/10.1101/2025.02.02.25321554) | N/A | Sources of nutrition information used and preferred by older people: A scoping review |
+| 子宫保留手术与子宫切除术治疗胎盘植入谱系疾病的比较：一项系统综述与荟萃分析 | Lino, G. | [PDF](https://doi.org/10.1101/2025.02.04.25321691) | N/A | Uterine conservative surgery vs hysterectomy for placenta accreta spectrum disorders, a systematic review and meta-analysis |
+| 基于RNAseq的机器学习模型用于多发性骨髓瘤的预后预测 | Shah, K. U. | [PDF](https://doi.org/10.1101/2025.01.31.25321495) | N/A | RNAseq-Based Machine Learning Models for Prognostication of Multiple Myeloma |
+| 生殖系致病性变异影响儿童中枢神经系统肿瘤的体细胞改变和患者预后 | Corbett, R. J. | [PDF](https://doi.org/10.1101/2025.02.04.25321499) | N/A | Germline pathogenic variation impacts somatic alterations and patient outcomes in pediatric CNS tumors |
+| 开发一种人工智能生成的、可解释的治疗推荐系统，用于尿路上皮癌和肾细胞癌，以支持多学科癌症会议 | Duwe, G. | [PDF](https://doi.org/10.1101/2025.02.03.25321592) | N/A | Development of an artificial intelligence-generated, explainable treatment recommendation system for urothelial carcinoma and renal cell carcinoma to support multidisciplinary cancer conferences |
+| 青少年使用音乐进行疼痛管理 | Lepping, R. J. | [PDF](https://doi.org/10.1101/2025.02.04.25321472) | N/A | Adolescents Use of Music for Pain Management |
+| 孕期睡眠轨迹与超重或肥胖个体产后疼痛的关联：一项前瞻性队列研究。 | Hawkins, M. S. | [PDF](https://doi.org/10.1101/2025.01.31.25320695) | N/A | The association between sleep trajectories throughout pregnancy and postpartum pain in individuals with overweight or obesity: a prospective cohort study. |
+| 利用组合分析在美国和英国具有不同祖先的患者队列中识别出的长新冠遗传风险因素的可重复性 | Sardell, J. | [PDF](https://doi.org/10.1101/2025.02.04.25320937) | N/A | Reproducibility of Genetic Risk Factors Identified for Long COVID using Combinatorial Analysis Across US and UK Patient Cohorts with Diverse Ancestries |
+| 对TMEM106B基因座的精细定位揭示了四种单倍型，这些单倍型与神经退行性疾病的风险存在差异关联。 | Salazar, A. | [PDF](https://doi.org/10.1101/2025.02.02.25321330) | N/A | FINE-MAPPING OF THE TMEM106B LOCUS REVEALS FOUR HAPLOTYPES THAT ARE DIFFERENTIALLY ASSOCIATED WITH RISK FOR NEURODEGENERATION |
+| 整合HiTOP与RDoC框架第二部分：外化与内化精神病理学的共享与独特生物学机制 | Davis, C. N. | [PDF](https://doi.org/10.1101/2025.02.05.25321732) | N/A | Integrating HiTOP and RDoC Frameworks Part II: Shared and Distinct Biological Mechanisms of Externalizing and Internalizing Psychopathology |
+| 系统化生成、评估和整合机器学习算法对临床变异分类的影响 | Fresard, L. | [PDF](https://doi.org/10.1101/2025.02.03.25321356) | N/A | The impact of systematized generation, evaluation, and incorporation of machine learning algorithms for clinical variant classification |
+| 使用基于代理的模拟模型评估和复制阿片类药物使用障碍的社会传染成分 | Bilden, R. C. | [PDF](https://doi.org/10.1101/2025.02.03.25321377) | N/A | Evaluation and Replication of a Social Contagion Component of Opioid Use Disorder using Agent-Based Simulation Modeling |
+| 肺动脉高压患者中的心房颤动和心房扑动事件：右心室扩张和右心房功能减退的影响 | Mohama, D. | [PDF](https://doi.org/10.1101/2025.02.05.25321674) | N/A | Incident Atrial Fibrillation and Flutter in Patients with Pulmonary Arterial Hypertension: Influence of Right Ventricular Dilatation and Reduced Right Atrial Function |
+| 提升甲状腺结节分类诊断精度：基于深度学习的超声图像自动分析方法 | de Oliveira Andrade, L. J. | [PDF](https://doi.org/10.1101/2025.02.05.25321737) | N/A | Enhancing Diagnostic Precision in Thyroid Nodule Classification: A Deep Learning Approach to Automated Ultrasound Image Analysis |
+| N-of-1试验中的连续结果估计以加速决策 | Defelippe, V. | [PDF](https://doi.org/10.1101/2025.02.05.25321704) | N/A | Continuous Outcome Estimation in N-of-1 Trials for Accelerated Decision-Making |
+| 1990年至2021年全球、区域及国家非风湿性钙化主动脉瓣疾病负担及2050年预测 | Wang, Z. | [PDF](https://doi.org/10.1101/2025.02.05.25321722) | N/A | Global, Regional, and National Burden of Non-Rheumatic Calcified Aortic Valve Disease from 1990 to 2021 and Projections to 2050 |
+| 血浆蛋白与心理健康之间的关联：来自英国老龄化纵向研究超过20年的证据 | Gong, J. | [PDF](https://doi.org/10.1101/2025.02.05.25321715) | N/A | Associations between plasma proteins and psychological wellbeing: evidence from over 20 years of the English Longitudinal Study of Ageing |
+| 早期邻苯二甲酸酯暴露对婴幼儿灰质和白质体积的影响 | Werder, E. J. | [PDF](https://doi.org/10.1101/2025.02.05.25321734) | N/A | Early life phthalate exposure impacts gray matter and white matter volume in infants and young children |
+| 使用多中心数据对重症儿童早期急性肾损伤预测模型的外部验证、重新校准和扩展
+
+这段文字描述了一个研究过程，涉及使用来自多个中心的数据对重症儿童早期急性肾损伤的预测模型进行外部验证、重新校准和扩展。外部验证是指使用不同于模型开发时使用的数据集来测试模型的性能；重新校准可能涉及调整模型的参数以提高其预测准确性；扩展可能意味着将模型应用于更广泛的人群或添加新的预测变量。 | Dziorny, A. | [PDF](https://doi.org/10.1101/2025.02.05.25321680) | N/A | External Validation, Re-Calibration, and Extension of a Prediction Model of Early Acute Kidney Injury in Critically Ill Children using Multi-Center Data |
+| 以下是将这段英文翻译成中文的结果：
+
+**“一个实施科学框架，用于理解大规模犬类狂犬病疫苗接种覆盖率低的原因”**
+
+翻译解释：
+- **Implementation Science**：实施科学，指研究如何将科学发现和最佳实践转化为实际应用和政策的学科。
+- **Framework**：框架，指一种结构化的方法或模型。
+- **Low Coverage**：覆盖率低，指疫苗接种未能覆盖足够比例的犬只。
+- **Mass Dog Rabies Vaccination**：大规模犬类狂犬病疫苗接种，指针对犬只的狂犬病疫苗接种活动。
+
+希望这个翻译对你有帮助！ | Castillo-Neyra, R. | [PDF](https://doi.org/10.1101/2025.02.05.25321168) | N/A | An Implementation Science Framework to Understand Low Coverage in Mass Dog Rabies Vaccination |
+| 使用医院管理数据库估算2022年加拿大免疫功能低下状况的流行率 | Fines, P. | [PDF](https://doi.org/10.1101/2025.02.05.25321738) | N/A | Estimating prevalence of immunocompromising conditions in Canada in 2022 using an administrative hospital database |
+| “从未有人向我提及过PCD与生育问题”：原发性纤毛运动障碍患者及其家庭照顾者的生育经历 | Schreck, L. D. | [PDF](https://doi.org/10.1101/2025.02.04.25321417) | N/A | ''Nobody has ever spoken to me about PCD and fertility issues'': Fertility experiences of people with primary ciliary dyskinesia and their family caregivers |
+| 对接种3剂同源疫苗（mRNA-1273- mRNA-1273- BNT162b2）的肾移植人群进行抗SARS-CoV-2中和抗体水平的纵向评估：18个月随访。 | Karunathilake, R. P. | [PDF](https://doi.org/10.1101/2025.02.05.25321720) | N/A | Longitudinal evaluation of anti-SARS-CoV-2 neutralizing antibody levels in 3-dose homologous (mRNA-1273- mRNA-1273- BNT162b2) vaccinated Kidney transplant population: 18-month follow-up. |
+| 可靠的家庭肺功能监测在肌萎缩侧索硬化症患者中的应用 | Peller, J. | [PDF](https://doi.org/10.1101/2025.02.03.25321333) | N/A | Reliable Monitoring of Respiratory Function with Home Spirometry in People Living with Amyotrophic Lateral Sclerosis |
+| 轻度认知障碍病例会影响使用常规临床变量构建的阿尔茨海默病诊断模型的预测能力。 | Finney, C. A. | [PDF](https://doi.org/10.1101/2025.02.04.25321694) | N/A | Mild cognitive impairment cases affect the predictive power of Alzheimers disease diagnostic models using routine clinical variables |
+| 在粪便、血清和尿液中进行全球代谢物分析，揭示了由饮食驱动的微生物组重塑所诱导的能量平衡表型的见解。 | Igudesman, D. | [PDF](https://doi.org/10.1101/2025.02.05.25321733) | N/A | Global metabolite profiling in feces, serum, and urine yields insights into energy balance phenotypes induced by diet-driven microbiome remodeling |
+| 一项关于系统性综述和个体患者数据荟萃分析的协议，旨在研究Pfkelch13基因突变与基于青蒿素的治疗对无并发症恶性疟疾反应之间的关系。 | van Wyk, S. | [PDF](https://doi.org/10.1101/2025.02.05.25321713) | N/A | A protocol for a systematic review and individual patient data meta-analysis investigating the relationship between Pfkelch13 mutations and response to artemisinin-based treatment for uncomplicated falciparum malaria. |
+| 从医疗记录中提取生活事件以预测退伍军人急性自杀风险 | Morrow, D. | [PDF](https://doi.org/10.1101/2025.02.03.25321612) | N/A | Life Events Extraction From Healthcare Notes for Veteran Acute Suicide Prediction |
+| 基于50万小时睡眠记录开发的多模态睡眠基础模型，用于疾病预测 | Thapa, R. | [PDF](https://doi.org/10.1101/2025.02.04.25321675) | N/A | A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions |
+| 打破恶性循环：解决格鲁吉亚医疗费用致贫的驱动因素 | Gorgodze, T. | [PDF](https://doi.org/10.1101/2025.01.31.25321173) | N/A | Breaking the Cycle: Addressing the Drivers of Impoverishing Healthcare Costs in Georgia |
+| 阿司匹林治疗对胸腹主动脉瘤进展的影响 | Mohammadmoradi, S. | [PDF](https://doi.org/10.1101/2025.02.05.25321726) | N/A | Impact of Aspirin Therapy on Progression of Thoracic and Abdominal Aortic Aneurysms |
+| 坦桑尼亚的HIV、HPV与口腔健康：范围综述 | Gedion, K. | [PDF](https://doi.org/10.1101/2025.02.05.25321725) | N/A | HIV, HPV, and Oral Health in Tanzania: A scoping review |
+| 2019-2021年波多黎各通过医院主动监测确定的钩端螺旋体病病例的诊断与临床描述
+
+这段文字描述了一项研究，该研究在2019年至2021年期间，通过医院主动监测系统在波多黎各识别并诊断了钩端螺旋体病（Leptospirosis）病例，并对这些病例的临床特征进行了描述。钩端螺旋体病是一种由钩端螺旋体细菌引起的传染病，通常通过接触受感染动物的尿液或污染的水源传播。主动监测意味着医疗机构积极寻找和报告病例，以便更好地了解疾病的流行情况和临床特征。 | Munoz-Zanzi, C. | [PDF](https://doi.org/10.1101/2025.01.31.25321493) | N/A | Diagnosis and clinical description of leptospirosis cases identified through hospital-based active surveillance in Puerto Rico, 2019-2021 |
+| 在没有金标准的情况下，从电子健康记录中识别社区获得性肺炎：贝叶斯潜在类别分析 | Wei, J. | [PDF](https://doi.org/10.1101/2025.02.03.25321566) | N/A | Community-acquired pneumonia identification from electronic health records in the absence of a gold standard: a Bayesian latent class analysis |
+| 2024-2025呼吸道病毒季节流感疫苗的临时有效性 | Shrestha, N. K. | [PDF](https://doi.org/10.1101/2025.01.30.25321421) | N/A | Interim Effectiveness of the Influenza Vaccine for the 2024-2025 Respiratory Viral Season |
+| 哥伦比亚LGBTIQ+社区对Mpox（猴痘）的认知、风险感知、态度及疫苗接种意愿：在线调查（CoSex） | Diaz-Brochero, C. | [PDF](https://doi.org/10.1101/2025.02.03.25321611) | N/A | Mpox Knowledge, Risk Perception, Attitudes and Willingness to Vaccinate in Colombia's LGBTIQ+ Communities: Online Survey (CoSex) |
+| 中性粒细胞弹性蛋白酶作为卒中后感染的预测生物标志物 | Diaz, B. | [PDF](https://doi.org/10.1101/2025.02.04.25321701) | N/A | NEUTROPHIL ELASTASE AS A PREDICTIVE BIOMARKER FOR POST-STROKE INFECTION |
+| 埃塞俄比亚南部公立医院孕妇前置胎盘的决定因素：非匹配病例对照研究 | Urkashe, T. U. | [PDF](https://doi.org/10.1101/2025.02.02.25321556) | N/A | Determinants of Placenta Previa among Pregnant Women Delivered in Public Hospitals South Ethiopia: Unmatched Case-Control Study |
+| 肯尼亚西部袋鼠式母亲护理下新生儿体重增加的卫生设施支持及其影响 | Mukabi, S. | [PDF](https://doi.org/10.1101/2025.02.05.25321723) | N/A | Health facility support and its influence on weight gain for neonates under Kangaroo Mother Care in Western Kenya |
+| 评估高龄妇女所生儿童五岁以下死亡率的趋势和决定因素：来自埃塞俄比亚人口与健康调查的证据 | Temesegen, T. D. | [PDF](https://doi.org/10.1101/2025.02.05.25321717) | N/A | Assessment of trends and determinants of under-five mortality among children born to older women: Evidence from Ethiopian Demographic and Health Surveys |
+| 在拥有更多社会支持、导师指导以及对分娩恐惧较低的年轻孕妇中，母胎依恋程度更高。 | Alavala, V. | [PDF](https://doi.org/10.1101/2025.02.05.25321721) | N/A | Maternal-antenatal attachment is higher in young pregnant women with more social support, mentors, and lower fear of childbirth |
 # MedRxiv 2025-02-03 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
