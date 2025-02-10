@@ -1,3 +1,12 @@
+# MedRxiv 2025-02-09 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 双相情感障碍中三个发作阶段的功能重组 | Liu, X. | [PDF](https://doi.org/10.1101/2024.09.03.24312957) | N/A | Functional Reorganization across Three Episodes in Bipolar Disorder |
+| 2020-2023年法国高危型人乳头瘤病毒宫颈感染流行率：一项全国性、大规模、空间解析的回顾性研究，比较机会性筛查与组织性筛查 | Supplisson, O. R. C. | [PDF](https://doi.org/10.1101/2024.10.20.24315479) | N/A | High-risk human papillomavirus cervical infection prevalence in France, 2020-2023: a nationwide, large-scale, and spatially resolved retrospective study comparing opportunistic and organised screening |
+| 正常间歇期脑电图在癫痫诊断和治疗规划中的价值：基于人群水平频谱功率和连接模式的回顾性队列研究 | Wagh, N. | [PDF](https://doi.org/10.1101/2025.01.03.25319963) | N/A | The Value of Normal Interictal EEGs in Epilepsy Diagnosis and Treatment Planning: A Retrospective Cohort Study using Population-level Spectral Power and Connectivity Patterns |
+| 独特的大脑耦合模式在自闭症谱系亚型中的占据情况 | Miguel, V. | [PDF](https://doi.org/10.1101/2025.01.29.25321316) | N/A | Distinctive Occupancy of Brain Coupling Modes across Autism spectrum subtypes |
+| 一个基于50万小时睡眠记录开发的多模态睡眠基础模型，用于疾病预测 | Thapa, R. | [PDF](https://doi.org/10.1101/2025.02.04.25321675) | N/A | A Multimodal Sleep Foundation Model Developed with 500K Hours of Sleep Recordings for Disease Predictions |
 # MedRxiv 2025-02-08 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
