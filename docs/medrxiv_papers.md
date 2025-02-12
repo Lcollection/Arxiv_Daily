@@ -1,3 +1,96 @@
+# MedRxiv 2025-02-10 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 在床边心脏评估的K/S/A中寻找意义 | Meisel, J. L. | [PDF](https://doi.org/10.1101/2022.08.23.22279141) | N/A | Finding Meaning in the K/S/A of Bedside Cardiac Assessment |
+| 利用癌症登记的综合信息，将来自真实世界临床基因组数据库的非小细胞肺癌样本的推断扩展到基础目标人群 | Thomas, D. S. | [PDF](https://doi.org/10.1101/2023.06.15.23291372) | N/A | Extending Inferences From A Real-world Clinico-Genomic Database Non-Small Cell Lung Cancer Sample To The Underlying Target Population Using Combined Information From Cancer Registrations |
+| 活动模式与治疗反应之间的相关性为不同的抗抑郁治疗提供了独特的特征。 | Spulber, S. | [PDF](https://doi.org/10.1101/2023.09.29.23294935) | N/A | Correlations between patterns of activity and the response to treatment yield distinct signatures for different antidepressant treatments |
+| 早期精神病与精神分裂症中的白质微结构改变 | Pavan, T. | [PDF](https://doi.org/10.1101/2024.02.01.24301979) | N/A | White Matter Microstructure Alterations in Early Psychosis and Schizophrenia |
+| 预测加拿大糖尿病患者或有糖尿病风险人群的抑郁状况：一项横断面机器学习分析 | Samsel, K. | [PDF](https://doi.org/10.1101/2024.02.03.24302303) | N/A | Predicting Depression in Canadians with or at Risk of Diabetes: A Cross-Sectional Machine Learning Analysis |
+| 父母自身免疫性疾病对子代1型糖尿病的影响可以部分通过HLA和非HLA多态性来解释。 | Wang, F. | [PDF](https://doi.org/10.1101/2024.04.16.24305884) | N/A | Effects of parental autoimmune diseases on type 1 diabetes in offspring can be partially explained by HLA and non-HLA polymorphisms |
+| 来自高收入国家以及低收入和中等收入国家的学龄儿童中，特应性和非特应性哮喘的风险因素 | Rutter, C. E. | [PDF](https://doi.org/10.1101/2024.06.03.24308369) | N/A | Risk factors for atopic and non-atopic asthma in school-aged children from high-, and low-and-middle income countries |
+| 英格兰的投票模式、死亡率与健康不平等：对Smith和Dorling（1996年）研究的复制与扩展 | Rahal, C. | [PDF](https://doi.org/10.1101/2024.06.26.24309517) | N/A | Voting Patterns, Mortality, and Health Inequalities in England: A replication and extension of Smith and Dorling (1996) |
+| 精神分裂症患者脑白质微结构与谷胱甘肽氧化还原循环血液标志物无关联 | Pavan, T. | [PDF](https://doi.org/10.1101/2024.09.02.24312940) | N/A | Brain White Matter Microstructure are not associated with Blood Markers of the GSH Redox cycle in Schizophrenia |
+| 通过结合自然语言处理模型和因果发现方法，研究痴呆症的因果网络。 | Yu, X. | [PDF](https://doi.org/10.1101/2024.11.05.24316664) | N/A | Investigating the causal network of dementia by employing a causal discovery approach combined with natural language processing models |
+| 海地农村家庭儿童中由志贺氏菌属和侵袭性大肠杆菌引起的腹泻疾病：一项病例对照研究 | Sriguha, I. | [PDF](https://doi.org/10.1101/2025.01.29.25321342) | N/A | Diarrheal disease attributed to Shigella spp. and Enteroinvasive Escherichia coli among children at households in rural Haïti: A case-control study |
+| 革新肺癌检测：评估用于挥发性有机化合物分析的人工智能模型及揭示关键呼气生物标志物 | Hamilton, F. | [PDF](https://doi.org/10.1101/2025.02.03.25321431) | N/A | Revolutionizing Lung Cancer Detection: Evaluating AI Models for VOC Analysis and Unveiling Key Exhaled Biomarkers |
+| 携带PMS2致病性变异的个体在60岁之前的癌症风险处于平均水平。 | Schiabor Barrett, K. M. | [PDF](https://doi.org/10.1101/2025.02.03.25321630) | N/A | Individuals with PMS2 pathogenic variants are at average risk of cancer before age 60 |
+| 从衰老大脑中分离的人类星形胶质细胞的表征 | Serrano, G. | [PDF](https://doi.org/10.1101/2025.02.04.25321542) | N/A | Characterization of isolated human astrocytes from aging brain |
+| 2024/2025年日本A/H1N1流感疫情期间，医护人员接种疫苗后血凝抑制抗体水平较低及其与流感保护效果的相关性研究 | Yamamoto, S. | [PDF](https://doi.org/10.1101/2025.02.06.25321776) | N/A | Low levels of post-vaccination hemagglutination inhibition antibodies and their correlation with influenza protection among healthcare workers during the 2024/2025 A/H1N1 outbreak in Japan |
+| 围手术期凝血因子VIII的药代动力学变化使得A型血友病患者的个体化治疗变得复杂。 | Janssen, A. | [PDF](https://doi.org/10.1101/2025.02.07.25321866) | N/A | Variable pharmacokinetics of coagulation factor VIII in the perioperative setting complicates personalisation of treatment in patients with haemophilia A |
+| 同种致敏状态预测当前时代先天性心脏病移植受者的超额死亡率：美国器官共享网络数据库分析 | O'Connor, M. J. | [PDF](https://doi.org/10.1101/2025.02.07.25321899) | N/A | Allosensitization Status Predicts Excess Mortality in Congenital Heart Disease Transplant Recipients in the Current Era: An Analysis of the United Network for Organ Sharing Database |
+| VExUS系统在低渗性低钠血症的评估和管理中临床影响有限：一项单中心观察性研究 | Marques Ortega, F. J. | [PDF](https://doi.org/10.1101/2025.02.08.25321918) | N/A | VExUS System Has a Limited Clinical Impact in the Evaluation and Management of Hypoosmolar Hyponatremia: A Single-Center Observational Study |
+| 严重急性营养不良中的持久性厌氧肠道微生物与丁酸盐耗竭 | Camara, A. | [PDF](https://doi.org/10.1101/2025.02.07.25321872) | N/A | Persistent Aerointolerant Gut Microbes and Butyrate Depletion in Severe Acute Malnutrition |
+| 评估大规模调查中的可持续健康饮食：基于代表EAT-Lancet星球健康饮食的简短食物组倾向问卷的饮食指数的有效性和适用性 | Miranda, A. R. | [PDF](https://doi.org/10.1101/2025.02.07.25321862) | N/A | Assessing sustainable and healthy diets in large-scale surveys: validity and applicability of a dietary index based on a brief food group propensity questionnaire representing the EAT-Lancet planetary health diet |
+| 高风险HPV在宫颈癌筛查中的流行与分布：基于细胞学和p16/Ki67双染结果的扩展基因分型研究
+
+这段翻译将原标题“High-risk HPV Prevalence and Distribution in Cervical Cancer Screening: Extended Genotyping in Correlation with Cytology and p16/Ki67 Dual Stain Results”转化为中文，同时保持了原文的专业性和准确性。标题中的关键术语如“High-risk HPV”（高风险HPV）、“Cervical Cancer Screening”（宫颈癌筛查）、“Extended Genotyping”（扩展基因分型）、“Cytology”（细胞学）和“p16/Ki67 Dual Stain Results”（p16/Ki67双染结果）都得到了恰当的翻译，确保了信息的完整传达。 | Trzeszcz, M. | [PDF](https://doi.org/10.1101/2025.02.08.25321924) | N/A | High-risk HPV Prevalence and Distribution in Cervical Cancer Screening: Extended Genotyping in Correlation with Cytology and p16/Ki67 Dual Stain Results |
+| 评估绝经后女性的生殖特征、表观遗传衰老和死亡率 | Ye, Q. | [PDF](https://doi.org/10.1101/2025.02.08.25321904) | N/A | Evaluation of reproductive profiles, epigenetic aging, and mortality in post-menopausal women |
+| 以下是这段文字的中文翻译：
+
+**关于使用纳武利尤单抗单药治疗晚期肾细胞癌的真实世界经验：西班牙的一项多中心回顾性队列研究**
+
+翻译说明：
+- "Real-world experience" 翻译为 "真实世界经验"，指的是在实际临床实践中的使用经验，而非临床试验中的结果。
+- "nivolumab monotherapy" 翻译为 "纳武利尤单抗单药治疗"，其中 "nivolumab" 是一种免疫检查点抑制剂，中文通用名为 "纳武利尤单抗"。
+- "advanced renal cell carcinoma" 翻译为 "晚期肾细胞癌"，指肾癌的晚期阶段。
+- "multicenter retrospective cohort study" 翻译为 "多中心回顾性队列研究"，表明这是一项基于历史数据的多中心研究。
+
+希望这对你有帮助！ | Fernandez Diaz, N. | [PDF](https://doi.org/10.1101/2025.02.07.25321775) | N/A | Real-world experience on the use of nivolumab monotherapy for advanced renal cell carcinoma: a multicenter retrospective cohort study in Spain |
+| 基于策略的儿童脑瘤认知康复：疲劳、学习和记忆增强（FLaME）干预的可接受性和可行性试验方案 | Malcolm, C. P. | [PDF](https://doi.org/10.1101/2025.02.08.25321926) | N/A | Strategy-based Cognitive Rehabilitation for Childhood Brain Tumour: Protocol for an Acceptability and Feasibility Trial of the Fatigue, Learning, and Memory Enrichment (FLaME) intervention |
+| 咖啡摄入与帕金森病的发病年龄较晚有关。 | Kuzovenkova, D. | [PDF](https://doi.org/10.1101/2025.02.07.25321819) | N/A | Coffee consumption is associated with later age-at-onset of Parkinson's disease |
+| PennPRS：一个用于精准医学中高效多基因风险评分训练的集中式云计算平台 | Jin, J. | [PDF](https://doi.org/10.1101/2025.02.07.25321875) | N/A | PennPRS: a centralized cloud computing platform for efficient polygenic risk score training in precision medicine |
+| 研究循环炎症因子在肥胖与COVID-19之间联系中的作用 | Khamis, Z. J. | [PDF](https://doi.org/10.1101/2025.02.07.25321874) | N/A | Investigating the contribution of circulating inflammatory cytokines on the link between obesity and COVID-19 |
+| α-klotho与人类寿命的非因果关联：来自多组学研究的证据 | Liu, X. | [PDF](https://doi.org/10.1101/2025.02.08.25321911) | N/A | Non-causal association between α-klotho and human lifespan: evidence from multi-omics insights |
+| 使用词嵌入预测心力衰竭患者的30天再入院率 | Shakya, P. R. | [PDF](https://doi.org/10.1101/2025.02.07.25321871) | N/A | Predicting 30 Days Hospital Readmission for Heart Failure patients using word embeddings |
+| 在基于代理的模型中模拟癌症治疗：以肝母细胞瘤为例 | Ravoni, A. | [PDF](https://doi.org/10.1101/2025.02.07.25321671) | N/A | Mimicking cancer therapy in an agent-based model: the case of hepatoblastoma |
+| 事先授权要求的变化与标准化 | Zaari Jabri, A. | [PDF](https://doi.org/10.1101/2025.02.07.25321895) | N/A | Variation and Standardization in Prior Authorization Requirements |
+| 将这段翻译成中文：预测气候变化对东非裂谷热疫情间风险的影响 | Eskew, E. A. | [PDF](https://doi.org/10.1101/2025.02.08.25321747) | N/A | Projecting climate change impacts on inter-epidemic risk of Rift Valley fever across East Africa |
+| 优化心脏扩散张量成像在体应用：更多方向还是更多平均？ | Coveney, S. | [PDF](https://doi.org/10.1101/2025.02.08.25321885) | N/A | Optimising Cardiac Diffusion Tensor Imaging In Vivo: More Directions or Averages? |
+| T1D GRS：一种用于识别单基因糖尿病儿童和青少年的工具 | Dobiasova, Z. | [PDF](https://doi.org/10.1101/2025.02.07.25320954) | N/A | T1D GRS: a tool for identifying children and adolescents with monogenic diabetes |
+| 通过图论分析和遗传序列数据流的数据挖掘，估计SARS-CoV-2谱系的传播速率。 | Goldberg, E. E. | [PDF](https://doi.org/10.1101/2025.02.07.25321892) | N/A | Estimating rates of SARS-CoV-2 lineage spread from graph theory analysis and data mining of genetic sequence data streams |
+| 性与呼吸系统健康结果在英国：多项纵向研究中的差异、发展及中介因素 | Tabor, E. | [PDF](https://doi.org/10.1101/2025.02.07.25321888) | N/A | Sexuality and respiratory outcomes in the UK: disparities, development and mediators in multiple longitudinal studies |
+| 年轻人常见心理健康问题的早期干预方法：系统综述 | Appleton, R. | [PDF](https://doi.org/10.1101/2025.02.07.25321864) | N/A | Approaches to early intervention for common mental health problems in young people: a systematic review |
+| 人与人之间的微生物群传播可能影响新婚夫妇的抑郁和焦虑：六个月中期结果 | Rastmanesh, R. | [PDF](https://doi.org/10.1101/2025.02.07.25321564) | N/A | Person-to-Person Microbiota Transmission Can Influence Depression and Anxiety in Newly Married Couples: Six-Month Interim Results |
+| 强迫症中的性别与性别差异：一项范围综述 | Van Zandt, M. A. | [PDF](https://doi.org/10.1101/2025.02.08.25321933) | N/A | Sex and gender differences in OCD: A scoping review |
+| 腹侧被盖区作为双相情感障碍的核心病理生理枢纽：来自静息态功能磁共振成像的证据 | Lee, T.-W. | [PDF](https://doi.org/10.1101/2025.02.08.25321931) | N/A | Ventral Tegmental Area as the Core Pathophysiological Hub in Bipolar Disorder: Evidence from Resting-State fMRI |
+| COVID-19与健康和疾病结果的因果关联：系统综述与荟萃分析 | Gao, L. | [PDF](https://doi.org/10.1101/2025.02.07.25321697) | N/A | Causal associations of COVID-19 with health and disease outcomes: a systematic review and meta-analysis |
+| 初步尝试使用物理约束的深度神经网络来协调多站点和多扫描仪的MRI数据集（PhyCHarm） | Lee, G. | [PDF](https://doi.org/10.1101/2025.02.07.25321867) | N/A | A preliminary attempt to harmonize using physics-constrained deep neural networks for multisite and multiscanner MRI datasets (PhyCHarm) |
+| 全蛋白质组孟德尔随机化分析以识别肺功能和呼吸系统疾病的潜在治疗靶点 | Chen, J. | [PDF](https://doi.org/10.1101/2025.02.07.25321860) | N/A | Proteome-wide Mendelian randomization analyses to identify potential therapeutic targets for lung function and respiratory disease |
+| 1990年至2021年全球、区域和国家慢性肾脏病相关心力衰竭的负担：基于2021年全球疾病负担研究数据的分析 | Ji, J. | [PDF](https://doi.org/10.1101/2025.02.08.25321930) | N/A | Global, regional, and national burden of chronic kidney disease-related heart failure from 1990 to 2021: an analysis of data from the Global Burden of Disease Study 2021 |
+| 1990年至2021年全球、区域和国家因低体力活动导致的慢性肾脏疾病负担：2021年全球疾病负担研究分析 | Ji, J. | [PDF](https://doi.org/10.1101/2025.02.08.25321935) | N/A | Global, regional, and national burden of chronic kidney disease attributable to low physical activity from 1990 to 2021: an analysis of the Global Burden of Disease Study 2021 |
+| 新生儿深部髓静脉血栓的影像学严重程度与神经发育障碍相关 | Pal, R. | [PDF](https://doi.org/10.1101/2025.02.07.25321901) | N/A | Neonatal deep medullary venous thrombosis radiographic severity is associated with neurodevelopmental impairment |
+| COVID-19大流行及其多波疫情期间，食物不安全对婴儿喂养信心和实践的影响 | Hussain, M. | [PDF](https://doi.org/10.1101/2025.02.07.25321881) | N/A | Effects of food insecurity on infant feeding confidence and practices during the COVID-19 pandemic and its waves |
+| 全球跨13种癌症类型的血清miRNA分类器：基于46,349例临床样本的分析 | Krishnamoorthy, P. | [PDF](https://doi.org/10.1101/2025.02.07.25321821) | N/A | Global Pan-cancer serum miRNA classifier across 13 cancer types: Analysis of 46,349 clinical samples |
+| 肌层浸润性膀胱癌新辅助治疗反应的空间生物标志物：DUTRENEO试验 | Grande, E. | [PDF](https://doi.org/10.1101/2025.02.07.25321742) | N/A | Spatial biomarkers of response to neoadjuvant therapy in muscle-invasive bladder cancer: the DUTRENEO trial |
+| 以下是这段文字的中文翻译：
+
+**加拿大安大略省SARS-CoV-2病毒活动水平的汇总数据，采用美国CDC废水病毒活动水平（WVAL）指标进行测量**
+
+翻译说明：
+- **SARS-CoV-2**：新冠病毒的学名，通常不翻译。
+- **Aggregated Activity Level**：汇总的活动水平。
+- **Ontario Canada**：加拿大安大略省。
+- **US CDC**：美国疾病控制与预防中心。
+- **Wastewater Viral Activity Level (WVAL)**：废水病毒活动水平（WVAL），是一种通过监测废水中病毒浓度来评估社区病毒传播情况的指标。
+
+希望这段翻译对你有帮助！ | Delatolla, R. | [PDF](https://doi.org/10.1101/2025.02.07.25321887) | N/A | SARS-CoV-2 Aggregated Activity Level Across Ontario Canada, Measured with the US CDC Wastewater Viral Activity Level (WVAL) Metric |
+| 拉各斯野味价值链中的卫生知识与实践：文化影响、监管缺失与基础设施需求。 | AKPAN, S. N. | [PDF](https://doi.org/10.1101/2025.02.08.25321724) | N/A | Hygiene Knowledge and Practices in the Lagos Wild Meat Value Chain: Cultural Influences, Regulatory Gaps, and Infrastructure Needs. |
+| 急性大血管闭塞伴轻度卒中的医疗和血管内治疗：一项真实世界的全国性注册研究 | Yi, T.-Y. | [PDF](https://doi.org/10.1101/2025.02.05.25321767) | N/A | Medical and Endovascular Treatment for Acute Large Vessel Occlusion with Mild Stroke: A Real-World Nationwide Registry |
+| PH-LLM：用于信息监测的公共卫生大型语言模型 | Zhou, X. | [PDF](https://doi.org/10.1101/2025.02.08.25321587) | N/A | PH-LLM: Public Health Large Language Models for Infoveillance |
+| 巨噬细胞铁死亡加剧GCN2缺乏诱导的肺静脉动脉化 | Zhang, J. | [PDF](https://doi.org/10.1101/2025.02.08.24318691) | N/A | Macrophage ferroptosis potentiates GCN2 deficiency induced pulmonary venous arterialization |
+| 糖尿病酮症酸中毒患者中急性胰腺炎的危险因素：一家三级医疗中心11年的经验及综合文献回顾 | Chen, Y. | [PDF](https://doi.org/10.1101/2025.02.05.25321763) | N/A | Risk Factors Associated with Acute Pancreatitis in Diabetic Ketoacidosis Patients: a 11-year experience in a single tertiary medical center and comprehensive literature review |
+| 回顾性研究：从医疗支持角度探讨市民马拉松的安全管理 | Ogawa, F. | [PDF](https://doi.org/10.1101/2025.02.05.25321727) | N/A | Retrospective Study for Safer Management for Citizen Marathon: A Medical Support Perspective |
+| 速度的需求：前线医院微生物实验室中的超快速高分辨率疫情分析 | Bloomfield, M. | [PDF](https://doi.org/10.1101/2025.02.04.25321496) | N/A | The need for speed: ultra-rapid high-resolution outbreak analysis in a front-line hospital microbiology laboratory |
+| 基于深度学习的遗传性胸主动脉疾病前足形态表型分析 | Pizzagalli, D. U. | [PDF](https://doi.org/10.1101/2025.02.06.25321829) | N/A | DEEP LEARNING-BASED PHENOTYPING OF FOREFOOT MORPHOLOGY IN HEREDITARY THORACIC AORTIC DISEASES |
+| 生成机器学习衍生的癌症脆弱性指标以确定癌症结果的空间负担 | Kou, K. | [PDF](https://doi.org/10.1101/2025.02.06.25321783) | N/A | Generation of machine-learning derived Cancer Vulnerability Indicator to determine the spatial burden of cancer outcomes |
+| 更新网络Meta分析的PRISMA报告指南：范围综述 | Veroniki, A.-A. | [PDF](https://doi.org/10.1101/2025.02.06.25321746) | N/A | Updating the PRISMA reporting guideline for network meta-analysis: a scoping review |
+| 迈向自动化胎儿脑部生物测量报告：针对20至40周孕龄范围内的3维T2加权0.55-3T磁共振成像 | Luis, A. | [PDF](https://doi.org/10.1101/2025.02.06.25321808) | N/A | Towards automated fetal brain biometry reporting for 3-dimensional T2-weighted 0.55-3T magnetic resonance imaging at 20-40 weeks gestational age range |
+| 上肢等长训练（ULIT）对前交叉韧带重建术后早期患者腘绳肌力量的影响：一项随机对照试验的研究方案 | Muhamad Hendri, E. N. | [PDF](https://doi.org/10.1101/2025.02.09.25321959) | N/A | Effect of upper limb isometric training (ULIT) on hamstring strength in early postoperative anterior cruciate ligament reconstruction patients: study protocol for a randomized controlled trial |
+| 长读长测序技术解决了临床相关的CYP21A2基因位点问题，支持了一种新的先天性肾上腺增生症的临床检测方法。 | Monlong, J. | [PDF](https://doi.org/10.1101/2025.02.07.25321404) | N/A | Long-read sequencing resolves the clinically relevant CYP21A2 locus, supporting a new clinical test for Congenital Adrenal Hyperplasia |
+| 通过贝叶斯网络揭示伴有和不伴有纤维肌痛的慢性疲劳综合征中的睡眠失调 | Bechny, M. | [PDF](https://doi.org/10.1101/2025.02.06.25321788) | N/A | Unveiling Sleep Dysregulation in Chronic Fatigue Syndrome with and without Fibromyalgia Through Bayesian Networks |
+| DeepSeek-R1 在美国医师执照考试（USMLE）上的表现如何？ | Faray de Paiva, L. | [PDF](https://doi.org/10.1101/2025.02.06.25321749) | N/A | How does DeepSeek-R1 perform on USMLE? |
+| 利用剩余血液样本进行疫苗可预防疾病血清流行率研究：范围综述 | Pilewskie, M. | [PDF](https://doi.org/10.1101/2025.02.10.25321868) | N/A | The Use of Residual Blood Specimens in Seroprevalence Studies for Vaccine Preventable Diseases: A scoping review |
 # MedRxiv 2025-02-09 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
