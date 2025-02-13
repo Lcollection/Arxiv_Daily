@@ -1,3 +1,18 @@
+# MedRxiv 2025-02-11 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| CONORM：面向药物不良事件检测的上下文感知实体规范化 | Yazdani, A. | [PDF](https://doi.org/10.1101/2023.09.26.23296150) | N/A | CONORM: Context-Aware Entity Normalization for Adverse Drug Event Detection |
+| 在疫情背景下优化远程办公：对比传染病与非传染病的视角 | Moutet, L. | [PDF](https://doi.org/10.1101/2024.07.18.24310632) | N/A | Optimizing telework in an epidemic context: contrasting the infectious and non-communicable diseases perspectives |
+| 通过保形化分位数回归进行表观遗传时钟的不确定性量化 | Li, Y. | [PDF](https://doi.org/10.1101/2024.09.06.24313192) | N/A | Uncertainty quantification in epigenetic clocks via conformalized quantile regression |
+| 非洲裔美国成年人BMI的全表观基因组关联研究荟萃分析 | Ferrier, K. R. | [PDF](https://doi.org/10.1101/2025.01.15.25320607) | N/A | Epigenome-wide association study meta-analysis of BMI in African American Adults |
+| 撤回：自闭症谱系亚型中脑耦合模式的独特占据 | Miguel, V. | [PDF](https://doi.org/10.1101/2025.01.29.25321316) | N/A | WITHDRAWN: Distinctive Occupancy of Brain Coupling Modes across Autism spectrum subtypes |
+| 怀孕会降低新冠疫苗对新变种的免疫力 | Parish, M. A. | [PDF](https://doi.org/10.1101/2025.01.29.25321357) | N/A | Pregnancy Reduces COVID-19 Vaccine Immunity Against Novel Variants |
+| 2022年法属圭亚那手工金矿工人中铅中毒的流行情况 | Douine, M. | [PDF](https://doi.org/10.1101/2025.01.31.25321474) | N/A | Prevalence of lead poisoning among artisanal gold miners in French Guiana in 2022 |
+| 远程医疗使用与后续30天医疗保险支出之间的关联 | Ellimoottil, C. | [PDF](https://doi.org/10.1101/2025.01.31.25321423) | N/A | Association Between Telehealth Use and Downstream 30-Day Medicare Spending |
+| 基于声明的急性缺血性卒中改良Rankin量表机器学习分类器 | Habib, M. | [PDF](https://doi.org/10.1101/2025.02.06.25321827) | N/A | A Claims-Based Machine Learning Classifier of Modified Rankin Scale in Acute Ischemic Stroke |
+| LPS诱导的全身性炎症期间的性别二态性 | Jansen, A. | [PDF](https://doi.org/10.1101/2025.02.04.25321661) | N/A | Sexual dimorphism during LPS-induced systemic inflammation |
+| 幸存的运动神经元使控制机器人第六指成为可能，用于四肢瘫痪患者的辅助抓握 | Souza de Oliveira, D. | [PDF](https://doi.org/10.1101/2025.02.07.25321673) | N/A | Spared Motor Neurons Enable the Control of a Robotic Sixth-Finger for Assistive Grasping in Tetraplegia |
 # MedRxiv 2025-02-10 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
