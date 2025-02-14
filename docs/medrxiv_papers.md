@@ -1,3 +1,99 @@
+# MedRxiv 2025-02-12 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 使用贝叶斯多准则增强决策分析进行临床开发的医疗产品效益-风险评估 | Vuong, Q. | [PDF](https://doi.org/10.1101/2023.08.31.23294918) | N/A | Benefit-Risk Assessment of Medical Products Using Bayesian Multi-Criteria Augmented Decision Analysis for Clinical Development |
+| 跑步加速度与腰椎间盘的T2磁共振成像值相关。 | Hakkaku, T. | [PDF](https://doi.org/10.1101/2024.05.30.24308204) | N/A | Running acceleration correlates with T2 magnetic resonance imaging values of the lumber intervertebral disc |
+| 在越南河内的一项HIV暴露前预防计划中，对沙眼衣原体和淋病奈瑟菌感染的常规检测：对低收入和中等收入国家的启示 | Adamson, P. C. | [PDF](https://doi.org/10.1101/2024.08.30.24312811) | N/A | Routine Testing for Chlamydia trachomatis and Neisseria gonorrhoeae Infections within an HIV Pre-Exposure Prophylaxis Program in Hanoi, Vietnam: Implications for Low- and Middle-Income Countries |
+| 慢性肾病前期——连续肌酐检测显示肾小球滤过率下降至60毫升/分钟以上。 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.17.24313678) | N/A | Pre-chronic kidney disease -- Serial creatinine tracks glomerular filtration rate decline above 60 mL/min |
+| 重新分析的APOL1肾脏数据支持新的“种族”伦理 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.15.24313684) | N/A | Re-analyzed APOL1 kidney data support new ethics of 'race' |
+| 研究阿尔茨海默型轻度认知障碍中的氧化应激-脑血管损伤轴 | Detcheverry, F. E. | [PDF](https://doi.org/10.1101/2024.09.24.24313962) | N/A | Investigating the oxidative stress-vascular brain injury axis in mild cognitive impairment of the Alzheimer type |
+| 通过CSF-BAM方法，利用脑脊液的基因组和免疫细胞特征检测人类脑癌 | Pearlman, A. H. | [PDF](https://doi.org/10.1101/2024.12.02.24318303) | N/A | Detection of human brain cancers using genomic and immune cell characterization of cerebrospinal fluid through CSF-BAM |
+| 开发和验证使用易获取临床数据的多变量预测模型用于预测糖尿病前期和糖尿病 | Hutchison, A. L. | [PDF](https://doi.org/10.1101/2025.02.10.25321897) | N/A | Development and validation of a multivariable Prediction Model for Pre-diabetes and Diabetes using Easily Obtainable Clinical Data |
+| 大型语言模型辅助的因果机器学习用于识别2型糖尿病中与疲劳相关的糖化血红蛋白不良情况 | Sufriyana, H. | [PDF](https://doi.org/10.1101/2025.02.10.25321977) | N/A | Large language model-assisted causal machine learning for identifying fatigue-related poor glycated hemoglobin in type 2 diabetes |
+| 英国生物库中痴呆症和帕金森病相关皮层下区域脑铁沉积的预测因素：遗传和观察分析 | Casanova, F. | [PDF](https://doi.org/10.1101/2025.02.11.25321877) | N/A | Predictors of brain iron deposition in dementia and Parkinson's disease-associated subcortical regions: genetic and observational analysis in UK Biobank |
+| 对婴儿心脏手术后使用类固醇以减少全身炎症反应（STRESS）试验的贝叶斯再分析 | Hill, K. D. | [PDF](https://doi.org/10.1101/2025.02.10.25322035) | N/A | A Bayesian Re-analysis of the Steroids to Reduce Systemic Inflammation after Infant Heart Surgery (STRESS) Trial |
+| 恢复STAR*D：使用患者层面数据对SSRI治疗失败后的药物转换疗法进行重新分析，忠实于原始STAR*D研究方案 | Xu, C. | [PDF](https://doi.org/10.1101/2025.02.10.25321991) | N/A | Restoring STAR*D: A Reanalysis of Drug-Switch Therapy After Failed SSRI Treatment Using Patient-Level Data with Fidelity to the Original STAR*D Research Protocol |
+| 经颅磁刺激（TMS）治疗抑郁症的神经解剖学通路 | Seguin, C. | [PDF](https://doi.org/10.1101/2025.02.10.25322034) | N/A | Neuroanatomical pathways of TMS therapy for depression |
+| 以下是“Unique neural signatures of childhood sexual abuse revisited”的中文翻译：
+
+**重新审视童年性虐待的独特神经特征**
+
+这个标题表明研究或文章将重新探讨童年性虐待对大脑神经活动的独特影响，可能涉及新的研究发现或对已有研究的重新分析。 | Brosch, K. | [PDF](https://doi.org/10.1101/2025.02.10.25322009) | N/A | Unique neural signatures of childhood sexual abuse revisited |
+| 关注哨点监测网络中的差距：巴西土著地区分析 | Oliveira, J. F. | [PDF](https://doi.org/10.1101/2025.02.10.25321997) | N/A | Minding the Gap in Sentinel Surveillance Networks: An Analysis of Brazilian Indigenous Areas |
+| 支持在低收入和中等收入环境中实施骨关节炎管理计划：了解马拉维临床医生培训成果及计划实施中的障碍与促进因素
+
+这段翻译主要涉及在低收入和中等收入国家（如马拉维）实施骨关节炎管理计划的支持工作，重点在于理解临床医生的培训成果，以及这些计划在实施过程中遇到的障碍和促进因素。 | Mkumbuzi, N. | [PDF](https://doi.org/10.1101/2025.02.07.25321791) | N/A | Supporting the implementation of Osteoarthritis Management Programs in low-and middle-income settings: Understanding clinician training outcomes alongside perceived program barriers and facilitators in Malawi |
+| 基于时空信息图像解读的脑电信号自动分类 | Oxenberg, O. | [PDF](https://doi.org/10.1101/2025.02.10.25322019) | N/A | Automatic classification of eeg signals, based on image interpretation of spatio-temporal information |
+| 基于时空信息图像解读的脑电信号自动分类 | Oxenberg, O. | [PDF](https://doi.org/10.1101/2025.02.10.25322019) | N/A | Automatic classification of eeg signals, based on image interpretation of spatio-temporal information |
+| 认知行为疗法在老年人镇静催眠药物戒断期间对睡眠和认知的影响。 | Barbaux, L. | [PDF](https://doi.org/10.1101/2025.02.10.25322010) | N/A | Effects of cognitive-behavioral therapy for insomnia during sedative- hypnotics withdrawal on sleep and cognition in older adults. |
+| 英国生物库中的葡萄糖、胰岛素与大脑健康：一项孟德尔随机化研究 | Garfield, V. | [PDF](https://doi.org/10.1101/2025.02.10.25321985) | N/A | Glucose, insulin, and brain health in the UK Biobank: A Mendelian randomisation study |
+| 肺康复治疗结束后进行歌唱以促进肺部健康——一项随机对照试验的可行性研究。 | Lewis, A. | [PDF](https://doi.org/10.1101/2025.02.10.25321748) | N/A | Singing for lung health following completion of pulmonary rehabilitation - feasibility of a randomised controlled trial. |
+| 齿状核深部脑刺激治疗脊髓小脑性共济失调：六个月随访结果 | Zhao, L. | [PDF](https://doi.org/10.1101/2025.02.10.25321730) | N/A | Dentate nucleus deep brain stimulation for spinocerebellar ataxia: results of a six-month follow-up |
+| DeepSpot: 利用空间上下文从H&E图像中增强空间转录组学预测 | Nonchev, K. | [PDF](https://doi.org/10.1101/2025.02.09.25321567) | N/A | DeepSpot: Leveraging Spatial Context for Enhanced Spatial Transcriptomics Prediction from H&E Images |
+| 多重qPCR用于区分猴痘病毒株系 | Williams, C. T. | [PDF](https://doi.org/10.1101/2025.02.07.25321854) | N/A | A Multiplex qPCR to Differentiate Monkeypox Virus Clades |
+| 全基因组关联研究：急性呼吸窘迫综合征易感性分析 | Guillen-Guio, B. | [PDF](https://doi.org/10.1101/2025.02.11.25322045) | N/A | Genome-wide association study of susceptibility to acute respiratory distress syndrome |
+| 整合多组学框架用于长新冠因果基因发现 | Le, T. D. | [PDF](https://doi.org/10.1101/2025.02.09.25321751) | N/A | Integrative Multi-Omics Framework for Causal Gene Discovery in Long COVID |
+| 重新审视沉默变异揭示SGCA在非典型心肌病中的作用 | Horowitz-Cederboim, S. | [PDF](https://doi.org/10.1101/2025.02.10.25320701) | N/A | Reconsidering Silent Variant Unveils SGCA's Role in Atypical Cardiomyopathy |
+| 利用大规模生物样本库进行治疗靶点发现 | Ferolito, B. R. | [PDF](https://doi.org/10.1101/2025.02.10.25321487) | N/A | Leveraging Large-Scale Biobanks for Therapeutic Target Discovery |
+| 肯尼亚沿海农村地区高血压服务的可及性与求医体验：一项质性研究 | Oyando, R. | [PDF](https://doi.org/10.1101/2025.02.10.25321754) | N/A | Access to hypertension services and health-seeking experiences in rural Coastal Kenya: A qualitative study |
+| 以下是这段文字的中文翻译：
+
+**数据驱动的见解：去罪化后阿片类药物使用与健康行为趋势——零样本情感与行为分析**
+
+这个标题指的是一项研究，旨在通过数据分析探讨阿片类药物去罪化后的使用情况和健康行为趋势，并采用零样本学习方法进行情感和行为分析。 | Harfi Moridani, S. | [PDF](https://doi.org/10.1101/2025.02.09.25321976) | N/A | Data-Driven Insights on Opioid Use and Health Behavior Trends Following Decriminalization: Zero-Shot Sentiment and Behavior Analysis |
+| FedWeight：通过患者权重调整缓解联邦学习在电子健康记录数据上的协变量偏移问题 | Zhu, H. | [PDF](https://doi.org/10.1101/2025.02.10.25322018) | N/A | FedWeight: Mitigating Covariate Shift of Federated Learning on Electronic Health Records Data through Patients Re-weighting |
+| 探索大型语言模型隐藏状态中的药物不良反应知识 | Berkowitz, J. S. | [PDF](https://doi.org/10.1101/2025.02.09.25321620) | N/A | Probing Large Language Model Hidden States for Adverse Drug Reaction Knowledge |
+| 对137种药物成分在人口层面的真实世界健康数据中进行药物依从性决定因素的系统评估 | Mooses, K. | [PDF](https://doi.org/10.1101/2025.02.10.25319884) | N/A | Systematic evaluation of medication adherence determinants across 137 ingredients on population-level real-world health data |
+| 使用主成分树集成进行层次聚类以实现可解释的患者分层 | Pfeifer, B. | [PDF](https://doi.org/10.1101/2025.02.10.25321980) | N/A | Hierarchical Clustering with an Ensemble of Principle Component Trees for Interpretable Patient Stratification |
+| 表型分析青少年子宫内膜异位症：通过病历和患者层面的聚类分析症状异质性 | Cohen, R. M. | [PDF](https://doi.org/10.1101/2025.02.10.25321215) | N/A | Phenotyping Adolescent Endometriosis: Characterizing Symptom Heterogeneity Through Note- and Patient-Level Clustering |
+| 全球外科指标的全球现状：范围界定审查方案 | Hyman, G. Y. | [PDF](https://doi.org/10.1101/2025.02.10.25321873) | N/A | The Global Status of Global Surgery Indicators: A Scoping Review Protocol |
+| 评估在线教育资源对成骨不全症的适用性：来自谷歌、必应和ChatGPT3.5的见解 | Partin, V. P. | [PDF](https://doi.org/10.1101/2025.02.09.25321967) | N/A | Evaluating Online Educational Resources for Osteogenesis Imperfecta: Insights from Google, Bing, and ChatGPT3.5 |
+| 免疫印记与疫苗接种间隔是XBB.1.5单价疫苗免疫原性的基础。 | Wrynla, X. H. | [PDF](https://doi.org/10.1101/2025.02.09.25321965) | N/A | Immune imprinting and vaccination interval underly XBB.1.5 monovalent vaccine immunogenicity |
+| 柬埔寨啮齿动物携带病毒的负担及人类人畜共患病的风险：一项描述性和观察性研究 | Guillebaud, J. | [PDF](https://doi.org/10.1101/2025.02.09.25321973) | N/A | Burden of rodent-borne viruses in rodents and zoonotic risk in human in Cambodia: a descriptive and observational study |
+| 空间分辨的动脉粥样硬化颈动脉疾病的蛋白质组学特征 | Sinha, A. | [PDF](https://doi.org/10.1101/2025.02.09.25321955) | N/A | Spatially resolved proteomic signatures of atherosclerotic carotid artery disease |
+| 心血管肾脏代谢综合征中的骨质疏松症患病率：对死亡率的影响
+
+这段翻译成中文的意思是：在心血管肾脏代谢综合征（Cardiovascular Kidney Metabolic Syndrome）中，骨质疏松症的患病率及其对死亡率的影响。 | Xiao, X. | [PDF](https://doi.org/10.1101/2025.02.10.25322036) | N/A | Osteoporosis Prevalence in Cardiovascular Kidney Metabolic Syndrome: Implications for Mortality |
+| 无袖带光电容积描记设备用于连续监测血压 | Hellou, E. | [PDF](https://doi.org/10.1101/2025.02.08.25321920) | N/A | Cuffless Photoplethysmography Device for Continuous Monitoring of Blood Pressure |
+| 中国2型糖尿病患者中已确诊或高风险动脉粥样硬化性心血管疾病的循证心血管预防治疗使用情况：一项回顾性队列研究 | Tian, J.-Q. | [PDF](https://doi.org/10.1101/2025.02.10.25321971) | N/A | Use of evidence-based cardiovascular preventive therapies in type 2 diabetes patients with established or high risk of atherosclerotic cardiovascular disease in China: A retrospective cohort study |
+| 深度学习衍生的脂肪细胞大小揭示脂肪细胞肥大受遗传控制 | Jorsboe, E. | [PDF](https://doi.org/10.1101/2025.02.11.25322053) | N/A | Deep Learning Derived Adipocyte Size Reveals Adipocyte Hypertrophy is under Genetic Control |
+| 人口选择标准对电子健康记录研究中模型估计和数据缺失的影响 | Pritchard, E. E. | [PDF](https://doi.org/10.1101/2025.02.10.25321999) | N/A | The effect of population selection criteria on model estimates and data missingness in electronic health record studies |
+| 药物核对对慢性肾病患者住院期间差异及全因再入院的影响：一项准实验研究 | Altawalbeh, S. M. | [PDF](https://doi.org/10.1101/2025.02.10.25321029) | N/A | The impact of medication reconciliation on discrepancies and all-cause readmission among hospitalized patients with chronic kidney disease: A quasi-experimental study |
+| 探索埃塞俄比亚、肯尼亚和马拉维地区腹泻的社会决定因素、轮状病毒疫苗接种率及疫苗“疲劳”现象 | Phiri, M. M. | [PDF](https://doi.org/10.1101/2025.02.07.25321869) | N/A | Exploration of the Social Determinants of Diarrhoea, Rotavirus Vaccine Uptake, and Vaccine 'Fatigue in Ethiopia, Kenya, and Malawi |
+| 数据驱动的脑性瘫痪早期预测：利用自动机器学习和可解释的运动学特征 | Segado, M. | [PDF](https://doi.org/10.1101/2025.02.10.25322007) | N/A | Data-Driven Early Prediction of Cerebral Palsy Using AutoML and interpretable kinematic features |
+| 整合自然语言处理技术评估孤独和社交隔离对痴呆症认知衰退的影响：一项回顾性队列分析 | Myers, J. A. C. | [PDF](https://doi.org/10.1101/2025.02.10.25321986) | N/A | Integrating Natural Language Processing to Assess the Effect of Loneliness and Social isolation on Cognitive Decline in Dementia: A Retrospective Cohort Analysis |
+| 揭示焦虑遗传结构中的性别差异：一项基于英国生物银行的基因组关联研究 | Hu, J. | [PDF](https://doi.org/10.1101/2025.02.09.25321968) | N/A | Unravelling Sex Differences in the Genetic Architecture of Anxiety: A Genome-Wide Association Study in the UK Biobank |
+| 维生素D缺乏与青少年和年轻成年人的抑郁发作：系统综述与荟萃分析 | Nano, J. P. | [PDF](https://doi.org/10.1101/2025.02.11.25321917) | N/A | Vitamin D deficiency and depressive episodes in adolescents and young adults: systematic review and meta-analysis |
+| 利用深度学习增强脑部疾病的磁共振成像（MRI）技术 | Dai, Y. | [PDF](https://doi.org/10.1101/2025.02.10.25321126) | N/A | Leveraging Deep Learning to Enhance MRI for Brain Disorders |
+| 喀麦隆雅温得两家医疗机构就诊的疟疾-伤寒感染患者的血清学证据及与肝损伤相关的因素 | Essam, M. Y. N. | [PDF](https://doi.org/10.1101/2025.02.08.25321906) | N/A | Serological evidence and factors associated to liver damage in malaria-typhoid infected patients consulting in two health facilities, Yaounde-Cameroon |
+| 在布基纳法索、马拉维和刚果民主共和国通过移动电话调查测量成人死亡率 | Dianou, K. | [PDF](https://doi.org/10.1101/2025.02.07.25321855) | N/A | Measuring adult mortality from mobile phone surveys in Burkina Faso, Malawi and the Democratic Republic of the Congo |
+| 英国布里斯托尔社区获得性下呼吸道疾病急诊科就诊情况：2022-2023年前瞻性队列研究 | Hyams, C. | [PDF](https://doi.org/10.1101/2025.02.10.25321388) | N/A | Emergency department presentations of community-acquired lower respiratory tract disease in Bristol, UK: a prospective cohort study 2022-2023 |
+| 关节炎患者疼痛对功能独立性的不利影响通过抑郁症状和体力活动介导：来自加拿大老龄化纵向研究的证据 | Goubran, M. | [PDF](https://doi.org/10.1101/2025.02.10.25322043) | N/A | Depressive Symptoms and Physical Activity Mediate the Adverse Effect of Pain on Functional Independence in Patients With Arthritis: Evidence From the Canadian Longitudinal Study on Aging |
+| 使用功能混合模型通过无监督学习研究子宫内膜异位症中的身体活动表型 | Tricoche, B. T. | [PDF](https://doi.org/10.1101/2025.02.10.25322020) | N/A | Physical Activity Phenotypes in Endometriosis Using Unsupervised Learning via Functional Mixture Models |
+| 德尔菲法确定全球创伤系统中关键程序的研究方案
+
+本研究旨在通过德尔菲法（Delphi Process）确定全球创伤系统中的关键程序（Bellwether Procedures），并制定相应的研究方案。德尔菲法是一种通过多轮专家咨询达成共识的研究方法，适用于复杂问题的决策和预测。在本研究中，我们将邀请全球范围内的创伤系统专家参与多轮咨询，以确定哪些手术或医疗程序在创伤系统中具有代表性、普遍性和重要性，能够作为评估和改进创伤系统质量的指标。研究方案将详细描述德尔菲法的实施步骤、专家选择标准、数据收集与分析方法，以及预期成果。通过这一研究，我们希望能够为全球创伤系统的标准化和优化提供科学依据。 | Bath, M. F. | [PDF](https://doi.org/10.1101/2025.02.11.25322065) | N/A | A Delphi Process to Determine the Bellwether Procedures for Trauma Systems Globally: A Study Protocol |
+| 2018年分配政策变更后，体外膜肺氧合在心脏移植中使用的区域异质性 | Schumer, E. | [PDF](https://doi.org/10.1101/2025.02.07.25321902) | N/A | Regional heterogeneity in the use of extracorporeal membrane oxygenation for heart transplant after 2018 allocation policy change |
+| 人工智能在医疗保健中应用的伦理和社会考量：一项双管齐下的范围审查 | Morrison, M. | [PDF](https://doi.org/10.1101/2025.02.10.25321994) | N/A | Ethical and Social Considerations of Applying Artificial Intelligence in Healthcare; a Two-Pronged Scoping Review |
+| 多发性硬化症（复发-缓解型）功能与认知衰退的多模态预测因素 | Korbmacher, M. | [PDF](https://doi.org/10.1101/2025.02.09.25321961) | N/A | Multimodal predictors of functional and cognitive decline in relapsing-remitting multiple sclerosis |
+| 帕金森病中的慢性疼痛：患病率、性别差异、区域解剖学及多重共病 | Ogonowski, N. S. | [PDF](https://doi.org/10.1101/2025.02.09.25321969) | N/A | Chronic Pain in Parkinson's Disease: Prevalence, Sex Differences, Regional Anatomy & Multiple Comorbidities |
+| 无症状焊工中的微小RNA表达：对环境相关神经退行性疾病生物标志物发现的启示 | Bargues-Carot, A. | [PDF](https://doi.org/10.1101/2025.02.10.25322027) | N/A | MicroRNA Expression in Asymptomatic Welders: Implications for Biomarker Discovery for Environmentally-Linked Neurodegenerative Disorders |
+| DeepSeek-R1在眼科领域的表现：临床决策与成本效益评估 | Mikhail, D. | [PDF](https://doi.org/10.1101/2025.02.10.25322041) | N/A | Performance of DeepSeek-R1 in Ophthalmology: An Evaluation of Clinical Decision-Making and Cost-Effectiveness |
+| 人类遗传学研究表明，从抑制HMGCR（羟甲基戊二酰辅酶A还原酶）到冠状动脉疾病和2型糖尿病之间存在不同的因果途径。 | Hwang, S. | [PDF](https://doi.org/10.1101/2025.02.10.25321990) | N/A | Human genetics suggests differing causal pathways from HMGCR inhibition to coronary artery disease and type 2 diabetes |
+| 多组学分析揭示红细胞中影响地中海贫血严重程度的分子途径，超越珠蛋白基因突变 | Mitra, N. | [PDF](https://doi.org/10.1101/2025.02.09.25321939) | N/A | Multi-Omics Analysis of Red Blood Cells Reveals Molecular Pathways Underlying Thalassemia Severity Beyond Globin Gene Mutations |
+| 非综合征性口面部裂的甲基化定量位点分析 | Machado-Paula, L. A. | [PDF](https://doi.org/10.1101/2025.02.09.25321494) | N/A | Methylation quantitative loci analysis in nonsyndromic orofacial clefts |
+| 筛选罕见遗传诊断以评估其是否适合定制反义寡核苷酸疗法开发的可行性：一项回顾性队列研究 | Cheerie, D. | [PDF](https://doi.org/10.1101/2025.02.10.25321921) | N/A | Screening rare genetic diagnoses for amenability to bespoke antisense oligonucleotide therapy development: a retrospective cohort study |
+| BSN基因的变异，该基因编码突触前蛋白Bassoon，导致了一种具有广泛表型范围的新型神经发育障碍。 | Guzman, S. G. | [PDF](https://doi.org/10.1101/2025.02.10.25321755) | N/A | Variants in BSN, encoding the presynaptic protein Bassoon, result in a novel neurodevelopmental disorder with a broad phenotypic range |
+| 慢性盆腔疼痛障碍女性患者自我报告与追踪器估计的体力活动结果：构建效度的纵向评估 | Nagaldinne, T. | [PDF](https://doi.org/10.1101/2025.02.10.25322006) | N/A | Self-reported and tracker-estimated physical activity outcomes in women with chronic pelvic pain disorders: A longitudinal evaluation of construct validity |
+| 利用空气传播病原细菌的Zeta电位进行有效空气净化 | Peketi, A. S. K. | [PDF](https://doi.org/10.1101/2025.02.08.25321938) | N/A | Exploiting Zeta potential of air borne pathogenic bacteria for effective air decontamination |
+| 弥合中低收入国家麻醉数字数据鸿沟：适用于计算机视觉的纸质健康记录 | Naik, B. I. | [PDF](https://doi.org/10.1101/2025.02.09.25321925) | N/A | Bridging the Anesthesia Digital Data Gap in Low-Middle-Income Countries: Computer Vision-Ready Paper Health Records |
+| 健康需求评估：通过简化风险概率量表（SRPS）了解COVID-19前线救援人员的心理风险 | Bo, Y. | [PDF](https://doi.org/10.1101/2025.02.09.25321964) | N/A | Health needs assessment: knowing the psychological risks of frontline rescue workers for COVID-19 by simplified risk probability scale (SRPS) |
+| 面向边缘设备的液态树突脉冲神经网络：一个13万参数、535 KB的时域癫痫发作检测模型 | Herbozo Contreras, L. F. | [PDF](https://doi.org/10.1101/2025.02.09.25321975) | N/A | Liquid-Dendrite Spiking Neural Network for Edge Devices: A 130 K-Parameter, 535 KB Model for Time-Domain Epileptic Seizure Detection |
+| 慢性淋巴细胞白血病患者的身体活动、症状、生活质量及运动项目偏好 | Miles, E. E. | [PDF](https://doi.org/10.1101/2025.02.10.25321744) | N/A | Physical Activity, Symptoms, Quality of Life and Exercise Program Preferences in People with Chronic Lymphocytic Leukemia |
+| 德国版“保持独立问卷”通过电话访谈应用的有效性：一项诊断准确性研究 | Thiem, U. | [PDF](https://doi.org/10.1101/2025.02.09.25321960) | N/A | Validity of the German version of the Stay Independent Questionnaire applied by telephone interview: A diagnostic accuracy study |
+| 肯尼亚夸勒县麻风病患者中麻风分枝杆菌感染的相关因素 | Karani, V. | [PDF](https://doi.org/10.1101/2025.02.10.25321983) | N/A | Associated Factors of Mycobacterium Leprae Infection among People with Leprosy in Kwale County, Kenya |
+| 语言模型是否像医生一样思考？ | McCoy, L. G. | [PDF](https://doi.org/10.1101/2025.02.11.25321822) | N/A | Do Language Models Think Like Doctors? |
 # MedRxiv 2025-02-11 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
