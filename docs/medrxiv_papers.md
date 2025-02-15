@@ -1,3 +1,94 @@
+# MedRxiv 2025-02-14 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 使用提示工程策略从标题和摘要中提取医学信息的大型语言模型：GPT-3.5与GPT-4的比较研究 | Tang, Y. | [PDF](https://doi.org/10.1101/2024.03.20.24304572) | N/A | Large Language Model in Medical Information Extraction from Titles and Abstracts with Prompt Engineering Strategies: A Comparative Study of GPT-3.5 and GPT-4 |
+| 葡萄牙境内大流行期间及大流行后时期（2019-2022年）的精神药物流行病学趋势 | Belchior, D. | [PDF](https://doi.org/10.1101/2024.05.26.24307948) | N/A | Psychopharmacoepidemiological trends in the Portuguese territory during the pandemic and post-pandemic periods (2019-2022) |
+| 大型语言模型在解决医学伦理困境中的对齐问题 | Sorin, V. | [PDF](https://doi.org/10.1101/2024.09.18.24313931) | N/A | Alignment of Large Language Models in Solving Medical Ethical Dilemmas |
+| 阿尔茨海默病的神经病理学与主观认知抱怨的纵向变化 | Bannerjee, A. | [PDF](https://doi.org/10.1101/2024.09.25.24314211) | N/A | Alzheimer's neuropathology and longitudinal change in subjective cognitive complaints |
+| 利用分层结构进行遗传模块交互研究——基于分层Transformer的方法 | Li, S. | [PDF](https://doi.org/10.1101/2024.11.18.24317486) | N/A | Leveraging hierarchical structures for genetic block interaction studies using the hierarchical transformer |
+| 量化远程帕金森病人工智能评估中的设备类型和惯用手偏好 | Tumpa, Z. N. | [PDF](https://doi.org/10.1101/2025.01.03.25319964) | N/A | Quantifying Device Type and Handedness Biases in a Remote Parkinson's Disease AI-Powered Assessment |
+| 可解释的人工智能在基于神经影像的痴呆症诊断和预后中的应用 | Martin, S. A. | [PDF](https://doi.org/10.1101/2025.01.13.25320382) | N/A | Explainable artificial intelligence for neuroimaging-based dementia diagnosis and prognosis |
+| 患者咨询委员会对脓毒症幸存者康复的影响：案例研究 | Sheehan, M. | [PDF](https://doi.org/10.1101/2025.02.06.25321290) | N/A | Impacts of patient advisory councils on recovery for sepsis survivors: a case study |
+| 全球跨13种癌症类型的血清miRNA分类器：基于46,349个临床样本的分析 | Krishnamoorthy, P. | [PDF](https://doi.org/10.1101/2025.02.07.25321821) | N/A | Global Pan-cancer serum miRNA classifier across 13 cancer types: Analysis of 46,349 clinical samples |
+| 使用功能混合模型通过无监督学习研究子宫内膜异位症中的身体活动表型 | Tricoche, B. T. | [PDF](https://doi.org/10.1101/2025.02.10.25322020) | N/A | Physical Activity Phenotypes in Endometriosis Using Unsupervised Learning via Functional Mixture Models |
+| 一位帕金森病患者中发现了一种新型的α-突触核蛋白K58N错义变异。 | Al-Azzani, M. | [PDF](https://doi.org/10.1101/2025.02.07.25321793) | N/A | A novel alpha-synuclein K58N missense variant in a patient with Parkinson's disease |
+| 口服二甲双胍可能加剧糖尿病神经病变：一项双样本孟德尔随机化研究 | Wang, X. | [PDF](https://doi.org/10.1101/2025.02.11.25322054) | N/A | Oral Metformin May Exacerbate Diabetic Neuropathy: A Two-Sample Mendelian Randomization Study |
+| 人工智能在生物医学数据分析中的应用：大型语言模型在自动化临床试验解读与统计评估中的比较研究 | Komandur Elayavilli, R. | [PDF](https://doi.org/10.1101/2025.02.05.25321607) | N/A | Artificial Intelligence in Biomedical Data Analysis: A Comparative Assessment of Large Language Models for Automated Clinical Trial Interpretation and Statistical Evaluation |
+| 特定人群的药代基因组学相关不准确药物剂量风险在ICU患者中的研究 | Rostami, M. R. | [PDF](https://doi.org/10.1101/2025.02.11.25321889) | N/A | Population-specific Risk of Pharmacogenomics-related Inaccurate Drug Dosing of ICU Patients |
+| YeZzzs的研究：利用坎耶·韦斯特推文的数字休息-活动节律研究睡眠与情绪 | Reid, M. J. | [PDF](https://doi.org/10.1101/2025.02.03.25321602) | N/A | YeZzzs Does it: Studying Sleep and Emotion using the Digital Rest-Activity Rhythms of Kanye West's Tweets |
+| 乌干达两家城市医院中6至24个月校正胎龄早产儿的神经发育迟缓及相关因素。 | Nalwoga, J. | [PDF](https://doi.org/10.1101/2025.02.13.25322230) | N/A | Neurodevelopmental Delay and Associated Factors among Preterm Infants Aged 6 to 24 months Adjusted Gestation Age in Two Urban Hospitals in Uganda. |
+| 使用基于生理学的药代动力学模型检查美国和欧洲维生素D指南之间的一致性 | You, T. | [PDF](https://doi.org/10.1101/2025.02.13.25322205) | N/A | Inspecting Consistency Between US and European Vitamin D Guidelines Using Physiologically-Based Pharmacokinetics Modelling |
+| 干预映射：初级水平控制胃肠道感染的多阶段研究 | mahmood, s. | [PDF](https://doi.org/10.1101/2025.02.11.25321909) | N/A | Intervention Mapping: A Multi-Stage Investigation to Control Gastrointestinal Tract Infections at the Primary Level |
+| 下颌骨放射性骨坏死的影像学分类：一项盲法前瞻性多学科观察者间诊断性能研究 | Kaffey, Z. | [PDF](https://doi.org/10.1101/2025.02.11.25322082) | N/A | Radiographic classification of mandibular osteoradionecrosis: A blinded prospective multi-disciplinary interobserver diagnostic performance study |
+| 前循环卒中经血管内取栓治疗的长期限制平均生存时间生存率 | Wellington, D. J. | [PDF](https://doi.org/10.1101/2025.02.12.25322189) | N/A | Long-term restricted mean survival time survival of anterior strokes treated with endovascular thrombectomy |
+| 在一个多样化队列中的小血管疾病和阿尔茨海默病的血浆和神经影像生物标志物：MESA研究 | Lockhart, S. N. | [PDF](https://doi.org/10.1101/2025.02.11.25322109) | N/A | Plasma and neuroimaging biomarkers of small vessel disease and Alzheimer's disease in a diverse cohort: MESA |
+| 新辅助化疗反应与近期分娩的乳腺癌患者的遗传易感性 | Dennis, S. R. | [PDF](https://doi.org/10.1101/2025.02.13.25322229) | N/A | Neoadjuvant chemotherapy response and genetic susceptibility in recently parous women with breast cancer |
+| STHLM3-F/U研究方案：斯德哥尔摩3前列腺癌筛查试验（STHLM3）后对前列腺癌死亡率的长期影响 | Micoli, C. | [PDF](https://doi.org/10.1101/2025.02.13.25320514) | N/A | STHLM3-F/U Study Protocol: Long-Term Effects on Prostate Cancer Mortality after the Stockholm3 Prostate Cancer Screening Trial (STHLM3) |
+| OMKar：基于光学图谱的基因组自动核型分析，用于识别先天性异常 | Raeisi Dehkordi, S. | [PDF](https://doi.org/10.1101/2025.02.13.25322211) | N/A | OMKar: optical map based automated karyotyping of genomes to identify constitutional abnormalities |
+| 整合性全基因组关联研究揭示COVID-19易感性和住院风险的基因位点，为长COVID提供风险线索 | cheng, z. | [PDF](https://doi.org/10.1101/2025.02.13.25322223) | N/A | Integrative Genome-Wide Association Studies of COVID-19 Susceptibility and Hospitalization Reveal Risk Loci for Long COVID |
+| 调节阿尔茨海默病风险的遗传变异会扰乱颞中回中的蛋白质-蛋白质相关性 | Bouland, G. A. | [PDF](https://doi.org/10.1101/2025.02.11.25322052) | N/A | Genetic Variants that Modulate Alzheimer's Disease Risk Deregulate Protein-Protein Correlations in the Gyrus Temporalis Medius |
+| 通过对英国生物银行（UK Biobank）驱动的遗传和身体成像分析，鉴定出新的椎体发育因子，揭示了与背痛相关的标志物。 | Sun, Z. | [PDF](https://doi.org/10.1101/2025.02.13.25322190) | N/A | Identification of novel vertebral development factors through UK Biobank driven genetic and body imaging analysis reveals markers for back pain |
+| 在哥伦比亚人群中进行的三维表型分析揭示了遗传性和罕见疾病中独特的人群和个体发育面部模式 | Andreu-Montoriol, M. | [PDF](https://doi.org/10.1101/2025.02.11.25322000) | N/A | 3D phenotyping in a Colombian population reveals unique population and ontogenic facial patterns in genetic and rare disorders |
+| 来自南亚血统人群的推定乳腺癌风险变异在公共变异分类数据库中的代表性不足。 | Rony, R. | [PDF](https://doi.org/10.1101/2025.02.13.25322245) | N/A | Putative breast cancer risk variants from populations of South Asian ancestry are under-represented in public variant classification databases |
+| 罗马尼亚创新药物延迟获取：报销流程的全面分析（2015-2024） | Radu, C. | [PDF](https://doi.org/10.1101/2025.02.13.25322197) | N/A | Delayed Access to Innovative Medicines in Romania: A Comprehensive Analysis of the Reimbursement Processes (2015-2024) |
+| 开发和心理测量测试EPAT-16：从患者角度出发的简短且有效的以患者为中心的测量工具 | Christalle, E. | [PDF](https://doi.org/10.1101/2025.02.13.25322218) | N/A | Development and psychometric testing of EPAT-16: A short and valid measure for patient-centeredness from the patient's perspective |
+| 在高负担环境下，早期生命血清学特征与自然保护性体液免疫对化脓性链球菌的发展 | Keeley, A. J. | [PDF](https://doi.org/10.1101/2025.02.11.25322090) | N/A | Early life serological profiles and the development of natural protective humoral immunity to Streptococcus pyogenes in a high burden setting |
+| 乌干达北部小学生中血吸虫病和肠道寄生虫感染的流行率、感染强度及风险因素：对公共卫生干预的启示
+
+这段翻译成中文的意思是：在乌干达北部的小学生中，血吸虫病和肠道寄生虫感染的普遍程度、感染强度以及导致感染的风险因素，这些信息对于制定有效的公共卫生干预措施具有重要意义。 | Byagamy, J. P. | [PDF](https://doi.org/10.1101/2025.02.13.25322200) | N/A | Prevalence, intensity, and risk factors of Schistosomiasis and Intestinal Parasitic Infections among primary school children in northern Uganda: Implications for public health interventions |
+| 将免疫相关增强子RNA SATB1-AS1鉴定为胸腺癌预后的新型生物标志物 | Wang, H. | [PDF](https://doi.org/10.1101/2025.02.13.25322204) | N/A | Identification of the immune-associated enhancer RNA SATB1-AS1 as a novel biomarker for thymic cancer prognosis |
+| 评估连续血糖监测（CGM）指标的准确性：缺失数据与插补策略的作用 | Cichosz, S. L. | [PDF](https://doi.org/10.1101/2025.02.13.25322196) | N/A | Assessing the Accuracy of CGM Metrics: The Role of Missing Data and Imputation Strategies |
+| 评估Loon Lens Pro：一种用于系统综述全文筛选的AI驱动工具的验证研究 | Janoudi, G. | [PDF](https://doi.org/10.1101/2025.02.11.25322087) | N/A | Evaluating Loon Lens Pro, an AI-Driven Tool for Full-Text Screening in Systematic Reviews: A Validation Study |
+| 肯尼亚基利菲地区12年间（2009年至2021年）麻疹和风疹免疫球蛋白G的血清流行率及2016年麻疹-风疹（MR）疫苗运动的影响 | Mburu, C. | [PDF](https://doi.org/10.1101/2025.02.11.25322096) | N/A | Seroprevalence of Immunoglobulin G against measles and rubella over a 12-year period (2009 to 2021) in Kilifi, Kenya and the impact of the Measles-Rubella (MR) Vaccine campaign of 2016 |
+| 城市环境中女性对生殖道感染疫苗接种的流行率、风险因素、犹豫态度及态度的横断面调查研究
+
+本研究旨在探讨城市环境中女性对生殖道感染（RTIs）疫苗接种的流行率、相关风险因素、接种犹豫及其态度。通过横断面调查的方法，研究收集了大量女性样本的数据，分析她们对RTIs疫苗接种的接受程度、影响接种决策的因素以及她们对疫苗的态度。研究发现，尽管多数女性认识到RTIs疫苗的重要性，但仍存在一定比例的接种犹豫，主要受到信息不足、对疫苗安全性的担忧以及对疾病严重性认知不足的影响。研究结果强调了加强公众教育、提供准确信息以及改善疫苗可及性对于提高女性接种率的重要性。 | Yadav, S. K. | [PDF](https://doi.org/10.1101/2025.02.13.25322217) | N/A | Prevalence, Risk Factors, Hesitancy, and Attitudes Toward Vaccination Against Reproductive Tract Infections Among Women in an Urban Setting: A Cross-Sectional Survey Study |
+| 在晚期肝硬化中，肠道微生物组相关的肠球菌的病理扩张与肠-肝-免疫轴的多层次紊乱相对应。 | Dalby, M. J. | [PDF](https://doi.org/10.1101/2025.02.13.25322003) | N/A | Pathological expansion of gut microbiome-associated Enterococcus in advanced cirrhosis corresponds with multilevel perturbations of the gut-liver-immune axis |
+| 基于多组学的长寿基因对结直肠癌免疫相关性影响的分析 | huang, c. y. | [PDF](https://doi.org/10.1101/2025.02.13.25322201) | N/A | Multi-omics-based analysis of the effect of longevity genes on the immune relevance of colorectal cancer |
+| 基于WGCNA和LASSO回归的新型结肠腺癌衰老相关LncRNA预后模型 | Huang, Y. y. | [PDF](https://doi.org/10.1101/2025.02.13.25322203) | N/A | A prognostic model for Senescence-related LncRNA in a novel colon adenocarcinoma based on WGCNA and LASSO regression |
+| 标题：慢性早期肥胖与儿童期冲动性相关，通过22q11.2缺失综合征中小脑发育不良的剂量依赖性预测长期精神病病程
+
+内容翻译：
+研究表明，慢性早期肥胖与儿童期的冲动性行为有关，这种关联在22q11.2缺失综合征（一种遗传性疾病）患者中尤为显著。这种早期肥胖和冲动性行为通过剂量依赖性方式影响小脑的发育，进而预测患者长期的精神病病程。小脑发育不良的程度与精神病症状的严重性和病程发展密切相关。 | Sandini, C. | [PDF](https://doi.org/10.1101/2025.02.13.25322209) | N/A | Chronic early-life obesity linked to childhood impulsivity predicts long-term psychosis trajectory through dose-dependent cerebellar dysmaturation in 22q11.2 Deletion Syndrome |
+| 以下是将英文翻译成中文的结果：
+
+**一种潜在变量方法用于研究轻度认知障碍患者睡眠问题的多因素影响**
+
+这个标题描述了一种研究方法，旨在探讨多种因素对轻度认知障碍（Mild Cognitive Impairment, MCI）患者睡眠问题的影响。研究采用潜在变量（Latent Variable）分析技术，可能涉及统计学或机器学习模型，以揭示隐藏的、无法直接观测的因素对睡眠问题的综合作用。 | Nega, C. | [PDF](https://doi.org/10.1101/2025.02.13.25322199) | N/A | A Latent Variable Approach for the Investigation of the Multi-factor Impact on Sleep Problems in Individuals with Mild Cognitive Impairment |
+| 填补乌干达康复数据缺口：通过实施世界卫生组织常规卫生信息系统 - 康复模块学习 | Hasan, M. Z. | [PDF](https://doi.org/10.1101/2025.02.13.25322214) | N/A | Bridging the rehabilitation data gap in Uganda: learning through the implementation of the WHO Routine Health Information System - Rehabilitation module |
+| 低收入和中等收入国家计划生育服务有效覆盖的不平等：将家庭调查与设施调查联系起来 | Tian, S. | [PDF](https://doi.org/10.1101/2025.02.13.25322079) | N/A | Inequities in Effective Coverage of Family Planning Services in Low-and Middle-Income Countries: Linking Households and Facility Surveys |
+| 基于人群队列的真实世界脑成像研究能够为痴呆症提供准确的生物标志物。 | Sund, R. | [PDF](https://doi.org/10.1101/2025.02.13.25322207) | N/A | Real-world brain imaging in a population-based cohort enables accurate markers for dementia |
+| 关于ELMOD3相关的常染色体显性非综合征性听力损失的确认性见解 | Yun, Y. | [PDF](https://doi.org/10.1101/2025.02.11.25321773) | N/A | Confirmatory insights into ELMOD3-associated autosomal dominant non-syndromic hearing loss |
+| 以下是这段文字的中文翻译：
+
+**气候变化对非洲疟疾的生态和破坏性影响预测**
+
+这个标题指的是对气候变化如何影响非洲疟疾传播和控制的预测研究。它强调了气候变化可能带来的生态变化（如温度、降雨模式的变化）以及对疟疾传播的潜在破坏性影响（如疾病范围的扩大或控制措施的失效）。 | Symons, T. L. | [PDF](https://doi.org/10.1101/2025.02.11.25322113) | N/A | Projected ecological and disruptive impacts of climate change on malaria in Africa |
+| 坦桑尼亚大陆三个不同传播强度地区的农村社区人群中疟疾流行趋势；数据来源于2021-2023年社区横断面调查 | Challe, D. P. | [PDF](https://doi.org/10.1101/2025.02.13.25322171) | N/A | Trends of malaria prevalence among individuals from rural communities in three regions with varying transmission intensities in Mainland Tanzania; Data from 2021 - 2023 community cross-sectional surveys |
+| 泰国孔敬府建立国家主导机构对紧急医疗服务系统的影响 | Yapanan, P. | [PDF](https://doi.org/10.1101/2025.02.13.25321942) | N/A | Impact of the establishment of a national lead agency on the emergency medical service system in Khon Kaen Province, Thailand |
+| 流行病学期刊中P值分布的趋势：P值操纵减少还是统计功效提高？ | Ackley, S. F. | [PDF](https://doi.org/10.1101/2025.02.13.25322235) | N/A | Trends in the Distribution of P Values in Epidemiology Journals: Decreased P Hacking or Increased Power? |
+| PregMedNet：多方面母体用药对新生儿并发症的影响 | Kim, Y. | [PDF](https://doi.org/10.1101/2025.02.13.25322242) | N/A | PregMedNet: Multifaceted Maternal Medication Impacts on Neonatal Complications |
+| 使用常规监测数据和贝叶斯引力模型估算卫生设施级别的服务人口 | Millar, J. | [PDF](https://doi.org/10.1101/2025.02.13.25322240) | N/A | Estimating health facility-level catchment populations using routine surveillance data and a Bayesian gravity model |
+| 利益相关者参与实践指南的报告指南制定方案：RIGHT-MuSE清单 | Yu, X. | [PDF](https://doi.org/10.1101/2025.02.13.25322255) | N/A | Protocol for the development of reporting guidance for interest-holder engagement in practice guidelines: the RIGHT-MuSE checklist |
+| 多基因评分在东亚人群队列中的预测能力：新加坡华人健康研究 | Chang, X. | [PDF](https://doi.org/10.1101/2025.02.13.25322249) | N/A | Predictive Capabilities of Polygenic Scores in an East-Asian Population-based Cohort: The Singapore Chinese Health Study |
+| 美国在COVID-19大流行前后的MMR疫苗接种覆盖率：一项模型研究 | Dong, E. | [PDF](https://doi.org/10.1101/2025.02.13.25322239) | N/A | MMR vaccination coverage in the U.S. before and after the COVID-19 pandemic: A modelling study |
+| 基于CT的骨质疏松分类及骨肌相互作用映射：使用BMINet框架下的多种可解释机器学习模型 | Wang, J. | [PDF](https://doi.org/10.1101/2025.02.12.25321163) | N/A | CT-based Osteoporosis Classification and Bone-Muscle Interaction Mapping Using Multiple Interpretable Machine Learning Models with the BMINet Framework |
+| 评估一种针对慢性阻塞性肺疾病（COPD）急性加重的集成数字与移动干预措施 | O'Connor, L. | [PDF](https://doi.org/10.1101/2025.02.13.25322246) | N/A | Evaluation of an Integrated Digital and Mobile Intervention for COPD Exacerbation |
+| 使用电子健康记录进行子宫内膜异位症患者的共病分析和聚类 | Khan, U. | [PDF](https://doi.org/10.1101/2025.02.13.25322244) | N/A | Comorbidity analysis and clustering of endometriosis patients using electronic health records |
+| 大规模基因组监测揭示免疫抑制驱动持续性SARS-CoV-2感染的突变动态 | Khurana, M. P. | [PDF](https://doi.org/10.1101/2025.02.10.25321987) | N/A | Large-scale genomic surveillance reveals immunosuppression drives mutation dynamics in persistent SARS-CoV-2 infections |
+| 日本COVID-19传播模型的验证与敏感性分析：模拟反事实感染情况 | Kakeya, H. | [PDF](https://doi.org/10.1101/2025.02.08.25321916) | N/A | Validation and Sensitivity Analysis of the COVID-19 Transmission Model Simulating Counterfactual Infections in Japan |
+| 开发和验证一种机器学习模型，利用临床和神经影像数据预测强迫症认知行为疗法的疗效 | van de Mortel, L. A. | [PDF](https://doi.org/10.1101/2025.02.14.25322265) | N/A | Development and validation of a machine learning model to predict cognitive behavioral therapy outcome in obsessive-compulsive disorder using clinical and neuroimaging data |
+| 心理被动感知：利用可穿戴技术数据预测情绪状态 | Karim, H. T. | [PDF](https://doi.org/10.1101/2025.02.13.25322254) | N/A | Passive sensing with psyche: utilizing data from wearable technology to predict emotion states |
+| 通过扩散成像测量的辅助运动区微观结构定义了帕金森病步态障碍的程度。 | Wrobel, P. P. | [PDF](https://doi.org/10.1101/2025.02.11.25321668) | N/A | Supplementary motor area microstructure as measured by diffusion imaging defines the extent of gait impairment in Parkinson's disease |
+| 妊娠期间血液学动态变化及其与产科并发症的关联：一项回顾性队列研究 | Tozzo, V. | [PDF](https://doi.org/10.1101/2025.02.13.25322250) | N/A | Hematologic dynamics during pregnancy and their association with obstetric complications: a retrospective cohort study |
+| 印度职业性间皮瘤的通知与记录保存。 | Singh, R. | [PDF](https://doi.org/10.1101/2025.02.11.25322115) | N/A | Notification and recordkeeping of occupational mesothelioma in India. |
+| 多机构联合下颌骨放射性骨坏死（Mandibular Osteoradionecrosis, MORN）正常组织并发症概率（Normal Tissue Complication Probability, NTCP）预测模型：PREDMORN研究结果 | Humbert-Vidan, L. | [PDF](https://doi.org/10.1101/2025.02.10.25322026) | N/A | Multi-institutional Normal Tissue Complication Probability (NTCP) Prediction Model for Mandibular Osteoradionecrosis: Results from the PREDMORN Study |
+| 视频诱发的年龄相关性黄斑变性视觉功能神经标志物 | Renton, A. I. | [PDF](https://doi.org/10.1101/2025.02.13.25322213) | N/A | Video-evoked neuromarkers of visual function in age- related macular degeneration |
+| 核监管紊乱在亚洲人群中先于并预测2型糖尿病的发展 | Jain, P. R. | [PDF](https://doi.org/10.1101/2025.02.14.25322264) | N/A | Nuclear regulatory disturbances precede and predict the development of Type-2 diabetes in Asian populations |
+| 中国江苏基于AI的严重流感早期检测：通过多中心临床试验设计和前瞻性真实世界部署验证的深度学习模型 | Chen, Y. | [PDF](https://doi.org/10.1101/2025.02.12.25322194) | N/A | AI-Driven Early Detection of Severe Influenza in Jiangsu, China: A Deep Learning Model Validated Through The Design of Multi-Center Clinical Trials and Prospective Real-World Deployment |
+| 探索人类肠道微生物组在乳腺癌风险中的因果关系 | Edmunds, G. L. | [PDF](https://doi.org/10.1101/2025.02.12.25322118) | N/A | Exploring the causal role of the human gut microbiome in breast cancer risk |
+| 疫情期间及之后英国健康与社会护理服务的使用情况：一项关于少数族裔残疾人士经历的质性研究 | Rivas, C. | [PDF](https://doi.org/10.1101/2025.02.12.25322134) | N/A | UK health and social care use during and after the pandemic: A qualitative study of the experiences of disabled people from minoritised ethnic groups |
 # MedRxiv 2025-02-13 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
