@@ -1,3 +1,152 @@
+# MedRxiv 2025-02-13 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 疾病突变的域映射支持阿尔茨海默病中特定SORL1变异的基因检测 | Holstege, H. | [PDF](https://doi.org/10.1101/2023.07.13.23292622) | N/A | Domain mapping of disease mutations supports genetic testing of specific SORL1 variants in Alzheimer's Disease |
+| 以下是将“A systematic review and modelling insights of factors impacting measles vaccine effectiveness”翻译成中文的结果：
+
+**“一项系统性综述及模型分析：影响麻疹疫苗有效性的因素”**
+
+翻译说明：
+- “Systematic review” 译为“系统性综述”，是医学研究中常用的术语，指对某一主题进行全面、系统的文献回顾和分析。
+- “Modelling insights” 译为“模型分析”，表示通过建模方法得出的深入见解或分析结果。
+- “Factors impacting measles vaccine effectiveness” 译为“影响麻疹疫苗有效性的因素”，指可能对麻疹疫苗效果产生影响的各类因素。
+
+希望这个翻译对您有帮助！如果需要进一步调整或解释，请随时告诉我。 | Ghosh, S. | [PDF](https://doi.org/10.1101/2024.08.29.24312705) | N/A | A systematic review and modelling insights of factors impacting measles vaccine effectiveness |
+| 长期使用兴奋剂治疗与注意缺陷/多动障碍（ADHD）青少年和成年患者对哌甲酯（methylphenidate）的功能性脑反应之间的关联 | van der Pal, Z. | [PDF](https://doi.org/10.1101/2024.12.30.24319766) | N/A | Association between long-term stimulant treatment and the functional brain response to methylphenidate in adolescents and adults with attention-deficit/hyperactivity disorder |
+| 儿童期社会经济地位与青少年饮食失调症状之间的纵向关联：ALSPAC队列研究结果 | Hahn, J. S. | [PDF](https://doi.org/10.1101/2025.01.12.25320417) | N/A | Longitudinal associations between childhood socioeconomic position and adolescent eating disorder symptoms: findings from the ALSPAC cohort study |
+| 英格兰NHS信托机构中使用andexanet alfa逆转直接口服抗凝剂的趋势和变化 | Fisher, L. | [PDF](https://doi.org/10.1101/2025.01.21.25320733) | N/A | Trends and variation in andexanet alfa for the reversal of direct oral anticoagulants in NHS Trusts in England |
+| 利用大型语言模型推进慢性背痛中安慰剂反应的预测与理解 | A.P. Nunes, D. | [PDF](https://doi.org/10.1101/2025.01.21.25320888) | N/A | Advancing the prediction and understanding of placebo responses in chronic back pain using large language models |
+| 2018-2023年，某大型城市卫生系统中儿童哮喘的严重程度、病毒传播的重要性以及环境暴露的影响日益增加。 | McCuskee, S. | [PDF](https://doi.org/10.1101/2025.02.01.25321524) | N/A | Increasing severity, importance of viral transmission, and environmental exposures for pediatric asthma in a large urban health system, 2018-2023 |
+| 组织多重化方法以最大化珍贵病理标本的空间转录组学输出 | Kao, Y.-C. | [PDF](https://doi.org/10.1101/2025.02.06.25321364) | N/A | A tissue multiplexing approach to maximise spatial transcriptomics output from precious pathology specimens |
+| 利用功能混合模型通过无监督学习研究子宫内膜异症的体力活动表型 | Tricoche, B. T. | [PDF](https://doi.org/10.1101/2025.02.10.25322020) | N/A | Physical Activity Phenotypes in Endometriosis Using Unsupervised Learning via Functional Mixture Models |
+| 精神病谱系障碍患者视觉皮层亚区域的神经解剖学缺陷与症状、认知及童年创伤相关 | Turkozer, H. B. | [PDF](https://doi.org/10.1101/2025.02.12.25322031) | N/A | Neuroanatomical Deficits in Visual Cortex Subregions of Individuals with Psychosis Spectrum Disorders linked to Symptoms, Cognition, and Childhood Trauma |
+| 一种利用机器学习方法寻找长新冠基因靶点治疗方案的探索 | Lopez-Rincon, A. | [PDF](https://doi.org/10.1101/2025.02.07.25321856) | N/A | A Machine-Learning Approach to Finding Gene Target Treatment Options for Long COVID |
+| 在《格拉斯哥宣言》和世界卫生组织全球行动计划的背景下，对十五个欧洲国家痴呆症策略的比较分析 | Bulsari, S. | [PDF](https://doi.org/10.1101/2025.02.08.25321936) | N/A | A Comparative Analysis of Dementia Strategies of Fifteen European Countries in the Context of Glasgow Declaration and WHOs Global Action Plan |
+| 奥格登综合征的心血管表现及管理建议
+
+翻译说明：
+1. "Cardiovascular" 翻译为 "心血管"，这是一个医学术语，指与心脏和血管系统相关的。
+2. "Manifestations" 翻译为 "表现"，在医学语境中指疾病或症状的具体体现。
+3. "Management Recommendations" 翻译为 "管理建议"，指针对特定情况或疾病的处理和治疗建议。
+4. "Ogden Syndrome" 翻译为 "奥格登综合征"，这是一种罕见的遗传性疾病，以首次报道的病例所在地（美国犹他州奥格登市）命名。
+
+整个翻译保持了原文的医学专业性，同时确保了中文表达的准确性和流畅性。 | Makwana, R. | [PDF](https://doi.org/10.1101/2025.02.11.25321331) | N/A | The Cardiovascular Manifestations and Management Recommendations for Ogden Syndrome |
+| 接近-回避冲突的计算机制可预测性地区分情感障碍与物质使用障碍 | Mehta, M. M. | [PDF](https://doi.org/10.1101/2025.02.10.25321894) | N/A | Computational Mechanisms of Approach-Avoidance Conflict Predictively Differentiate Between Affective and Substance Use Disorders |
+| 以下是这段文字的中文翻译：
+
+**有认知障碍和无认知障碍的老年人日常睡眠效率与驾驶行为**
+
+希望这对你有帮助！如果有其他问题，欢迎继续提问。 | Chang, J. H. | [PDF](https://doi.org/10.1101/2025.02.11.25322072) | N/A | Day-to-Day Sleep Efficiency and Driving Behaviors in Older Adults with and without Cognitive Impairment |
+| 在正常压力脑积水（Normal Pressure Hydrocephalus, NPH）中，使用稳定同位素标记动力学（Stable Isotope Labeling Kinetics, SILK）捕捉到的脑脊液清除功能受损。 | Leckey, C. A. | [PDF](https://doi.org/10.1101/2025.02.11.25322069) | N/A | Cerebrospinal fluid clearance impairment captured using stable isotope labeling kinetics (SILK) in normal pressure hydrocephalus |
+| 改良特伦德伦伯卧位颈动脉窦按摩对急性头痛发作快速持久缓解的有效性：一项初步研究 | Anaya, P. | [PDF](https://doi.org/10.1101/2025.02.11.25321880) | N/A | Effectiveness of Carotid Sinus Massage in Modified Trendelenburg Position for Rapid and Lasting Relief of Acute Headache Episodes: A Pilot Study |
+| 对47万名英国生物银行参与者的罕见编码变异分析揭示了与儿童哮喘易感性相关的遗传关联 | Liu, Z. | [PDF](https://doi.org/10.1101/2025.02.12.25322158) | N/A | Analysis of rare coding variants in 470,000 UK Biobank participants reveals genetic associations with childhood asthma predisposition |
+| 机器学习模型基于基线临床和免疫学因素预测长新冠结果 | Jayavelu, N. D. | [PDF](https://doi.org/10.1101/2025.02.12.25322164) | N/A | Machine learning models predict long COVID outcomes based on baseline clinical and immunologic factors |
+| 2011年至2021年美国50个州的福利政策、关节炎相关关节疼痛患病率与教育差距：固定效应分析 | Huang, R. | [PDF](https://doi.org/10.1101/2025.02.11.25322108) | N/A | Welfare Policies, Arthritis-related Joint Pain Prevalence and Educational Gaps in 50 U.S. States from 2011 to 2021: A Fixed Effects Analysis |
+| 变种特异性抗体与预防SARS-CoV-2 Omicron症状性感染和总体感染的保护相关性 | Zambrana, J. V. | [PDF](https://doi.org/10.1101/2025.02.11.25322066) | N/A | Variant-specific antibody correlates of protection against SARS-CoV-2 Omicron symptomatic and overall infections |
+| 以下是这段英文的中文翻译：
+
+**模拟SARS-CoV-2感染初期的动态变化**
+
+如果需要进一步调整或补充，请告诉我！ | Xu, J. | [PDF](https://doi.org/10.1101/2025.02.12.25321951) | N/A | Modelling the Dynamics of SARS-CoV-2 during early phase of infection |
+| 甲基苯丙胺如何影响大脑？一项关于磁共振成像研究的系统综述。 | Liu, G. | [PDF](https://doi.org/10.1101/2025.02.11.25322099) | N/A | How does methamphetamine affect the brain? A systematic review of magnetic resonance imaging studies. |
+| 灭活人畜共患流感A(H5N8)疫苗对近期高致病性禽流感2.3.4.4b分支A(H5N1)病毒诱导出强烈的抗体反应。 | Liedes, O. | [PDF](https://doi.org/10.1101/2025.02.12.25322044) | N/A | Inactivated Zoonotic Influenza A(H5N8) Vaccine Induces Robust Antibody Responses Against Recent Highly Pathogenic Avian Influenza Clade 2.3.4.4b A(H5N1) Viruses |
+| 肥胖患者心房颤动的结果——来自国家住院样本数据库的见解 | Argueta, A. S. | [PDF](https://doi.org/10.1101/2025.02.12.25322152) | N/A | Outcome of Atrial Fibrillation in Obesity- Insights from The National Inpatient Sample Database |
+| 以下是这段英文的中文翻译：
+
+**CPAP与下颌前移装置治疗对OSA患者心脏结构和功能的比较效果：一项心血管磁共振随机对照研究**
+
+翻译说明：
+- **CPAP**：持续气道正压通气（Continuous Positive Airway Pressure），常用于治疗阻塞性睡眠呼吸暂停（OSA）。
+- **Mandibular Advancement Device**：下颌前移装置，一种用于治疗OSA的口腔矫治器。
+- **OSA**：阻塞性睡眠呼吸暂停（Obstructive Sleep Apnea）。
+- **Cardiovascular Magnetic Resonance**：心血管磁共振，一种用于评估心脏结构和功能的影像学技术。
+- **Randomised Controlled Study**：随机对照研究，一种科学实验设计方法。
+
+希望这段翻译对你有帮助！ | Iyer, N. R. | [PDF](https://doi.org/10.1101/2025.02.12.25322131) | N/A | Comparative effects of CPAP and Mandibular Advancement Device Treatment on Cardiac Structure and Function in OSA: A Cardiovascular Magnetic Resonance Randomised Controlled Study |
+| 窄QRS波群中的QRS三维电压-时间积分——建立正常参考范围 | Gupta, A. | [PDF](https://doi.org/10.1101/2025.02.12.25322179) | N/A | QRS 3D Voltage-Time Integral in Narrow QRS Complex - Establishing the Normal Reference Range |
+| 蔗糖刺激唾液pH值在筛查儿童早期龋齿诊断和严重程度中的准确性：一项观察性研究 | Okuji, D. | [PDF](https://doi.org/10.1101/2025.02.11.25321547) | N/A | Diagnostic Testing Accuracy of Sucrose-stimulated Salivary pH for Screening Early Childhood Caries Diagnosis and Severity: An Observational Study |
+| 一项关于PXS-6302（一种局部应用的赖氨酰氧化酶抑制剂）在成熟疤痕中的随机双盲安慰剂对照的1期临床试验 | Morellini, N. | [PDF](https://doi.org/10.1101/2025.02.12.25321764) | N/A | A randomized double-blind placebo-controlled Phase 1 trial of PXS-6302, a topical lysyl oxidase inhibitor, in mature scars |
+| 从稀疏的血清学数据预测疫苗接种后抗体的动力学和对SARS-CoV-2的持续保护时间 | Deichmann, J. | [PDF](https://doi.org/10.1101/2025.02.10.25322008) | N/A | Predicting antibody kinetics and duration of protection against SARS-CoV-2 following vaccination from sparse serological data |
+| BRCA1和BRCA2致病性变异携带者与非携带者的自然绝经年龄、初潮年龄、月经周期长度、身高和BMI的分布：EMBRACE研究结果 | Mavaddat, N. | [PDF](https://doi.org/10.1101/2025.02.12.25321672) | N/A | Distribution of age at natural menopause, age at menarche, menstrual cycle length, height and BMI in BRCA1 and BRCA2 pathogenic variant carriers and non-carriers: Results from EMBRACE |
+| 提示到表格：使用大型语言模型进行临床信息提取的规范与迭代优化 | Hein, D. | [PDF](https://doi.org/10.1101/2025.02.11.25322107) | N/A | Prompts to Table: Specification and Iterative Refinement for Clinical Information Extraction with Large Language Models |
+| 卢萨卡公立医院产前血红蛋白检测时机及相关母婴特征 | Ogah, A. O. | [PDF](https://doi.org/10.1101/2025.02.11.25322071) | N/A | Timing of antenatal hemoglobin testing and associated maternal and neonatal characteristics at public hospitals in Lusaka, Zambia |
+| 在COVID-19时代，基层医疗层面及时识别急性呼吸道感染患者的病情恶化：质量改进协作 | Jorro-Baron, F. | [PDF](https://doi.org/10.1101/2025.02.12.25321948) | N/A | Timely Identification of deteriorating Patients from acute respiratory infections at the primary care level in the COVID-19 Era: quality improvement collaborative |
+| 年轻人参与心理健康护理导致自杀意念的途径 | Varidel, M. | [PDF](https://doi.org/10.1101/2025.02.11.25322101) | N/A | Pathways to suicidal ideation for young people engaged in mental health care |
+| 优化多通道与常规经颅直流电刺激（tDCS）在重度抑郁症临床治疗中的疗效比较：一项随机对照试验 | Salehinejad, M. A. | [PDF](https://doi.org/10.1101/2025.02.12.25322157) | N/A | Efficacy of optimized multichannel vs conventional tDCS for clinical use in major depression: a randomized controlled trial |
+| 胰高血糖素样肽-1受体激活与心理健康：一项药物靶点孟德尔随机化研究 | Yang, G. | [PDF](https://doi.org/10.1101/2025.02.12.25322150) | N/A | Glucagon-like peptide-1 receptor activation and mental health: a drug-target Mendelian randomization study |
+| 以下是将这段英文翻译成中文的结果：
+
+**接受过公众心肺复苏培训的个体进行现场心肺复苏的知识、态度和意愿：一项横断面调查**
+
+翻译说明：
+- "Knowledge, attitude, and willingness" 翻译为“知识、态度和意愿”。
+- "Perform On-Site Cardiopulmonary Resuscitation" 翻译为“进行现场心肺复苏”。
+- "Among Individuals Trained in Public CPR" 翻译为“在接受过公众心肺复苏培训的个体中”。
+- "A Cross-Sectional Survey" 翻译为“一项横断面调查”。
+
+希望这个翻译对你有帮助！ | cui, s. | [PDF](https://doi.org/10.1101/2025.02.12.25322141) | N/A | Knowledge, attitude, and willingness to Perform On-Site Cardiopulmonary Resuscitation Among Individuals Trained in Public CPR: A Cross-Sectional Survey |
+| 通过社区自我护理干预改善麻风病溃疡管理：在尼日利亚东南部进行的阶梯式楔形集群随机试验 | Meka, A. | [PDF](https://doi.org/10.1101/2025.02.10.25321982) | N/A | IMPROVING THE MANAGEMENT OF LEPROSY ULCERS THROUGH A COMMUNITY SELF-CARE INTERVENTION USING A STEPPED WEDGE CLUSTER RANDOMISED TRIAL IN SOUTH-EAST NIGERIA |
+| 达卡（孟加拉国）不同环境途径下社区暴露的变化：人类行为对城市环境中粪便暴露的影响 | Amin, M. N. | [PDF](https://doi.org/10.1101/2025.02.12.25322139) | N/A | Variation in exposure in neighborhoods of Dhaka, Bangladesh across different environmental pathways: The influence of human behavior on fecal exposure in urban environments |
+| 六分钟膝关节MRI：加速成像新方法的比较 | Goyal, A. | [PDF](https://doi.org/10.1101/2025.02.11.25321839) | N/A | Six-Minute Knee MRI: A Comparison of Novel Approaches for Accelerated Imaging |
+| 以下是这段文字的中文翻译：
+
+**实体器官移植受者重返工作岗位的结果：全球范围审查协议**
+
+这个标题描述了一项研究计划，旨在对实体器官移植受者重返工作岗位的结果进行全球范围的系统性审查。 | Pereira, V. A. | [PDF](https://doi.org/10.1101/2025.02.12.25322136) | N/A | Return to work outcomes in solid organ transplant recipients: a protocol for a global scoping review |
+| 吸引博士生参与同行评审：一项评估“同行视角”课程对评审质量、知识和技能有效性的前后研究 | Rohmann, J. L. | [PDF](https://doi.org/10.1101/2025.02.11.25322060) | N/A | Engaging doctoral students in peer review: a pre-post study evaluating the effectiveness of the 'Peerspectives' course on review quality, knowledge and skills |
+| 一位帕金森病患者中发现了一种新型的α-突触核蛋白K58N错义变异 | Al-Azzani, M. | [PDF](https://doi.org/10.1101/2025.02.07.25321793) | N/A | A novel alpha-synuclein K58N missense variant in a patient with Parkinson's disease |
+| 长期COVID与脑结构变化的因果关联：一项双样本孟德尔随机化研究的结果 | Li, H. | [PDF](https://doi.org/10.1101/2025.02.12.25322170) | N/A | Causal association of long COVID with brain structure changes: Findings from a 2-sample Mendelian randomization study |
+| MSU-TELEMED研究主要结果报告手稿的统计分析计划 | Churilov, L. | [PDF](https://doi.org/10.1101/2025.02.11.25322103) | N/A | Statistical Analysis Plan for the manuscript reporting the primary outcome of the MSU-TELEMED study |
+| 深度学习驱动的脑电图分析在帕金森病个性化深部脑刺激编程中的应用 | Calvo Peiro, N. | [PDF](https://doi.org/10.1101/2025.02.11.25321886) | N/A | Deep Learning-Driven EEG Analysis for Personalized Deep Brain Stimulation Programming in Parkinson's Disease |
+| 比例治疗效果：一种赋能与连接的度量标准 | WANG, G. | [PDF](https://doi.org/10.1101/2025.02.12.25322182) | N/A | The Proportional Treatment Effect: A Metric That Empowers and Connects |
+| 确定优先推广小剂量脂质营养补充剂的国家 | Noori, N. | [PDF](https://doi.org/10.1101/2025.02.11.25322040) | N/A | Identifying Priority Countries for Scaling Up Small-Quantity Lipid-Based Nutrient Supplements |
+| 超加工食品暴露与认知结果：观察性研究的系统综述。 | Smith, M. | [PDF](https://doi.org/10.1101/2025.02.12.25322127) | N/A | Ultra processed food exposure and cognitive outcomes: A systematic review of observational studies. |
+| 开发问卷库以快速获取野火事件期间的健康数据 | Liu, L. | [PDF](https://doi.org/10.1101/2025.02.10.25321891) | N/A | Development of a questionnaire library for rapid health data acquisition during wildfire events |
+| 在晚期实体癌患者的常规护理中实施液体活检（LIQPLAT）：一项单臂试验的研究方案 | Schwenke, J. M. | [PDF](https://doi.org/10.1101/2025.02.13.25322206) | N/A | The implementation of liquid biopsies in routine care of patients with advanced solid cancer (LIQPLAT): a study protocol for a single arm trial |
+| 呼吸挥发性通量揭示了年龄依赖性的乳腺癌检测代谢标志物 | Issitt, T. | [PDF](https://doi.org/10.1101/2025.02.12.25322153) | N/A | Breath Volatile Flux Reveals Age-Dependent Metabolic Markers for Breast Cancer Detection |
+| 生活方式因素会影响全膝关节置换术后患者报告的临床结果吗？一项可行性队列研究（PRO-Knee）。 | Stephens, G. | [PDF](https://doi.org/10.1101/2025.02.12.25322146) | N/A | Do lifestyle factors affect Patient-RepOrted clinical outcomes after total Knee replacement surgery? A feasibility cohort study (PRO-Knee). |
+| 神经网络准确预测全髋关节置换术医院资源利用的精确指标：一项回顾性数据库研究 | Abbas, A. | [PDF](https://doi.org/10.1101/2025.02.11.25322104) | N/A | Neural Networks Accurately Predict Precise Metrics of Hospital Resource Utilization for Total Hip Arthroplasty: A Retrospective Database Study |
+| ClinGen重症联合免疫缺陷病变异解读专家小组：ADA、DCLRE1C、IL2RG、IL7R、JAK3、RAG1和RAG2基因变异的分类规范 | Jacovas, V. C. | [PDF](https://doi.org/10.1101/2025.02.11.25322033) | N/A | The ClinGen Severe Combined Immunodeficiency Disease Variant Curation Expert Panel: Specifications for classification of variants in ADA, DCLRE1C, IL2RG, IL7R, JAK3, RAG1, and RAG2 |
+| 全基因组纵向血压与协调认知表现测量的多效性分析 | Kang, M. | [PDF](https://doi.org/10.1101/2025.02.11.25322014) | N/A | Genome-wide pleiotropy analysis of longitudinal blood pressure and harmonized cognitive performance measures |
+| 不同年龄组脊柱骨关节炎患者的脊柱肌肉减少症：临床与MRI特征 | Pravdyuk, N. G. | [PDF](https://doi.org/10.1101/2025.02.11.25321878) | N/A | Spinal Sarcopenia in Patients with Spinal Osteoarthritis Across Different Age Groups: Clinical and MRI Characteristics |
+| 了解全国宫颈筛查计划中自我采样偏好的研究方案：一项离散选择实验的设计 | Thapa, S. | [PDF](https://doi.org/10.1101/2025.02.12.25322143) | N/A | Understanding preferences for self-sampling in a national cervical screening programme: a protocol for a discrete choice experiment |
+| 瑞典宫颈筛查计划中人乳头瘤病毒自我采样的成本效益 | Ostensson, E. | [PDF](https://doi.org/10.1101/2025.02.12.25322120) | N/A | Cost-effectiveness of human papillomavirus self-sampling in the Swedish cervical screening program |
+| 我们不能仅仅将其握在手中：利比里亚卫生系统中被忽视热带疾病个案管理整合的政策分析 | Wickenden, A. | [PDF](https://doi.org/10.1101/2025.02.06.25321795) | N/A | 'We can not just keep it in our palm: A policy analysis of the integration of the case management of Neglected Tropical Diseases into the health system of Liberia |
+| 候诊室是否增加了孕妇当天接受性传播感染治疗的机会？南非初级医疗机构的质效改进研究 | Gigi, R. M. | [PDF](https://doi.org/10.1101/2025.02.12.25322145) | N/A | Does a waiting room increase same-day treatment for sexually transmitted infections among pregnant women? A quality improvement study at South African primary healthcare facilities |
+| 急诊科患者对在城市急诊科提供HIV暴露前预防（PrEP）服务的看法 | Solnick, R. E. | [PDF](https://doi.org/10.1101/2025.02.07.25321883) | N/A | Emergency Department Patients' Perspectives on Being Offered HIV Pre-Exposure Prophylaxis (PrEP) Services in an Urban ED |
+| COVID-19康复患者中与免疫球蛋白相关的持续性肺部症状中ACE-2样酶活性 | Song, Y. | [PDF](https://doi.org/10.1101/2025.02.12.25322167) | N/A | ACE-2-like Enzymatic Activity in COVID-19 Convalescent Patients with Persistent Pulmonary Symptoms Associated with Immunoglobulin |
+| 在UNOS分配系统变更前后，等待原位心脏移植患者中临时机械循环支持使用的性别特异性趋势 | Cyrille-Superville, N. | [PDF](https://doi.org/10.1101/2025.02.11.25322110) | N/A | Sex-specific Trends in the Use of Temporary Mechanical Circulatory Support in patients listed for Orthotopic Heart Transplant Before and After the UNOS Allocation System Change |
+| 一种用于测量矿物防晒霜白斑现象的标准评分方法，旨在提高不同肤色用户的使用依从性。 | Maldonado Lopez, A. | [PDF](https://doi.org/10.1101/2025.02.12.25322144) | N/A | A standard scoring method for measuring white cast of mineral sunscreens and improving user compliance across diverse skin tones |
+| 口服二甲双胍可能加剧糖尿病神经病变：一项双样本孟德尔随机化研究 | Wang, X. | [PDF](https://doi.org/10.1101/2025.02.11.25322054) | N/A | Oral Metformin May Exacerbate Diabetic Neuropathy: A Two-Sample Mendelian Randomization Study |
+| 在南亚和非洲/加勒比黑人儿童中，致糖尿病性升高的总脂肪水平与早期不良生长和较低的社会经济地位有关，与英国白人相比。 | Patel, K. | [PDF](https://doi.org/10.1101/2025.02.12.25322137) | N/A | Diabetogenic elevated childhood total fat in South Asians and Black African/Caribbeans relates to adverse early life growth and low socioeconomic position compared to Whites in the UK |
+| 个性化指导咨询与常规物理治疗在肩痛患者中的临床和成本效益：PANDA-S集群随机对照试验及过程评估方案
+
+该研究旨在比较个性化指导咨询与常规物理治疗在肩痛患者中的临床效果和成本效益。研究采用集群随机对照试验设计，并包括过程评估，以全面了解两种治疗方法的实际应用和效果。研究方案详细描述了试验的设计、实施步骤、评估方法以及预期结果，旨在为肩痛患者提供更有效的治疗选择，并为医疗决策提供科学依据。 | Harrisson, S. A. | [PDF](https://doi.org/10.1101/2025.02.12.25322124) | N/A | CLINICAL AND COST-EFFECTIVENESS OF A PERSONALISED GUIDED CONSULTATION VERSUS USUAL PHYSIOTHERAPY CARE IN PEOPLE PRESENTING WITH SHOULDER PAIN: A PROTOCOL FOR THE PANDA-S CLUSTER RANDOMISED CONTROLLED TRIAL AND PROCESS EVALUATION |
+| 对话研究：一项随机临床试验，评估基于虚拟现实的干预措施加上常规治疗与单纯常规治疗对饮食失调的有效性 | Hansen, N. K. | [PDF](https://doi.org/10.1101/2025.02.12.25322135) | N/A | The Dialogue Study: A randomized clinical trial evaluating the effectiveness of a virtual reality-based intervention plus treatment as usual versus treatment as usual for eating disorders |
+| 智能手机生态瞬时评估与可穿戴活动追踪在儿童抑郁症中的初步研究 | Unzueta Saavedra, J. | [PDF](https://doi.org/10.1101/2025.02.10.25321998) | N/A | Pilot Study of Smartphone Ecological Momentary Assessment and Wearable Activity Tracking in Pediatric Depression |
+| 使用人工智能为近期出院患者个性化关怀联系信息：一项混合方法可行性研究方案
+
+在这段翻译中，我尽量保持了原文的专业性和准确性，同时确保中文表达的流畅性。以下是翻译的要点解析：
+
+1. **Using Artificial Intelligence** 翻译为“使用人工智能”，直接传达了原文的技术手段。
+2. **Personalize Caring Contact Messages** 翻译为“个性化关怀联系信息”，其中“个性化”对应“Personalize”，“关怀联系信息”对应“Caring Contact Messages”，体现了信息的关怀性质。
+3. **for Recently Discharged Patients** 翻译为“为近期出院患者”，明确了目标群体。
+4. **Protocol for a Mixed-Methods Feasibility Study** 翻译为“一项混合方法可行性研究方案”，其中“Protocol”翻译为“方案”，“Mixed-Methods”翻译为“混合方法”，“Feasibility Study”翻译为“可行性研究”，整体上保持了研究的学术性和严谨性。
+
+希望这个翻译能够满足您的需求。如果有任何进一步的修改或调整，请随时告知。 | Steinberg, R. | [PDF](https://doi.org/10.1101/2025.02.12.25322159) | N/A | Using Artificial Intelligence to Personalize Caring Contact Messages for Recently Discharged Patients: Protocol for a Mixed-Methods Feasibility Study |
+| 了解尼泊尔五岁以下儿童的急性呼吸道疾病：基于2016年尼泊尔人口与健康调查（NDHS）的见解 | Dhodari, A. | [PDF](https://doi.org/10.1101/2025.02.11.25322058) | N/A | Understanding Acute Respiratory Illness in Nepalese Children Under Five: Insights from the 2016 NDHS |
+| 女性在危地马拉、洪都拉斯、肯尼亚和津巴布韦收集和获取水的经历：一项混合方法调查 | Caruso, B. A. | [PDF](https://doi.org/10.1101/2025.02.12.25322162) | N/A | Womens experiences collecting and accessing water in Guatemala, Honduras, Kenya, and Zimbabwe: A mixed-methods investigation |
+| 额颞叶痴呆中丘脑和深部灰质核团萎缩的横断面和纵向模式 | Banerjee, A. | [PDF](https://doi.org/10.1101/2025.02.10.25322025) | N/A | Cross-Sectional and Longitudinal Patterns of Atrophy in Thalamic and Deep Gray Matter Nuclei in Frontotemporal Dementia |
+| 柬埔寨育龄妇女现代避孕方法使用的影响因素：地理和社会人口因素如何与获取途径相关？ | Um, S. | [PDF](https://doi.org/10.1101/2025.02.11.25322055) | N/A | Determinants of Modern Contraceptive Use among Women of reproductive age in Cambodia: How are geographical and socio-demographic factors associated with access? |
+| 从过去学习：医学院的经历预示着住院医师工作中的意义感与冒名顶替现象 | Carpenter, K. M. | [PDF](https://doi.org/10.1101/2025.02.11.25322077) | N/A | Learning From the Past: Medical School Experiences Predict Meaning in Work and Imposter Phenomenon Among Residents |
+| 一项关于血液透析患者药物依从性评估的研究 | Bahrami Gahrouei, R. | [PDF](https://doi.org/10.1101/2025.02.10.25321945) | N/A | A STUDY ON ASSESSMENT OF MEDICATION ADHERENCE IN HEMODIALYSIS PATIENTS |
+| 使用计算表型预测脑瘫的遗传亚群 | Alkuraya, I. | [PDF](https://doi.org/10.1101/2025.02.12.25322169) | N/A | Use of Computational Phenotypes for Predicting Genetic Subgroups of Cerebral Palsy |
+| 英国运动神经元疾病护士及专职医疗人员队伍评估：人口普查 | Chau, I. | [PDF](https://doi.org/10.1101/2025.02.10.25321979) | N/A | An evaluation of the United Kingdom Motor Neuron Disease Nurses and Allied Health Professionals workforce: A Census |
+| 大型语言模型（LLMs）的崛起：它们能否真正匹敌临床和数据科学专家在临床试验数据分析中的表现？ | Komandur Elayavilli, R. | [PDF](https://doi.org/10.1101/2025.02.05.25321607) | N/A | The Rise of the Large Language Models (LLMs): Can They Truly Match Clinical and Data Science Experts in Clinical Trial Data Analysis? |
+| 地塞米松对脓毒症诱发心肌损伤患者预后的影响：一项回顾性队列研究 | zhang, x. | [PDF](https://doi.org/10.1101/2025.02.11.25321833) | N/A | Impact of Dexmedetomidine on the Prognosis of Patients with Sepsis-Induced Myocardial Injury: A Retrospective Cohort Study |
+| 60岁以上慢性肾病患者残余胆固醇与全因及心血管死亡风险的关联：基于2001-2018年NHANES的队列研究 | yao, j. | [PDF](https://doi.org/10.1101/2025.02.12.25322142) | N/A | Association between Remnant Cholesterol and All-Cause and Cardiovascular Mortality Risk in Chronic Kidney Disease Patients Over 60: A Cohort Study Based on NHANES 2001-2018 |
+| 我们为何应分享手术经验：基于博弈论的手术学习分析 | Soares, A. S. | [PDF](https://doi.org/10.1101/2025.02.10.25321390) | N/A | Why we should be sharing our operations: a game theoretic analysis of surgical learning |
 # MedRxiv 2025-02-12 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
