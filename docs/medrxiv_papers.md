@@ -1,3 +1,23 @@
+# MedRxiv 2025-02-15 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 慢性肾病前期——连续肌酐监测显示肾小球滤过率下降超过60 mL/min。 | Burke, C. O. | [PDF](https://doi.org/10.1101/2024.09.17.24313678) | N/A | Pre-chronic kidney disease -- Serial creatinine tracks glomerular filtration rate decline above 60 mL/min |
+| 在精神病候诊名单中为青少年实施移动AI聊天机器人干预以应对抑郁症的挑战：一项随机对照研究终止报告 | Fujita, J. | [PDF](https://doi.org/10.1101/2024.11.25.24317880) | N/A | Challenges in Implementing a Mobile AI Chatbot Intervention for Depression Among Youth on Psychiatric Waiting Lists: A Randomized Control Study Termination Report |
+| 因COVID-19住院的精神分裂症患者的严重结局及住院时间：一项基于人群的回顾性队列研究 | Gronsbell, J. | [PDF](https://doi.org/10.1101/2024.12.11.24318876) | N/A | Severe outcomes and length of stay among people with schizophrenia hospitalized for COVID-19: A population-based retrospective cohort study |
+| 以下是这段文字的中文翻译：
+
+**临床开发与性能表现：首个用于非处方使用的“First To Know”梅毒自测产品——一种新型快速检测梅毒螺旋体抗体的方法**
+
+翻译说明：
+1. “Clinical Development and Performance” 翻译为“临床开发与性能表现”，强调该产品的研发过程和实际性能。
+2. “First To Know Syphilis Self-Test” 翻译为“First To Know梅毒自测产品”，保留品牌名称“First To Know”。
+3. “Over-the-Counter Usage” 翻译为“非处方使用”，指该产品无需医生处方即可购买和使用。
+4. “De Novo Rapid Test for Treponemal Antibody” 翻译为“新型快速检测梅毒螺旋体抗体的方法”，其中“De Novo”表示“新型”或“首创”，“Treponemal Antibody”指梅毒螺旋体抗体。
+
+希望这段翻译对您有帮助！ | Clark, K. | [PDF](https://doi.org/10.1101/2025.01.07.25320135) | N/A | Clinical Development and Performance of the First To Know Syphilis Self-Test for Over-the-Counter Usage: a De Novo Rapid Test for Treponemal Antibody |
+| 丙泊酚在缓解全麻下择期手术患儿苏醒期躁动中的有效性：一项前瞻性队列研究 | Gelgelo, K. G. | [PDF](https://doi.org/10.1101/2025.01.07.25320109) | N/A | Effectiveness of Propofol in Mitigation of Emergence Agitation Among Pediatric Patients Undergoing Elective Surgery Under General Anesthesia: a Prospective Cohort Study |
+| 弓形虫作为精神分裂症的因果因素：来自两个大型队列的证据 | Israel, A. | [PDF](https://doi.org/10.1101/2025.02.14.25322266) | N/A | Toxoplasma gondii as a Causal Factor in Schizophrenia: Evidence from Two Large Cohorts |
 # MedRxiv 2025-02-14 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
