@@ -1,3 +1,26 @@
+# MedRxiv 2025-02-17 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 心理所有权影响患者医疗数据的法定所有权感知 | Cadario, R. | [PDF](https://doi.org/10.1101/2023.04.03.23288075) | N/A | Psychological ownership influences perceived legal ownership of patient medical data |
+| 多变量关联：儿童结构脑网络、遗传、环境与认知-心理病理特征之间的关系 | Seo, J. | [PDF](https://doi.org/10.1101/2023.07.24.23293075) | N/A | Multivariate Associations Between Structural Brain Networks, Genetics, Environments, and Cognitive-Psychopathological Traits in Children |
+| 肺癌检测的尿液生物标志物 | Matov, A. | [PDF](https://doi.org/10.1101/2024.07.30.24311186) | N/A | Urinary Biomarkers for Lung Cancer Detection |
+| 使用深度卷积网络预测慢性阻塞性肺疾病 | Alve, S. R. | [PDF](https://doi.org/10.1101/2024.12.22.24319500) | N/A | Chronic Obstructive Pulmonary Disease Prediction Using Deep Convolutional Network |
+| COVID-19与健康和疾病结果的因果关联：一项系统综述和荟萃分析 | Gao, L. | [PDF](https://doi.org/10.1101/2025.02.07.25321697) | N/A | Causal associations of COVID-19 with health and disease outcomes: a systematic review and meta-analysis |
+| 中国2型糖尿病患者中已确诊或高风险动脉粥样硬化性心血管疾病的循证心血管预防治疗使用情况：一项回顾性队列研究 | Tian, J.-Q. | [PDF](https://doi.org/10.1101/2025.02.10.25321971) | N/A | Use of evidence-based cardiovascular preventive therapies in type 2 diabetes patients with established or high risk of atherosclerotic cardiovascular disease in China: A retrospective cohort study |
+| 与自然暴露相比，重复受控人类血吸虫感染中的T细胞反应 | Driciru, E. | [PDF](https://doi.org/10.1101/2025.02.13.25322130) | N/A | T cell responses in repeated controlled human schistosome infection compared to natural exposure |
+| 电针治疗非酒精性脂肪肝的有效性：一项随机对照试验的系统综述与荟萃分析。 | Lin, X. | [PDF](https://doi.org/10.1101/2025.02.09.25321958) | N/A | Effectiveness of electroacupuncture in the treatment of non-alcoholic fatty liver disease:a systematic review and meta-analysis of randomized controlled trials. |
+| 遗传易感性与体力活动之间的加性交互作用占到了超过三分之一的2型糖尿病（T2D）额外风险。 | Zhou, X. | [PDF](https://doi.org/10.1101/2025.02.14.25322281) | N/A | Additive interactions between genetic susceptibility and physical activity account for nearly one third of excess T2D risk |
+| 术中神经成像使用荧光素钠 | Park, R. K. | [PDF](https://doi.org/10.1101/2025.02.08.25321923) | N/A | Intraoperative nerve imaging with sodium fluorescein |
+| 血清肌钙蛋白T水平作为SOD1介导的肌萎缩侧索硬化症治疗反应标志物 | Bernsen, S. | [PDF](https://doi.org/10.1101/2025.02.13.25322198) | N/A | Serum Troponin T levels as a therapy response marker in SOD1-mediated ALS |
+| 功能基因组学与统计精细定位的整合系统性表征了成人发病型和儿童发病型哮喘的遗传关联。 | Zhong, X. | [PDF](https://doi.org/10.1101/2025.02.11.25322088) | N/A | Integration of functional genomics and statistical fine-mapping systematically characterizes adult-onset and childhood-onset asthma genetic associations. |
+| 寻找心力衰竭患者认知障碍的临床踪迹：基于常规护理临床信函的自然语言处理研究 | Overmars, L. M. | [PDF](https://doi.org/10.1101/2025.02.12.25322151) | N/A | Finding the Clinical Traces of Cognitive Impairment in Patients with Heart Failure: A Natural Language Processing Study of Clinical Letters from Routine Care |
+| 使用一种基于新型联络机制的社交媒体干预措施，通过社区反馈来提高组织在新冠危机沟通中的健康素养 | Matangi, N. | [PDF](https://doi.org/10.1101/2025.02.14.25322261) | N/A | Using a Novel-Liaison Based Social Media Intervention Utilizing Community Feedback to Improve Organizational Health Literacy in Covid-19 Crisis Communication |
+| 人类偏肺病毒血清流行率和PCR趋势——来自印度一家三级护理医院的发现。 | Yelamanchili, S. | [PDF](https://doi.org/10.1101/2025.02.12.25322117) | N/A | Human Metapneumovirus seroprevalence and PCR trends - Findings from a Tertiary Care Hospital in India. |
+| 创建一种新型数字干预措施，通过教授患者学习的方式来弥合组织和个人健康素养之间的差距：过程与应用研究 | Joachim-Celestin, M. | [PDF](https://doi.org/10.1101/2025.02.16.25322112) | N/A | Creating a novel digital intervention to bridge the organizational and personal health literacy gap by teaching the way patients learn: a process and application study |
+| **基于风险感知的适应性调整弥合大型语言模型的泛化差距：一项全国性研究**
+
+这段翻译保留了原文的核心含义，同时使其更符合中文表达习惯。 | Wu, J. | [PDF](https://doi.org/10.1101/2025.02.14.25322312) | N/A | Hazard-aware adaptations bridge the generalization gap in large language models: a nationwide study |
 # MedRxiv 2025-02-15 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
