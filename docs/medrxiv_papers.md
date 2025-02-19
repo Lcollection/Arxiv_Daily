@@ -1,3 +1,64 @@
+# MedRxiv 2025-02-18 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 主动脉瓣狭窄中的舒张功能障碍与左心室回弹的更大阻尼相关，而非心肌僵硬。 | Salman, K. | [PDF](https://doi.org/10.1101/2024.09.20.24313309) | N/A | Diastolic dysfunction in aortic stenosis is associated with greater damping of left ventricular recoil, and not myocardial stiffness. |
+| 倒睫伴或不伴睑板结膜瘢痕：一项多国观察性研究 | Habtamu, E. | [PDF](https://doi.org/10.1101/2025.02.12.25322161) | N/A | Trichiasis With and Without Tarsal Conjunctival Scarring: a multi-country observational study |
+| 寨卡病毒后抗NS1血清IgA在严重登革热疾病中驱动中性粒细胞功能增强 | Cardona-Ospina, J. A. | [PDF](https://doi.org/10.1101/2025.02.11.25322002) | N/A | Post-Zika anti-NS1 serum IgA drives increased neutrophil functions in severe dengue disease |
+| 右心重构在终末期肺动脉高压中的表现及治疗强度的影响 | Gong, S.-G. | [PDF](https://doi.org/10.1101/2025.02.10.25322038) | N/A | Right Heart Remodeling in End-Stage Pulmonary Arterial Hypertension and the Impact of Treatment Intensity |
+| 加纳选定高中青少年男生对月经的社会文化信仰和态度：知识的中介和调节效应 | Wuresah, I. | [PDF](https://doi.org/10.1101/2025.02.12.25322148) | N/A | Adolescent boys sociocultural beliefs and attitudes toward menstruation in selected high schools in Ghana: Mediation and moderation effect of knowledge |
+| 基于生理学的气道局部粘液纤毛清除模型 | Shapiro, M. E. | [PDF](https://doi.org/10.1101/2025.02.15.25322354) | N/A | A Physiologically-based Model of Localized Mucociliary Clearance in the Airways |
+| 哮喘患者中呼出气一氧化氮与外周血嗜酸性粒细胞之间的关联：一项回顾性队列研究 | Habis, Y. | [PDF](https://doi.org/10.1101/2025.02.15.25322353) | N/A | Association between fractional exhaled nitric oxide and peripheral eosinophils in patients with asthma: a retrospective cohort study |
+| 精神病性障碍中的暴露类型 | Yassin, W. | [PDF](https://doi.org/10.1101/2025.02.14.25322306) | N/A | Exposotypes in Psychotic Disorders |
+| 评估由辅导员主导的心理健康教育计划干预措施在改善青少年心理健康方面的有效性 | Zhu, Y. | [PDF](https://doi.org/10.1101/2025.02.16.25322348) | N/A | Evaluating the effectiveness of facilitator-led mental health education program interventions to improve adolescent mental wellbeing |
+| **COVID-19应对中的心理韧性系统性综述：当前研究与未来方向**
+
+本文对COVID-19应对中的心理韧性进行了系统性综述，旨在梳理当前研究现状并探讨未来研究方向。 | Pasha, A. | [PDF](https://doi.org/10.1101/2025.02.15.25322337) | N/A | A Systematic Review of Psychological Resilience in the COVID-19 Responses: Current Research and Future Directions |
+| 2001年至2023年加利福尼亚州野火与住院医疗设施的邻近性 | Dresser, C. J. | [PDF](https://doi.org/10.1101/2025.02.15.25322338) | N/A | Proximity of Wildfires to Inpatient Healthcare Facilities in California, 2001-2023 |
+| 东南亚地区10至19岁青少年基于性别的暴力预防效果：系统综述 | Nguyen, H. H. | [PDF](https://doi.org/10.1101/2025.02.17.25322431) | N/A | The effectiveness of gender-based violence prevention among adolescents aged 10 to 19 years in Southeast Asia: A systematic review |
+| 全基因组筛查揭示过氧化物酶体在APOL1足细胞病中的作用 | Kim, J. | [PDF](https://doi.org/10.1101/2025.02.15.25322241) | N/A | Genomewide Screen Identifies Peroxisomal Role in APOL1 Podocytopathy |
+| 慢性肾脏病（CKD）最佳多因素干预的计算机模拟预测 | Latosinska, A. | [PDF](https://doi.org/10.1101/2025.02.14.25322292) | N/A | In silico prediction of optimal multifactorial intervention in CKD |
+| 使用人工智能检测视乳头水肿作为颅内压升高的标志：系统综述 | Rambabu, L. | [PDF](https://doi.org/10.1101/2025.02.14.25322289) | N/A | Detecting papilloedema as a marker of raised intracranial pressure using artificial intelligence: a systematic review |
+| 表征神经退行性疾病中静息态脑电振荡和非周期性活动：一项多中心研究 | Jaramillo-Jimenez, A. | [PDF](https://doi.org/10.1101/2025.02.14.25322283) | N/A | Characterizing resting-state EEG oscillatory and aperiodic activity in neurodegenerative diseases: A multicentric study |
+| 评估已婚女性护士的工作满意度及相关因素：一项描述性横断面研究 | Amarasinghe, M. G. N. M. | [PDF](https://doi.org/10.1101/2025.02.14.25322271) | N/A | Assessing Job Satisfaction and Associated Factors Among Female Married Nurses: A Descriptive Cross-sectional Study |
+| 多不饱和脂肪酸与精神障碍的因果关系：一项系统综述与荟萃分析 | Yao, Y. | [PDF](https://doi.org/10.1101/2025.02.16.25322383) | N/A | Causal relationship of polyunsaturated fatty acids with mental disorders: a systematic review and meta-analysis |
+| 与加热烟草产品吸烟和生活方式行为相关的职业跌倒发生率：日本的一项全国性横断面研究 | Tsushima, S. | [PDF](https://doi.org/10.1101/2025.02.16.25321430) | N/A | Occupational fall incidence associated with heated tobacco product smoking and lifestyle behaviors: a nationwide cross-sectional study in Japan |
+| 将BOADICEA乳腺癌和卵巢癌风险模型调整为适用于英国多种族人群 | Ficorella, L. | [PDF](https://doi.org/10.1101/2025.02.14.25322307) | N/A | Adapting the BOADICEA breast and ovarian cancer risk models for the ethnically diverse UK population |
+| 决策辅助工具对肩峰下疼痛综合征患者初级保健管理中共享决策感知的影响：一项两阶段多方法研究 | Bengtsen, S. C. | [PDF](https://doi.org/10.1101/2025.02.14.25322309) | N/A | Impact of a Decision aid on Perceptions of Shared Decision-Making in the Primary Care Management of Patients with Subacromial Pain Syndrome: a two-phased multi-methods study |
+| 间质性膀胱炎：一项表型及罕见变异外显子组测序研究 | Motelow, J. E. | [PDF](https://doi.org/10.1101/2025.02.16.25322147) | N/A | Interstitial Cystitis: a phenotype and rare variant exome sequencing study |
+| 通过纳米孔长读长测序在摩洛哥个体中检测CFTR基因变异 | EL Makhzen, N. | [PDF](https://doi.org/10.1101/2025.02.14.25322057) | N/A | CFTR Gene Variant Detection in Moroccan Individuals via Nanopore Long-Read Sequencing |
+| 对多聚谷氨酰胺疾病基因进行无偏倚的人类基因组特征分析，以指导治疗策略 | Namuli, K. L. | [PDF](https://doi.org/10.1101/2025.02.17.25322412) | N/A | Unbiased human genomic characterization of polyglutamine disorder genes to inform therapeutic strategies |
+| 估计全球常染色体隐性遗传罕见先天性代谢障碍的负担 | Mondal, S. | [PDF](https://doi.org/10.1101/2025.02.14.25322285) | N/A | Estimation of the global burden of autosomal recessive rare inborn errors of metabolism |
+| 以下是对“Dynamic Prediction of Mortality Risk Following Allogeneic Hematopoietic Stem Cell Transplantation”的中文翻译：
+
+**异基因造血干细胞移植后死亡风险的动态预测**
+
+这个翻译保留了原文的专业性和准确性，适用于医学或相关领域的语境。如果需要进一步调整或补充，请告诉我！ | Spohr, P. | [PDF](https://doi.org/10.1101/2025.02.17.25322391) | N/A | Dynamic Prediction of Mortality Risk Following Allogeneic Hematopoietic Stem Cell Transplantation |
+| COVID-19疫苗接种数据管理与可视化系统以提升决策能力：非洲疾控中心“拯救生命与生计”项目的经验教训 | Tajudeen, R. | [PDF](https://doi.org/10.1101/2025.02.14.25322288) | N/A | COVID-19 Vaccination Data Management and Visualization Systems for Improved Decision-Making: Lessons Learnt from Africa CDC Saving Lives and Livelihoods Program |
+| COVID-19自我隔离对医护人员心理健康和福祉的影响：一项带有叙述性综合的系统综述 | Stein, M. V. | [PDF](https://doi.org/10.1101/2025.02.18.25322220) | N/A | The impact of self-isolation due to COVID-19 on health care workers' mental health and wellbeing: a systematic review with narrative synthesis |
+| 在实践中审视围产期区域化：乔治亚州孕产妇转运的网络分析 | Li, J. | [PDF](https://doi.org/10.1101/2025.02.14.25322280) | N/A | Examining Perinatal Regionalization in Practice: A Network Analysis of Maternal Transport in Georgia |
+| 一种新的方法用于估算高移民环境中的HIV发病率以及感染和未诊断人群的规模 | Kunkel, A. | [PDF](https://doi.org/10.1101/2025.02.14.25322154) | N/A | A new approach to estimating HIV incidence and the size of the infected and undiagnosed population in high immigration settings |
+| COVID-19康复组中的肺功能及SARS-CoV-2 RBD特异性IgG抗体反应的比较研究 | Siddik, A. B. | [PDF](https://doi.org/10.1101/2025.02.17.25321314) | N/A | Pulmonary function and comparative SARS-CoV-2 RBD-specific IgG antibody response among the COVID-19 recovered group |
+| 慢性丙型肝炎直接抗病毒治疗后肝脏微环境的变化 | Millian, D. E. | [PDF](https://doi.org/10.1101/2025.02.17.25321289) | N/A | Alterations in the hepatic microenvironment following direct-acting antiviral therapy for chronic hepatitis C |
+| 全球革兰氏阴性糖尿病足感染患病率及其与气候的关联：系统综述与荟萃分析 | Schechter, M. C. | [PDF](https://doi.org/10.1101/2025.02.15.25322334) | N/A | Global gram-negative diabetic foot infection prevalence and its associations with climate: a systematic review and meta-analysis |
+| 通过数学模型预测COVID-19 mRNA疫苗异质性结果的年龄相关决定因素 | Craig, M. | [PDF](https://doi.org/10.1101/2025.02.14.25322308) | N/A | Predicting age-related determinants of heterogeneous outcomes to COVID-19 mRNA vaccines through mathematical modelling |
+| 马拉维COVID-19风险的时空分析：年龄、贫困、人口密度和环境因素的影响 | Afuleni, M. K. | [PDF](https://doi.org/10.1101/2025.02.16.25322329) | N/A | Spatiotemporal Analysis of COVID-19 Risk in Malawi: The Impact of Age, Poverty, Population Density, and Environmental Factors |
+| 与COVID-19疫苗接种后慢性疾病相关的免疫学和抗原特征 | Bhattacharjee, B. | [PDF](https://doi.org/10.1101/2025.02.18.25322379) | N/A | Immunological and Antigenic Signatures Associated with Chronic Illnesses after COVID-19 Vaccination |
+| 以下是您提供的内容的中文翻译：
+
+**累积残余胆固醇与2型糖尿病患者的主要不良心血管事件**
+
+希望这个翻译对您有帮助！ | Qian, Y.-W. | [PDF](https://doi.org/10.1101/2025.02.16.25322349) | N/A | Cumulative remnant cholesterol and major adverse cardiovascular events among adults with type 2 diabetes |
+| 通过基于定量代谢组学的标记物面板评估肠道微生物组的健康状况 | DeLeon, O. | [PDF](https://doi.org/10.1101/2025.02.14.24319815) | N/A | State of health of the gut microbiome assessed through a quantitative metabolomic-based marker panel |
+| 范围界定审查协议 - 范围界定审查：长期使用二甲双胍与维生素B12缺乏及临床医生认知情况 | Parsonage, I. | [PDF](https://doi.org/10.1101/2025.02.17.25322407) | N/A | Scoping review protocol- Scoping review Vitamin B12 deficiency in long term metformin use and clinician awareness |
+| 创新的AI模型用于临床决策：从胚胎发育第3天的时间推移胚胎图像预测囊胚形成和质量 | Yanai, A. | [PDF](https://doi.org/10.1101/2025.02.15.25322247) | N/A | Innovative AI models for clinical decision-making: predicting blastocyst formation and quality from time-lapse embryo images up to embryonic day 3 |
+| 外科医生花多少时间在手术上？ | Andrade, N. S. | [PDF](https://doi.org/10.1101/2025.02.15.25321677) | N/A | How Much Time Do Surgeons Spend Operating? |
+| 血浆中的细胞外α卫星DNA作为膀胱癌早期诊断的新型分子标志物 | Feliciello, I. | [PDF](https://doi.org/10.1101/2025.02.14.25322062) | N/A | Extracellular alpha satellite DNA in human plasma as a novel molecular biomarker for early diagnosis of bladder cancer |
+| Pamrevlumab在针对非卧床型杜氏肌营养不良症患者的LELANTOS-1试验中未能达到其主要终点。 | Connolly, A. M. | [PDF](https://doi.org/10.1101/2025.02.17.25321407) | N/A | Pamrevlumab did not meet its primary endpoint for non-ambulatory patients with Duchenne Muscular Dystrophy: the LELANTOS-1 trial |
+| 意大利的神经学培训：关于意大利住院医师培训项目及其与欧洲培训标准符合度的调查 | Fare', M. | [PDF](https://doi.org/10.1101/2025.02.15.25322325) | N/A | Neurology Training in Italy: A Survey on Italian Residency Programmes and Compliance with European Training Standards |
+| Pamrevlumab在针对能够行走的杜氏肌营养不良症患者的主要终点上未能达到预期效果：LELANTOS-2试验结果。 | Wong, B. L. | [PDF](https://doi.org/10.1101/2025.02.17.25321425) | N/A | Pamrevlumab did not meet its primary endpoint for ambulatory patients with Duchenne Muscular Dystrophy: the LELANTOS-2 trial |
+| MSH6致病性变异携带者的癌症风险 | Werf, A.-s. v. d. | [PDF](https://doi.org/10.1101/2025.02.15.25322330) | N/A | Cancer risks for MSH6 pathogenic variant carriers |
+| 心脏骤停复苏后线粒体DNA介导的免疫激活 | Rolland, T. J. | [PDF](https://doi.org/10.1101/2025.02.14.25322318) | N/A | Mitochondrial DNA-Mediated Immune Activation After Resuscitation from Cardiac Arrest |
 # MedRxiv 2025-02-17 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
