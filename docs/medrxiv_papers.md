@@ -1,3 +1,28 @@
+# MedRxiv 2025-02-19 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 准确估计未报告感染病例的信息理论方法 | Cui, J. | [PDF](https://doi.org/10.1101/2021.09.14.21263467) | N/A | Accurately Estimating Unreported Infections using Information Theory |
+| 自动从髋部佩戴的加速度计检测卧床时间用于大型流行病学研究：特罗姆瑟研究 | Weitz, M. | [PDF](https://doi.org/10.1101/2022.03.07.22270992) | N/A | Automatic time in bed detection from hip-worn accelerometers for large epidemiological studies: The Tromso Study |
+| 病毒干扰在2009年H1N1流感大流行后塑造RSV流行病中的作用 | Li, K. | [PDF](https://doi.org/10.1101/2024.02.25.24303336) | N/A | The role of viral interference in shaping RSV epidemics following the 2009 H1N1 influenza pandemic |
+| MFN2 Q367H变异揭示了一种与线粒体DNA介导的炎症相关的新病理机制 | Zaman, M. | [PDF](https://doi.org/10.1101/2024.06.20.24309123) | N/A | The MFN2 Q367H variant reveals a novel pathomechanism connected to mtDNA-mediated inflammation |
+| 创伤性脑病综合征在创伤性脑损伤晚期效应（LETBI）研究队列中 | Dams-O'Connor, K. | [PDF](https://doi.org/10.1101/2024.07.04.24309955) | N/A | Traumatic Encephalopathy Syndrome in the Late Effects of Traumatic Brain Injury (LETBI) study cohort |
+| 肯尼亚女性自行阴道给药青蒿琥酯阴道栓剂的药代动力学第一阶段研究。 | Mungo, C. | [PDF](https://doi.org/10.1101/2024.07.08.24309596) | N/A | Phase I study on the pharmacokinetics of intravaginal, self-administered artesunate vaginal pessaries among women in Kenya. |
+| 识别与预测医院环境中多重耐药菌的输入及无症状传播者 | Cui, J. | [PDF](https://doi.org/10.1101/2024.07.14.24310393) | N/A | Identifying and Forecasting Importation and Asymptomatic Spreaders of Multi-drug Resistant Organisms in Hospital Settings |
+| 多发性骨髓瘤药物疗效分析 | Matov, A. | [PDF](https://doi.org/10.1101/2024.08.03.24311450) | N/A | Analysis of Multiple Myeloma Drug Efficacy |
+| 染色质调节因子突变的肿瘤与更高的突变负荷和对检查点免疫疗法的更好反应相关。 | Kungulovski, G. | [PDF](https://doi.org/10.1101/2024.10.15.24315153) | N/A | Tumors with mutations in chromatin regulators are associated with higher mutational burden and improved response to checkpoint immunotherapy |
+| 监测报告：呼吸道病毒——2025年1月数据 | Gratzl, S. | [PDF](https://doi.org/10.1101/2024.11.21.24317745) | N/A | Monitoring Report: Respiratory Viruses - January 2025 Data |
+| 长期颈动脉斑块进展及斑块内出血的作用：基于深度学习的纵向血管壁成像分析 | Guo, Y. | [PDF](https://doi.org/10.1101/2024.12.09.24318661) | N/A | Long-Term Carotid Plaque Progression and the Role of Intraplaque Hemorrhage: Analysis from Deep Learning-based Longitudinal Vessel Wall Imaging |
+| 由你的邻居来评判：针对大规模且多样化样本的脑结构规范性分析 | Leenings, R. | [PDF](https://doi.org/10.1101/2024.12.24.24319598) | N/A | Judged by your neighbors: Brain structural normativity profiles for large and heterogeneous samples |
+| 基于全基因组序列的非裔美国人双相情感障碍和精神分裂症关联分析 | Li, R. | [PDF](https://doi.org/10.1101/2024.12.27.24319111) | N/A | Whole genome sequence-based association analysis of African American individuals with bipolar disorder and schizophrenia |
+| 迈向全球健康研究的监测：透明度与利益相关者参与的探索性分析 | Yerunkar, S. S. | [PDF](https://doi.org/10.1101/2024.12.30.24319762) | N/A | Towards Monitoring of Global Health Research: An Exploratory Analysis of Transparency and Stakeholder Engagement |
+| 国际阿尔茨海默病及其他痴呆症登记处（InRAD）和其他登记处的真实世界数据集：国际共识 | Perneczky, R. | [PDF](https://doi.org/10.1101/2025.01.12.25320418) | N/A | Real-world datasets for the International Registry for Alzheimers Disease and Other Dementias (InRAD) and other registries: an international consensus |
+| 2008年至2022年巴西门诊血液透析手术和肾移植血管通路的流行病学：一项全国性横断面分析 | Jeronimo Ponte, B. | [PDF](https://doi.org/10.1101/2025.01.15.25320581) | N/A | Epidemiology of vascular access for outpatient hemodialysis procedures and renal transplantation in Brazil between 2008 and 2022: A cross-sectional nationwide analysis |
+| 强迫症中的性别与性别差异：范围界定综述 | Van Zandt, M. A. | [PDF](https://doi.org/10.1101/2025.02.08.25321933) | N/A | Sex and gender differences in OCD: A scoping review |
+| 使用电子健康记录进行子宫内膜异位症患者的共病分析和聚类 | Khan, U. | [PDF](https://doi.org/10.1101/2025.02.13.25322244) | N/A | Comorbidity analysis and clustering of endometriosis patients using electronic health records |
+| 人类偏肺病毒血清流行率与PCR检测趋势——来自印度一家三级医疗机构的发现。 | Yelamanchili, S. | [PDF](https://doi.org/10.1101/2025.02.12.25322117) | N/A | Human Metapneumovirus seroprevalence and PCR trends - Findings from a Tertiary Care Hospital in India. |
+| 作为机械取栓术的附加疗法，Cerebrolysin在急性缺血性卒中患者中的疗效 | Staszewski, J. | [PDF](https://doi.org/10.1101/2025.02.14.25322320) | N/A | Efficacy of Cerebrolysin as an Add-On Therapy to Mechanical Thrombectomy in Patients With Acute Ischemic Stroke |
+| 在一项观察性研究中识别高含量超加工食品饮食的多代谢物评分，并在随机对照交叉喂养试验中进行验证 | Abar, L. | [PDF](https://doi.org/10.1101/2025.02.14.25322270) | N/A | Identification of Poly-Metabolite Scores for Diets High in Ultra-Processed Food in an Observational Study with Validation in a Randomized Controlled Crossover-Feeding Trial |
 # MedRxiv 2025-02-18 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
