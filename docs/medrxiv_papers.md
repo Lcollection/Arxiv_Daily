@@ -1,3 +1,68 @@
+# MedRxiv 2025-02-20 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 痴呆症的地理差异：系统综述与荟萃分析 | Walesby, K. E. | [PDF](https://doi.org/10.1101/2023.12.11.23299178) | N/A | Geographical variation in dementia: systematic review with meta-analysis |
+| 高血压领域非结构化数据中自然语言处理技术的发展与应用：范围综述 | Ye, J. | [PDF](https://doi.org/10.1101/2024.02.27.24303468) | N/A | Development and Application of Natural Language Processing on Unstructured Data in Hypertension: A Scoping Review |
+| 肺炎链球菌：鼻腔流感疫苗接种、携带密度及家庭传播 | Metz, J. | [PDF](https://doi.org/10.1101/2024.04.25.24306231) | N/A | Streptococcus pneumoniae: Nasal influenza vaccination, carriage density and transmission in families |
+| 人工智能在整合电子健康记录和患者生成健康数据应用中的角色 | Ye, J. | [PDF](https://doi.org/10.1101/2024.05.01.24306690) | N/A | The role of artificial intelligence in the application of the integrated electronic health records and patient-generated health data |
+| 在非洲混合样本中确认HLA-II与结核病易感性的关联 | Croock, D. A. | [PDF](https://doi.org/10.1101/2024.05.30.24308060) | N/A | Confirmation of HLA-II associations with TB susceptibility in admixed African samples |
+| 远程医疗使用与患者体验：健康社会决定因素在高血压和糖尿病患者中的作用 | Chen, H. | [PDF](https://doi.org/10.1101/2024.08.01.24311392) | N/A | Telehealth Utilization and Patient Experiences: The Role of Social Determinants of Health Among Individuals with Hypertension and Diabetes |
+| 使用机器学习和深度学习模型预测重症高血压患者的死亡率 | Zhang, Z. | [PDF](https://doi.org/10.1101/2024.08.21.24312399) | N/A | Predicting mortality in critically ill patients with hypertension using machine learning and deep learning models |
+| 以下是这段文字的中文翻译：
+
+**法国帕金森病患者队列的牙周健康状况**
+
+翻译说明：
+- "Periodontal health" 翻译为“牙周健康状况”。
+- "French cohort" 翻译为“法国队列”或“法国患者群体”。
+- "Parkinson's disease" 翻译为“帕金森病”。
+
+如果需要进一步调整或补充，请告诉我！ | Samot, J. | [PDF](https://doi.org/10.1101/2024.09.29.24314316) | N/A | Periodontal health in a French cohort of people with Parkinson's disease |
+| 使用医院管理数据库估算2022年加拿大免疫功能低下状况的患病率 | Fines, P. | [PDF](https://doi.org/10.1101/2025.02.05.25321738) | N/A | Estimating prevalence of immunocompromising conditions in Canada in 2022 using an administrative hospital database |
+| 一个用于血液疾病诊断的大型专家注释单细胞外周血数据集 | Shetab Boushehri, S. | [PDF](https://doi.org/10.1101/2025.02.18.25322415) | N/A | A large expert-annotated single-cell peripheral blood dataset for hematological disease diagnostics |
+| 抑郁和焦虑症状网络在生命周期中的变化 | Harlev, D. | [PDF](https://doi.org/10.1101/2025.02.17.25322400) | N/A | Depression and Anxiety Symptom Networks Across the Lifespan |
+| 女性赋权与生命阶段：评估撒哈拉以南非洲地区避孕方法组合的交叉差异 | Hellwig, F. | [PDF](https://doi.org/10.1101/2025.02.14.25322228) | N/A | Women's empowerment and life stage: assessing intersectional differences in contraceptive method mix in sub-Saharan Africa |
+| 3D有限元模型揭示区域性脂肪浸润影响FSHD患者胫骨前肌的力生成能力 | McCrady, A. | [PDF](https://doi.org/10.1101/2025.02.15.25322140) | N/A | 3D finite element models reveal regional fatty infiltration modulates tibialis anterior force generating capacity in FSHD |
+| 临床进展在CDR-SB量表上的表现：显性遗传性和散发性阿尔茨海默病群体中每0.5单位水平的无进展时间 | Wang, G. | [PDF](https://doi.org/10.1101/2025.02.17.25322322) | N/A | Clinical Progression on CDR-SB: Progression Free Time at Each 0.5-unit Level in Dominantly Inherited and Sporadic Alzheimer Disease Populations |
+| 自我报告与照顾者报告的神经疾病患者的冷漠症状比较 | Zhao, S. | [PDF](https://doi.org/10.1101/2025.02.14.25322300) | N/A | Self- versus caregiver-reported apathy across neurological disorders |
+| 在AFFECT研究中，分子遗传学对注意控制及其他执行过程的影响及其与精神病理学的关联 | Tubbs, J. D. | [PDF](https://doi.org/10.1101/2025.02.14.25322257) | N/A | Molecular genetic influences on attentional control and other executive processes and their links with psychopathology in the AFFECT study |
+| 结直肠腺瘤患者中APC基因镶嵌现象的普遍性及其影响 | Terlouw, D. | [PDF](https://doi.org/10.1101/2025.02.18.25322465) | N/A | Prevalence and consequences of APC mosaicism in patients with colorectal adenomas |
+| 循环游离DNA甲基化谱作为非侵入性多发性硬化症生物标志物的概念验证研究 | Fu, H. | [PDF](https://doi.org/10.1101/2025.02.14.25322180) | N/A | Circulating cell-free DNA methylation profiles as noninvasive multiple sclerosis biomarkers: A proof-of-concept study |
+| 人工智能中的协作智能：评估AI委员会在美国医师执照考试（USMLE）上的表现 | Shaikh, Y. | [PDF](https://doi.org/10.1101/2025.02.17.25322388) | N/A | Collaborative intelligence in AI: Evaluating the performance of a council of AIs on the USMLE |
+| 一个用于早期检测和评估新兴变种在废水中传播性的综合框架 | Chen, X. | [PDF](https://doi.org/10.1101/2025.02.18.25322479) | N/A | An integrated framework for early detection and transmissibility assessment of emerging variants in wastewater |
+| 基因组学视角下儿科心脏病房中产SHV-98、TEM-1和DHA-1型肺炎克雷伯菌的暴发研究 | Fraser, A. J. | [PDF](https://doi.org/10.1101/2025.02.14.25322074) | N/A | Genomic insights into an outbreak of SHV-98, TEM-1 and DHA-1 producing Klebsiella pneumoniae in a paediatric cardiac unit |
+| 外周血单核细胞转录组轨迹揭示了谵妄中炎症因子的动态调控 | LaHue, S. C. | [PDF](https://doi.org/10.1101/2025.02.14.25322163) | N/A | Peripheral blood mononuclear cell transcriptomic trajectories reveal dynamic regulation of inflammatory actors in delirium |
+| 自动化的血管内超声图像处理与冠状动脉异常量化：AIVUS-CAA软件 | Stark, A. W. | [PDF](https://doi.org/10.1101/2025.02.18.25322450) | N/A | Automated IntraVascular UltraSound Image Processing and Quantification of Coronary Artery Anomalies: The AIVUS-CAA software |
+| 心脏电生理手术后不良心血管事件的种族差异：一项真实世界、多机构回顾性队列研究 | Ebubechukwu, U. | [PDF](https://doi.org/10.1101/2025.02.17.25322440) | N/A | Racial Disparities in Adverse Cardiovascular Events After Cardiac Electrophysiology Procedures: A Real-World, Multi-Institutional Retrospective Cohort Study |
+| 英格兰和威尔士第一代和第二代移民儿童的健康状况：使用关联的普查和出生登记数据进行的系列横断面研究 | Hardelid, P. | [PDF](https://doi.org/10.1101/2025.02.18.25322449) | N/A | Health of first- and second-generation immigrant children in England and Wales: serial, cross-sectional study using linked Census and birth registration data |
+| 用于猴痘病毒检测的支系特异性多重数字PCR废水检测方法 | Pitton, M. | [PDF](https://doi.org/10.1101/2025.02.17.25321728) | N/A | Clade-specific multiplex digital PCR assay for monkeypox virus detection in wastewater |
+| 评估使用常规临床特征预测五种2型糖尿病药物类别的短期耐受性：基于英国人口的研究 | Cardoso, P. | [PDF](https://doi.org/10.1101/2025.02.17.25322406) | N/A | Evaluating prediction of short-term tolerability of five type 2 diabetes drug classes using routine clinical features: UK population-based study |
+| 主动疫苗安全监测：肯尼亚COVID-19疫苗前瞻性队列事件监测研究的经验 | Odhiambo, D. B. | [PDF](https://doi.org/10.1101/2025.02.18.25322051) | N/A | Active vaccine safety surveillance: Experience from a prospective cohort event monitoring study of COVID-19 vaccines in Kenya |
+| 气候变化与肺结核：一个分析框架 | Saunders, M. | [PDF](https://doi.org/10.1101/2025.02.18.25322451) | N/A | Climate change and tuberculosis: an analytical framework |
+| 对日本人群儿童健康与发展的纵向和横断面特征进行全基因组关联研究 | Kumasaka, N. | [PDF](https://doi.org/10.1101/2025.02.18.25322458) | N/A | Genome-wide association study on longitudinal and cross-sectional traits of child health and development in a Japanese population |
+| evoSSS：模拟SARS-CoV-2及新兴病毒病原体的竞争演化与大规模传播动态 | Huang, S. | [PDF](https://doi.org/10.1101/2025.02.15.25322128) | N/A | evoSSS: Modeling the Competitive Evolution and Large-scale Transmission Dynamics of SARS-CoV-2 and Emerging Viral Pathogens |
+| 在《护士健康研究II》中，探讨乳腺癌风险因素与人工智能生成的乳腺X线摄影纹理特征之间的关系 | Wu, X. | [PDF](https://doi.org/10.1101/2025.02.18.25322419) | N/A | Investigating the relationship between breast cancer risk factors and an AI-generated mammographic texture feature in the Nurses' Health Study II |
+| 2017年至2024年期间，在挪威出现SARS-CoV-2后，流感和呼吸道合胞病毒（RSV）住院病例的流行病学变化 | Boas, H. | [PDF](https://doi.org/10.1101/2025.02.17.25322411) | N/A | Changed epidemiology of influenza and RSV hospitalizations after the emergence of SARS-CoV-2 in Norway, 2017 - 2024 |
+| 弥合差距：通过迁移学习提升表观遗传时钟的泛化能力 | Luo, L. | [PDF](https://doi.org/10.1101/2025.02.14.25322080) | N/A | Bridging the gap: Enhancing the generalizability of epigenetic clocks through transfer learning |
+| 生物样本库中生物材料的分析前过程报告：解决临床生物标志物研究可重复性危机的一个被忽视的机会 | Jansen, J. A. W. | [PDF](https://doi.org/10.1101/2025.02.18.25322469) | N/A | Reporting of pre-analytical Processes in Biobanked Biomaterials: A Missed Opportunity to Address the Replicability Crisis in Clinical Biomarker Research |
+| 腹部淋巴管畸形的多学科诊断与治疗方法的算法 | Holm, A. | [PDF](https://doi.org/10.1101/2025.02.15.25322012) | N/A | Algorithm for a multidisciplinary diagnostic and therapeutic approach to abdominal lymphatic malformations |
+| 居住隔离、环境空气污染与近期创伤幸存者海马体特征之间的关联 | Liang, S. S. | [PDF](https://doi.org/10.1101/2025.02.18.25322464) | N/A | Associations between residential segregation, ambient air pollution, and hippocampal features in recent trauma survivors |
+| 抗精神病药物初治精神病患者中多巴胺能、γ-氨基丁酸能和谷氨酸能神经递质之间的相互关系及其与初始治疗反应的相关性 | Bojesen, K. B. | [PDF](https://doi.org/10.1101/2025.02.18.25322467) | N/A | Interrelations Between Dopaminergic-, GABAergic- and Glutamatergic Neurotransmitters in Antipsychotic-Naive Psychosis Patients and the Association to Initial Treatment Response |
+| 应用机器学习和深度学习技术，通过脑部MRI预测抑郁症并识别与抑郁症相关的脑生物学特征。 | Jiang, J. C. | [PDF](https://doi.org/10.1101/2025.02.14.25322326) | N/A | Applying Machine-Learning and Deep-Learning to Predict Depression from Brain MRI and Identify Depression-Related Brain Biology |
+| 优化澳大利亚中学普遍网络心理健康服务的实施：一项集群随机对照试验 | Subotic-Kerry, M. | [PDF](https://doi.org/10.1101/2025.02.14.25322324) | N/A | Optimising the implementation of a universal web-based mental health service for Australian secondary schools: A cluster randomised controlled trial |
+| 美国青少年对校园枪击暴力的担忧频率及预测因素：一项全国代表性研究的发现 | Kirkland, D. | [PDF](https://doi.org/10.1101/2025.02.18.25322472) | N/A | Frequency and Predictors of Adolescent Worry for School Gun Violence In the United States: Findings from a Nationally Representative Study |
+| 验证加速度计切点以分类孕期体力活动强度 | Cagiao, A. | [PDF](https://doi.org/10.1101/2025.02.15.25322225) | N/A | Validation of Accelerometry Cut-off Points to Categorize Physical Activity Intensity Along the Pregnancy |
+| 评估研究生医学教育中女同性恋、男同性恋、双性恋、跨性别者和酷儿相关内容的纳入情况：一项针对项目主管的全国性调查 | Pregnall, A. M. | [PDF](https://doi.org/10.1101/2025.02.15.25322332) | N/A | Evaluating the inclusion of lesbian, gay, bisexual, transgender, and queer-related content in graduate medical education: a national survey of program directors |
+| 罕见PANK2变异与多米尼加共和国的泛酸激酶相关神经变性 | Vardarajan, B. N. | [PDF](https://doi.org/10.1101/2025.02.14.25321662) | N/A | Rare PANK2 Variants and Pantothenate Kinase-Associated Neurodegeneration in the Dominican Republic |
+| 肠道菌群与癌症之间的因果关系 | Yue, z. | [PDF](https://doi.org/10.1101/2025.02.17.25322359) | N/A | Causal associations between gut microbiota and cancers |
+| 2型糖尿病多基因风险评分在不同人群中展示了环境依赖性的效应，并与2型糖尿病相关的风险因素和并发症存在关联。 | Guo, B. | [PDF](https://doi.org/10.1101/2025.02.15.25322341) | N/A | Type 2 diabetes polygenic risk score demonstrates context-dependent effects and associations with type 2 diabetes-related risk factors and complications across diverse populations |
+| 关于在轻度神经退行性疾病中进行MRI数据自动分割的案例 | Lewis, C. J. | [PDF](https://doi.org/10.1101/2025.02.18.25322304) | N/A | A Case for Automated Segmentation of MRI Data in Milder Neurodegenerative Diseases |
+| 研究方案：南非公立医疗机构中艾滋病护理数据管理流程监督的区级卫生管理信息系统合规性评估 | Turawa, E. B. | [PDF](https://doi.org/10.1101/2025.02.18.25322460) | N/A | Study protocol for:  Compliance Assessment of the District Health Management Information System: Supervision of Data Management Processes for HIV Care in Public Healthcare Facilities in South Africa |
+| 抗凝治疗与抗病毒治疗在长期新冠（Long COVID）中的恢复及神经损伤：一项真实世界前瞻性队列研究 | Jamoulle, M. | [PDF](https://doi.org/10.1101/2025.02.14.25322178) | N/A | Anticoagulant vs. antiviral therapy, recovery and neurodamage in Long COVID: a real-world prospective cohort study |
+| 在人类冠状动脉粥样硬化的晚期，调制的平滑肌细胞会积累，并且在时间和空间上与坏死核心的形成相关联。 | Morales-Cano, D. | [PDF](https://doi.org/10.1101/2025.02.18.25322466) | N/A | Modulated smooth muscle cells accumulate late in human coronary atherosclerosis and are temporally and spatially linked to necrotic core formation |
+| 脂质过氧化与结直肠癌风险：随时间变化的关系 | Yang, G. | [PDF](https://doi.org/10.1101/2025.02.16.25322362) | N/A | Lipid peroxidation and colorectal cancer risk: a time-varying relationship |
+| 急性心肌梗死后接受临时机械循环支持患者的实际结果中种族差异的趋势 | Ugoala, O. S. | [PDF](https://doi.org/10.1101/2025.02.17.25322438) | N/A | Trends in Racial Disparities in Real-World Outcomes of Patients with Temporary Mechanical Circulatory Support Following an Acute Myocardial Infarction |
 # MedRxiv 2025-02-19 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
