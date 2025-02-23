@@ -1,3 +1,14 @@
+# MedRxiv 2025-02-22 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| 阿片类药物起始治疗后短期死亡率在阿片类药物初治与非初治痴呆患者中的比较：一项回顾性队列研究 | Hwang, Y. M. | [PDF](https://doi.org/10.1101/2024.11.25.24317747) | N/A | Short-Term Mortality After Opioid Initiation Among Opioid-Naïve and Non-Naïve Patients with Dementia: A Retrospective Cohort Study |
+| AI-HOPE：一款AI驱动的对话代理，用于增强精准医学研究中的临床和基因组数据整合 | Yang, E.-W. | [PDF](https://doi.org/10.1101/2024.11.27.24318113) | N/A | AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration in precision medicine research |
+| 使用整合多组学方法评估西班牙裔/拉丁裔早发性结直肠癌患者中的MYC基因和WNT通路改变 | Carranza, F. G. | [PDF](https://doi.org/10.1101/2024.12.05.24318588) | N/A | Assessment of MYC Gene and WNT Pathway Alterations in Early-Onset Colorectal Cancer Among Hispanic/Latino Patients Using Integrated Multi-Omics Approaches |
+| 高效且安全的μ训练和μ微调：基于边缘的TinyML个性化与未来引导的自蒸馏技术 | Huang, Z. | [PDF](https://doi.org/10.1101/2025.01.30.25321374) | N/A | Efficient and Secure μ-Training and μ-Fine-Tuning for Edge-Based TinyML Personalization with Future-Guided Self-Distillation |
+| VOYAGER：一个国际研究联盟，致力于探讨人类乳头瘤病毒（HPV）和遗传因素在口腔癌和口咽癌风险及生存率中的作用。 | Gormley, M. | [PDF](https://doi.org/10.1101/2025.02.17.25322399) | N/A | VOYAGER: an international consortium investigating the role of human papilloma virus and genetics in oral and oropharyngeal cancer risk and survival |
+| 肠道微生物组组成与中老年人肌肉骨骼特征的关联：一项双队列联合研究 | Li, R. | [PDF](https://doi.org/10.1101/2025.02.19.25322523) | N/A | The association of gut microbiome composition with musculoskeletal features in middle-aged and older adults: a two-cohort joint study |
+| 孟德尔随机化分析揭示了大脑结构连接组与精神疾病风险之间的因果关系。 | Xiao, K. | [PDF](https://doi.org/10.1101/2025.02.20.25322606) | N/A | Mendelian randomization analyses uncover causal relationships between brain structural connectome and risk of psychiatric disorders |
 # MedRxiv 2025-02-21 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
