@@ -1,3 +1,80 @@
+# MedRxiv 2025-02-23 Papers
+
+| 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
+|-------|----------|-----------|---------|--------------| 
+| EpiPathAI：利用大型语言模型探索生命历程暴露-结果关联机制 | Wang, S. | [PDF](https://doi.org/10.1101/2024.10.17.24315648) | N/A | EpiPathAI: Using Large Language Models to Explore Mechanisms of Life Course Exposure-Outcome Associations |
+| 双相情感障碍与抑郁症的独特白质纤维密度模式：基于Fixel分析的见解 | Manelis, A. | [PDF](https://doi.org/10.1101/2025.02.19.25322569) | N/A | Distinct White Matter Fiber Density Patterns in Bipolar and Depressive Disorders: Insights from Fixel-Based Analysis |
+| 多基因易感性扩张型心肌病是围产期心肌病、酒精性心肌病和癌症治疗相关心肌病的基础。 | Maamari, D. J. | [PDF](https://doi.org/10.1101/2025.02.17.25321705) | N/A | Polygenic susceptibility to dilated cardiomyopathy underlies peripartum, alcohol-induced, and cancer therapy-related cardiomyopathies |
+| 表观遗传熵、社会差异与女性健康倡议中的健康和寿命 | Mozhui, K. | [PDF](https://doi.org/10.1101/2025.02.21.25322696) | N/A | Epigenetic entropy, social disparity, and health and lifespan in the Women's Health Initiative |
+| 医疗机构中感染传播的传播阈值 | Toth, D. | [PDF](https://doi.org/10.1101/2025.02.21.25322698) | N/A | Transmission thresholds for the spread of infections in healthcare facilities |
+| 手术引起的炎症减轻与肥胖患者神经抑制控制的改善有关 | Kaufmann, L.-K. | [PDF](https://doi.org/10.1101/2025.02.21.25322626) | N/A | Surgery-induced reduction in inflammation relates to improved neural inhibitory control in obesity |
+| 香港疫苗相关负面新闻及激励措施对疫苗犹豫的影响评估 | CHEN, Y. | [PDF](https://doi.org/10.1101/2025.02.21.25322646) | N/A | Impact assessment of vaccine-related negative news and incentive measures on vaccine hesitancy in Hong Kong |
+| 比较评估用于甲型和乙型流感病毒检测的组合浓度和提取方法在废水中的应用 | Fretschner, T. | [PDF](https://doi.org/10.1101/2025.02.21.25322585) | N/A | Comparative assessment of combined concentration and extraction methods for Influenza A and B virus detection in wastewater |
+| 干预映射：初级层面控制呼吸道感染的多阶段研究 | mahmood, s. | [PDF](https://doi.org/10.1101/2025.02.20.25322323) | N/A | Intervention Mapping: A Multi-stage investigation to Control Respiratory Tract Infections at Primary Level |
+| 使用基于开源MRI的深度学习管道自动化膝关节骨关节炎的成像生物标志物分析 | Goyal, A. | [PDF](https://doi.org/10.1101/2025.02.21.25322094) | N/A | Automating Imaging Biomarker Analysis for Knee Osteoarthritis Using an Open-Source MRI-Based Deep Learning Pipeline |
+| 移民妇女的性健康赋权干预措施：文献系统综述的方案 | Ouanhnon, L. | [PDF](https://doi.org/10.1101/2025.02.21.25322665) | N/A | Sexual health empowerment interventions for migrant women: the protocol of a systematic review of the literature |
+| 拉玛提博迪医院LGBTQ+群体中HIV筛查的普遍性 | Chuenpakorn, N. | [PDF](https://doi.org/10.1101/2025.02.21.25322658) | N/A | Prevalence of screening HIV among LGBTQ+ at Ramathibodi Hospital |
+| 以下是这段文字的中文翻译：
+
+**创伤性脑损伤后患者对可接受结果的观点**
+
+这个翻译保留了原文的核心意思，同时使其更符合中文的表达习惯。 | Bodien, Y. | [PDF](https://doi.org/10.1101/2025.02.21.25322625) | N/A | Perspectives of persons with lived experience on acceptable outcome after traumatic brain injury |
+| 奥地利多发性硬化症数据库与奥地利多发性硬化症队列：全国范围内数据协调与前瞻性数据收集的努力 | Bsteh, G. | [PDF](https://doi.org/10.1101/2025.02.17.25322422) | N/A | The Austrian MS Database and the Austrian MS Cohort: a national effort towards data harmonization and prospective data collection |
+| 研究性别和生殖衰老对可改变性痴呆风险因素潜在特征的影响 | Mukora, A. W. | [PDF](https://doi.org/10.1101/2025.02.21.25322638) | N/A | Investigating the impact of sex and reproductive aging on latent signatures of modifiable dementia risk factors |
+| 评估索马里拜州和希兰地区5岁以下儿童及其母亲消瘦的驱动因素 | Grounds, S. | [PDF](https://doi.org/10.1101/2025.02.21.25322675) | N/A | Assessing the Drivers of Wasting among Children Under 5 and Their Mothers in The Bay and Hiran Regions of Somalia |
+| 一项关于在索马里预防儿童消瘦的现金加干预措施效果和成本效益比较的集群随机试验：基于证据的方法论
+
+这项研究旨在通过集群随机试验的方法，比较在索马里实施的现金加干预措施在预防儿童消瘦方面的效果和成本效益。研究采用基于证据的方法论，以确保结果的科学性和可靠性。通过这种干预措施，研究人员希望找到更有效且经济的方法来改善索马里儿童的健康状况，减少消瘦的发生率。 | Walton, S. | [PDF](https://doi.org/10.1101/2025.02.21.25322679) | N/A | A Cluster-Randomized Trial to Compare Effectiveness and Cost-effectiveness of Cash Plus Interventions in Preventing Child Wasting in Somalia: An Evidence-Based Methodology |
+| 使用基于标记和无标记的运动捕捉系统对直立分娩姿势进行生物力学评估 | Haworth, L. | [PDF](https://doi.org/10.1101/2025.02.18.25322290) | N/A | Biomechanical assessment of upright birthing positions using marker-based and markerless motion capture systems |
+| DINASTY在非小细胞肺癌中的应用——基于联邦分析的多中心真实世界数据回顾性研究 | Öjlert, A. K. | [PDF](https://doi.org/10.1101/2025.02.22.25321981) | N/A | DINASTY in NSCLC - a multicenter retrospective study on real-world data using federated analysis |
+| 整合多组学分析妇科肿瘤揭示了疾病进展的新型单一生物标志物
+
+这段文字描述了一项研究，通过整合多种组学数据（如基因组学、转录组学、蛋白质组学等）来分析妇科肿瘤，发现了与疾病进展相关的新型单一生物标志物。这些标志物可能有助于更好地理解肿瘤的发展过程，并为诊断和治疗提供新的靶点。 | Muthamilselvan, S. | [PDF](https://doi.org/10.1101/2025.02.21.25322653) | N/A | Integrative Multi-omics of Gynecological Tumors Identifies Novel Singular Biomarkers of Disease Progression |
+| 进行性全基因组关联研究（GWAS）及后续功能表征表明，E3泛素连接酶TRIM2可能是帕金森病进展的潜在遗传修饰因子。 | Kulkarni, A. S. | [PDF](https://doi.org/10.1101/2025.02.21.25322301) | N/A | Progression GWAS followed by functional characterization implicates E3 ubiquitin ligase TRIM2 as a potential genetic modifier of Parkinson's Disease progression |
+| 对与伴有或不伴有腭裂的唇裂相关的GWAS位点附近发现的新生变异进行功能注释 | Curtis, S. | [PDF](https://doi.org/10.1101/2025.02.21.25322690) | N/A | Functional annotation of de novo variants found near GWAS loci associated with cleft lip with or without cleft palate |
+| 早发性结直肠癌中MAPK和JAK/STAT通路的种族特异性分子改变 | Monge, C. | [PDF](https://doi.org/10.1101/2025.02.17.25322443) | N/A | Ethnicity-specific molecular alterations in MAPK and JAK/STAT pathways in early-onset colorectal cancer |
+| 罕见的功能获得性调控突变解释了二叶式主动脉瓣的遗传缺失 | Zhigulev, A. | [PDF](https://doi.org/10.1101/2025.02.18.25322302) | N/A | Rare gain-of-function regulatory mutations explain the missing heritability of bicuspid aortic valve |
+| 比较人工智能与临床医生撰写的模拟初级保健电子健康记录摘要 | Shemtob, L. | [PDF](https://doi.org/10.1101/2025.02.21.25322674) | N/A | Comparing AI- versus clinician-authored summaries of simulated primary care electronic health records |
+| 当结果受到社会和疾病过程影响时，用于健康政策分析的新型决策建模框架 | Cusick, M. M. | [PDF](https://doi.org/10.1101/2025.02.21.25322671) | N/A | A novel decision modeling framework for health policy analyses when outcomes are influenced by social and disease processes |
+| 关于埃塞俄比亚西南部吉马大学医学中心实验室疟疾寄生虫实验室诊断的临床审计。 | Negese, D. G. | [PDF](https://doi.org/10.1101/2025.02.17.25322418) | N/A | Clinical audit on laboratory diagnosis of malaria parasites at Jimma University Medical Center laboratory, Southwest Ethiopia. |
+| 关系型领导力发展项目对社区心理归属感的影响 | Islam, N. | [PDF](https://doi.org/10.1101/2025.02.21.25322652) | N/A | Impacts of a relational leadership development program on psychological sense of community |
+| 首次人体试验、第一阶段、随机、观察者盲法、对照试验，旨在评估新型1型和3型口服脊髓灰质炎减毒活疫苗在健康成人中的安全性和免疫原性。 | Mercer, L. D. | [PDF](https://doi.org/10.1101/2025.02.21.25322566) | N/A | First-in-human, phase 1, randomized, observer-blind, controlled trial to assess the safety and immunogenicity of novel live attenuated type 1 and type 3 oral poliomyelitis vaccines in healthy adults |
+| 基因组学对阿片类药物成瘾的洞察：从基因表达数据中识别基因组变异 | Ajmeriya, S. | [PDF](https://doi.org/10.1101/2025.02.22.25322710) | N/A | Genomic Insights into Opioid Addiction: Identification of genomics variants from Gene Expression data |
+| 患有先天性心脏病的孕妇的母体和胎儿并发症 | Patel, S. | [PDF](https://doi.org/10.1101/2025.02.17.25322188) | N/A | Maternal and Fetal Complications Among Pregnant Women with Congenital Heart Disease |
+| 口腔癌筛查项目参与者口腔风险习惯的变化及其影响因素 | Munpolsri, P. | [PDF](https://doi.org/10.1101/2025.02.20.25322636) | N/A | Changes in oral risk habits and influencing factors among participants in an oral cancer screening program |
+| 评估医用级挪威云杉（Picea abies）树脂软膏的刺激性和致敏性潜力：健康志愿者单盲改良Draize重复刺激斑贴试验
+
+这段文字描述了一项研究，旨在评估医用级挪威云杉树脂软膏对皮肤的刺激性和致敏性。研究采用了单盲改良Draize重复刺激斑贴试验的方法，并在健康志愿者中进行。 | Yamileva, K. | [PDF](https://doi.org/10.1101/2025.02.20.25320648) | N/A | Evaluation of the Irritation and Sensitization Potential of Medical-grade Norway Spruce (Picea abies) Resin Salve: Single-Blind Modified Draize Repeat Insult Patch Test in Healthy Volunteers |
+| 了解低收入环境中有效伤害护理的障碍：对乌干达医学生和交通执法急救人员见解的混合方法分析 | Lule, H. | [PDF](https://doi.org/10.1101/2025.02.22.25322712) | N/A | Understanding barriers to effective injury care in low-income contexts: a mixed methods analysis of insights from medical trainees and traffic law enforcement first responders in Uganda |
+| 中药在治疗2型糖尿病中是否有用？对使用药物及临床影响的系统评价 | Finney, A. | [PDF](https://doi.org/10.1101/2025.02.18.25322375) | N/A | Can Chinese Herbal Medicine Be Useful in Treatment of Type 2 Diabetes Mellitus? A Systematic Review of Medicinals Used and Clinical Impact |
+| 抑郁症与2型糖尿病结果关联的机制和途径：范围综述 | Derese, A. | [PDF](https://doi.org/10.1101/2025.02.21.25322657) | N/A | Mechanisms and Pathways Linking Depression and Type 2 Diabetes Outcomes: A Scoping Review |
+| 将即时预测整合到德国SARI住院数据驱动预测模型集合中 | Wolffram, D. | [PDF](https://doi.org/10.1101/2025.02.21.25322655) | N/A | Integrating Nowcasts into an Ensemble of Data-Driven Forecasting Models for SARI Hospitalizations in Germany |
+| 疾病动态中的风险行为、后向分岔与疫苗有效性 | Pedroza-Meza, I. | [PDF](https://doi.org/10.1101/2025.02.21.25322689) | N/A | Risk Behavior, Backward Bifurcation, and Vaccine Effectiveness in Disease Dynamics. |
+| 多矿物质干预以改善溃疡性结肠炎患者疾病相关及机制性生物标志物的研究 | Aslam, M. N. | [PDF](https://doi.org/10.1101/2025.02.17.25322298) | N/A | A MULTI-MINERAL INTERVENTION TO IMPROVE DISEASE-RELATED AND MECHANISTIC BIOMARKERS IN ULCERATIVE COLITIS PATIENTS |
+| 短式情绪与感受问卷的临床特性：基于巴西高风险队列研究的免费计算器开发 | Jobim, G. d. S. | [PDF](https://doi.org/10.1101/2025.02.17.25322370) | N/A | Clinical properties of the Short Mood and Feelings Questionnaire: Development of a free calculator based on a Brazilian High-Risk Cohort Study |
+| 乌干达东部HIV感染者中严重急性呼吸综合征冠状病毒2（SARS-COV-2）的血液学、免疫学及预后特征：一项回顾性研究 | Otaala, T. | [PDF](https://doi.org/10.1101/2025.02.22.25322708) | N/A | Hematologic, Immunologic and Outcome Characteristics of Severe acute respiratory syndrome 2 (SARS-COV-2) among People Living with HIV in Eastern Uganda: A retrospective study |
+| 评估机器学习和传统统计模型在英国生物银行中预测中风风险的中风遗传责任价值 | Pazoki, R. | [PDF](https://doi.org/10.1101/2025.02.21.25322620) | N/A | Evaluation of Machine Learning and Traditional Statistical Models to Assess the Value of Stroke Genetic Liability for Prediction of Risk of Stroke within the UK Biobank |
+| 挪威、冰岛和芬兰的污水处理厂进出水中的抗生素抗性基因、抗生素残留及微塑料 | Tiwari, A. | [PDF](https://doi.org/10.1101/2025.02.21.25322651) | N/A | Antibiotic resistance genes, antibiotic residues, and microplastics in influent and effluent wastewater from treatment plants in Norway, Iceland, and Finland |
+| 与年龄相关的蓝斑核头端-中部微结构差异：磁共振弛豫测量揭示其在认知衰退中的关键作用
+
+在这项研究中，我们通过磁共振弛豫测量技术，探讨了蓝斑核（Locus Coeruleus, LC）头端-中部微结构随年龄变化的差异，并揭示了这些差异在认知衰退中的关键作用。蓝斑核是大脑中一个重要的神经核团，主要负责去甲肾上腺素的合成与释放，对认知功能有着重要影响。研究发现，随着年龄的增长，蓝斑核头端-中部的微结构发生了显著变化，这些变化与认知功能的下降密切相关。这一发现为理解年龄相关的认知衰退提供了新的视角，并可能为未来的干预策略提供重要线索。 | Bae, J. | [PDF](https://doi.org/10.1101/2025.02.17.25322421) | N/A | Age-related differences in Rostral-Middle Locus Coeruleus Microstructure: A Critical Role in Cognitive Decline Revealed by Magnetic Resonance Relaxometry |
+| 揭示脑震荡报告中的性别差异：SCAT评估自我报告症状评分的详细分析 | Edelstein, R. | [PDF](https://doi.org/10.1101/2025.02.17.25322175) | N/A | Revealing Gender Differences in Concussion Reporting: A Detailed Analysis of SCAT Assessment Self-Report Symptom Ratings |
+| 与摩托车事故相关的神经和肌肉骨骼损伤的全因死亡率和发病率相关的因素：MOTOR试验辅助研究 | Lule, H. | [PDF](https://doi.org/10.1101/2025.02.21.25322634) | N/A | Factors Associated with All-cause Mortality and Morbidity of Motorcycle Crash-Related Neurological and Musculoskeletal Injuries: The MOTOR Trial Ancillary Study |
+| 肠道微生物组对慢性肾病患者尿毒症毒素减少的影响：系统综述与网络荟萃分析 | Cedillo-Flores, R. | [PDF](https://doi.org/10.1101/2025.02.21.25322662) | N/A | Effect of the Gut Microbiome on the reduction of uremic toxins in patients with chronic kidney disease: A systematic review & Network meta-analysis |
+| 喉部和局灶性手部肌张力障碍感觉运动功能障碍中的躯体-认知行动网络 | Wang, Y. | [PDF](https://doi.org/10.1101/2025.02.21.25322612) | N/A | Somato-cognitive action network in laryngeal and focal hand dystonia sensorimotor dysfunction |
+| 对患有轻度认知障碍和痴呆的老年人进行纵向远程睡眠与认知研究：一项前瞻性可行性队列研究 | Gabb, V. G. | [PDF](https://doi.org/10.1101/2025.02.17.25322393) | N/A | Longitudinal remote sleep and cognitive research in older adults with mild cognitive impairment and dementia: a prospective feasibility cohort study |
+| 睡眠增加了局灶性皮质发育不良患者癫痫病灶中的宽带快速振荡。 | Schwoon, N. | [PDF](https://doi.org/10.1101/2025.02.18.25322331) | N/A | Sleep increases broadband fast oscillations in the epileptic focus of patients with focal cortical dysplasia |
+| 术后小儿小脑性缄默综合征的神经认知特征：系统综述 | Horne, B. M. | [PDF](https://doi.org/10.1101/2025.02.21.25322700) | N/A | The Neurocognitive Profile of Post-operative Paediatric Cerebellar Mutism Syndrome: A Systematic Review |
+| 口腔微生物组特征与牙周疾病和大脑健康相关——汉堡城市健康研究中的微生物组网络分析 | Petersen, M. | [PDF](https://doi.org/10.1101/2025.02.22.25322702) | N/A | Oral microbiome profiles relate to periodontal disease and brain health - a microbiome network analysis in the Hamburg City Health Study |
+| 印度医学院中的食物荒漠与食物不安全：一项探索神话与现实的混合方法研究 | J, M. J. | [PDF](https://doi.org/10.1101/2025.02.20.25322444) | N/A | Food Deserts and Food Insecurity in Indian Medical Colleges: A Mixed Methods Study Exploring Myths and Realities |
+| 唐氏综合征青少年、年轻成人和成年人的癌症及治疗后心脏毒性风险 | Buckman, M. | [PDF](https://doi.org/10.1101/2025.02.21.25322697) | N/A | Cancer and Post-therapy Cardiotoxicity Risk in Adolescents, Young Adults, and Adults with Down Syndrome |
+| 基因组测序和群体富集在支持马凡综合征剪接变异解释中的效用 | Walker, S. | [PDF](https://doi.org/10.1101/2025.02.18.25321172) | N/A | Utility of genome sequencing and group-enrichment to support splice variant interpretation in Marfan syndrome |
+| 评估基于人口和基于队列模型在成本效益分析中的影响：以德国婴儿肺炎球菌结合疫苗为例 | Perdrizet, J. | [PDF](https://doi.org/10.1101/2025.02.21.25322688) | N/A | Evaluating the Impact of Population-Based and Cohort-Based Models in Cost-Effectiveness Analysis: A Case Study of Pneumococcal Conjugate Vaccines in Infants in Germany |
+| 2024年新英格兰医院系统呼吸道合胞病毒的基因组流行病学研究 | LaVerriere, E. | [PDF](https://doi.org/10.1101/2025.02.21.25322621) | N/A | Genomic Epidemiology of Respiratory Syncytial Virus in a New England Hospital System, 2024 |
+| 通过hiPSC模型揭示，MYBPC3 (c.194C>T)突变介导的RyR2功能障碍导致了扩张型心肌病的致病表型。 | Xie, M. | [PDF](https://doi.org/10.1101/2025.02.17.25321993) | N/A | MYBPC3 (c.194C>T) mutation-mediated RyR2 dysfunction contributes to pathogenic phenotypes of dilated cardiomyopathy revealed by hiPSC modeling |
+| 心脏移植后儿童和成人的心血管-肾脏-代谢疾病负担 | Huang, S. | [PDF](https://doi.org/10.1101/2025.02.21.25322699) | N/A | Cardiovascular-kidney-metabolic disease burden in children and adults following heart transplantation |
+| 学校年龄ADHD儿童的用药时间：评估社会人口学和临床因素的影响 | Kasinathan, S. S. | [PDF](https://doi.org/10.1101/2025.02.21.25322686) | N/A | Time to Medication in School-Age Children with ADHD: Assessing the Effect of Sociodemographic and Clinical Factors |
+| 超越清单：对饮食失调患者中未被充分认识的减重行为的大规模分析 | Kakar, S. | [PDF](https://doi.org/10.1101/2025.02.17.25322397) | N/A | Beyond the Checklist: A large-scale analysis of under-recognised weight loss behaviours in individuals with eating disorders |
 # MedRxiv 2025-02-22 Papers
 
 | 标题 | 作者 | PDF链接 | 代码仓库 | Title | 
