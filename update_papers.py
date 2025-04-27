@@ -107,17 +107,25 @@ def get_arxiv_papers(query, delay=3):
     results = client.results(search)
     papers = []
     
-    # 问题：多处拼写错误 "auther" 应该为 "author"
-    # 全局替换所有 'auther' 为 'author'
     for result in results:
-        papers.append({
-            "title": result.title,
-            "author": result.authors[0],  # 修正拼写
-            "pdf_link": result.pdf_url,
-            "code_link": code_link,
-            "category": result.categories[0]
-        })
-        time.sleep(3)
+        if result.published.strftime("%Y-%m-%d") == today:
+            code_link = None
+            # Try to find a code link in the links
+            for link in result.links:
+                if "github" in link.href or "gitlab" in link.href:
+                    code_link = link.href
+                    break
+            papers.append({
+                "title": result.title,
+                "author": result.authors[0],
+                "pdf_link": result.pdf_url,
+                "code_link": code_link,
+                "category": result.categories[0]
+            })
+            if len(papers) >= 10:  # 测试模式下限制10篇
+                break
+            time.sleep(3)
+    return papers[:10]  # 双重保险确保数量限制
     
     # papers = []
     # for result in client.results(search):  # Use client.results
@@ -149,17 +157,17 @@ def get_biorxiv_papers():
     papers = []
     with open(jsonl_file, "r") as file:
         for line in file:
+            if len(papers) >= 10:  # 限制10篇
+                break
             json_obj = json.loads(line)
             papers.append({
                 "title": json_obj["title"],
-                "auther":json_obj["authors"].split(';')[0],
-                "pdf_link": "https://doi.org/" + json_obj["doi"],
+                "author": json_obj["authors"].split(';')[0],  # 修正拼写
+                "pdf_link": "https://doi/" + json_obj["doi"],
                 "code_link": None,
             })
-    os.remove("biorxiv.jsonl")
-    return papers
+    return papers[:10]  # 返回前10条
 
-# Function to get today's papers from medrxiv
 def get_medrxiv_papers():
     medrxiv(begin_date=today, end_date=today, save_path="medrxiv.jsonl")
     # medrxiv(begin_date="2024-09-11", end_date="2024-09-11", save_path="medrxiv.jsonl")
@@ -246,12 +254,13 @@ def get_balance():
 
 
 def main():
+    TEST_MODE = True  # 测试模式开关
     query = "cs.NE OR cs.MA OR cs.LG OR cs.CV OR cs.CL OR cs.AI OR q-bio.BM OR q-bio.CB OR q-bio.GN OR q-bio.MN"
 
     manager = PaperManager()
-    arxiv_papers = get_arxiv_papers(query)
-    biorxiv_papers = get_biorxiv_papers()
-    medrxiv_papers = get_medrxiv_papers()
+    arxiv_papers = get_arxiv_papers(query)[:10] if TEST_MODE else get_arxiv_papers(query)
+    biorxiv_papers = get_biorxiv_papers()[:10] if TEST_MODE else get_biorxiv_papers()
+    medrxiv_papers = get_medrxiv_papers()[:10] if TEST_MODE else get_medrxiv_papers()
 
     manager.save_daily_papers(arxiv_papers, "arxiv")
     manager.save_daily_papers(biorxiv_papers, "biorxiv")
