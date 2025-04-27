@@ -1,8 +1,11 @@
 site_name: Arxiv Daily
 nav:
-    - Home: index.md
-    - Arxiv Papers: arxiv_papers.md
-    - BioRxiv Papers: biorxiv_papers.md
-    - MedRxiv Papers: medrxiv_papers.md
+  - 首页: index.md
+  - 历史归档:
+    - 最近更新: daily-papers/latest.md
+    - 按日期查看: 
+      - 索引: index.md
 theme:
     name: 'material'
+extra_css:
+    - docs/new_style.css

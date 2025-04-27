@@ -1,0 +1,22 @@
+.md-sidebar--secondary {
+    display: None;
+    order:2
+}
+
+@media screen and (min-width: 60em) {
+    .md-sidebar--secondary {
+        height:0
+    }
+
+    .no-js .md-sidebar--secondary {
+        height:auto
+    }
+
+    .md-sidebar--secondary:not([hidden]) {
+        display:none
+    }
+
+    .md-sidebar--secondary .md-sidebar__scrollwrap {
+        touch-action:pan-y
+    }
+}
