@@ -50,16 +50,15 @@ class PaperManager:
         
     # 修改PaperManager的表格列定义
     def save_daily_papers(self, papers: list, source: str):
-        with open(filename, "w", encoding="utf-8") as f:
+        filename = self.daily_dir / f"{self.today}-{source}.md"  # 新增路径构造
+        with open(filename, "w", encoding="utf-8") as f:  # 这里使用了未定义的filename
             f.write(f"# {source} {self.today}\n\n")
-            f.write("| 标题 | 作者 | PDF链接 | 代码链接 | 摘要 |\n")  # 新增代码链接列
-            f.write("|------|------|---------|---------|------|\n")
+            f.write("| 标题 | 作者 | PDF链接 |  摘要 |\n")  # 新增代码链接列
+            f.write("|------|------|--------|------|\n")
             for paper in papers:
-                code_link = f"[代码]({paper['code_link']})" if paper.get('code_link') else ""
                 f.write(f"| {paper.get('translated_title', '')} | "
                         f"{paper.get('author', '')} | "
                         f"[PDF]({paper['pdf_link']}) | "
-                        f"{code_link} | "  # 添加代码链接列
                         f"{paper.get('translated_summary', '')} |\n")
     
     def update_index(self, sources: list):
@@ -113,22 +112,10 @@ def get_arxiv_papers(query, delay=3):
     
     # 在arxiv论文处理循环中添加翻译字段
     for result in results:
-        # 同时从链接和摘要提取代码链接
-        code_link = None
-        # 方法1：检查论文链接
-        for link in result.links:
-            if "github" in link.href or "gitlab" in link.href:
-                code_link = link.href
-                break
-        # 方法2：从摘要文本提取
-        if not code_link and hasattr(result, 'summary'):
-            code_link = extract_code_link(result.summary)
-            
         papers.append({
             "title": result.title,
             "author": result.authors[0],
             "pdf_link": result.pdf_url,
-            "code_link": code_link,  # 使用合并后的代码链接
             "category": result.categories[0],
             "translated_title": translate(result.title),  # 新增翻译字段
             "translated_summary": translate(result.summary) if hasattr(result, 'summary') else ""
@@ -174,7 +161,6 @@ def get_biorxiv_papers():
                 "title": json_obj["title"],
                 "author": json_obj["authors"].split(';')[0],
                 "pdf_link": "https://doi.org/" + json_obj["doi"],  # 修正.org缺失
-                "code_link": extract_code_link(json_obj["abstract"]),  # 新增代码链接提取
                 "translated_title": translate(json_obj["title"]),  # 新增翻译字段
                 "translated_summary": ""  # 占位符
             })
@@ -192,7 +178,6 @@ def get_medrxiv_papers():
                 "title": json_obj["title"],
                 "auther":json_obj["authors"].split(';')[0],
                 "pdf_link": "https://doi.org/" + json_obj["doi"],
-                "code_link": None,
             })
     os.remove("medrxiv.jsonl")
     return papers
@@ -202,17 +187,26 @@ def get_medrxiv_papers():
 
 # 问题：翻译指令不清晰
 def translate(text):
-    cc = "请将以下学术论文内容翻译成中文，保持专业术语准确性：\n" + text  # 优化指令
-    response = chat.chat.completions.create(
-        model="deepseek-chat",
-        temperature=0.7,  # 降低随机性
-        messages=[
-            {"role": "system","content":"You are a helpful translator"},
-            {"role": "user", "content": cc},
-            ],
-        stream=False
+    # 添加客户端初始化
+    client = OpenAI(
+        api_key=DEEPSEEK_API_KEY,
+        base_url=DEEPSEEK_API_URL
     )
-    return response.choices[0].message.content
+    
+    try:
+        response = client.chat.completions.create(
+            model="deepseek-chat",
+            temperature=0.3,  # 降低随机性保证翻译准确性
+            messages=[
+                {"role": "system", "content": "您是中英学术翻译专家，严格保留专业术语"},
+                {"role": "user", "content": f"将以下学术内容准确翻译为中文：{text}"}
+            ],
+            timeout=15  # 添加超时设置
+        )
+        return response.choices[0].message.content
+    except Exception as e:
+        print(f"翻译失败: {str(e)}")
+        return text[:100] + " [翻译失败]"  # 返回原文前100字符+错误标记
 
 
 # Function to save papers as Markdown tables
@@ -221,15 +215,14 @@ def translate(text):
 def save_as_markdown(papers, filename, topic):
     with open(filename, "w", encoding="utf-8") as file:  # 改为写入模式
         file.write(f"# {topic} {today} Papers\n\n")
-        file.write("| 标题 | 作者 | PDF链接 | 代码仓库 | Title | \n")
-        file.write("|-------|----------|-----------|---------|--------------| \n")
+        file.write("| 标题 | 作者 | PDF链接 | Title | \n")
+        file.write("|-------|----------|----------|--------------| \n")
         for paper in papers:
             title = paper['title']
             pdf_link = f"[PDF]({paper['pdf_link']})"
-            code_link = f"[Code]({paper['code_link']})" if paper['code_link'] else "N/A"
             translated_title = translate(title)
             auther = paper['auther']
-            file.write(f"| {translated_title} | {auther} | {pdf_link} | {code_link} | {title} |\n")        
+            file.write(f"| {translated_title} | {auther} | {pdf_link} | {title} |\n")        
         file.write(old)
 
 # Function to send email notification
@@ -311,17 +304,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-
-# Add the extract_code_link function here
-def extract_code_link(text):
-    import re
-    patterns = [
-        r'https?://github\.com/[^\s]+',
-        r'https?://gitlab\.com/[^\s]+',
-        r'Code is available at (http\S+)'
-    ]
-    for pattern in patterns:
-        match = re.search(pattern, text)
-        if match:
-            return match.group(1)
-    return None
