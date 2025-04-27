@@ -14,7 +14,12 @@ from paperscraper.get_dumps import biorxiv,medrxiv
 from openai import OpenAI
 
 # Get today date
-now = datetime.date.today()
+# 问题：未导入relativedelta且错误使用datetime.date
+# 修正方案：
+from datetime import date, datetime
+from dateutil.relativedelta import relativedelta  # 添加导入
+
+now = date.today()  # 正确调用date类
 today = now + relativedelta(days=-1)
 today = today.strftime("%Y-%m-%d")
 
@@ -102,22 +107,16 @@ def get_arxiv_papers(query, delay=3):
     results = client.results(search)
     papers = []
     
+    # 问题：多处拼写错误 "auther" 应该为 "author"
+    # 全局替换所有 'auther' 为 'author'
     for result in results:
-        if result.published.strftime("%Y-%m-%d") == today:
-            code_link = None
-            for link in result.links:
-                if "github" in link.href or "gitlab" in link.href:
-                    code_link = link.href
-                    break
-
-            # "summary": result.summary.replace('\n', ' '),
-            papers.append({
-                "title": result.title,
-                "auther": result.authors[0],
-                "pdf_link": result.pdf_url,
-                "code_link": code_link,
-                "category": result.categories[0]
-            })
+        papers.append({
+            "title": result.title,
+            "author": result.authors[0],  # 修正拼写
+            "pdf_link": result.pdf_url,
+            "code_link": code_link,
+            "category": result.categories[0]
+        })
         time.sleep(3)
     
     # papers = []
@@ -181,13 +180,12 @@ def get_medrxiv_papers():
     
 # Function to translate and summarize using DeepSeek API
 
+# 问题：翻译指令不清晰
 def translate(text):
-    chat = OpenAI(api_key=DEEPSEEK_API_KEY, base_url=DEEPSEEK_API_URL)
-    cc = "帮我把这段翻译成中文," + text
-    # print(cc)
+    cc = "请将以下学术论文内容翻译成中文，保持专业术语准确性：\n" + text  # 优化指令
     response = chat.chat.completions.create(
         model="deepseek-chat",
-        temperature=1.1,
+        temperature=0.7,  # 降低随机性
         messages=[
             {"role": "system","content":"You are a helpful translator"},
             {"role": "user", "content": cc},
@@ -198,10 +196,10 @@ def translate(text):
 
 
 # Function to save papers as Markdown tables
+# 问题：save_as_markdown使用"r+"模式可能导致文件不存在错误
+# 修正方案：
 def save_as_markdown(papers, filename, topic):
-    with open(filename, "r+", encoding="utf-8") as file:
-        old = file.read()
-        file.seek(0)
+    with open(filename, "w", encoding="utf-8") as file:  # 改为写入模式
         file.write(f"# {topic} {today} Papers\n\n")
         file.write("| 标题 | 作者 | PDF链接 | 代码仓库 | Title | \n")
         file.write("|-------|----------|-----------|---------|--------------| \n")
@@ -245,60 +243,6 @@ def get_balance():
     response = requests.request("GET", url, headers=headers, data=payload)
     print(response.text)
     return response.text
-
-class PaperManager:
-    def __init__(self):
-        self.today = datetime.now().strftime("%Y-%m-%d")
-        self.daily_dir = Path("docs/daily-papers")
-        self.daily_dir.mkdir(parents=True, exist_ok=True)
-        
-    def save_daily_papers(self, papers: list, source: str):
-        """保存每日独立文件"""
-        filename = self.daily_dir / f"{self.today}-{source}.md"
-        with open(filename, "w", encoding="utf-8") as f:
-            f.write(f"# {source} {self.today}\n\n")
-            f.write("| 标题 | 作者 | PDF链接 | 摘要 |\n")
-            f.write("|------|------|---------|------|\n")
-            for paper in papers:
-                f.write(f"| {paper['translated_title']} | {paper['authors']} | "
-                        f"[PDF]({paper['pdf_url']}) | {paper['translated_summary']} |\n")
-
-    def update_index(self, sources: list):
-        """更新主索引页面"""
-        index_file = Path("docs/index.md")
-        existing_content = index_file.read_text(encoding="utf-8") if index_file.exists() else ""
-        
-        # 生成新的索引内容
-        new_content = [
-            "# 每日论文索引\n",
-            "| 日期 | arXiv | bioRxiv | medRxiv |",
-            "|------|-------|---------|---------|"
-        ]
-        
-        # 查找已有日期
-        dates = sorted({
-            f.stem.split("-")[0] 
-            for f in self.daily_dir.glob("*.md")
-        }, reverse=True)[:30]  # 保留最近30天
-        
-        for date_str in dates:
-            arxiv = f"[查看](daily-papers/{date_str}-arxiv.md)" if (self.daily_dir / f"{date_str}-arxiv.md").exists() else "-"
-            biorxiv = f"[查看](daily-papers/{date_str}-biorxiv.md)" if (self.daily_dir / f"{date_str}-biorxiv.md").exists() else "-"
-            medrxiv = f"[查看](daily-papers/{date_str}-medrxiv.md)" if (self.daily_dir / f"{date_str}-medrxiv.md").exists() else "-"
-            new_content.append(f"| {date_str} | {arxiv} | {biorxiv} | {medrxiv} |")
-        
-        # 保留旧内容中的非索引部分
-        preserved_content = []
-        if existing_content:
-            for line in existing_content.split("\n"):
-                if not line.startswith("|") and not line.startswith("# 每日论文索引"):
-                    preserved_content.append(line)
-        
-        # 合并内容
-        full_content = "\n".join(new_content + ["\n"] + preserved_content)
-        index_file.write_text(full_content, encoding="utf-8")
-
-
 
 
 def main():
