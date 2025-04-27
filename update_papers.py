@@ -48,17 +48,20 @@ class PaperManager:
         self.daily_dir = Path("docs/daily-papers")
         self.daily_dir.mkdir(parents=True, exist_ok=True)
         
+    # 修改PaperManager的表格列定义
     def save_daily_papers(self, papers: list, source: str):
-        """保存每日独立文件"""
-        filename = self.daily_dir / f"{self.today}-{source}.md"
         with open(filename, "w", encoding="utf-8") as f:
             f.write(f"# {source} {self.today}\n\n")
-            f.write("| 标题 | 作者 | PDF链接 | 摘要 |\n")
-            f.write("|------|------|---------|------|\n")
+            f.write("| 标题 | 作者 | PDF链接 | 代码链接 | 摘要 |\n")  # 新增代码链接列
+            f.write("|------|------|---------|---------|------|\n")
             for paper in papers:
-                f.write(f"| {paper['translated_title']} | {paper['authors']} | "
-                        f"[PDF]({paper['pdf_url']}) | {paper['translated_summary']} |\n")
-
+                code_link = f"[代码]({paper['code_link']})" if paper.get('code_link') else ""
+                f.write(f"| {paper.get('translated_title', '')} | "
+                        f"{paper.get('author', '')} | "
+                        f"[PDF]({paper['pdf_link']}) | "
+                        f"{code_link} | "  # 添加代码链接列
+                        f"{paper.get('translated_summary', '')} |\n")
+    
     def update_index(self, sources: list):
         """更新主索引页面"""
         index_file = Path("docs/index.md")
@@ -96,6 +99,7 @@ class PaperManager:
 
 
 # Function to get today's papers from Arxiv
+# 修改arxiv论文处理中的代码链接提取逻辑
 def get_arxiv_papers(query, delay=3):
     client = arxiv.Client()
     search = arxiv.Search(
@@ -107,24 +111,31 @@ def get_arxiv_papers(query, delay=3):
     results = client.results(search)
     papers = []
     
+    # 在arxiv论文处理循环中添加翻译字段
     for result in results:
-        if result.published.strftime("%Y-%m-%d") == today:
-            code_link = None
-            # Try to find a code link in the links
-            for link in result.links:
-                if "github" in link.href or "gitlab" in link.href:
-                    code_link = link.href
-                    break
-            papers.append({
-                "title": result.title,
-                "author": result.authors[0],
-                "pdf_link": result.pdf_url,
-                "code_link": code_link,
-                "category": result.categories[0]
-            })
-            if len(papers) >= 10:  # 测试模式下限制10篇
+        # 同时从链接和摘要提取代码链接
+        code_link = None
+        # 方法1：检查论文链接
+        for link in result.links:
+            if "github" in link.href or "gitlab" in link.href:
+                code_link = link.href
                 break
-            time.sleep(3)
+        # 方法2：从摘要文本提取
+        if not code_link and hasattr(result, 'summary'):
+            code_link = extract_code_link(result.summary)
+            
+        papers.append({
+            "title": result.title,
+            "author": result.authors[0],
+            "pdf_link": result.pdf_url,
+            "code_link": code_link,  # 使用合并后的代码链接
+            "category": result.categories[0],
+            "translated_title": translate(result.title),  # 新增翻译字段
+            "translated_summary": translate(result.summary) if hasattr(result, 'summary') else ""
+        })
+        if len(papers) >= 10:  # 测试模式下限制10篇
+            break
+        time.sleep(3)
     return papers[:10]  # 双重保险确保数量限制
     
     # papers = []
@@ -161,9 +172,11 @@ def get_biorxiv_papers():
             json_obj = json.loads(line)
             papers.append({
                 "title": json_obj["title"],
-                "author": json_obj["authors"].split(';')[0],  # 修正拼写
-                "pdf_link": "https://doi/" + json_obj["doi"],
-                "code_link": None,
+                "author": json_obj["authors"].split(';')[0],
+                "pdf_link": "https://doi.org/" + json_obj["doi"],  # 修正.org缺失
+                "code_link": extract_code_link(json_obj["abstract"]),  # 新增代码链接提取
+                "translated_title": translate(json_obj["title"]),  # 新增翻译字段
+                "translated_summary": ""  # 占位符
             })
     return papers[:10]  # 返回前10条
 
@@ -297,3 +310,19 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+# 新增代码链接提取函数
+def extract_code_link(text):
+    import re
+    # 匹配GitHub/GitLab链接
+    patterns = [
+        r'https?://github\.com/[^\s]+',
+        r'https?://gitlab\.com/[^\s]+',
+        r'Code is available at (http\S+)'
+    ]
+    for pattern in patterns:
+        match = re.search(pattern, text)
+        if match:
+            return match.group(1)
+    return None
