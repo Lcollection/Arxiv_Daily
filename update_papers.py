@@ -2,6 +2,7 @@ import json
 import requests
 from bs4 import BeautifulSoup
 from datetime import datetime
+from pathlib import Path
 import time
 import arxiv
 import os
@@ -29,6 +30,59 @@ FAMOUS_QUOTES = [
     "The best way to predict the future is to invent it. - Alan Kay",
     "Do not wait to strike till the iron is hot; but make it hot by striking. - William Butler Yeats"
 ]
+
+class PaperManager:
+    def __init__(self):
+        self.today = datetime.now().strftime("%Y-%m-%d")
+        self.daily_dir = Path("docs/daily-papers")
+        self.daily_dir.mkdir(parents=True, exist_ok=True)
+        
+    def save_daily_papers(self, papers: list, source: str):
+        """保存每日独立文件"""
+        filename = self.daily_dir / f"{self.today}-{source}.md"
+        with open(filename, "w", encoding="utf-8") as f:
+            f.write(f"# {source} {self.today}\n\n")
+            f.write("| 标题 | 作者 | PDF链接 | 摘要 |\n")
+            f.write("|------|------|---------|------|\n")
+            for paper in papers:
+                f.write(f"| {paper['translated_title']} | {paper['authors']} | "
+                        f"[PDF]({paper['pdf_url']}) | {paper['translated_summary']} |\n")
+
+    def update_index(self, sources: list):
+        """更新主索引页面"""
+        index_file = Path("docs/index.md")
+        existing_content = index_file.read_text(encoding="utf-8") if index_file.exists() else ""
+        
+        # 生成新的索引内容
+        new_content = [
+            "# 每日论文索引\n",
+            "| 日期 | arXiv | bioRxiv | medRxiv |",
+            "|------|-------|---------|---------|"
+        ]
+        
+        # 查找已有日期
+        dates = sorted({
+            f.stem.split("-")[0] 
+            for f in self.daily_dir.glob("*.md")
+        }, reverse=True)[:30]  # 保留最近30天
+        
+        for date_str in dates:
+            arxiv = f"[查看](daily-papers/{date_str}-arxiv.md)" if (self.daily_dir / f"{date_str}-arxiv.md").exists() else "-"
+            biorxiv = f"[查看](daily-papers/{date_str}-biorxiv.md)" if (self.daily_dir / f"{date_str}-biorxiv.md").exists() else "-"
+            medrxiv = f"[查看](daily-papers/{date_str}-medrxiv.md)" if (self.daily_dir / f"{date_str}-medrxiv.md").exists() else "-"
+            new_content.append(f"| {date_str} | {arxiv} | {biorxiv} | {medrxiv} |")
+        
+        # 保留旧内容中的非索引部分
+        preserved_content = []
+        if existing_content:
+            for line in existing_content.split("\n"):
+                if not line.startswith("|") and not line.startswith("# 每日论文索引"):
+                    preserved_content.append(line)
+        
+        # 合并内容
+        full_content = "\n".join(new_content + ["\n"] + preserved_content)
+        index_file.write_text(full_content, encoding="utf-8")
+
 
 # Function to get today's papers from Arxiv
 def get_arxiv_papers(query, delay=3):
@@ -193,17 +247,23 @@ def get_balance():
     print(response.text)
     return response.text
 
-# Main function
+
+
 def main():
+    
+    manager = PaperManager()
+    
     query = "cs.AI OR cs.LG"
 
     arxiv_papers = get_arxiv_papers(query)
     biorxiv_papers = get_biorxiv_papers()
     medrxiv_papers = get_medrxiv_papers()
 
-    save_as_markdown(arxiv_papers, "docs/arxiv_papers.md", "Arxiv")
-    save_as_markdown(biorxiv_papers, "docs/biorxiv_papers.md", "BioRxiv")
-    save_as_markdown(medrxiv_papers, "docs/medrxiv_papers.md", "MedRxiv")
+    manager.save_daily_papers(arxiv_papers, "arxiv")
+    manager.save_daily_papers(biorxiv_papers, "biorxiv")
+    manager.save_daily_papers(medrxiv_papers, "medrxiv")
+    
+    manager.update_index(["arxiv", "biorxiv", "medrxiv"])
 
     build_mkdocs_site()
 
