@@ -312,10 +312,9 @@ if __name__ == "__main__":
     main()
 
 
-# 新增代码链接提取函数
+# Add the extract_code_link function here
 def extract_code_link(text):
     import re
-    # 匹配GitHub/GitLab链接
     patterns = [
         r'https?://github\.com/[^\s]+',
         r'https?://gitlab\.com/[^\s]+',
