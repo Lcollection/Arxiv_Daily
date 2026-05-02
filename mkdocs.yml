@@ -2,6 +2,8 @@ site_name: Arxiv Daily
 nav:
   - 首页: index.md
   - Agent API: api.md
+  - 配置说明: configuration.md
+  - 项目结构: project-structure.md
   - 历史归档:
     - 最近更新: daily-papers/latest.md
     - 按日期查看: daily-papers/archive.md
@@ -9,13 +11,32 @@ nav:
     - bioRxiv: biorxiv_papers.md
     - medRxiv: medrxiv_papers.md
 theme:
-    name: 'material'
+  name: material
+  language: zh
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+  palette:
+    - scheme: default
+      primary: teal
+      accent: amber
 plugins:
   - search
 hooks:
   - hooks/search_exclude.py
 extra_css:
-    - new_style.css
+  - new_style.css
+extra_javascript:
+  - assets/javascripts/paper_export.js
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - tables
 validation:
   nav:
     omitted_files: ignore

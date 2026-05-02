@@ -12,6 +12,7 @@ import time
 from datetime import UTC, date, datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
+from html import escape
 from pathlib import Path
 
 
@@ -26,8 +27,8 @@ def env_int(name: str, default: int, minimum: int = 1) -> int:
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 
-SMTP_SERVER = os.getenv("SMTP_SERVER", "smtp.163.com")
-SMTP_PORT = int(os.getenv("SMTP_PORT", "25"))
+SMTP_SERVER = os.getenv("SMTP_SERVER") or "smtp.163.com"
+SMTP_PORT = env_int("SMTP_PORT", 25)
 SMTP_USERNAME = os.getenv("SMTP_USERNAME")
 SMTP_PASSWORD = os.getenv("SMTP_PASSWORD")
 EMAIL_RECIPIENT = os.getenv("EMAIL_RECIPIENT")
@@ -44,10 +45,11 @@ RXIV_DOMAINS = {
 }
 
 DEFAULT_QUERY = (
-    "cs.NE OR cs.MA OR cs.LG OR cs.CV OR cs.CL OR cs.AI "
-    "OR q-bio.BM OR q-bio.CB OR q-bio.GN OR q-bio.MN"
+    "cat:cs.NE OR cat:cs.MA OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:cs.AI "
+    "OR cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:q-bio.MN"
 )
 API_INDEX_PAGE_SIZE = env_int("API_INDEX_PAGE_SIZE", 100)
+ARXIV_LOOKBACK_DAYS = env_int("ARXIV_LOOKBACK_DAYS", 5, minimum=0)
 
 FAMOUS_QUOTES = [
     "The only way to do great work is to love what you do. - Steve Jobs",
@@ -86,6 +88,10 @@ def clean_text(value) -> str:
     return re.sub(r"\s+", " ", text).strip()
 
 
+def html_text(value) -> str:
+    return escape(clean_text(value), quote=True)
+
+
 def markdown_cell(value) -> str:
     text = clean_text(value)
     if not text:
@@ -98,6 +104,34 @@ def atomic_write(path: Path, content: str) -> None:
     tmp_path = path.with_suffix(path.suffix + ".tmp")
     tmp_path.write_text(content, encoding="utf-8")
     tmp_path.replace(path)
+
+
+def without_generated_at(value):
+    if isinstance(value, dict):
+        return {key: without_generated_at(item) for key, item in value.items() if key != "generated_at"}
+    if isinstance(value, list):
+        return [without_generated_at(item) for item in value]
+    return value
+
+
+def stable_generated_payload(path: Path, payload: dict) -> dict:
+    if "generated_at" not in payload or not path.exists():
+        return payload
+    try:
+        existing = json.loads(path.read_text(encoding="utf-8"))
+    except json.JSONDecodeError:
+        return payload
+
+    existing_generated_at = clean_text(existing.get("generated_at"))
+    if existing_generated_at and without_generated_at(existing) == without_generated_at(payload):
+        stable_payload = dict(payload)
+        stable_payload["generated_at"] = existing_generated_at
+        return stable_payload
+    return payload
+
+
+def write_json_payload(path: Path, payload: dict) -> None:
+    atomic_write(path, json_dump(stable_generated_payload(path, payload)))
 
 
 def source_slug(source: str) -> str:
@@ -148,6 +182,31 @@ def extract_pdf_url(value: str) -> str:
     if text.startswith("http://") or text.startswith("https://"):
         return text
     return ""
+
+
+def parse_keywords(value: str) -> list[str]:
+    if not value:
+        return []
+    return [
+        clean_text(term).lower()
+        for term in re.split(r"[,;\n]", value)
+        if clean_text(term)
+    ]
+
+
+def matches_keywords(raw: dict, include_terms: list[str], exclude_terms: list[str]) -> bool:
+    haystack = " ".join(
+        [
+            clean_text(raw.get("title")),
+            clean_text(raw.get("summary")),
+            clean_text(raw.get("abstract")),
+        ]
+    ).lower()
+    if include_terms and not any(term in haystack for term in include_terms):
+        return False
+    if exclude_terms and any(term in haystack for term in exclude_terms):
+        return False
+    return True
 
 
 def paper_id(date_str: str, source: str, paper: dict) -> str:
@@ -255,6 +314,7 @@ def normalize_paper(raw: dict, translate_enabled: bool = True) -> dict:
         "author": first_author(raw.get("author") or raw.get("authors") or raw.get("auther")),
         "pdf_link": clean_text(raw.get("pdf_link") or raw.get("pdf_url") or raw.get("url") or doi_link(raw.get("doi", ""))),
         "paper_url": clean_text(raw.get("paper_url") or raw.get("entry_url") or doi_link(raw.get("doi", ""))),
+        "published_date": clean_text(raw.get("published_date") or raw.get("published")),
         "summary": summary,
         "translated_summary": translated_summary,
     }
@@ -266,10 +326,17 @@ def valid_paper(paper: dict) -> bool:
     )
 
 
-def get_arxiv_papers(query: str, target_date: str, limit: int, translate_enabled: bool) -> list:
+def get_arxiv_papers(
+    query: str,
+    target_date: str,
+    limit: int,
+    translate_enabled: bool,
+    lookback_days: int = ARXIV_LOOKBACK_DAYS,
+) -> list:
     import arxiv
 
     target = datetime.strptime(target_date, "%Y-%m-%d").date()
+    earliest = target - timedelta(days=max(0, lookback_days))
     client = arxiv.Client()
     search = arxiv.Search(
         query=query,
@@ -279,12 +346,16 @@ def get_arxiv_papers(query: str, target_date: str, limit: int, translate_enabled
     )
 
     papers = []
+    fallback_papers = []
     for result in client.results(search):
         published = result.published.date()
         if published > target:
             continue
         if published < target:
-            break
+            if papers:
+                break
+            if published < earliest:
+                break
 
         title = clean_text(result.title)
         summary = clean_text(getattr(result, "summary", ""))
@@ -293,21 +364,45 @@ def get_arxiv_papers(query: str, target_date: str, limit: int, translate_enabled
             "author": str(result.authors[0]) if result.authors else "",
             "pdf_link": result.pdf_url,
             "paper_url": result.entry_id,
+            "published_date": published.isoformat(),
             "summary": summary,
         }
         paper = normalize_paper(raw, translate_enabled)
         if valid_paper(paper):
-            papers.append(paper)
-        if len(papers) >= limit:
+            if published == target:
+                papers.append(paper)
+            elif not papers:
+                fallback_papers.append(paper)
+
+        collected = papers if papers else fallback_papers
+        if len(collected) >= limit:
             break
         time.sleep(1)
-    return papers
+
+    if papers:
+        return papers
+    if fallback_papers:
+        fallback_dates = sorted({paper["published_date"] for paper in fallback_papers if paper.get("published_date")})
+        print(
+            f"No arXiv papers found for {target_date}; "
+            f"using {len(fallback_papers[:limit])} recent papers from {', '.join(fallback_dates)}."
+        )
+    return fallback_papers[:limit]
 
 
-def get_rxiv_papers(source: str, target_date: str, limit: int, translate_enabled: bool) -> list:
+def get_rxiv_papers(
+    source: str,
+    target_date: str,
+    limit: int,
+    translate_enabled: bool,
+    include_terms: list[str] | None = None,
+    exclude_terms: list[str] | None = None,
+) -> list:
     from paperscraper.get_dumps import biorxiv, medrxiv
 
     fetcher = biorxiv if source == "biorxiv" else medrxiv
+    include_terms = include_terms or []
+    exclude_terms = exclude_terms or []
     fd, tmp_name = tempfile.mkstemp(prefix=f"{source}-{target_date}-", suffix=".jsonl")
     os.close(fd)
     tmp_path = Path(tmp_name)
@@ -330,8 +425,11 @@ def get_rxiv_papers(source: str, target_date: str, limit: int, translate_enabled
                     "author": first_author(item.get("authors", "")),
                     "pdf_link": rxiv_pdf_link(source, item.get("doi", "")),
                     "paper_url": doi_link(item.get("doi", "")),
+                    "published_date": clean_text(item.get("date") or item.get("published_date") or target_date),
                     "summary": item.get("abstract", ""),
                 }
+                if not matches_keywords(raw, include_terms, exclude_terms):
+                    continue
                 paper = normalize_paper(raw, translate_enabled)
                 if valid_paper(paper):
                     papers.append(paper)
@@ -380,12 +478,13 @@ class PaperManager:
 
     def write_paginated_api_payload(self, path: Path, payload: dict, item_key: str, items: list) -> None:
         page_dir = path.with_suffix("")
-        remove_stale_json_files(page_dir)
         page_dir.mkdir(parents=True, exist_ok=True)
 
         pages = []
+        expected_page_paths = set()
         for page_number, page_items in chunked(items, API_INDEX_PAGE_SIZE):
             page_path = page_dir / f"{page_number:04d}.json"
+            expected_page_paths.add(page_path)
             page_payload = {
                 "version": payload.get("version", 1),
                 "generated_at": payload.get("generated_at", ""),
@@ -398,7 +497,7 @@ class PaperManager:
             for key in ("source", "source_label", "latest_date"):
                 if key in payload:
                     page_payload[key] = payload[key]
-            atomic_write(page_path, json_dump(page_payload))
+            write_json_payload(page_path, page_payload)
             pages.append(
                 {
                     "page": page_number,
@@ -406,6 +505,10 @@ class PaperManager:
                     "api_path": self.api_public_path(page_path),
                 }
             )
+
+        for stale_path in page_dir.glob("*.json"):
+            if stale_path not in expected_page_paths:
+                stale_path.unlink()
 
         manifest = dict(payload)
         manifest.pop(item_key, None)
@@ -418,7 +521,7 @@ class PaperManager:
                 "pages": pages,
             }
         )
-        atomic_write(path, json_dump(manifest))
+        write_json_payload(path, manifest)
 
     def save_daily_papers(self, papers: list, source: str) -> None:
         source = source_slug(source)
@@ -439,8 +542,8 @@ class PaperManager:
         else:
             lines.extend(
                 [
-                    "| 标题 | 作者 | PDF链接 | 摘要 |",
-                    "|------|------|--------|------|",
+                    "| 标题 | 作者 | 发布日期 | PDF链接 | 摘要 |",
+                    "|------|------|----------|--------|------|",
                 ]
             )
             for paper in normalized:
@@ -451,6 +554,7 @@ class PaperManager:
                         [
                             markdown_cell(paper.get("translated_title") or paper.get("title")),
                             markdown_cell(paper.get("author")),
+                            markdown_cell(paper.get("published_date") or self.target_date),
                             pdf_link,
                             markdown_cell(paper.get("translated_summary") or paper.get("summary")),
                         ]
@@ -548,7 +652,7 @@ class PaperManager:
 
     def _paper_api_record(self, date_str: str, source: str, paper: dict, index: int) -> dict:
         normalized = normalize_paper(paper, translate_enabled=False)
-        return {
+        record = {
             "id": paper_id(date_str, source, normalized),
             "date": date_str,
             "source": source,
@@ -562,6 +666,10 @@ class PaperManager:
             "paper_url": clean_text(normalized.get("paper_url")),
             "rank": index + 1,
         }
+        published_date = clean_text(normalized.get("published_date"))
+        if published_date:
+            record["published_date"] = published_date
+        return record
 
     def write_source_raw(self, date_str: str, source: str, papers: list) -> None:
         records = [
@@ -617,6 +725,7 @@ class PaperManager:
 
             translated_title = cell_at("标题", 0)
             author = cell_at("作者", 1)
+            published_date = cell_at("发布日期")
             pdf_url = extract_pdf_url(cell_at("PDF", 2))
             if not translated_title or not pdf_url or pdf_url.lower() == "none":
                 continue
@@ -632,6 +741,8 @@ class PaperManager:
                     "translated_summary": summary,
                 }
             )
+            if published_date:
+                papers[-1]["published_date"] = published_date
         return papers
 
     def source_api_payload(self, date_str: str, source: str) -> dict:
@@ -687,8 +798,8 @@ class PaperManager:
         for date_str in dates:
             daily_payload = self.daily_api_payload(date_str)
             daily_path = self.api_daily_dir / f"{date_str}.json"
-            daily_payload["generated_at"] = self.existing_generated_at(daily_path) or generated_at
-            atomic_write(daily_path, json_dump(daily_payload))
+            daily_payload["generated_at"] = generated_at
+            write_json_payload(daily_path, daily_payload)
             if latest_payload is None:
                 latest_payload = dict(daily_payload)
                 latest_payload["generated_at"] = generated_at
@@ -727,9 +838,9 @@ class PaperManager:
             },
         }
         self.write_paginated_api_payload(self.api_dir / "index.json", index_payload, "dates", date_entries)
-        atomic_write(
+        write_json_payload(
             self.api_dir / "latest.json",
-            json_dump(latest_payload or {"version": 1, "generated_at": generated_at, "count": 0, "papers": []}),
+            latest_payload or {"version": 1, "generated_at": generated_at, "count": 0, "papers": []},
         )
 
         for source in SOURCE_ORDER:
@@ -801,6 +912,8 @@ class PaperManager:
                 lines.append(f"- [{title}]({paper['pdf_url']})")
                 if paper["author"]:
                     lines.append(f"  - 作者: {paper['author']}")
+                if paper.get("published_date"):
+                    lines.append(f"  - 发布日期: {paper['published_date']}")
                 if paper["title"] and paper["title"] != title:
                     lines.append(f"  - 原题: {paper['title']}")
                 if paper["paper_url"]:
@@ -890,16 +1003,94 @@ class PaperManager:
             atomic_write(self.daily_dir / "latest.md", "# 最近更新\n\n暂无论文归档。\n")
             return
 
+        payload = self.daily_api_payload(latest_date)
+        latest_page_href = f"../{latest_date}/"
         lines = [
             "# 最近更新",
             "",
-            f"最近更新日期：[{latest_date}]({latest_date}.md)",
+            '<div class="paper-overview">',
+            (
+                '<div class="paper-overview__item">'
+                '<span>更新日期</span>'
+                f'<strong><a href="{latest_page_href}">{latest_date}</a></strong>'
+                "</div>"
+            ),
+            (
+                '<div class="paper-overview__item">'
+                '<span>论文总数</span>'
+                f"<strong>{payload['count']}</strong>"
+                "</div>"
+            ),
+            (
+                '<div class="paper-overview__item">'
+                '<span>数据接口</span>'
+                '<strong><a href="../../api/latest.json">latest.json</a></strong>'
+                "</div>"
+            ),
+            "</div>",
             "",
-            "| 来源 | 页面 |",
-            "|------|------|",
+            "## 来源概览",
+            "",
+            '<div class="paper-source-grid">',
         ]
         for source in SOURCE_ORDER:
-            lines.append(f"| {SOURCE_LABELS[source]} | {self._source_link(latest_date, source, True)} |")
+            source_payload = payload["sources"][source]
+            source_href = f"../{latest_date}-{source}/"
+            lines.extend(
+                [
+                    '<div class="paper-source-card">',
+                    f"<span>{SOURCE_LABELS[source]}</span>",
+                    f"<strong>{source_payload['count']} 篇</strong>",
+                    f'<a href="{source_href}">查看来源页面</a>',
+                    "</div>",
+                ]
+            )
+        lines.extend(
+            [
+                "</div>",
+                "",
+                "## 当期论文",
+                "",
+            ]
+        )
+
+        papers = payload["papers"]
+        if not papers:
+            lines.extend(['<div class="paper-note">当天没有抓取到有效论文。</div>', ""])
+        else:
+            lines.append('<div class="paper-list">')
+            for paper in papers:
+                title = html_text(paper.get("translated_title") or paper.get("title") or "Untitled")
+                source_label = html_text(paper.get("source_label") or paper.get("source"))
+                author = html_text(paper.get("author"))
+                summary = html_text(paper.get("translated_summary") or paper.get("summary"))
+                pdf_url = html_text(paper.get("pdf_url"))
+                paper_url = html_text(paper.get("paper_url"))
+                published_date = html_text(paper.get("published_date"))
+                meta_parts = [source_label]
+                if published_date:
+                    meta_parts.append(published_date)
+                if author:
+                    meta_parts.append(author)
+                lines.extend(
+                    [
+                        '<article class="paper-item">',
+                        f"<h3>{title}</h3>",
+                        f'<span class="paper-item__meta">{" / ".join(meta_parts)}</span>',
+                    ]
+                )
+                if summary:
+                    lines.append(f"<p>{summary}</p>")
+
+                links = []
+                if pdf_url:
+                    links.append(f'<a href="{pdf_url}">PDF</a>')
+                if paper_url and paper_url != pdf_url:
+                    links.append(f'<a href="{paper_url}">论文页面</a>')
+                if links:
+                    lines.append(f'<div class="paper-item__links">{"".join(links)}</div>')
+                lines.append("</article>")
+            lines.append("</div>")
         lines.append("")
         atomic_write(self.daily_dir / "latest.md", "\n".join(lines))
 
@@ -1013,11 +1204,39 @@ def build_email_body(target_date: str, counts: dict) -> str:
     )
 
 
-def fetch_all_sources(target_date: str, query: str, limit: int, translate_enabled: bool) -> dict:
+def fetch_all_sources(
+    target_date: str,
+    query: str,
+    limit: int,
+    translate_enabled: bool,
+    arxiv_lookback_days: int,
+    rxiv_include_terms: list[str],
+    rxiv_exclude_terms: list[str],
+) -> dict:
     fetchers = {
-        "arxiv": lambda: get_arxiv_papers(query, target_date, limit, translate_enabled),
-        "biorxiv": lambda: get_rxiv_papers("biorxiv", target_date, limit, translate_enabled),
-        "medrxiv": lambda: get_rxiv_papers("medrxiv", target_date, limit, translate_enabled),
+        "arxiv": lambda: get_arxiv_papers(
+            query,
+            target_date,
+            limit,
+            translate_enabled,
+            lookback_days=arxiv_lookback_days,
+        ),
+        "biorxiv": lambda: get_rxiv_papers(
+            "biorxiv",
+            target_date,
+            limit,
+            translate_enabled,
+            include_terms=rxiv_include_terms,
+            exclude_terms=rxiv_exclude_terms,
+        ),
+        "medrxiv": lambda: get_rxiv_papers(
+            "medrxiv",
+            target_date,
+            limit,
+            translate_enabled,
+            include_terms=rxiv_include_terms,
+            exclude_terms=rxiv_exclude_terms,
+        ),
     }
 
     fetched = {}
@@ -1036,9 +1255,12 @@ def fetch_all_sources(target_date: str, query: str, limit: int, translate_enable
 
 def parse_args() -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Update daily paper pages.")
-    parser.add_argument("--date", default=os.getenv("PAPER_DATE", default_target_date()))
-    parser.add_argument("--limit", type=int, default=int(os.getenv("PAPER_LIMIT", "10")))
-    parser.add_argument("--query", default=os.getenv("ARXIV_QUERY", DEFAULT_QUERY))
+    parser.add_argument("--date", default=os.getenv("PAPER_DATE") or default_target_date())
+    parser.add_argument("--limit", type=int, default=env_int("PAPER_LIMIT", 10))
+    parser.add_argument("--query", default=os.getenv("ARXIV_QUERY") or DEFAULT_QUERY)
+    parser.add_argument("--arxiv-lookback-days", type=int, default=ARXIV_LOOKBACK_DAYS)
+    parser.add_argument("--rxiv-keywords", default=os.getenv("RXIV_KEYWORDS", ""))
+    parser.add_argument("--rxiv-exclude-keywords", default=os.getenv("RXIV_EXCLUDE_KEYWORDS", ""))
     parser.add_argument("--no-translate", action="store_true")
     parser.add_argument("--skip-build", action="store_true")
     parser.add_argument("--skip-email", action="store_true")
@@ -1055,8 +1277,12 @@ def main() -> None:
     target_date = validate_date(args.date)
     if args.limit < 1:
         raise ValueError("--limit must be greater than 0")
+    if args.arxiv_lookback_days < 0:
+        raise ValueError("--arxiv-lookback-days must be greater than or equal to 0")
 
     manager = PaperManager(target_date)
+    rxiv_include_terms = parse_keywords(args.rxiv_keywords)
+    rxiv_exclude_terms = parse_keywords(args.rxiv_exclude_keywords)
 
     if args.migrate_legacy:
         migrated = manager.migrate_legacy_source_pages()
@@ -1078,6 +1304,9 @@ def main() -> None:
         query=args.query,
         limit=args.limit,
         translate_enabled=not args.no_translate,
+        arxiv_lookback_days=args.arxiv_lookback_days,
+        rxiv_include_terms=rxiv_include_terms,
+        rxiv_exclude_terms=rxiv_exclude_terms,
     )
 
     for source in SOURCE_ORDER:

@@ -3,7 +3,32 @@ name: Schedule Papers Update
 on:
   schedule:
     - cron: '0 23 * * *'  # UTC 23:00, Beijing 07:00
-  workflow_dispatch:  # 手动触发
+  workflow_dispatch:
+    inputs:
+      paper_date:
+        description: 'Target date, for example 2026-05-02. Leave blank to use yesterday in Asia/Shanghai.'
+        required: false
+        type: string
+      paper_limit:
+        description: 'Maximum papers per source. Leave blank to use repository variable or default.'
+        required: false
+        type: string
+      arxiv_query:
+        description: 'Optional arXiv query override.'
+        required: false
+        type: string
+      arxiv_lookback_days:
+        description: 'arXiv fallback lookback days. Leave blank to use repository variable or default.'
+        required: false
+        type: string
+      rxiv_keywords:
+        description: 'Optional include keywords for bioRxiv/medRxiv.'
+        required: false
+        type: string
+      rxiv_exclude_keywords:
+        description: 'Optional exclude keywords for bioRxiv/medRxiv.'
+        required: false
+        type: string
 
 permissions:
   contents: write
@@ -28,7 +53,16 @@ jobs:
 
     - name: Run Python script
       env:
+        TZ: Asia/Shanghai
         DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        PAPER_DATE: ${{ github.event.inputs.paper_date || vars.PAPER_DATE }}
+        PAPER_LIMIT: ${{ github.event.inputs.paper_limit || vars.PAPER_LIMIT }}
+        ARXIV_QUERY: ${{ github.event.inputs.arxiv_query || vars.ARXIV_QUERY }}
+        ARXIV_LOOKBACK_DAYS: ${{ github.event.inputs.arxiv_lookback_days || vars.ARXIV_LOOKBACK_DAYS }}
+        RXIV_KEYWORDS: ${{ github.event.inputs.rxiv_keywords || vars.RXIV_KEYWORDS }}
+        RXIV_EXCLUDE_KEYWORDS: ${{ github.event.inputs.rxiv_exclude_keywords || vars.RXIV_EXCLUDE_KEYWORDS }}
+        SMTP_SERVER: ${{ secrets.SMTP_SERVER }}
+        SMTP_PORT: ${{ secrets.SMTP_PORT }}
         SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
         SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
         EMAIL_RECIPIENT: ${{ secrets.EMAIL_RECIPIENT }}
@@ -38,7 +72,7 @@ jobs:
       run: |
         git config --global user.name 'github-actions[bot]'
         git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
+        git add .github hooks docs mkdocs.yml update_papers.py requirements.txt README.md .gitignore
         if git diff --cached --quiet; then
           echo "No changes to commit"
         else
