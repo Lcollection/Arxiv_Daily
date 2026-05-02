@@ -1,0 +1,1046 @@
+
+<!doctype html>
+<html lang="zh" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+      
+        <link rel="prev" href="../api/">
+      
+      
+        <link rel="next" href="../project-structure/">
+      
+      
+        
+      
+      
+      <link rel="icon" href="../assets/images/favicon.png">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.6">
+    
+    
+      
+        <title>配置说明 - Arxiv Daily</title>
+      
+    
+    
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
+      
+        
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
+      
+      
+
+
+    
+    
+      
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../new_style.css">
+    
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+  </head>
+  
+  
+    
+    
+      
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="amber">
+  
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#_1" class="md-skip">
+          跳转至
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="页眉">
+    <a href=".." title="Arxiv Daily" class="md-header__button md-logo" aria-label="Arxiv Daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Arxiv Daily
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              配置说明
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+      
+        <form class="md-header__option" data-md-component="palette">
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="" data-md-color-scheme="default" data-md-color-primary="teal" data-md-color-accent="amber"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
+  <label class="md-search__overlay" for="__search"></label>
+  <div class="md-search__inner" role="search">
+    <form class="md-search__form" name="search">
+      <input type="text" class="md-search__input" name="query" aria-label="搜索" placeholder="搜索" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
+      <label class="md-search__icon md-icon" for="__search">
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
+      </label>
+      <nav class="md-search__options" aria-label="查找">
+        
+        <button type="reset" class="md-search__icon md-icon" title="清空当前内容" aria-label="清空当前内容" tabindex="-1">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
+        </button>
+      </nav>
+      
+        <div class="md-search__suggest" data-md-component="search-suggest"></div>
+      
+    </form>
+    <div class="md-search__output">
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
+        <div class="md-search-result" data-md-component="search-result">
+          <div class="md-search-result__meta">
+            正在初始化搜索引擎
+          </div>
+          <ol class="md-search-result__list" role="presentation"></ol>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+      
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+            
+<nav class="md-tabs" aria-label="标签" data-md-component="tabs">
+  <div class="md-grid">
+    <ul class="md-tabs__list">
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href=".." class="md-tabs__link">
+        
+  
+  
+    
+  
+  首页
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../api/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  Agent API
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+    
+  
+  
+    <li class="md-tabs__item md-tabs__item--active">
+      <a href="./" class="md-tabs__link">
+        
+  
+  
+    
+  
+  配置说明
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    <li class="md-tabs__item">
+      <a href="../project-structure/" class="md-tabs__link">
+        
+  
+  
+    
+  
+  项目结构
+
+      </a>
+    </li>
+  
+
+      
+        
+  
+  
+  
+  
+    
+    
+      <li class="md-tabs__item">
+        <a href="../daily-papers/latest/" class="md-tabs__link">
+          
+  
+  
+  历史归档
+
+        </a>
+      </li>
+    
+  
+
+      
+    </ul>
+  </div>
+</nav>
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+  
+
+
+<nav class="md-nav md-nav--primary md-nav--lifted" aria-label="导航栏" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href=".." title="Arxiv Daily" class="md-nav__button md-logo" aria-label="Arxiv Daily" data-md-component="logo">
+      
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
+
+    </a>
+    Arxiv Daily
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    首页
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../api/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Agent API
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+    
+  
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
+      
+      
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    配置说明
+  
+
+    
+  </span>
+  
+  
+
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    配置说明
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        默认抓取范围
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github-actions-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub Actions Secrets
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        常用手动命令
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arxiv-0" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        arXiv 返回 0 篇时的处理
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../project-structure/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    项目结构
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
+  
+  
+  
+    
+    
+    
+    
+      
+      
+        
+      
+    
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+        
+        
+        <input class="md-nav__toggle md-toggle " type="checkbox" id="__nav_5" >
+        
+          
+          <label class="md-nav__link" for="__nav_5" id="__nav_5_label" tabindex="0">
+            
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    历史归档
+  
+
+    
+  </span>
+  
+  
+
+            <span class="md-nav__icon md-icon"></span>
+          </label>
+        
+        <nav class="md-nav" data-md-level="1" aria-labelledby="__nav_5_label" aria-expanded="false">
+          <label class="md-nav__title" for="__nav_5">
+            <span class="md-nav__icon md-icon"></span>
+            
+  
+    历史归档
+  
+
+          </label>
+          <ul class="md-nav__list" data-md-scrollfix>
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../daily-papers/latest/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    最近更新
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../daily-papers/archive/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    按日期查看
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../arxiv_papers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    arXiv
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../biorxiv_papers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    bioRxiv
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+              
+                
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../medrxiv_papers/" class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    medRxiv
+  
+
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+              
+            
+          </ul>
+        </nav>
+      
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" >
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="目录">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      目录
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#_2" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        默认抓取范围
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#github-actions-secrets" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        GitHub Actions Secrets
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#_3" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        常用手动命令
+      
+    </span>
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#arxiv-0" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        arXiv 返回 0 篇时的处理
+      
+    </span>
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+
+<h1 id="_1">配置说明</h1>
+<p>这个仓库的每日更新由 GitHub Actions 调用 <code>python update_papers.py</code> 完成。脚本会抓取论文、生成 Markdown 页面、生成 API JSON、构建 MkDocs 静态站点，并在有配置邮件参数时发送通知。</p>
+<h2 id="_2">默认抓取范围</h2>
+<table>
+<thead>
+<tr>
+<th>配置项</th>
+<th>默认值</th>
+<th>说明</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>PAPER_LIMIT</code> / <code>--limit</code></td>
+<td><code>10</code></td>
+<td>每个来源最多抓取 10 篇，因此默认上限是 arXiv 10 篇、bioRxiv 10 篇、medRxiv 10 篇。</td>
+</tr>
+<tr>
+<td><code>PAPER_DATE</code> / <code>--date</code></td>
+<td>昨天</td>
+<td>默认抓取脚本运行当天的前一天。GitHub Actions 已设置 <code>TZ=Asia/Shanghai</code>，因此定时任务按北京时间计算昨天。</td>
+</tr>
+<tr>
+<td><code>ARXIV_QUERY</code> / <code>--query</code></td>
+<td>见下方</td>
+<td>只作用于 arXiv。</td>
+</tr>
+<tr>
+<td><code>ARXIV_LOOKBACK_DAYS</code> / <code>--arxiv-lookback-days</code></td>
+<td><code>5</code></td>
+<td>arXiv 目标日期没有论文时，向前最多回看 5 天，避免周末或无发布日返回空列表。</td>
+</tr>
+<tr>
+<td><code>RXIV_KEYWORDS</code> / <code>--rxiv-keywords</code></td>
+<td>空</td>
+<td>可选，按标题和摘要过滤 bioRxiv / medRxiv，多个关键词用逗号、分号或换行分隔。</td>
+</tr>
+<tr>
+<td><code>RXIV_EXCLUDE_KEYWORDS</code> / <code>--rxiv-exclude-keywords</code></td>
+<td>空</td>
+<td>可选，排除 bioRxiv / medRxiv 中命中的标题和摘要关键词。</td>
+</tr>
+<tr>
+<td><code>API_INDEX_PAGE_SIZE</code></td>
+<td><code>100</code></td>
+<td>API 索引分页大小，用于避免生成过大的 JSON 文件。</td>
+</tr>
+</tbody>
+</table>
+<p>默认 arXiv 查询条件：</p>
+<pre><code class="language-text">cat:cs.NE OR cat:cs.MA OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:cs.AI OR cat:stat.ML OR cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:q-bio.MN OR all:&quot;large language model&quot; OR all:&quot;large language models&quot; OR all:LLM OR all:LLMs OR all:&quot;foundation model&quot; OR all:&quot;foundation models&quot; OR all:&quot;generative AI&quot; OR all:&quot;mixture of experts&quot; OR all:&quot;retrieval augmented generation&quot; OR all:&quot;LLM agent&quot; OR all:&quot;LLM agents&quot; OR all:&quot;reasoning model&quot; OR all:&quot;post training&quot; OR ((cat:cs.DC OR cat:cs.PF OR cat:cs.AR OR cat:cs.OS OR cat:cs.NI) AND (all:&quot;machine learning&quot; OR all:&quot;deep learning&quot; OR all:&quot;neural network&quot; OR all:&quot;large language model&quot; OR all:LLM OR all:&quot;model serving&quot; OR all:&quot;LLM serving&quot; OR all:&quot;inference serving&quot; OR all:&quot;distributed training&quot; OR all:&quot;training system&quot; OR all:&quot;inference optimization&quot; OR all:&quot;KV cache&quot; OR all:&quot;speculative decoding&quot; OR all:&quot;GPU cluster&quot; OR all:GPU OR all:accelerator))
+</code></pre>
+<p>默认查询现在覆盖四类关注方向：</p>
+<table>
+<thead>
+<tr>
+<th>方向</th>
+<th>覆盖方式</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>LLM 算法</td>
+<td><code>cs.CL</code>、<code>cs.LG</code>、<code>cs.AI</code>、<code>stat.ML</code>，以及 <code>large language model</code>、<code>LLM</code>、<code>foundation model</code>、<code>mixture of experts</code>、<code>retrieval augmented generation</code>、<code>reasoning model</code> 等关键词。</td>
+</tr>
+<tr>
+<td>ML Sys</td>
+<td><code>cs.DC</code>、<code>cs.PF</code>、<code>cs.AR</code>、<code>cs.OS</code>、<code>cs.NI</code> 中同时命中 <code>machine learning</code>、<code>deep learning</code>、<code>neural network</code> 等关键词的论文。</td>
+</tr>
+<tr>
+<td>AI Infra</td>
+<td>同上，额外关注 <code>model serving</code>、<code>LLM serving</code>、<code>inference serving</code>、<code>distributed training</code>、<code>KV cache</code>、<code>speculative decoding</code>、<code>GPU</code>、<code>accelerator</code> 等基础设施关键词。</td>
+</tr>
+<tr>
+<td>既有方向</td>
+<td>保留原有机器学习、计算机视觉、自然语言处理、人工智能和部分计算生物学分类。</td>
+</tr>
+</tbody>
+</table>
+<p>arXiv API 分类检索使用 <code>cat:</code> 前缀。系统和基础设施分类被关键词约束，是为了避免把普通分布式系统、操作系统或网络论文大量混入每日结果。bioRxiv 和 medRxiv 当前按日期从对应来源抓取，再按 <code>RXIV_KEYWORDS</code> / <code>RXIV_EXCLUDE_KEYWORDS</code> 过滤，最后按 <code>PAPER_LIMIT</code> 截断。</p>
+<p>GitHub Actions 里可以用仓库级 Variables 调整非敏感配置：</p>
+<table>
+<thead>
+<tr>
+<th>Variable</th>
+<th>示例</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>PAPER_DATE</code></td>
+<td><code>2026-05-02</code></td>
+</tr>
+<tr>
+<td><code>PAPER_LIMIT</code></td>
+<td><code>20</code></td>
+</tr>
+<tr>
+<td><code>ARXIV_QUERY</code></td>
+<td><code>cat:cs.LG OR cat:cs.CL OR all:"large language model"</code></td>
+</tr>
+<tr>
+<td><code>ARXIV_LOOKBACK_DAYS</code></td>
+<td><code>5</code></td>
+</tr>
+<tr>
+<td><code>RXIV_KEYWORDS</code></td>
+<td><code>machine learning, single cell, genomics</code></td>
+</tr>
+<tr>
+<td><code>RXIV_EXCLUDE_KEYWORDS</code></td>
+<td><code>case report</code></td>
+</tr>
+</tbody>
+</table>
+<p><code>PAPER_DATE</code> 适合临时手动补跑；如果长期保留这个变量，定时任务会一直抓同一天，因此日常定时任务建议留空。</p>
+<h2 id="github-actions-secrets">GitHub Actions Secrets</h2>
+<table>
+<thead>
+<tr>
+<th>Secret</th>
+<th>是否必需</th>
+<th>用途</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><code>DEEPSEEK_API_KEY</code></td>
+<td>可选</td>
+<td>有值时用于翻译标题和摘要；没有值时保留原文。</td>
+</tr>
+<tr>
+<td><code>SMTP_USERNAME</code></td>
+<td>可选</td>
+<td>发件邮箱账号。</td>
+</tr>
+<tr>
+<td><code>SMTP_PASSWORD</code></td>
+<td>可选</td>
+<td>邮箱 SMTP 授权码。</td>
+</tr>
+<tr>
+<td><code>EMAIL_RECIPIENT</code></td>
+<td>可选</td>
+<td>接收更新通知的邮箱。</td>
+</tr>
+</tbody>
+</table>
+<p>SMTP 服务默认值在代码中配置为：</p>
+<pre><code class="language-text">SMTP_SERVER=smtp.163.com
+SMTP_PORT=25
+</code></pre>
+<p>workflow 已经预留了 <code>SMTP_SERVER</code> 和 <code>SMTP_PORT</code> 两个可选 secret。没有配置时会继续使用 163 邮箱的默认 SMTP 地址；如果使用其他邮箱服务，可以在 GitHub Secrets 里添加这两个值。</p>
+<h2 id="_3">常用手动命令</h2>
+<p>只重建索引和 API，不重新抓取：</p>
+<pre><code class="language-bash">python update_papers.py --rebuild-index-only
+</code></pre>
+<p>抓取指定日期，每个来源最多 20 篇：</p>
+<pre><code class="language-bash">python update_papers.py --date 2026-01-06 --limit 20
+</code></pre>
+<p>覆盖 arXiv 查询条件：</p>
+<pre><code class="language-bash">python update_papers.py --query &quot;cat:cs.LG OR cat:cs.AI OR cat:cs.CL&quot;
+</code></pre>
+<p>只看 LLM 算法、ML Sys 和 AI Infra 的示例：</p>
+<pre><code class="language-bash">python update_papers.py --query &quot;cat:cs.LG OR cat:cs.CL OR cat:stat.ML OR all:\&quot;large language model\&quot; OR all:LLM OR all:\&quot;foundation model\&quot; OR all:\&quot;mixture of experts\&quot; OR all:\&quot;retrieval augmented generation\&quot; OR ((cat:cs.DC OR cat:cs.PF OR cat:cs.AR OR cat:cs.OS OR cat:cs.NI) AND (all:\&quot;model serving\&quot; OR all:\&quot;LLM serving\&quot; OR all:\&quot;inference serving\&quot; OR all:\&quot;distributed training\&quot; OR all:\&quot;KV cache\&quot; OR all:\&quot;speculative decoding\&quot; OR all:GPU OR all:accelerator))&quot;
+</code></pre>
+<p>在 GitHub Actions 的 <code>Schedule Papers Update</code> 页面也可以手动触发 <code>workflow_dispatch</code>，直接填写日期、每个来源数量、arXiv 查询和 bioRxiv/medRxiv 关键词。留空时会使用仓库 Variables 或脚本默认值。</p>
+<p>不发送邮件：</p>
+<pre><code class="language-bash">python update_papers.py --skip-email
+</code></pre>
+<h2 id="arxiv-0">arXiv 返回 0 篇时的处理</h2>
+<p>arXiv 不是每天都有新论文发布。脚本默认先查 <code>PAPER_DATE</code> 指定日期；如果当天没有结果，会在 <code>ARXIV_LOOKBACK_DAYS</code> 范围内向前查找最近可用论文，并在 API 和页面中保留每篇论文的 <code>published_date</code>，避免把补取日期和实际发布日期混淆。</p>
+
+
+
+
+
+
+
+
+
+
+
+
+                
+              </article>
+            </div>
+          
+          
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
+        </div>
+        
+          <button type="button" class="md-top md-icon" data-md-component="top" hidden>
+  
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13 20h-2V8l-5.5 5.5-1.42-1.42L12 4.16l7.92 7.92-1.42 1.42L13 8z"/></svg>
+  回到页面顶部
+</button>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    
+    
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": ["navigation.tabs", "navigation.sections", "navigation.top", "toc.follow", "search.suggest", "search.highlight", "content.code.copy"], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "\u5df2\u590d\u5236", "clipboard.copy": "\u590d\u5236", "search.result.more.one": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.more.other": "\u5728\u8be5\u9875\u4e0a\u8fd8\u6709 # \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.none": "\u6ca1\u6709\u627e\u5230\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.one": "\u627e\u5230 1 \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.other": "# \u4e2a\u7b26\u5408\u6761\u4ef6\u7684\u7ed3\u679c", "search.result.placeholder": "\u952e\u5165\u4ee5\u5f00\u59cb\u641c\u7d22", "search.result.term.missing": "\u7f3a\u5c11", "select.version": "\u9009\u62e9\u5f53\u524d\u7248\u672c"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
+      
+        <script src="../assets/javascripts/paper_export.js"></script>
+      
+    
+  </body>
+</html>
