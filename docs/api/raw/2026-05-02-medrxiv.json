@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "date": "2026-05-02",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 4,
+  "papers": [
+    {
+      "id": "04c1786ac75ebe2b",
+      "date": "2026-05-02",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Genetic similarity among 178 disease phenotypes predicts therapeutic and side effects for 1,711 drugs",
+      "translated_title": "178种疾病表型之间的遗传相似性可预测1711种药物的疗效与副作用。",
+      "author": "Lalagkas, P. N.",
+      "summary": "Human genetics demonstrates great potential for drug discovery, but challenges in identifying causal genes limit its clinical translation. Pleiotropy, the phenomenon where genetic variants or genes influence multiple traits, has been previously used to identify drug targets shared between phenotypically similar diseases. Here, we expand the use of pleiotropy to develop and evaluate a gene-agnostic method that predicts novel drug therapeutic and side effects across the phenome. We hypothesize that diseases with high genetic similarity to a drug's known indications can point to new drug uses. To test this, we develop five metrics to quantify the genetic similarity between pairs of 178 diseases integrating genome-wide genetic correlation, gene-level associations and tissue-specific gene regulation. Comparing these metrics with data on indications and side effects of 1,711 common drugs, we find that more genetically similar diseases tend to share more drugs. We then use genetic similarity to predict drug therapeutic effects: our predictions with probability >0.1 show a 2.03-fold increased likelihood of progressing from Phase I clinical trials to regulatory approval. As well, predictions with probability >0.2 are 1.42 times more likely to correspond to true adverse effects. Notably, the indications model predicts side effects better than expected by chance, and vice-versa, implying a shared genetic basis for therapeutic and adverse drug effects. Together, our results suggest that genetic similarity can reveal new drug-disease links, putting forward a new use of genetics that bypasses the need for disease and drug target identification.",
+      "translated_summary": "人类遗传学在药物发现方面展现出巨大潜力，但识别致病基因的挑战限制了其临床转化。多效性——即遗传变异或基因影响多种性状的现象——此前已被用于识别表型相似疾病之间的共享药物靶点。本研究扩展了多效性的应用，开发并评估了一种不依赖基因的方法，用于预测新药的跨表型治疗效应和副作用。我们假设，与药物已知适应症具有高度遗传相似性的疾病可能指向新用途。为验证这一假设，我们整合全基因组遗传相关性、基因水平关联及组织特异性基因调控，开发了五种量化178种疾病间遗传相似性的指标。将这些指标与1711种常见药物的适应症和副作用数据对比发现，遗传相似性越高的疾病越倾向于共享药物。随后利用遗传相似性预测药物疗效：概率>0.1的预测结果中，药物从I期临床试验推进至监管批准的可能性提升2.03倍；概率>0.2的预测结果对应真实不良反应的可能性是随机水平的1.42倍。值得注意的是，适应症模型对副作用的预测效果优于随机水平，反之亦然，这表明治疗效应与药物不良反应存在共享的遗传基础。综上，我们的结果表明遗传相似性可揭示新的药物-疾病关联，提出了一种绕过疾病和药物靶点识别需求的遗传学新应用。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.05.13.25327511v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.05.13.25327511",
+      "rank": 1,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": "5be345d089f0e366",
+      "date": "2026-05-02",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Individualized Mechanistic Modeling Reveals Viral Infectivity and CD8+ T cell Expansion as Drivers of Heterogeneous Influenza Dynamics",
+      "translated_title": "个体化机制建模揭示病毒传染性和CD8+ T细胞扩增是流感异质性动态的驱动因素",
+      "author": "Bruce, N.",
+      "summary": "Influenza virus infections vary widely in severity, with human challenge studies revealing substantial heterogeneity in viral shedding and immune responses. However, the mechanistic basis of this variability remains unresolved. Here, we applied individualized mechanistic modeling to determine how variation in viral replication and CD8+ T cell responses shape infection kinetics and symptom dynamics once variation in exposure dose is removed in individuals experimentally challenged with H1N1 influenza virus. Our analysis identified four distinct infection clusters driven predominantly by individualized differences in viral infectivity and CD8+ T cell expansion rates rather than baseline T cell levels or killing efficacy. These mechanistic distinctions were conserved across independent cohorts and enabled accurate prediction of symptom trajectories despite subjectivity in symptom reporting and differences in viral strain. Collectively, these findings demonstrate that interindividual variation can converge on similar infection trajectories and clinical outcomes and provide a mechanistic basis for improving individual-level prediction of influenza infection dynamics.",
+      "translated_summary": "流感病毒感染严重程度差异显著，人体挑战研究揭示了病毒脱落和免疫反应存在显著异质性。然而，这种变异性的机制基础仍未明确。本研究通过个体化机制建模，在实验性H1N1流感病毒挑战中消除暴露剂量差异后，探究病毒复制和CD8+ T细胞应答的变异如何塑造感染动力学和症状动态。分析识别出四种不同的感染聚类，主要受个体化病毒传染性和CD8+ T细胞扩增速率差异驱动，而非基线T细胞水平或杀伤效能。这些机制差异在独立队列中具有保守性，且尽管症状报告存在主观性及病毒株差异，仍能准确预测症状轨迹。综合而言，这些发现表明个体间变异可趋同于相似的感染轨迹和临床结局，并为提升流感感染动力学的个体化预测提供了机制基础。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.10.24.25338576v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.10.24.25338576",
+      "rank": 2,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": "5d057ee761a7b68c",
+      "date": "2026-05-02",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Genetic and Cellular Architecture of Breast Cancer Risk Across Ancestries",
+      "translated_title": "不同祖先人群中乳腺癌风险的遗传与细胞结构",
+      "author": "Li, J. L.",
+      "summary": "Breast cancer genome-wide association studies (GWAS) have identified over 200 independent genome-wide significant susceptibility markers. However, most studies have focused on one or two ancestral groups. We examined breast cancer genetic architecture using GWAS summary statistics from African (AFR), East Asian (EAS), European (EUR) and Hispanic/Latina (H/L) samples, totaling 159,297 cases and 212,102 controls, comprising the largest multi-ancestry study of breast cancer to date. The logit-scale heritability of breast cancer ranged from h^2=0.47 (SE = 0.07) in EAS to AFR h^2=0.61 (SE = 0.10), with no significant differences across ancestries (p=0.63). The estimated number of susceptibility markers in a sparse normal-mixture effects model also varied from 4,446 (SE = 3,100) in EAS to 8,308 (SE = 2,751) in AFR, but differences were not significant across ancestries (p=0.55). Cross-sample genetic correlations varied, with the strongest correlation between EUR and EAS ({rho}=0.79, SE = 0.08) and weakest between AFR and H/L ({rho}=0.26, SE = 0.24). Common variants in regulatory elements were enriched for genetic association across samples. By integrating the GWAS summary statistics with the Tabula Sapiens scRNA-seq atlas, we identified ancestry-shared associations between breast cancer and specific cell types, including innate immune cells, secretory epithelial cells and stromal cells. Collectively, these results support a largely shared polygenic architecture of breast cancer across ancestries, with consistent enrichment of common regulatory variants and convergent cellular signatures identified through single-cell analyses.",
+      "translated_summary": "乳腺癌全基因组关联研究已发现超过200个独立的基因组显著易感性标记。然而，多数研究仅聚焦于一到两个祖先群体。本研究利用非洲裔、东亚裔、欧洲裔及西班牙裔/拉丁裔样本的GWAS汇总统计量，共纳入159,297例病例和212,102例对照，构成迄今最大规模的多祖先乳腺癌研究。乳腺癌的对数尺度遗传力范围从东亚裔的h²=0.47（标准误=0.07）到非洲裔的h²=0.61（标准误=0.10），各祖先群体间无显著差异（p=0.63）。在稀疏正态混合效应模型中，易感性标记的估计数量从东亚裔的4,446个（标准误=3,100）到非洲裔的8,308个（标准误=2,751），但祖先间差异不显著（p=0.55）。跨样本遗传相关性存在差异，欧洲裔与东亚裔的相关性最强（ρ=0.79，标准误=0.08），非洲裔与西班牙裔/拉丁裔的相关性最弱（ρ=0.26，标准误=0.24）。各样本中调控元件的常见变异均富集了遗传关联。通过将GWAS汇总统计量与Tabula Sapiens单细胞RNA测序图谱整合，我们识别出乳腺癌与特定细胞类型（包括先天免疫细胞、分泌性上皮细胞和基质细胞）的祖先共享关联。综合而言，这些结果支持乳腺癌在不同祖先群体间具有高度共享的多基因架构，常见调控变异的一致性富集及单细胞分析揭示的趋同细胞特征均印证了这一点。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.08.20.25334075v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.08.20.25334075",
+      "rank": 3,
+      "published_date": "2026-05-02"
+    },
+    {
+      "id": "0a909092a6037534",
+      "date": "2026-05-02",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "A circulating protein signature for predicting severe immune-related adverse events following CAR T-cell therapy in relapsed/refractory lymphoma",
+      "translated_title": "复发/难治性淋巴瘤CAR T细胞治疗后预测严重免疫相关不良事件的循环蛋白特征",
+      "author": "Irajizad, E.",
+      "summary": "Chimeric antigen receptor (CAR) T-cell therapy has transformed treatment for relapsed /refractory(r/r) lymphoid malignancies. Yet, these cellular immunotherapies are often associated with immune-related adverse events (irAEs), namely cytokine release syndrome (CRS) and immune effector cell-associated neurotoxicity syndrome (ICANS), that pose significant risks to patient safety and limit broader clinical implementation of CAR T-cell therapies. In the current study, we used proteomics technology to establish circulating protein signatures that would predict severe CRS and ICANS in r/r lymphoma patients that subsequently received CAR T-cell therapy. Initial discovery was performed using plasma samples collected preceding CAR T-cell infusion from 39 r/r lymphoma patients at MD Anderson Cancer Center. A 5-marker and 8-marker protein panel was developed for predicting Grade [&ge;] 2 CRS and ICANS respectively, yielding respective AUCs of 0.85 [95% CI: 0.72-0.98] and 0.91 [95% CI: 0.81-1.00]. Independent testing of the CRS and ICANS panel was performed in a cohort of 59 r/r lymphoma patients from the Moffitt Cancer Center, with resultant AUCs of 0.76 [95% CI: 0.63-0.89] and 0.67 [95% CI: 0.51-0.84] for the CRS and ICANS panel, respectively. Patients were further classified into low-, intermediate-, and high-risk groups based on panel score tertiles. In the combined dataset (MDACC + Moffitt), compared to patients in the low-risk group (reference), patients in the intermediate- and high-risk groups were 3.15 [95% CI: 0.92-12.71] and 13.84 [95% CI: 4.21-56.26] more likely to have Grade [&ge;] 2 CRS, and 1.21 [95% CI: 0.36-4.23] and 8.59 [95% CI: 2.87-29.09] more likely to have Grade [&ge;]2 ICANS. The protein biomarker panels provide a means to risk stratify patients who are at high risk for developing severe CRS and ICANS, to inform on the need for prophylactic interventions and improve patient outcomes.",
+      "translated_summary": "嵌合抗原受体（CAR）T细胞疗法已彻底改变了复发/难治性（r/r）淋巴系统恶性肿瘤的治疗格局。然而，这些细胞免疫疗法常伴随免疫相关不良事件（irAEs），即细胞因子释放综合征（CRS）和免疫效应细胞相关神经毒性综合征（ICANS），对患者安全构成重大风险，并限制了CAR T细胞疗法的临床推广。本研究采用蛋白质组学技术，建立了可预测后续接受CAR T细胞治疗的r/r淋巴瘤患者发生严重CRS和ICANS的循环蛋白特征。初始发现阶段使用MD安德森癌症中心39例r/r淋巴瘤患者CAR T细胞输注前采集的血浆样本，分别开发了预测≥2级CRS和ICANS的5标志物和8标志物蛋白组合，其AUC值分别为0.85[95%CI:0.72-0.98]和0.91[95%CI:0.81-1.00]。在莫菲特癌症中心59例r/r淋巴瘤患者队列中独立验证CRS和ICANS组合，CRS组合AUC为0.76[95%CI:0.63-0.89]，ICANS组合AUC为0.67[95%CI:0.51-0.84]。根据组合评分三分位数将患者进一步分为低、中、高风险组。在合并数据集（MDACC+莫菲特）中，与低风险组（参照）相比，中风险组和高风险组发生≥2级CRS的风险分别增加3.15倍[95%CI:0.92-12.71]和13.84倍[95%CI:4.21-56.26]，发生≥2级ICANS的风险分别增加1.21倍[95%CI:0.36-4.23]和8.59倍[95%CI:2.87-29.09]。该蛋白生物标志物组合为高风险患者发生严重CRS和ICANS的风险分层提供了手段，有助于指导预防性干预需求并改善患者预后。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.03.29.26349664v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.03.29.26349664",
+      "rank": 4,
+      "published_date": "2026-05-02"
+    }
+  ]
+}
