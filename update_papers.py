@@ -44,9 +44,76 @@ RXIV_DOMAINS = {
     "medrxiv": "www.medrxiv.org",
 }
 
-DEFAULT_QUERY = (
-    "cat:cs.NE OR cat:cs.MA OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:cs.AI "
-    "OR cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:q-bio.MN"
+ARXIV_CORE_CATEGORIES = (
+    "cat:cs.NE",
+    "cat:cs.MA",
+    "cat:cs.LG",
+    "cat:cs.CV",
+    "cat:cs.CL",
+    "cat:cs.AI",
+    "cat:stat.ML",
+)
+
+ARXIV_BIO_CATEGORIES = (
+    "cat:q-bio.BM",
+    "cat:q-bio.CB",
+    "cat:q-bio.GN",
+    "cat:q-bio.MN",
+)
+
+ARXIV_LLM_TERMS = (
+    'all:"large language model"',
+    'all:"large language models"',
+    "all:LLM",
+    "all:LLMs",
+    'all:"foundation model"',
+    'all:"foundation models"',
+    'all:"generative AI"',
+    'all:"mixture of experts"',
+    'all:"retrieval augmented generation"',
+    'all:"LLM agent"',
+    'all:"LLM agents"',
+    'all:"reasoning model"',
+    'all:"post training"',
+)
+
+ARXIV_SYSTEM_CATEGORIES = (
+    "cat:cs.DC",
+    "cat:cs.PF",
+    "cat:cs.AR",
+    "cat:cs.OS",
+    "cat:cs.NI",
+)
+
+ARXIV_SYSTEM_FOCUS_TERMS = (
+    'all:"machine learning"',
+    'all:"deep learning"',
+    'all:"neural network"',
+    'all:"large language model"',
+    "all:LLM",
+    'all:"model serving"',
+    'all:"LLM serving"',
+    'all:"inference serving"',
+    'all:"distributed training"',
+    'all:"training system"',
+    'all:"inference optimization"',
+    'all:"KV cache"',
+    'all:"speculative decoding"',
+    'all:"GPU cluster"',
+    "all:GPU",
+    "all:accelerator",
+)
+
+DEFAULT_QUERY = " OR ".join(
+    (
+        *ARXIV_CORE_CATEGORIES,
+        *ARXIV_BIO_CATEGORIES,
+        *ARXIV_LLM_TERMS,
+        (
+            f"(({' OR '.join(ARXIV_SYSTEM_CATEGORIES)}) "
+            f"AND ({' OR '.join(ARXIV_SYSTEM_FOCUS_TERMS)}))"
+        ),
+    )
 )
 API_INDEX_PAGE_SIZE = env_int("API_INDEX_PAGE_SIZE", 100)
 ARXIV_LOOKBACK_DAYS = env_int("ARXIV_LOOKBACK_DAYS", 5, minimum=0)

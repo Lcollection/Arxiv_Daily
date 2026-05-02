@@ -17,10 +17,19 @@
 默认 arXiv 查询条件：
 
 ```text
-cat:cs.NE OR cat:cs.MA OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:cs.AI OR cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:q-bio.MN
+cat:cs.NE OR cat:cs.MA OR cat:cs.LG OR cat:cs.CV OR cat:cs.CL OR cat:cs.AI OR cat:stat.ML OR cat:q-bio.BM OR cat:q-bio.CB OR cat:q-bio.GN OR cat:q-bio.MN OR all:"large language model" OR all:"large language models" OR all:LLM OR all:LLMs OR all:"foundation model" OR all:"foundation models" OR all:"generative AI" OR all:"mixture of experts" OR all:"retrieval augmented generation" OR all:"LLM agent" OR all:"LLM agents" OR all:"reasoning model" OR all:"post training" OR ((cat:cs.DC OR cat:cs.PF OR cat:cs.AR OR cat:cs.OS OR cat:cs.NI) AND (all:"machine learning" OR all:"deep learning" OR all:"neural network" OR all:"large language model" OR all:LLM OR all:"model serving" OR all:"LLM serving" OR all:"inference serving" OR all:"distributed training" OR all:"training system" OR all:"inference optimization" OR all:"KV cache" OR all:"speculative decoding" OR all:"GPU cluster" OR all:GPU OR all:accelerator))
 ```
 
-这些分类分别覆盖机器学习、计算机视觉、自然语言处理、人工智能，以及部分计算生物学方向。arXiv API 分类检索使用 `cat:` 前缀。bioRxiv 和 medRxiv 当前按日期从对应来源抓取，再按 `RXIV_KEYWORDS` / `RXIV_EXCLUDE_KEYWORDS` 过滤，最后按 `PAPER_LIMIT` 截断。
+默认查询现在覆盖四类关注方向：
+
+| 方向 | 覆盖方式 |
+|------|----------|
+| LLM 算法 | `cs.CL`、`cs.LG`、`cs.AI`、`stat.ML`，以及 `large language model`、`LLM`、`foundation model`、`mixture of experts`、`retrieval augmented generation`、`reasoning model` 等关键词。 |
+| ML Sys | `cs.DC`、`cs.PF`、`cs.AR`、`cs.OS`、`cs.NI` 中同时命中 `machine learning`、`deep learning`、`neural network` 等关键词的论文。 |
+| AI Infra | 同上，额外关注 `model serving`、`LLM serving`、`inference serving`、`distributed training`、`KV cache`、`speculative decoding`、`GPU`、`accelerator` 等基础设施关键词。 |
+| 既有方向 | 保留原有机器学习、计算机视觉、自然语言处理、人工智能和部分计算生物学分类。 |
+
+arXiv API 分类检索使用 `cat:` 前缀。系统和基础设施分类被关键词约束，是为了避免把普通分布式系统、操作系统或网络论文大量混入每日结果。bioRxiv 和 medRxiv 当前按日期从对应来源抓取，再按 `RXIV_KEYWORDS` / `RXIV_EXCLUDE_KEYWORDS` 过滤，最后按 `PAPER_LIMIT` 截断。
 
 GitHub Actions 里可以用仓库级 Variables 调整非敏感配置：
 
@@ -28,7 +37,7 @@ GitHub Actions 里可以用仓库级 Variables 调整非敏感配置：
 |----------|------|
 | `PAPER_DATE` | `2026-05-02` |
 | `PAPER_LIMIT` | `20` |
-| `ARXIV_QUERY` | `cat:cs.LG OR cat:cs.AI OR cat:cs.CL` |
+| `ARXIV_QUERY` | `cat:cs.LG OR cat:cs.CL OR all:"large language model"` |
 | `ARXIV_LOOKBACK_DAYS` | `5` |
 | `RXIV_KEYWORDS` | `machine learning, single cell, genomics` |
 | `RXIV_EXCLUDE_KEYWORDS` | `case report` |
@@ -71,6 +80,12 @@ python update_papers.py --date 2026-01-06 --limit 20
 
 ```bash
 python update_papers.py --query "cat:cs.LG OR cat:cs.AI OR cat:cs.CL"
+```
+
+只看 LLM 算法、ML Sys 和 AI Infra 的示例：
+
+```bash
+python update_papers.py --query "cat:cs.LG OR cat:cs.CL OR cat:stat.ML OR all:\"large language model\" OR all:LLM OR all:\"foundation model\" OR all:\"mixture of experts\" OR all:\"retrieval augmented generation\" OR ((cat:cs.DC OR cat:cs.PF OR cat:cs.AR OR cat:cs.OS OR cat:cs.NI) AND (all:\"model serving\" OR all:\"LLM serving\" OR all:\"inference serving\" OR all:\"distributed training\" OR all:\"KV cache\" OR all:\"speculative decoding\" OR all:GPU OR all:accelerator))"
 ```
 
 在 GitHub Actions 的 `Schedule Papers Update` 页面也可以手动触发 `workflow_dispatch`，直接填写日期、每个来源数量、arXiv 查询和 bioRxiv/medRxiv 关键词。留空时会使用仓库 Variables 或脚本默认值。
