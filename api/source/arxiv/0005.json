@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "page": 5,
+  "page_size": 100,
+  "count": 18,
+  "total_count": 418,
+  "dates": [
+    {
+      "date": "2024-09-22",
+      "count": 0,
+      "api_path": "api/daily/2024-09-22.json",
+      "page_path": "daily-papers/2024-09-22-arxiv.md"
+    },
+    {
+      "date": "2024-09-21",
+      "count": 0,
+      "api_path": "api/daily/2024-09-21.json",
+      "page_path": "daily-papers/2024-09-21-arxiv.md"
+    },
+    {
+      "date": "2024-09-20",
+      "count": 0,
+      "api_path": "api/daily/2024-09-20.json",
+      "page_path": "daily-papers/2024-09-20-arxiv.md"
+    },
+    {
+      "date": "2024-09-19",
+      "count": 0,
+      "api_path": "api/daily/2024-09-19.json",
+      "page_path": "daily-papers/2024-09-19-arxiv.md"
+    },
+    {
+      "date": "2024-09-18",
+      "count": 199,
+      "api_path": "api/daily/2024-09-18.json",
+      "page_path": "daily-papers/2024-09-18-arxiv.md"
+    },
+    {
+      "date": "2024-09-17",
+      "count": 192,
+      "api_path": "api/daily/2024-09-17.json",
+      "page_path": "daily-papers/2024-09-17-arxiv.md"
+    },
+    {
+      "date": "2024-09-16",
+      "count": 175,
+      "api_path": "api/daily/2024-09-16.json",
+      "page_path": "daily-papers/2024-09-16-arxiv.md"
+    },
+    {
+      "date": "2024-09-15",
+      "count": 0,
+      "api_path": "api/daily/2024-09-15.json",
+      "page_path": "daily-papers/2024-09-15-arxiv.md"
+    },
+    {
+      "date": "2024-09-14",
+      "count": 0,
+      "api_path": "api/daily/2024-09-14.json",
+      "page_path": "daily-papers/2024-09-14-arxiv.md"
+    },
+    {
+      "date": "2024-09-13",
+      "count": 0,
+      "api_path": "api/daily/2024-09-13.json",
+      "page_path": "daily-papers/2024-09-13-arxiv.md"
+    },
+    {
+      "date": "2024-09-12",
+      "count": 192,
+      "api_path": "api/daily/2024-09-12.json",
+      "page_path": "daily-papers/2024-09-12-arxiv.md"
+    },
+    {
+      "date": "2024-09-11",
+      "count": 171,
+      "api_path": "api/daily/2024-09-11.json",
+      "page_path": "daily-papers/2024-09-11-arxiv.md"
+    },
+    {
+      "date": "2024-09-10",
+      "count": 191,
+      "api_path": "api/daily/2024-09-10.json",
+      "page_path": "daily-papers/2024-09-10-arxiv.md"
+    },
+    {
+      "date": "2024-09-09",
+      "count": 187,
+      "api_path": "api/daily/2024-09-09.json",
+      "page_path": "daily-papers/2024-09-09-arxiv.md"
+    },
+    {
+      "date": "2024-09-08",
+      "count": 0,
+      "api_path": "api/daily/2024-09-08.json",
+      "page_path": "daily-papers/2024-09-08-arxiv.md"
+    },
+    {
+      "date": "2024-09-07",
+      "count": 0,
+      "api_path": "api/daily/2024-09-07.json",
+      "page_path": "daily-papers/2024-09-07-arxiv.md"
+    },
+    {
+      "date": "2024-09-05",
+      "count": 180,
+      "api_path": "api/daily/2024-09-05.json",
+      "page_path": "daily-papers/2024-09-05-arxiv.md"
+    },
+    {
+      "date": "2024-09-04",
+      "count": 179,
+      "api_path": "api/daily/2024-09-04.json",
+      "page_path": "daily-papers/2024-09-04-arxiv.md"
+    }
+  ],
+  "source": "arxiv",
+  "source_label": "arXiv"
+}

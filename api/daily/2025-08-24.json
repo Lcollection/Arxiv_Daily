@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "date": "2025-08-24",
+  "count": 6,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-24-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 6,
+      "page_path": "daily-papers/2025-08-24-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-24-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-24.md",
+  "papers": [
+    {
+      "id": "a159ff4e7aff7eb2",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Rab10失活促进长时程增强过程中AMPAR的运输与树突棘增大",
+      "translated_title": "Rab10失活促进长时程增强过程中AMPAR的运输与树突棘增大",
+      "author": "Wang, J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.05.17.492345",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "bb4a22858333fe42",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "高脂饮食通过驱动微小RNA依赖的神经发生及促进食欲神经元在摄食神经回路中的整合，从而诱发肥胖。",
+      "translated_title": "高脂饮食通过驱动微小RNA依赖的神经发生及促进食欲神经元在摄食神经回路中的整合，从而诱发肥胖。",
+      "author": "Srinivasan, B.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.22.573029",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "77538c1d41b5dd98",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类皮层中大规模相位动态的主导作用：从δ波到γ波",
+      "translated_title": "人类皮层中大规模相位动态的主导作用：从δ波到γ波",
+      "author": "Alexander, D. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.04.597334",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "8ef83aaa989e2d4b",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "锥体神经元按比例调节特定皮质中间神经元亚型的身份与存活状态。",
+      "translated_title": "锥体神经元按比例调节特定皮质中间神经元亚型的身份与存活状态。",
+      "author": "Wu, S. J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.07.20.604399",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "af02b05ace8d37fd",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过小鼠后侧纹状体调控视觉感知决策偏向及上丘活动的独特神经回路",
+      "translated_title": "通过小鼠后侧纹状体调控视觉感知决策偏向及上丘活动的独特神经回路",
+      "author": "Cover, K. K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.07.31.605853",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "d2ab2fdcffc242f9",
+      "date": "2025-08-24",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "物种形成历史塑造鸟类群落物种丰富度的分布格局",
+      "translated_title": "物种形成历史塑造鸟类群落物种丰富度的分布格局",
+      "author": "Reijenga, B. R.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.28.610044",
+      "paper_url": "",
+      "rank": 6
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

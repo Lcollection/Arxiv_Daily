@@ -1,0 +1,38 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "source": "biorxiv",
+  "source_label": "bioRxiv",
+  "count": 418,
+  "chunked": true,
+  "chunk_key": "dates",
+  "page_size": 100,
+  "page_count": 5,
+  "pages": [
+    {
+      "page": 1,
+      "count": 100,
+      "api_path": "api/source/biorxiv/0001.json"
+    },
+    {
+      "page": 2,
+      "count": 100,
+      "api_path": "api/source/biorxiv/0002.json"
+    },
+    {
+      "page": 3,
+      "count": 100,
+      "api_path": "api/source/biorxiv/0003.json"
+    },
+    {
+      "page": 4,
+      "count": 100,
+      "api_path": "api/source/biorxiv/0004.json"
+    },
+    {
+      "page": 5,
+      "count": 18,
+      "api_path": "api/source/biorxiv/0005.json"
+    }
+  ]
+}

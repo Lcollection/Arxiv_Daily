@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "page": 5,
+  "page_size": 100,
+  "count": 18,
+  "total_count": 418,
+  "dates": [
+    {
+      "date": "2024-09-22",
+      "count": 70,
+      "api_path": "api/daily/2024-09-22.json",
+      "page_path": "daily-papers/2024-09-22-medrxiv.md"
+    },
+    {
+      "date": "2024-09-21",
+      "count": 0,
+      "api_path": "api/daily/2024-09-21.json",
+      "page_path": "daily-papers/2024-09-21-medrxiv.md"
+    },
+    {
+      "date": "2024-09-20",
+      "count": 10,
+      "api_path": "api/daily/2024-09-20.json",
+      "page_path": "daily-papers/2024-09-20-medrxiv.md"
+    },
+    {
+      "date": "2024-09-19",
+      "count": 68,
+      "api_path": "api/daily/2024-09-19.json",
+      "page_path": "daily-papers/2024-09-19-medrxiv.md"
+    },
+    {
+      "date": "2024-09-18",
+      "count": 63,
+      "api_path": "api/daily/2024-09-18.json",
+      "page_path": "daily-papers/2024-09-18-medrxiv.md"
+    },
+    {
+      "date": "2024-09-17",
+      "count": 35,
+      "api_path": "api/daily/2024-09-17.json",
+      "page_path": "daily-papers/2024-09-17-medrxiv.md"
+    },
+    {
+      "date": "2024-09-16",
+      "count": 60,
+      "api_path": "api/daily/2024-09-16.json",
+      "page_path": "daily-papers/2024-09-16-medrxiv.md"
+    },
+    {
+      "date": "2024-09-15",
+      "count": 22,
+      "api_path": "api/daily/2024-09-15.json",
+      "page_path": "daily-papers/2024-09-15-medrxiv.md"
+    },
+    {
+      "date": "2024-09-14",
+      "count": 30,
+      "api_path": "api/daily/2024-09-14.json",
+      "page_path": "daily-papers/2024-09-14-medrxiv.md"
+    },
+    {
+      "date": "2024-09-13",
+      "count": 66,
+      "api_path": "api/daily/2024-09-13.json",
+      "page_path": "daily-papers/2024-09-13-medrxiv.md"
+    },
+    {
+      "date": "2024-09-12",
+      "count": 65,
+      "api_path": "api/daily/2024-09-12.json",
+      "page_path": "daily-papers/2024-09-12-medrxiv.md"
+    },
+    {
+      "date": "2024-09-11",
+      "count": 41,
+      "api_path": "api/daily/2024-09-11.json",
+      "page_path": "daily-papers/2024-09-11-medrxiv.md"
+    },
+    {
+      "date": "2024-09-10",
+      "count": 61,
+      "api_path": "api/daily/2024-09-10.json",
+      "page_path": "daily-papers/2024-09-10-medrxiv.md"
+    },
+    {
+      "date": "2024-09-09",
+      "count": 37,
+      "api_path": "api/daily/2024-09-09.json",
+      "page_path": "daily-papers/2024-09-09-medrxiv.md"
+    },
+    {
+      "date": "2024-09-08",
+      "count": 12,
+      "api_path": "api/daily/2024-09-08.json",
+      "page_path": "daily-papers/2024-09-08-medrxiv.md"
+    },
+    {
+      "date": "2024-09-07",
+      "count": 14,
+      "api_path": "api/daily/2024-09-07.json",
+      "page_path": "daily-papers/2024-09-07-medrxiv.md"
+    },
+    {
+      "date": "2024-09-05",
+      "count": 33,
+      "api_path": "api/daily/2024-09-05.json",
+      "page_path": "daily-papers/2024-09-05-medrxiv.md"
+    },
+    {
+      "date": "2024-09-04",
+      "count": 84,
+      "api_path": "api/daily/2024-09-04.json",
+      "page_path": "daily-papers/2024-09-04-medrxiv.md"
+    }
+  ],
+  "source": "medrxiv",
+  "source_label": "medRxiv"
+}

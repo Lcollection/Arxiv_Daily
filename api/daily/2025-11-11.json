@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "date": "2025-11-11",
+  "count": 7,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-11-11-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 7,
+      "page_path": "daily-papers/2025-11-11-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-11-11-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-11-11.md",
+  "papers": [
+    {
+      "id": "5c03b8e5d0690f74",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "动粒微管解离的双重机制",
+      "translated_title": "动粒微管解离的双重机制",
+      "author": "Conway, W.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.06.05.543640",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "f19e13a7cc271585",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "为SARS-CoV-2构建的大规模谱系重组图谱",
+      "translated_title": "为SARS-CoV-2构建的大规模谱系重组图谱",
+      "author": "Zhan, S. H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.06.08.544212",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "752e8c675cc5098c",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "不同的海马体机制支持概念形成与更新",
+      "translated_title": "不同的海马体机制支持概念形成与更新",
+      "author": "Mack, M. L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.14.580181",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "68e510f00ecbb394",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "核糖体结合蛋白1（RRBP1）维持过氧化物酶体的生物合成",
+      "translated_title": "核糖体结合蛋白1（RRBP1）维持过氧化物酶体的生物合成",
+      "author": "Fatima, K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.10.588905",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "41264e267bfc72cd",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "基于小RNA测序的编码基因表达分析",
+      "translated_title": "基于小RNA测序的编码基因表达分析",
+      "author": "Azadova, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.21.600062",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "8754ee8ca820f3ca",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "物候性状的协同进化塑造植物-传粉者共存关系",
+      "translated_title": "物候性状的协同进化塑造植物-传粉者共存关系",
+      "author": "Duchenne, F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.08.607160",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "41b3715aab9209ac",
+      "date": "2025-11-11",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "决策过程中全脑内部信号的协调",
+      "translated_title": "决策过程中全脑内部信号的协调",
+      "author": "Bondy, A. G.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.21.609044",
+      "paper_url": "",
+      "rank": 7
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,612 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "page": 2,
+  "page_size": 100,
+  "count": 100,
+  "total_count": 418,
+  "dates": [
+    {
+      "date": "2025-09-28",
+      "count": 2,
+      "api_path": "api/daily/2025-09-28.json",
+      "page_path": "daily-papers/2025-09-28-arxiv.md"
+    },
+    {
+      "date": "2025-09-27",
+      "count": 1,
+      "api_path": "api/daily/2025-09-27.json",
+      "page_path": "daily-papers/2025-09-27-arxiv.md"
+    },
+    {
+      "date": "2025-09-26",
+      "count": 2,
+      "api_path": "api/daily/2025-09-26.json",
+      "page_path": "daily-papers/2025-09-26-arxiv.md"
+    },
+    {
+      "date": "2025-09-25",
+      "count": 7,
+      "api_path": "api/daily/2025-09-25.json",
+      "page_path": "daily-papers/2025-09-25-arxiv.md"
+    },
+    {
+      "date": "2025-09-24",
+      "count": 4,
+      "api_path": "api/daily/2025-09-24.json",
+      "page_path": "daily-papers/2025-09-24-arxiv.md"
+    },
+    {
+      "date": "2025-09-23",
+      "count": 6,
+      "api_path": "api/daily/2025-09-23.json",
+      "page_path": "daily-papers/2025-09-23-arxiv.md"
+    },
+    {
+      "date": "2025-09-22",
+      "count": 6,
+      "api_path": "api/daily/2025-09-22.json",
+      "page_path": "daily-papers/2025-09-22-arxiv.md"
+    },
+    {
+      "date": "2025-09-21",
+      "count": 0,
+      "api_path": "api/daily/2025-09-21.json",
+      "page_path": "daily-papers/2025-09-21-arxiv.md"
+    },
+    {
+      "date": "2025-09-20",
+      "count": 0,
+      "api_path": "api/daily/2025-09-20.json",
+      "page_path": "daily-papers/2025-09-20-arxiv.md"
+    },
+    {
+      "date": "2025-09-19",
+      "count": 0,
+      "api_path": "api/daily/2025-09-19.json",
+      "page_path": "daily-papers/2025-09-19-arxiv.md"
+    },
+    {
+      "date": "2025-09-18",
+      "count": 1,
+      "api_path": "api/daily/2025-09-18.json",
+      "page_path": "daily-papers/2025-09-18-arxiv.md"
+    },
+    {
+      "date": "2025-09-17",
+      "count": 1,
+      "api_path": "api/daily/2025-09-17.json",
+      "page_path": "daily-papers/2025-09-17-arxiv.md"
+    },
+    {
+      "date": "2025-09-16",
+      "count": 0,
+      "api_path": "api/daily/2025-09-16.json",
+      "page_path": "daily-papers/2025-09-16-arxiv.md"
+    },
+    {
+      "date": "2025-09-15",
+      "count": 0,
+      "api_path": "api/daily/2025-09-15.json",
+      "page_path": "daily-papers/2025-09-15-arxiv.md"
+    },
+    {
+      "date": "2025-09-14",
+      "count": 1,
+      "api_path": "api/daily/2025-09-14.json",
+      "page_path": "daily-papers/2025-09-14-arxiv.md"
+    },
+    {
+      "date": "2025-09-13",
+      "count": 0,
+      "api_path": "api/daily/2025-09-13.json",
+      "page_path": "daily-papers/2025-09-13-arxiv.md"
+    },
+    {
+      "date": "2025-09-12",
+      "count": 0,
+      "api_path": "api/daily/2025-09-12.json",
+      "page_path": "daily-papers/2025-09-12-arxiv.md"
+    },
+    {
+      "date": "2025-09-11",
+      "count": 0,
+      "api_path": "api/daily/2025-09-11.json",
+      "page_path": "daily-papers/2025-09-11-arxiv.md"
+    },
+    {
+      "date": "2025-09-10",
+      "count": 2,
+      "api_path": "api/daily/2025-09-10.json",
+      "page_path": "daily-papers/2025-09-10-arxiv.md"
+    },
+    {
+      "date": "2025-09-09",
+      "count": 1,
+      "api_path": "api/daily/2025-09-09.json",
+      "page_path": "daily-papers/2025-09-09-arxiv.md"
+    },
+    {
+      "date": "2025-09-08",
+      "count": 4,
+      "api_path": "api/daily/2025-09-08.json",
+      "page_path": "daily-papers/2025-09-08-arxiv.md"
+    },
+    {
+      "date": "2025-09-07",
+      "count": 0,
+      "api_path": "api/daily/2025-09-07.json",
+      "page_path": "daily-papers/2025-09-07-arxiv.md"
+    },
+    {
+      "date": "2025-09-06",
+      "count": 0,
+      "api_path": "api/daily/2025-09-06.json",
+      "page_path": "daily-papers/2025-09-06-arxiv.md"
+    },
+    {
+      "date": "2025-09-05",
+      "count": 0,
+      "api_path": "api/daily/2025-09-05.json",
+      "page_path": "daily-papers/2025-09-05-arxiv.md"
+    },
+    {
+      "date": "2025-09-04",
+      "count": 0,
+      "api_path": "api/daily/2025-09-04.json",
+      "page_path": "daily-papers/2025-09-04-arxiv.md"
+    },
+    {
+      "date": "2025-09-03",
+      "count": 1,
+      "api_path": "api/daily/2025-09-03.json",
+      "page_path": "daily-papers/2025-09-03-arxiv.md"
+    },
+    {
+      "date": "2025-09-02",
+      "count": 0,
+      "api_path": "api/daily/2025-09-02.json",
+      "page_path": "daily-papers/2025-09-02-arxiv.md"
+    },
+    {
+      "date": "2025-09-01",
+      "count": 1,
+      "api_path": "api/daily/2025-09-01.json",
+      "page_path": "daily-papers/2025-09-01-arxiv.md"
+    },
+    {
+      "date": "2025-08-31",
+      "count": 2,
+      "api_path": "api/daily/2025-08-31.json",
+      "page_path": "daily-papers/2025-08-31-arxiv.md"
+    },
+    {
+      "date": "2025-08-30",
+      "count": 1,
+      "api_path": "api/daily/2025-08-30.json",
+      "page_path": "daily-papers/2025-08-30-arxiv.md"
+    },
+    {
+      "date": "2025-08-29",
+      "count": 1,
+      "api_path": "api/daily/2025-08-29.json",
+      "page_path": "daily-papers/2025-08-29-arxiv.md"
+    },
+    {
+      "date": "2025-08-28",
+      "count": 0,
+      "api_path": "api/daily/2025-08-28.json",
+      "page_path": "daily-papers/2025-08-28-arxiv.md"
+    },
+    {
+      "date": "2025-08-27",
+      "count": 0,
+      "api_path": "api/daily/2025-08-27.json",
+      "page_path": "daily-papers/2025-08-27-arxiv.md"
+    },
+    {
+      "date": "2025-08-26",
+      "count": 0,
+      "api_path": "api/daily/2025-08-26.json",
+      "page_path": "daily-papers/2025-08-26-arxiv.md"
+    },
+    {
+      "date": "2025-08-25",
+      "count": 1,
+      "api_path": "api/daily/2025-08-25.json",
+      "page_path": "daily-papers/2025-08-25-arxiv.md"
+    },
+    {
+      "date": "2025-08-24",
+      "count": 0,
+      "api_path": "api/daily/2025-08-24.json",
+      "page_path": "daily-papers/2025-08-24-arxiv.md"
+    },
+    {
+      "date": "2025-08-23",
+      "count": 0,
+      "api_path": "api/daily/2025-08-23.json",
+      "page_path": "daily-papers/2025-08-23-arxiv.md"
+    },
+    {
+      "date": "2025-08-22",
+      "count": 1,
+      "api_path": "api/daily/2025-08-22.json",
+      "page_path": "daily-papers/2025-08-22-arxiv.md"
+    },
+    {
+      "date": "2025-08-21",
+      "count": 1,
+      "api_path": "api/daily/2025-08-21.json",
+      "page_path": "daily-papers/2025-08-21-arxiv.md"
+    },
+    {
+      "date": "2025-08-20",
+      "count": 0,
+      "api_path": "api/daily/2025-08-20.json",
+      "page_path": "daily-papers/2025-08-20-arxiv.md"
+    },
+    {
+      "date": "2025-08-19",
+      "count": 0,
+      "api_path": "api/daily/2025-08-19.json",
+      "page_path": "daily-papers/2025-08-19-arxiv.md"
+    },
+    {
+      "date": "2025-08-18",
+      "count": 0,
+      "api_path": "api/daily/2025-08-18.json",
+      "page_path": "daily-papers/2025-08-18-arxiv.md"
+    },
+    {
+      "date": "2025-08-17",
+      "count": 0,
+      "api_path": "api/daily/2025-08-17.json",
+      "page_path": "daily-papers/2025-08-17-arxiv.md"
+    },
+    {
+      "date": "2025-08-16",
+      "count": 0,
+      "api_path": "api/daily/2025-08-16.json",
+      "page_path": "daily-papers/2025-08-16-arxiv.md"
+    },
+    {
+      "date": "2025-08-15",
+      "count": 0,
+      "api_path": "api/daily/2025-08-15.json",
+      "page_path": "daily-papers/2025-08-15-arxiv.md"
+    },
+    {
+      "date": "2025-08-14",
+      "count": 0,
+      "api_path": "api/daily/2025-08-14.json",
+      "page_path": "daily-papers/2025-08-14-arxiv.md"
+    },
+    {
+      "date": "2025-08-13",
+      "count": 0,
+      "api_path": "api/daily/2025-08-13.json",
+      "page_path": "daily-papers/2025-08-13-arxiv.md"
+    },
+    {
+      "date": "2025-08-12",
+      "count": 0,
+      "api_path": "api/daily/2025-08-12.json",
+      "page_path": "daily-papers/2025-08-12-arxiv.md"
+    },
+    {
+      "date": "2025-08-11",
+      "count": 0,
+      "api_path": "api/daily/2025-08-11.json",
+      "page_path": "daily-papers/2025-08-11-arxiv.md"
+    },
+    {
+      "date": "2025-08-10",
+      "count": 0,
+      "api_path": "api/daily/2025-08-10.json",
+      "page_path": "daily-papers/2025-08-10-arxiv.md"
+    },
+    {
+      "date": "2025-08-09",
+      "count": 0,
+      "api_path": "api/daily/2025-08-09.json",
+      "page_path": "daily-papers/2025-08-09-arxiv.md"
+    },
+    {
+      "date": "2025-08-08",
+      "count": 0,
+      "api_path": "api/daily/2025-08-08.json",
+      "page_path": "daily-papers/2025-08-08-arxiv.md"
+    },
+    {
+      "date": "2025-08-07",
+      "count": 0,
+      "api_path": "api/daily/2025-08-07.json",
+      "page_path": "daily-papers/2025-08-07-arxiv.md"
+    },
+    {
+      "date": "2025-08-06",
+      "count": 0,
+      "api_path": "api/daily/2025-08-06.json",
+      "page_path": "daily-papers/2025-08-06-arxiv.md"
+    },
+    {
+      "date": "2025-08-05",
+      "count": 0,
+      "api_path": "api/daily/2025-08-05.json",
+      "page_path": "daily-papers/2025-08-05-arxiv.md"
+    },
+    {
+      "date": "2025-08-04",
+      "count": 0,
+      "api_path": "api/daily/2025-08-04.json",
+      "page_path": "daily-papers/2025-08-04-arxiv.md"
+    },
+    {
+      "date": "2025-08-03",
+      "count": 0,
+      "api_path": "api/daily/2025-08-03.json",
+      "page_path": "daily-papers/2025-08-03-arxiv.md"
+    },
+    {
+      "date": "2025-08-02",
+      "count": 0,
+      "api_path": "api/daily/2025-08-02.json",
+      "page_path": "daily-papers/2025-08-02-arxiv.md"
+    },
+    {
+      "date": "2025-08-01",
+      "count": 0,
+      "api_path": "api/daily/2025-08-01.json",
+      "page_path": "daily-papers/2025-08-01-arxiv.md"
+    },
+    {
+      "date": "2025-07-31",
+      "count": 0,
+      "api_path": "api/daily/2025-07-31.json",
+      "page_path": "daily-papers/2025-07-31-arxiv.md"
+    },
+    {
+      "date": "2025-07-30",
+      "count": 0,
+      "api_path": "api/daily/2025-07-30.json",
+      "page_path": "daily-papers/2025-07-30-arxiv.md"
+    },
+    {
+      "date": "2025-07-29",
+      "count": 0,
+      "api_path": "api/daily/2025-07-29.json",
+      "page_path": "daily-papers/2025-07-29-arxiv.md"
+    },
+    {
+      "date": "2025-07-28",
+      "count": 0,
+      "api_path": "api/daily/2025-07-28.json",
+      "page_path": "daily-papers/2025-07-28-arxiv.md"
+    },
+    {
+      "date": "2025-07-27",
+      "count": 0,
+      "api_path": "api/daily/2025-07-27.json",
+      "page_path": "daily-papers/2025-07-27-arxiv.md"
+    },
+    {
+      "date": "2025-07-26",
+      "count": 0,
+      "api_path": "api/daily/2025-07-26.json",
+      "page_path": "daily-papers/2025-07-26-arxiv.md"
+    },
+    {
+      "date": "2025-07-25",
+      "count": 0,
+      "api_path": "api/daily/2025-07-25.json",
+      "page_path": "daily-papers/2025-07-25-arxiv.md"
+    },
+    {
+      "date": "2025-07-24",
+      "count": 0,
+      "api_path": "api/daily/2025-07-24.json",
+      "page_path": "daily-papers/2025-07-24-arxiv.md"
+    },
+    {
+      "date": "2025-07-23",
+      "count": 0,
+      "api_path": "api/daily/2025-07-23.json",
+      "page_path": "daily-papers/2025-07-23-arxiv.md"
+    },
+    {
+      "date": "2025-07-22",
+      "count": 0,
+      "api_path": "api/daily/2025-07-22.json",
+      "page_path": "daily-papers/2025-07-22-arxiv.md"
+    },
+    {
+      "date": "2025-07-21",
+      "count": 0,
+      "api_path": "api/daily/2025-07-21.json",
+      "page_path": "daily-papers/2025-07-21-arxiv.md"
+    },
+    {
+      "date": "2025-07-20",
+      "count": 0,
+      "api_path": "api/daily/2025-07-20.json",
+      "page_path": "daily-papers/2025-07-20-arxiv.md"
+    },
+    {
+      "date": "2025-07-19",
+      "count": 0,
+      "api_path": "api/daily/2025-07-19.json",
+      "page_path": "daily-papers/2025-07-19-arxiv.md"
+    },
+    {
+      "date": "2025-07-18",
+      "count": 0,
+      "api_path": "api/daily/2025-07-18.json",
+      "page_path": "daily-papers/2025-07-18-arxiv.md"
+    },
+    {
+      "date": "2025-07-17",
+      "count": 0,
+      "api_path": "api/daily/2025-07-17.json",
+      "page_path": "daily-papers/2025-07-17-arxiv.md"
+    },
+    {
+      "date": "2025-07-16",
+      "count": 0,
+      "api_path": "api/daily/2025-07-16.json",
+      "page_path": "daily-papers/2025-07-16-arxiv.md"
+    },
+    {
+      "date": "2025-07-15",
+      "count": 0,
+      "api_path": "api/daily/2025-07-15.json",
+      "page_path": "daily-papers/2025-07-15-arxiv.md"
+    },
+    {
+      "date": "2025-07-14",
+      "count": 0,
+      "api_path": "api/daily/2025-07-14.json",
+      "page_path": "daily-papers/2025-07-14-arxiv.md"
+    },
+    {
+      "date": "2025-07-13",
+      "count": 0,
+      "api_path": "api/daily/2025-07-13.json",
+      "page_path": "daily-papers/2025-07-13-arxiv.md"
+    },
+    {
+      "date": "2025-07-12",
+      "count": 0,
+      "api_path": "api/daily/2025-07-12.json",
+      "page_path": "daily-papers/2025-07-12-arxiv.md"
+    },
+    {
+      "date": "2025-07-11",
+      "count": 0,
+      "api_path": "api/daily/2025-07-11.json",
+      "page_path": "daily-papers/2025-07-11-arxiv.md"
+    },
+    {
+      "date": "2025-07-10",
+      "count": 0,
+      "api_path": "api/daily/2025-07-10.json",
+      "page_path": "daily-papers/2025-07-10-arxiv.md"
+    },
+    {
+      "date": "2025-07-09",
+      "count": 0,
+      "api_path": "api/daily/2025-07-09.json",
+      "page_path": "daily-papers/2025-07-09-arxiv.md"
+    },
+    {
+      "date": "2025-07-08",
+      "count": 0,
+      "api_path": "api/daily/2025-07-08.json",
+      "page_path": "daily-papers/2025-07-08-arxiv.md"
+    },
+    {
+      "date": "2025-07-07",
+      "count": 0,
+      "api_path": "api/daily/2025-07-07.json",
+      "page_path": "daily-papers/2025-07-07-arxiv.md"
+    },
+    {
+      "date": "2025-07-06",
+      "count": 0,
+      "api_path": "api/daily/2025-07-06.json",
+      "page_path": "daily-papers/2025-07-06-arxiv.md"
+    },
+    {
+      "date": "2025-07-05",
+      "count": 0,
+      "api_path": "api/daily/2025-07-05.json",
+      "page_path": "daily-papers/2025-07-05-arxiv.md"
+    },
+    {
+      "date": "2025-07-04",
+      "count": 0,
+      "api_path": "api/daily/2025-07-04.json",
+      "page_path": "daily-papers/2025-07-04-arxiv.md"
+    },
+    {
+      "date": "2025-07-03",
+      "count": 0,
+      "api_path": "api/daily/2025-07-03.json",
+      "page_path": "daily-papers/2025-07-03-arxiv.md"
+    },
+    {
+      "date": "2025-07-02",
+      "count": 0,
+      "api_path": "api/daily/2025-07-02.json",
+      "page_path": "daily-papers/2025-07-02-arxiv.md"
+    },
+    {
+      "date": "2025-07-01",
+      "count": 0,
+      "api_path": "api/daily/2025-07-01.json",
+      "page_path": "daily-papers/2025-07-01-arxiv.md"
+    },
+    {
+      "date": "2025-06-30",
+      "count": 0,
+      "api_path": "api/daily/2025-06-30.json",
+      "page_path": "daily-papers/2025-06-30-arxiv.md"
+    },
+    {
+      "date": "2025-06-29",
+      "count": 0,
+      "api_path": "api/daily/2025-06-29.json",
+      "page_path": "daily-papers/2025-06-29-arxiv.md"
+    },
+    {
+      "date": "2025-06-28",
+      "count": 0,
+      "api_path": "api/daily/2025-06-28.json",
+      "page_path": "daily-papers/2025-06-28-arxiv.md"
+    },
+    {
+      "date": "2025-06-27",
+      "count": 0,
+      "api_path": "api/daily/2025-06-27.json",
+      "page_path": "daily-papers/2025-06-27-arxiv.md"
+    },
+    {
+      "date": "2025-06-26",
+      "count": 0,
+      "api_path": "api/daily/2025-06-26.json",
+      "page_path": "daily-papers/2025-06-26-arxiv.md"
+    },
+    {
+      "date": "2025-06-25",
+      "count": 0,
+      "api_path": "api/daily/2025-06-25.json",
+      "page_path": "daily-papers/2025-06-25-arxiv.md"
+    },
+    {
+      "date": "2025-06-24",
+      "count": 0,
+      "api_path": "api/daily/2025-06-24.json",
+      "page_path": "daily-papers/2025-06-24-arxiv.md"
+    },
+    {
+      "date": "2025-06-23",
+      "count": 0,
+      "api_path": "api/daily/2025-06-23.json",
+      "page_path": "daily-papers/2025-06-23-arxiv.md"
+    },
+    {
+      "date": "2025-06-22",
+      "count": 0,
+      "api_path": "api/daily/2025-06-22.json",
+      "page_path": "daily-papers/2025-06-22-arxiv.md"
+    },
+    {
+      "date": "2025-06-21",
+      "count": 0,
+      "api_path": "api/daily/2025-06-21.json",
+      "page_path": "daily-papers/2025-06-21-arxiv.md"
+    }
+  ],
+  "source": "arxiv",
+  "source_label": "arXiv"
+}

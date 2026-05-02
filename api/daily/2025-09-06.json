@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-09-06",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-06-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-09-06-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-06-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-06.md",
+  "papers": [
+    {
+      "id": "56a6b1e13aa3769d",
+      "date": "2025-09-06",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "自然场景观看的高密度漫射光学断层成像数据集",
+      "translated_title": "自然场景观看的高密度漫射光学断层成像数据集",
+      "author": "Sherafati, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.07.565473",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "4f4667733e7081af",
+      "date": "2025-09-06",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类大脑皮层血流动力学反应的两种不同模式",
+      "translated_title": "人类大脑皮层血流动力学反应的两种不同模式",
+      "author": "Epp, S. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.08.570806",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "82b2ac133d852bb6",
+      "date": "2025-09-06",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "空间认知中细胞类型的必然性与冗余性",
+      "translated_title": "空间认知中细胞类型的必然性与冗余性",
+      "author": "Luo, X.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.01.10.575026",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "f8a5cf4b78b308d1",
+      "date": "2025-09-06",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "增强第5层马蒂诺蒂细胞的兴奋性会降低锥体细胞群体的可塑性，并提升习得性运动执行的效能。",
+      "translated_title": "增强第5层马蒂诺蒂细胞的兴奋性会降低锥体细胞群体的可塑性，并提升习得性运动执行的效能。",
+      "author": "Malfatti, T.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.10.584276",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

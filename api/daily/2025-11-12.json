@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "date": "2025-11-12",
+  "count": 8,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-11-12-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 8,
+      "page_path": "daily-papers/2025-11-12-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-11-12-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-11-12.md",
+  "papers": [
+    {
+      "id": "de11c0b70ee93dc9",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "对比生物群落中植物热耐受广度的驱动因素",
+      "translated_title": "对比生物群落中植物热耐受广度的驱动因素",
+      "author": "Briceno, V. F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.10.02.560437",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "2650600a4d47beed",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "血红素相关性是否真实存在？重新审视秀丽隐杆线虫中HRG-9和HRG-10等TANGO2同源蛋白的功能",
+      "translated_title": "血红素相关性是否真实存在？重新审视秀丽隐杆线虫中HRG-9和HRG-10等TANGO2同源蛋白的功能",
+      "author": "Sandkuhler, S. E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.29.569072",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "121bbdcc08426dec",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过抑制CDK8/19介体激酶可克服卵巢癌的失巢凋亡抵抗与转移进程。",
+      "translated_title": "通过抑制CDK8/19介体激酶可克服卵巢癌的失巢凋亡抵抗与转移进程。",
+      "author": "Monavarian, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.04.569970",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "98a6e2f55d34f9b2",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "定量磁化率成像中幻影掺杂材料的评估",
+      "translated_title": "定量磁化率成像中幻影掺杂材料的评估",
+      "author": "Hooper, P.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.18.580843",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "46efe4176e4a42fc",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人脑网络的节点分析——功能与结构耦合的新途径",
+      "translated_title": "人脑网络的节点分析——功能与结构耦合的新途径",
+      "author": "Sairanen, V.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.03.583186",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "adb2516fb3b9486b",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "在自然刺激下，大脑活动偏离典型模式与人格特质相关",
+      "translated_title": "在自然刺激下，大脑活动偏离典型模式与人格特质相关",
+      "author": "Jajcay, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.23.586759",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "e3d72061d8dd1e4c",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "疟疾寄生虫主要毒力因子功能研究系统",
+      "translated_title": "疟疾寄生虫主要毒力因子功能研究系统",
+      "author": "Cronshagen, J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.30.591946",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "3e2437522caf6e3a",
+      "date": "2025-11-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "因果网络扰动分析识别已知与新型2型糖尿病驱动基因",
+      "translated_title": "因果网络扰动分析识别已知与新型2型糖尿病驱动基因",
+      "author": "Zhao, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.22.595431",
+      "paper_url": "",
+      "rank": 8
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

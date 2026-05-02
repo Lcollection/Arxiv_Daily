@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "date": "2025-09-28",
+  "count": 8,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 2,
+      "page_path": "daily-papers/2025-09-28-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 6,
+      "page_path": "daily-papers/2025-09-28-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-28-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-28.md",
+  "papers": [
+    {
+      "id": "1a9d72cdb51ca97b",
+      "date": "2025-09-28",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "SciReasoner：奠定跨学科科学推理基础",
+      "translated_title": "SciReasoner：奠定跨学科科学推理基础",
+      "author": "Yizhou Wang",
+      "summary": "我们提出一种科学推理基础模型，该模型将自然语言与异构科学表征进行对齐。该模型基于涵盖科学文本、纯序列及序列-文本对的2060亿词元语料进行预训练，随后通过4000万条指令的指令微调实现对齐，采用退火冷启动自举法激发长链思维，并结合任务特定奖励塑形的强化学习机制，从而形成严谨的科学推理能力。该模型支持五大能力体系，覆盖工作流中103项任务：(i)文本与科学格式的精准转换，(ii)文本/知识提取，(iii)属性预测，(iv)属性分类，(v)无条件与条件序列生成与设计。相较于专业系统，我们的方法扩展了指令覆盖范围，提升了跨领域泛化能力，并增强了输出保真度。我们详细阐述了数据策展与训练过程，证明跨学科学习能强化知识迁移与下游任务可靠性。该模型、指令微调数据集及评估代码已开源发布于https://huggingface.co/SciReason 与 https://github.com/open-sciencelab/SciReason。",
+      "translated_summary": "我们提出一种科学推理基础模型，该模型将自然语言与异构科学表征进行对齐。该模型基于涵盖科学文本、纯序列及序列-文本对的2060亿词元语料进行预训练，随后通过4000万条指令的指令微调实现对齐，采用退火冷启动自举法激发长链思维，并结合任务特定奖励塑形的强化学习机制，从而形成严谨的科学推理能力。该模型支持五大能力体系，覆盖工作流中103项任务：(i)文本与科学格式的精准转换，(ii)文本/知识提取，(iii)属性预测，(iv)属性分类，(v)无条件与条件序列生成与设计。相较于专业系统，我们的方法扩展了指令覆盖范围，提升了跨领域泛化能力，并增强了输出保真度。我们详细阐述了数据策展与训练过程，证明跨学科学习能强化知识迁移与下游任务可靠性。该模型、指令微调数据集及评估代码已开源发布于https://huggingface.co/SciReason 与 https://github.com/open-sciencelab/SciReason。",
+      "pdf_url": "http://arxiv.org/pdf/2509.21320v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "86793ec75f89c190",
+      "date": "2025-09-28",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "量化视觉几何基础Transformer",
+      "translated_title": "量化视觉几何基础Transformer",
+      "author": "Weilun Feng",
+      "summary": "基于学习的3D重建模型（以视觉几何基干变换器VGGT为代表）借助大规模变换器取得了显著进展，但其高昂的计算与内存成本严重阻碍了实际部署。训练后量化已成为模型压缩与加速的通用技术，然而我们通过实验发现：在压缩十亿级参数的VGGT时，PTQ面临独特挑战——数据无关的特殊令牌导致激活分布呈现重尾特性，而3D数据的多视角特性使得校准样本选择极不稳定。本文首次提出面向VGGT的量化框架QuantVGGT，其核心技术贡献包括：首先提出双平滑细粒度量化，通过融合全局哈达玛变换与局部通道平滑，有效抑制重尾分布并鲁棒降低通道间方差；其次设计噪声过滤多样性采样，借助深层统计量过滤异常值，并构建帧感知的多样化校准簇以确保量化范围稳定性。综合实验表明，QuantVGGT在不同基准测试和比特位宽下均达到最先进水平，大幅超越现有通用量化方法。值得强调的是，4比特QuantVGGT在真实硬件推理中可实现3.7倍内存压缩与2.5倍加速，同时保持重建精度达到全精度模型的98%以上，充分展现了该方法在资源受限场景下的巨大优势与实用性。代码已发布于https://github.com/wlfeng0509/QuantVGGT。",
+      "translated_summary": "基于学习的3D重建模型（以视觉几何基干变换器VGGT为代表）借助大规模变换器取得了显著进展，但其高昂的计算与内存成本严重阻碍了实际部署。训练后量化已成为模型压缩与加速的通用技术，然而我们通过实验发现：在压缩十亿级参数的VGGT时，PTQ面临独特挑战——数据无关的特殊令牌导致激活分布呈现重尾特性，而3D数据的多视角特性使得校准样本选择极不稳定。本文首次提出面向VGGT的量化框架QuantVGGT，其核心技术贡献包括：首先提出双平滑细粒度量化，通过融合全局哈达玛变换与局部通道平滑，有效抑制重尾分布并鲁棒降低通道间方差；其次设计噪声过滤多样性采样，借助深层统计量过滤异常值，并构建帧感知的多样化校准簇以确保量化范围稳定性。综合实验表明，QuantVGGT在不同基准测试和比特位宽下均达到最先进水平，大幅超越现有通用量化方法。值得强调的是，4比特QuantVGGT在真实硬件推理中可实现3.7倍内存压缩与2.5倍加速，同时保持重建精度达到全精度模型的98%以上，充分展现了该方法在资源受限场景下的巨大优势与实用性。代码已发布于https://github.com/wlfeng0509/QuantVGGT。",
+      "pdf_url": "http://arxiv.org/pdf/2509.21302v1",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "c0223a06a7110eb4",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "敲除调控性条形码可使巨噬细胞极化方向由M1型转为M2型，并在金黄色葡萄球菌感染时加重病原负荷。",
+      "translated_title": "敲除调控性条形码可使巨噬细胞极化方向由M1型转为M2型，并在金黄色葡萄球菌感染时加重病原负荷。",
+      "author": "Ravichandran, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2021.10.19.464946",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "1e63e110731bb1b7",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "蛋白质降解调控小鼠与人类神经祖细胞的发育节律",
+      "translated_title": "蛋白质降解调控小鼠与人类神经祖细胞的发育节律",
+      "author": "Nakanoh, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.01.604391",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "c803976004c977de",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "使用PLACER建模蛋白质-小分子构象集合",
+      "translated_title": "使用PLACER建模蛋白质-小分子构象集合",
+      "author": "Anishchenko, I.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.25.614868",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "d04503f7b75dce02",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "极端干旱期间的进化拯救",
+      "translated_title": "极端干旱期间的进化拯救",
+      "author": "Anstett, D. N.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.24.619808",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "8523e66b83294cc4",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "海马体-新皮层相互作用作为压缩性检索增强生成",
+      "translated_title": "海马体-新皮层相互作用作为压缩性检索增强生成",
+      "author": "Spens, E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.04.621950",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "d949c83bc09f9ab7",
+      "date": "2025-09-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "构建机械生物学图谱：对2418种激酶抑制剂在五种原代人类细胞中进行高通量收缩性筛选，揭示相关细胞类型间存在选择性差异反应",
+      "translated_title": "构建机械生物学图谱：对2418种激酶抑制剂在五种原代人类细胞中进行高通量收缩性筛选，揭示相关细胞类型间存在选择性差异反应",
+      "author": "Shpak, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.01.11.632556",
+      "paper_url": "",
+      "rank": 6
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

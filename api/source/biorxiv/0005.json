@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "page": 5,
+  "page_size": 100,
+  "count": 18,
+  "total_count": 418,
+  "dates": [
+    {
+      "date": "2024-09-22",
+      "count": 153,
+      "api_path": "api/daily/2024-09-22.json",
+      "page_path": "daily-papers/2024-09-22-biorxiv.md"
+    },
+    {
+      "date": "2024-09-21",
+      "count": 141,
+      "api_path": "api/daily/2024-09-21.json",
+      "page_path": "daily-papers/2024-09-21-biorxiv.md"
+    },
+    {
+      "date": "2024-09-20",
+      "count": 166,
+      "api_path": "api/daily/2024-09-20.json",
+      "page_path": "daily-papers/2024-09-20-biorxiv.md"
+    },
+    {
+      "date": "2024-09-19",
+      "count": 315,
+      "api_path": "api/daily/2024-09-19.json",
+      "page_path": "daily-papers/2024-09-19-biorxiv.md"
+    },
+    {
+      "date": "2024-09-18",
+      "count": 161,
+      "api_path": "api/daily/2024-09-18.json",
+      "page_path": "daily-papers/2024-09-18-biorxiv.md"
+    },
+    {
+      "date": "2024-09-17",
+      "count": 145,
+      "api_path": "api/daily/2024-09-17.json",
+      "page_path": "daily-papers/2024-09-17-biorxiv.md"
+    },
+    {
+      "date": "2024-09-16",
+      "count": 190,
+      "api_path": "api/daily/2024-09-16.json",
+      "page_path": "daily-papers/2024-09-16-biorxiv.md"
+    },
+    {
+      "date": "2024-09-15",
+      "count": 158,
+      "api_path": "api/daily/2024-09-15.json",
+      "page_path": "daily-papers/2024-09-15-biorxiv.md"
+    },
+    {
+      "date": "2024-09-14",
+      "count": 222,
+      "api_path": "api/daily/2024-09-14.json",
+      "page_path": "daily-papers/2024-09-14-biorxiv.md"
+    },
+    {
+      "date": "2024-09-13",
+      "count": 217,
+      "api_path": "api/daily/2024-09-13.json",
+      "page_path": "daily-papers/2024-09-13-biorxiv.md"
+    },
+    {
+      "date": "2024-09-12",
+      "count": 152,
+      "api_path": "api/daily/2024-09-12.json",
+      "page_path": "daily-papers/2024-09-12-biorxiv.md"
+    },
+    {
+      "date": "2024-09-11",
+      "count": 171,
+      "api_path": "api/daily/2024-09-11.json",
+      "page_path": "daily-papers/2024-09-11-biorxiv.md"
+    },
+    {
+      "date": "2024-09-10",
+      "count": 232,
+      "api_path": "api/daily/2024-09-10.json",
+      "page_path": "daily-papers/2024-09-10-biorxiv.md"
+    },
+    {
+      "date": "2024-09-09",
+      "count": 162,
+      "api_path": "api/daily/2024-09-09.json",
+      "page_path": "daily-papers/2024-09-09-biorxiv.md"
+    },
+    {
+      "date": "2024-09-08",
+      "count": 146,
+      "api_path": "api/daily/2024-09-08.json",
+      "page_path": "daily-papers/2024-09-08-biorxiv.md"
+    },
+    {
+      "date": "2024-09-07",
+      "count": 151,
+      "api_path": "api/daily/2024-09-07.json",
+      "page_path": "daily-papers/2024-09-07-biorxiv.md"
+    },
+    {
+      "date": "2024-09-05",
+      "count": 145,
+      "api_path": "api/daily/2024-09-05.json",
+      "page_path": "daily-papers/2024-09-05-biorxiv.md"
+    },
+    {
+      "date": "2024-09-04",
+      "count": 112,
+      "api_path": "api/daily/2024-09-04.json",
+      "page_path": "daily-papers/2024-09-04-biorxiv.md"
+    }
+  ],
+  "source": "biorxiv",
+  "source_label": "bioRxiv"
+}

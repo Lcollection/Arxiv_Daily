@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "date": "2025-08-25",
+  "count": 5,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-08-25-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-08-25-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-25-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-25.md",
+  "papers": [
+    {
+      "id": "d6dc1d5b87f6713b",
+      "date": "2025-08-25",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "在ESPnet框架下对儿童自动语音识别的训练范式、数据集构成及模型扩展进行基准测试",
+      "translated_title": "在ESPnet框架下对儿童自动语音识别的训练范式、数据集构成及模型扩展进行基准测试",
+      "author": "Anyu Ying",
+      "summary": "尽管自动语音识别（ASR）技术取得进展，但由于儿童语音的声学多变性和标注数据有限，儿童语音识别仍面临挑战。当前主流方法是在成人ASR模型基础上进行儿童语音的微调，但与从零开始的扁平化训练方式的对比研究仍显不足。本研究通过多数据集、自监督学习表征（WavLM、XEUS）及解码器架构的系统性对比实验发现：自监督学习表征存在成人语音偏向，而采用儿童语音的扁平化训练可有效缓解这种偏差。在模型尺度分析中，我们发现参数量增至10亿时性能持续提升，超过该规模后出现平台效应。此外，基于年龄的ASR与说话人验证分析揭示了Whisper等专有模型的局限性，强调需要开放数据模型以支持可靠的儿童语音研究。所有实验均基于ESPnet框架完成，我们公开的基准测试为鲁棒的儿童语音处理训练策略提供了重要参考。",
+      "translated_summary": "尽管自动语音识别（ASR）技术取得进展，但由于儿童语音的声学多变性和标注数据有限，儿童语音识别仍面临挑战。当前主流方法是在成人ASR模型基础上进行儿童语音的微调，但与从零开始的扁平化训练方式的对比研究仍显不足。本研究通过多数据集、自监督学习表征（WavLM、XEUS）及解码器架构的系统性对比实验发现：自监督学习表征存在成人语音偏向，而采用儿童语音的扁平化训练可有效缓解这种偏差。在模型尺度分析中，我们发现参数量增至10亿时性能持续提升，超过该规模后出现平台效应。此外，基于年龄的ASR与说话人验证分析揭示了Whisper等专有模型的局限性，强调需要开放数据模型以支持可靠的儿童语音研究。所有实验均基于ESPnet框架完成，我们公开的基准测试为鲁棒的儿童语音处理训练策略提供了重要参考。",
+      "pdf_url": "http://arxiv.org/pdf/2508.16576v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "94f9aab694c9bca1",
+      "date": "2025-08-25",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "在新环境中增强的适应潜力，可通过原生环境中发育时间所表现的遗传变异进行预测。",
+      "translated_title": "在新环境中增强的适应潜力，可通过原生环境中发育时间所表现的遗传变异进行预测。",
+      "author": "Walter, G. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2021.02.04.429835",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "892866289643a9b5",
+      "date": "2025-08-25",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类肠道拟杆菌劫掠铁元素的结构基础",
+      "translated_title": "人类肠道拟杆菌劫掠铁元素的结构基础",
+      "author": "Silale, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.15.589501",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "2177e710a93bac11",
+      "date": "2025-08-25",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过整合时间与光谱维度实现多样化热带森林中全面单树种制图",
+      "translated_title": "通过整合时间与光谱维度实现多样化热带森林中全面单树种制图",
+      "author": "Ball, J. G. C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.24.600405",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "97367aca332459d9",
+      "date": "2025-08-25",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "采用CAMUS实现通用跨数据集细胞类型注释的高精度参考与方法选择",
+      "translated_title": "采用CAMUS实现通用跨数据集细胞类型注释的高精度参考与方法选择",
+      "author": "Shen, Q.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.01.13.632744",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

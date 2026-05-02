@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-08-21",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-08-21-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-08-21-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-21-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-21.md",
+  "papers": [
+    {
+      "id": "9d77252e32415483",
+      "date": "2025-08-21",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "基于价值的深度强化学习的计算最优缩放",
+      "translated_title": "基于价值的深度强化学习的计算最优缩放",
+      "author": "Preston Fu",
+      "summary": "随着模型规模扩大及训练成本增加，如何扩展训练方案不仅涉及更大模型和更多数据，更需以计算最优化的方式实现单位计算资源的性能最大化，这一需求变得日益重要。虽然语言建模领域的计算扩展已得到充分研究，但强化学习（RL）在此方面的关注相对不足。本文针对基于价值的在线深度强化学习开展计算扩展研究。这类方法存在两个核心计算分配维度：模型容量和更新数据比（UTD）。在固定计算预算下，我们探讨：应如何在这两个维度间分配资源以实现样本效率最大化？我们的分析揭示了模型规模、批处理大小与UTD比值之间复杂的相互作用。特别地，我们发现了一种称为\"时序差分过拟合\"（TD-overfitting）的现象：对于小规模模型，增大批处理量会快速降低Q函数精度，但该现象在大规模模型中并不存在，这使得大规模批处理的有效应用成为可能。我们提出了理解该现象的概念模型，并建立了选择批处理大小与UTD比值以优化计算资源使用的指导原则。本研究为深度强化学习中的计算最优化扩展提供了实证基础，既借鉴了监督学习的研究范式，又针对时序差分学习特性进行了适应性调整。",
+      "translated_summary": "随着模型规模扩大及训练成本增加，如何扩展训练方案不仅涉及更大模型和更多数据，更需以计算最优化的方式实现单位计算资源的性能最大化，这一需求变得日益重要。虽然语言建模领域的计算扩展已得到充分研究，但强化学习（RL）在此方面的关注相对不足。本文针对基于价值的在线深度强化学习开展计算扩展研究。这类方法存在两个核心计算分配维度：模型容量和更新数据比（UTD）。在固定计算预算下，我们探讨：应如何在这两个维度间分配资源以实现样本效率最大化？我们的分析揭示了模型规模、批处理大小与UTD比值之间复杂的相互作用。特别地，我们发现了一种称为\"时序差分过拟合\"（TD-overfitting）的现象：对于小规模模型，增大批处理量会快速降低Q函数精度，但该现象在大规模模型中并不存在，这使得大规模批处理的有效应用成为可能。我们提出了理解该现象的概念模型，并建立了选择批处理大小与UTD比值以优化计算资源使用的指导原则。本研究为深度强化学习中的计算最优化扩展提供了实证基础，既借鉴了监督学习的研究范式，又针对时序差分学习特性进行了适应性调整。",
+      "pdf_url": "http://arxiv.org/pdf/2508.14881v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "fccb85fb197976f2",
+      "date": "2025-08-21",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过调控节律性脑回路改善社交焦虑中的情绪控制",
+      "translated_title": "通过调控节律性脑回路改善社交焦虑中的情绪控制",
+      "author": "Meijer, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.09.01.555689",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "e8950c2e24c655de",
+      "date": "2025-08-21",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "膜颈的双模态力学响应：对核被膜的启示。",
+      "translated_title": "膜颈的双模态力学响应：对核被膜的启示。",
+      "author": "Geiger, B. J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.03.10.642015",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "92fc0afd15865e78",
+      "date": "2025-08-21",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "考古骨骼组合揭示东南亚大陆龟类与陆龟多样性变迁",
+      "translated_title": "考古骨骼组合揭示东南亚大陆龟类与陆龟多样性变迁",
+      "author": "Bochaton, C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.03.27.645446",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

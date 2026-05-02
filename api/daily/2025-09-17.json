@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "date": "2025-09-17",
+  "count": 6,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-17-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 5,
+      "page_path": "daily-papers/2025-09-17-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-17-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-17.md",
+  "papers": [
+    {
+      "id": "a65645a0c4acaf5a",
+      "date": "2025-09-17",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "模型激活的自然语言描述是否传递特权信息？",
+      "translated_title": "模型激活的自然语言描述是否传递特权信息？",
+      "author": "Millicent Li",
+      "summary": "近期可解释性研究提出采用第二语言化大模型将大语言模型的内部表征转化为自然语言描述。该方法旨在揭示目标模型如何表征和处理输入信息。然而，这种激活语言化方法究竟能提供关于目标模型内部运作的特有认知，还是仅仅传递其输入信息？我们通过对既有研究数据集中的主流语言化方法进行批判性评估，发现这些方法在完全无需接触目标模型内部的情况下仍能通过基准测试，表明现有数据集并不适合评估语言化方法。后续控制实验表明，语言化结果往往反映的是生成描述的语言化大模型自身的参数化知识，而非被解码的目标大模型的激活状态。综合而言，我们的研究结果表明需要建立针对性基准测试和实验控制机制，以严格评估语言化方法是否能有效揭示大语言模型的运作机制。",
+      "translated_summary": "近期可解释性研究提出采用第二语言化大模型将大语言模型的内部表征转化为自然语言描述。该方法旨在揭示目标模型如何表征和处理输入信息。然而，这种激活语言化方法究竟能提供关于目标模型内部运作的特有认知，还是仅仅传递其输入信息？我们通过对既有研究数据集中的主流语言化方法进行批判性评估，发现这些方法在完全无需接触目标模型内部的情况下仍能通过基准测试，表明现有数据集并不适合评估语言化方法。后续控制实验表明，语言化结果往往反映的是生成描述的语言化大模型自身的参数化知识，而非被解码的目标大模型的激活状态。综合而言，我们的研究结果表明需要建立针对性基准测试和实验控制机制，以严格评估语言化方法是否能有效揭示大语言模型的运作机制。",
+      "pdf_url": "http://arxiv.org/pdf/2509.13316v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "e55124a372558522",
+      "date": "2025-09-17",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "交叉点标记招募凝缩蛋白以重组减数分裂染色体轴。",
+      "translated_title": "交叉点标记招募凝缩蛋白以重组减数分裂染色体轴。",
+      "author": "Leon, V. A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2020.07.16.207068",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "0e9e8851572825a1",
+      "date": "2025-09-17",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "星形胶质细胞谷氨酸调节受逆境与糖皮质激素信号传导影响",
+      "translated_title": "星形胶质细胞谷氨酸调节受逆境与糖皮质激素信号传导影响",
+      "author": "Kaul, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.24.600362",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "c298e28257d5df5c",
+      "date": "2025-09-17",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "迈向基于自然语言的蛋白质从头设计",
+      "translated_title": "迈向基于自然语言的蛋白质从头设计",
+      "author": "Dai, F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.01.606258",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "c298e28257d5df5c",
+      "date": "2025-09-17",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "迈向基于自然语言的蛋白质从头设计",
+      "translated_title": "迈向基于自然语言的蛋白质从头设计",
+      "author": "Dai, F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.01.606258",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "e79eafa98fac95d4",
+      "date": "2025-09-17",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过计数分割量化稳定性以指导RNA速度分析中的模型选择",
+      "translated_title": "通过计数分割量化稳定性以指导RNA速度分析中的模型选择",
+      "author": "Li, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.23.625009",
+      "paper_url": "",
+      "rank": 5
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

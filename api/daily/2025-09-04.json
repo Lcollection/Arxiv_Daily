@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "date": "2025-09-04",
+  "count": 3,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-04-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-09-04-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-04-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-04.md",
+  "papers": [
+    {
+      "id": "ed9c55463ecde8db",
+      "date": "2025-09-04",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "下丘脑食欲神经元的嗅觉输入",
+      "translated_title": "下丘脑食欲神经元的嗅觉输入",
+      "author": "Kuang, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.02.28.530282",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "7f245941172d6915",
+      "date": "2025-09-04",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "豌豆（Pisum sativum）在根瘤水平上对低效菌株实施制裁，但在混合根瘤内部不采取此类措施。",
+      "translated_title": "豌豆（Pisum sativum）在根瘤水平上对低效菌株实施制裁，但在混合根瘤内部不采取此类措施。",
+      "author": "Underwood, T. J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.25.582971",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "6c3546fb5ce41a6b",
+      "date": "2025-09-04",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "修正单细胞RNA测序数据跨物种比较中的直系同源假说",
+      "translated_title": "修正单细胞RNA测序数据跨物种比较中的直系同源假说",
+      "author": "Song, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.21.600109",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

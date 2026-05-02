@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "date": "2025-08-29",
+  "count": 5,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-08-29-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-08-29-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-29-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-29.md",
+  "papers": [
+    {
+      "id": "3a3b8606fbd66807",
+      "date": "2025-08-29",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "实现可信金融推理的公平获取",
+      "translated_title": "实现可信金融推理的公平获取",
+      "author": "William Jurayj",
+      "summary": "根据美国国税局的数据，“普通美国人平均花费270美元和13小时用于申报税务”。即便在美国之外，税务申报同样需要复杂的逻辑推理，涉及多重法规的交叠应用与数值计算。由于错误可能导致高昂的罚款，任何自动化系统都必须具备高准确性和可审计性，这使得现代大语言模型（LLMs）难以胜任此项任务。我们提出一种将大语言模型与符号求解器相结合的计算税务责任方法。通过在具有挑战性的法定推理评估（SARA）数据集上测试该系统的多种变体，我们引入了一种创新方法：基于实际税务错误处罚标准来估算系统部署成本。研究进一步表明，将明文法规的前期形式化逻辑转换与智能检索的形式化案例表征示例相结合，可显著提升系统性能，并将成本控制在远低于现实世界平均值的水平。我们的研究成果证明了神经符号架构在提升可靠税务援助服务普惠性方面的潜力与经济可行性。",
+      "translated_summary": "根据美国国税局的数据，“普通美国人平均花费270美元和13小时用于申报税务”。即便在美国之外，税务申报同样需要复杂的逻辑推理，涉及多重法规的交叠应用与数值计算。由于错误可能导致高昂的罚款，任何自动化系统都必须具备高准确性和可审计性，这使得现代大语言模型（LLMs）难以胜任此项任务。我们提出一种将大语言模型与符号求解器相结合的计算税务责任方法。通过在具有挑战性的法定推理评估（SARA）数据集上测试该系统的多种变体，我们引入了一种创新方法：基于实际税务错误处罚标准来估算系统部署成本。研究进一步表明，将明文法规的前期形式化逻辑转换与智能检索的形式化案例表征示例相结合，可显著提升系统性能，并将成本控制在远低于现实世界平均值的水平。我们的研究成果证明了神经符号架构在提升可靠税务援助服务普惠性方面的潜力与经济可行性。",
+      "pdf_url": "http://arxiv.org/pdf/2508.21051v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "4def3e71f7f99125",
+      "date": "2025-08-29",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Rab10失活促进长时程增强过程中AMPAR的运输与树突棘增大",
+      "translated_title": "Rab10失活促进长时程增强过程中AMPAR的运输与树突棘增大",
+      "author": "Wang, J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.05.17.492345",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "93ccd7596f9bad29",
+      "date": "2025-08-29",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "醚磷脂通过调节果蝇多种受体功能来调控体感反应",
+      "translated_title": "醚磷脂通过调节果蝇多种受体功能来调控体感反应",
+      "author": "Suito, T.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.09.12.556286",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "df517743a9594dec",
+      "date": "2025-08-29",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "果实中的金属积累位点",
+      "translated_title": "果实中的金属积累位点",
+      "author": "mandebere, k. d.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.12.571343",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "795f13ec78581ac2",
+      "date": "2025-08-29",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类杏仁核区域活动随季节、情绪及光照强度变化而呈现差异性波动。",
+      "translated_title": "人类杏仁核区域活动随季节、情绪及光照强度变化而呈现差异性波动。",
+      "author": "Campbell, I.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.25.591085",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

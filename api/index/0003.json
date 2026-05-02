@@ -1,0 +1,2311 @@
+{
+  "version": 1,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "page": 3,
+  "page_size": 100,
+  "count": 100,
+  "total_count": 418,
+  "dates": [
+    {
+      "date": "2025-06-20",
+      "count": 0,
+      "api_path": "api/daily/2025-06-20.json",
+      "page_path": "daily-papers/2025-06-20.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-20-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-20-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-20-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-17",
+      "count": 0,
+      "api_path": "api/daily/2025-06-17.json",
+      "page_path": "daily-papers/2025-06-17.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-17-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-17-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-17-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-16",
+      "count": 1,
+      "api_path": "api/daily/2025-06-16.json",
+      "page_path": "daily-papers/2025-06-16.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-16-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 1,
+          "page_path": "daily-papers/2025-06-16-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-16-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-15",
+      "count": 0,
+      "api_path": "api/daily/2025-06-15.json",
+      "page_path": "daily-papers/2025-06-15.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-15-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-15-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-15-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-14",
+      "count": 0,
+      "api_path": "api/daily/2025-06-14.json",
+      "page_path": "daily-papers/2025-06-14.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-14-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-14-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-14-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-13",
+      "count": 0,
+      "api_path": "api/daily/2025-06-13.json",
+      "page_path": "daily-papers/2025-06-13.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-13-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-13-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-13-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-12",
+      "count": 0,
+      "api_path": "api/daily/2025-06-12.json",
+      "page_path": "daily-papers/2025-06-12.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-12-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-12-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-12-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-11",
+      "count": 0,
+      "api_path": "api/daily/2025-06-11.json",
+      "page_path": "daily-papers/2025-06-11.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-11-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-11-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-11-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-10",
+      "count": 0,
+      "api_path": "api/daily/2025-06-10.json",
+      "page_path": "daily-papers/2025-06-10.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-10-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-10-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-10-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-09",
+      "count": 0,
+      "api_path": "api/daily/2025-06-09.json",
+      "page_path": "daily-papers/2025-06-09.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-09-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-09-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-09-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-07",
+      "count": 0,
+      "api_path": "api/daily/2025-06-07.json",
+      "page_path": "daily-papers/2025-06-07.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-07-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-07-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-07-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-06",
+      "count": 0,
+      "api_path": "api/daily/2025-06-06.json",
+      "page_path": "daily-papers/2025-06-06.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-06-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-06-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-06-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-05",
+      "count": 0,
+      "api_path": "api/daily/2025-06-05.json",
+      "page_path": "daily-papers/2025-06-05.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-05-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-05-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-05-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-04",
+      "count": 0,
+      "api_path": "api/daily/2025-06-04.json",
+      "page_path": "daily-papers/2025-06-04.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-04-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-04-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-04-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-03",
+      "count": 0,
+      "api_path": "api/daily/2025-06-03.json",
+      "page_path": "daily-papers/2025-06-03.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-03-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-03-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-03-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-02",
+      "count": 0,
+      "api_path": "api/daily/2025-06-02.json",
+      "page_path": "daily-papers/2025-06-02.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-02-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-02-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-02-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-06-01",
+      "count": 0,
+      "api_path": "api/daily/2025-06-01.json",
+      "page_path": "daily-papers/2025-06-01.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-01-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-01-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-06-01-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-31",
+      "count": 0,
+      "api_path": "api/daily/2025-05-31.json",
+      "page_path": "daily-papers/2025-05-31.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-31-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-31-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-31-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-30",
+      "count": 0,
+      "api_path": "api/daily/2025-05-30.json",
+      "page_path": "daily-papers/2025-05-30.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-30-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-30-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-30-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-29",
+      "count": 0,
+      "api_path": "api/daily/2025-05-29.json",
+      "page_path": "daily-papers/2025-05-29.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-29-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-29-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-29-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-28",
+      "count": 0,
+      "api_path": "api/daily/2025-05-28.json",
+      "page_path": "daily-papers/2025-05-28.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-28-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-28-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-28-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-27",
+      "count": 0,
+      "api_path": "api/daily/2025-05-27.json",
+      "page_path": "daily-papers/2025-05-27.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-27-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-27-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-27-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-26",
+      "count": 0,
+      "api_path": "api/daily/2025-05-26.json",
+      "page_path": "daily-papers/2025-05-26.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-26-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-26-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-26-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-25",
+      "count": 0,
+      "api_path": "api/daily/2025-05-25.json",
+      "page_path": "daily-papers/2025-05-25.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-25-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-25-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-25-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-24",
+      "count": 0,
+      "api_path": "api/daily/2025-05-24.json",
+      "page_path": "daily-papers/2025-05-24.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-24-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-24-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-24-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-23",
+      "count": 0,
+      "api_path": "api/daily/2025-05-23.json",
+      "page_path": "daily-papers/2025-05-23.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-23-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-23-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-23-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-22",
+      "count": 0,
+      "api_path": "api/daily/2025-05-22.json",
+      "page_path": "daily-papers/2025-05-22.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-22-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-22-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-22-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-21",
+      "count": 0,
+      "api_path": "api/daily/2025-05-21.json",
+      "page_path": "daily-papers/2025-05-21.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-21-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-21-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-21-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-20",
+      "count": 0,
+      "api_path": "api/daily/2025-05-20.json",
+      "page_path": "daily-papers/2025-05-20.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-20-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-20-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-20-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-19",
+      "count": 0,
+      "api_path": "api/daily/2025-05-19.json",
+      "page_path": "daily-papers/2025-05-19.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-19-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-19-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-19-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-18",
+      "count": 1,
+      "api_path": "api/daily/2025-05-18.json",
+      "page_path": "daily-papers/2025-05-18.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-18-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 1,
+          "page_path": "daily-papers/2025-05-18-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-18-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-17",
+      "count": 0,
+      "api_path": "api/daily/2025-05-17.json",
+      "page_path": "daily-papers/2025-05-17.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-17-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-17-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-17-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-16",
+      "count": 0,
+      "api_path": "api/daily/2025-05-16.json",
+      "page_path": "daily-papers/2025-05-16.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-16-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-16-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-16-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-15",
+      "count": 0,
+      "api_path": "api/daily/2025-05-15.json",
+      "page_path": "daily-papers/2025-05-15.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-15-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-15-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-15-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-14",
+      "count": 0,
+      "api_path": "api/daily/2025-05-14.json",
+      "page_path": "daily-papers/2025-05-14.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-13",
+      "count": 0,
+      "api_path": "api/daily/2025-05-13.json",
+      "page_path": "daily-papers/2025-05-13.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-13-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-13-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-13-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-12",
+      "count": 0,
+      "api_path": "api/daily/2025-05-12.json",
+      "page_path": "daily-papers/2025-05-12.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-12-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-12-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-12-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-11",
+      "count": 0,
+      "api_path": "api/daily/2025-05-11.json",
+      "page_path": "daily-papers/2025-05-11.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-11-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-11-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-11-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-10",
+      "count": 0,
+      "api_path": "api/daily/2025-05-10.json",
+      "page_path": "daily-papers/2025-05-10.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-10-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-10-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-10-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-09",
+      "count": 0,
+      "api_path": "api/daily/2025-05-09.json",
+      "page_path": "daily-papers/2025-05-09.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-09-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-09-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-09-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-08",
+      "count": 0,
+      "api_path": "api/daily/2025-05-08.json",
+      "page_path": "daily-papers/2025-05-08.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-08-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-08-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-08-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-07",
+      "count": 0,
+      "api_path": "api/daily/2025-05-07.json",
+      "page_path": "daily-papers/2025-05-07.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-07-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-07-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-07-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-06",
+      "count": 0,
+      "api_path": "api/daily/2025-05-06.json",
+      "page_path": "daily-papers/2025-05-06.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-06-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-06-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-06-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-05",
+      "count": 1,
+      "api_path": "api/daily/2025-05-05.json",
+      "page_path": "daily-papers/2025-05-05.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-05-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 1,
+          "page_path": "daily-papers/2025-05-05-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-05-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-04",
+      "count": 0,
+      "api_path": "api/daily/2025-05-04.json",
+      "page_path": "daily-papers/2025-05-04.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-04-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-04-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-04-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-03",
+      "count": 0,
+      "api_path": "api/daily/2025-05-03.json",
+      "page_path": "daily-papers/2025-05-03.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-03-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-03-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-03-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-02",
+      "count": 0,
+      "api_path": "api/daily/2025-05-02.json",
+      "page_path": "daily-papers/2025-05-02.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-02-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-02-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-02-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-05-01",
+      "count": 0,
+      "api_path": "api/daily/2025-05-01.json",
+      "page_path": "daily-papers/2025-05-01.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-01-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-01-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-01-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-04-30",
+      "count": 0,
+      "api_path": "api/daily/2025-04-30.json",
+      "page_path": "daily-papers/2025-04-30.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-30-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-30-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-30-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-04-29",
+      "count": 0,
+      "api_path": "api/daily/2025-04-29.json",
+      "page_path": "daily-papers/2025-04-29.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-29-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-29-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-29-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-04-28",
+      "count": 0,
+      "api_path": "api/daily/2025-04-28.json",
+      "page_path": "daily-papers/2025-04-28.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-28-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-28-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-28-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-04-27",
+      "count": 0,
+      "api_path": "api/daily/2025-04-27.json",
+      "page_path": "daily-papers/2025-04-27.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-27-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-27-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-04-27-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-23",
+      "count": 227,
+      "api_path": "api/daily/2025-02-23.json",
+      "page_path": "daily-papers/2025-02-23.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-23-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 171,
+          "page_path": "daily-papers/2025-02-23-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 56,
+          "page_path": "daily-papers/2025-02-23-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-22",
+      "count": 80,
+      "api_path": "api/daily/2025-02-22.json",
+      "page_path": "daily-papers/2025-02-22.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-22-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 73,
+          "page_path": "daily-papers/2025-02-22-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 7,
+          "page_path": "daily-papers/2025-02-22-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-21",
+      "count": 284,
+      "api_path": "api/daily/2025-02-21.json",
+      "page_path": "daily-papers/2025-02-21.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-21-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 173,
+          "page_path": "daily-papers/2025-02-21-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 111,
+          "page_path": "daily-papers/2025-02-21-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-20",
+      "count": 447,
+      "api_path": "api/daily/2025-02-20.json",
+      "page_path": "daily-papers/2025-02-20.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 195,
+          "page_path": "daily-papers/2025-02-20-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 201,
+          "page_path": "daily-papers/2025-02-20-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 51,
+          "page_path": "daily-papers/2025-02-20-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-19",
+      "count": 397,
+      "api_path": "api/daily/2025-02-19.json",
+      "page_path": "daily-papers/2025-02-19.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 193,
+          "page_path": "daily-papers/2025-02-19-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 183,
+          "page_path": "daily-papers/2025-02-19-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 21,
+          "page_path": "daily-papers/2025-02-19-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-18",
+      "count": 348,
+      "api_path": "api/daily/2025-02-18.json",
+      "page_path": "daily-papers/2025-02-18.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 197,
+          "page_path": "daily-papers/2025-02-18-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 107,
+          "page_path": "daily-papers/2025-02-18-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 44,
+          "page_path": "daily-papers/2025-02-18-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-17",
+      "count": 459,
+      "api_path": "api/daily/2025-02-17.json",
+      "page_path": "daily-papers/2025-02-17.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 192,
+          "page_path": "daily-papers/2025-02-17-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 251,
+          "page_path": "daily-papers/2025-02-17-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 16,
+          "page_path": "daily-papers/2025-02-17-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-15",
+      "count": 155,
+      "api_path": "api/daily/2025-02-15.json",
+      "page_path": "daily-papers/2025-02-15.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-15-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 150,
+          "page_path": "daily-papers/2025-02-15-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 5,
+          "page_path": "daily-papers/2025-02-15-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-14",
+      "count": 200,
+      "api_path": "api/daily/2025-02-14.json",
+      "page_path": "daily-papers/2025-02-14.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-14-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 133,
+          "page_path": "daily-papers/2025-02-14-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 67,
+          "page_path": "daily-papers/2025-02-14-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-13",
+      "count": 443,
+      "api_path": "api/daily/2025-02-13.json",
+      "page_path": "daily-papers/2025-02-13.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 193,
+          "page_path": "daily-papers/2025-02-13-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 175,
+          "page_path": "daily-papers/2025-02-13-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 75,
+          "page_path": "daily-papers/2025-02-13-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-12",
+      "count": 405,
+      "api_path": "api/daily/2025-02-12.json",
+      "page_path": "daily-papers/2025-02-12.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 188,
+          "page_path": "daily-papers/2025-02-12-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 144,
+          "page_path": "daily-papers/2025-02-12-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 73,
+          "page_path": "daily-papers/2025-02-12-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-11",
+      "count": 403,
+      "api_path": "api/daily/2025-02-11.json",
+      "page_path": "daily-papers/2025-02-11.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 193,
+          "page_path": "daily-papers/2025-02-11-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 199,
+          "page_path": "daily-papers/2025-02-11-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 11,
+          "page_path": "daily-papers/2025-02-11-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-10",
+      "count": 383,
+      "api_path": "api/daily/2025-02-10.json",
+      "page_path": "daily-papers/2025-02-10.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 190,
+          "page_path": "daily-papers/2025-02-10-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 130,
+          "page_path": "daily-papers/2025-02-10-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 63,
+          "page_path": "daily-papers/2025-02-10-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-09",
+      "count": 48,
+      "api_path": "api/daily/2025-02-09.json",
+      "page_path": "daily-papers/2025-02-09.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-09-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 43,
+          "page_path": "daily-papers/2025-02-09-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 5,
+          "page_path": "daily-papers/2025-02-09-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-08",
+      "count": 432,
+      "api_path": "api/daily/2025-02-08.json",
+      "page_path": "daily-papers/2025-02-08.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-08-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 388,
+          "page_path": "daily-papers/2025-02-08-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 44,
+          "page_path": "daily-papers/2025-02-08-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-07",
+      "count": 204,
+      "api_path": "api/daily/2025-02-07.json",
+      "page_path": "daily-papers/2025-02-07.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-07-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 163,
+          "page_path": "daily-papers/2025-02-07-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 41,
+          "page_path": "daily-papers/2025-02-07-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-06",
+      "count": 441,
+      "api_path": "api/daily/2025-02-06.json",
+      "page_path": "daily-papers/2025-02-06.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 190,
+          "page_path": "daily-papers/2025-02-06-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 191,
+          "page_path": "daily-papers/2025-02-06-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 60,
+          "page_path": "daily-papers/2025-02-06-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-03",
+      "count": 218,
+      "api_path": "api/daily/2025-02-03.json",
+      "page_path": "daily-papers/2025-02-03.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-03-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 161,
+          "page_path": "daily-papers/2025-02-03-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 57,
+          "page_path": "daily-papers/2025-02-03-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-02",
+      "count": 148,
+      "api_path": "api/daily/2025-02-02.json",
+      "page_path": "daily-papers/2025-02-02.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-02-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 88,
+          "page_path": "daily-papers/2025-02-02-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 60,
+          "page_path": "daily-papers/2025-02-02-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-02-01",
+      "count": 98,
+      "api_path": "api/daily/2025-02-01.json",
+      "page_path": "daily-papers/2025-02-01.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-02-01-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 95,
+          "page_path": "daily-papers/2025-02-01-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 3,
+          "page_path": "daily-papers/2025-02-01-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-31",
+      "count": 206,
+      "api_path": "api/daily/2025-01-31.json",
+      "page_path": "daily-papers/2025-01-31.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-31-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 158,
+          "page_path": "daily-papers/2025-01-31-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 48,
+          "page_path": "daily-papers/2025-01-31-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-30",
+      "count": 327,
+      "api_path": "api/daily/2025-01-30.json",
+      "page_path": "daily-papers/2025-01-30.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 175,
+          "page_path": "daily-papers/2025-01-30-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 142,
+          "page_path": "daily-papers/2025-01-30-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 10,
+          "page_path": "daily-papers/2025-01-30-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-29",
+      "count": 385,
+      "api_path": "api/daily/2025-01-29.json",
+      "page_path": "daily-papers/2025-01-29.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 137,
+          "page_path": "daily-papers/2025-01-29-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 202,
+          "page_path": "daily-papers/2025-01-29-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 46,
+          "page_path": "daily-papers/2025-01-29-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-28",
+      "count": 445,
+      "api_path": "api/daily/2025-01-28.json",
+      "page_path": "daily-papers/2025-01-28.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 171,
+          "page_path": "daily-papers/2025-01-28-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 192,
+          "page_path": "daily-papers/2025-01-28-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 82,
+          "page_path": "daily-papers/2025-01-28-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-26",
+      "count": 107,
+      "api_path": "api/daily/2025-01-26.json",
+      "page_path": "daily-papers/2025-01-26.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-26-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 103,
+          "page_path": "daily-papers/2025-01-26-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 4,
+          "page_path": "daily-papers/2025-01-26-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-25",
+      "count": 174,
+      "api_path": "api/daily/2025-01-25.json",
+      "page_path": "daily-papers/2025-01-25.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-25-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 121,
+          "page_path": "daily-papers/2025-01-25-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 53,
+          "page_path": "daily-papers/2025-01-25-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-24",
+      "count": 315,
+      "api_path": "api/daily/2025-01-24.json",
+      "page_path": "daily-papers/2025-01-24.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-24-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 284,
+          "page_path": "daily-papers/2025-01-24-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 31,
+          "page_path": "daily-papers/2025-01-24-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-23",
+      "count": 369,
+      "api_path": "api/daily/2025-01-23.json",
+      "page_path": "daily-papers/2025-01-23.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 190,
+          "page_path": "daily-papers/2025-01-23-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 139,
+          "page_path": "daily-papers/2025-01-23-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 40,
+          "page_path": "daily-papers/2025-01-23-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-22",
+      "count": 486,
+      "api_path": "api/daily/2025-01-22.json",
+      "page_path": "daily-papers/2025-01-22.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 155,
+          "page_path": "daily-papers/2025-01-22-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 275,
+          "page_path": "daily-papers/2025-01-22-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 56,
+          "page_path": "daily-papers/2025-01-22-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-21",
+      "count": 383,
+      "api_path": "api/daily/2025-01-21.json",
+      "page_path": "daily-papers/2025-01-21.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 187,
+          "page_path": "daily-papers/2025-01-21-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 170,
+          "page_path": "daily-papers/2025-01-21-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 26,
+          "page_path": "daily-papers/2025-01-21-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-20",
+      "count": 185,
+      "api_path": "api/daily/2025-01-20.json",
+      "page_path": "daily-papers/2025-01-20.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-20-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 137,
+          "page_path": "daily-papers/2025-01-20-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 48,
+          "page_path": "daily-papers/2025-01-20-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-19",
+      "count": 149,
+      "api_path": "api/daily/2025-01-19.json",
+      "page_path": "daily-papers/2025-01-19.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-19-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 132,
+          "page_path": "daily-papers/2025-01-19-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 17,
+          "page_path": "daily-papers/2025-01-19-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-18",
+      "count": 130,
+      "api_path": "api/daily/2025-01-18.json",
+      "page_path": "daily-papers/2025-01-18.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-18-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 113,
+          "page_path": "daily-papers/2025-01-18-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 17,
+          "page_path": "daily-papers/2025-01-18-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-17",
+      "count": 199,
+      "api_path": "api/daily/2025-01-17.json",
+      "page_path": "daily-papers/2025-01-17.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-17-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 127,
+          "page_path": "daily-papers/2025-01-17-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 72,
+          "page_path": "daily-papers/2025-01-17-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-16",
+      "count": 371,
+      "api_path": "api/daily/2025-01-16.json",
+      "page_path": "daily-papers/2025-01-16.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 172,
+          "page_path": "daily-papers/2025-01-16-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 167,
+          "page_path": "daily-papers/2025-01-16-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 32,
+          "page_path": "daily-papers/2025-01-16-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-15",
+      "count": 430,
+      "api_path": "api/daily/2025-01-15.json",
+      "page_path": "daily-papers/2025-01-15.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 166,
+          "page_path": "daily-papers/2025-01-15-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 193,
+          "page_path": "daily-papers/2025-01-15-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 71,
+          "page_path": "daily-papers/2025-01-15-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-14",
+      "count": 497,
+      "api_path": "api/daily/2025-01-14.json",
+      "page_path": "daily-papers/2025-01-14.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 192,
+          "page_path": "daily-papers/2025-01-14-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 260,
+          "page_path": "daily-papers/2025-01-14-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 45,
+          "page_path": "daily-papers/2025-01-14-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-13",
+      "count": 477,
+      "api_path": "api/daily/2025-01-13.json",
+      "page_path": "daily-papers/2025-01-13.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 175,
+          "page_path": "daily-papers/2025-01-13-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 249,
+          "page_path": "daily-papers/2025-01-13-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 53,
+          "page_path": "daily-papers/2025-01-13-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-12",
+      "count": 127,
+      "api_path": "api/daily/2025-01-12.json",
+      "page_path": "daily-papers/2025-01-12.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-12-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 86,
+          "page_path": "daily-papers/2025-01-12-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 41,
+          "page_path": "daily-papers/2025-01-12-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-11",
+      "count": 110,
+      "api_path": "api/daily/2025-01-11.json",
+      "page_path": "daily-papers/2025-01-11.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-11-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 108,
+          "page_path": "daily-papers/2025-01-11-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 2,
+          "page_path": "daily-papers/2025-01-11-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-10",
+      "count": 192,
+      "api_path": "api/daily/2025-01-10.json",
+      "page_path": "daily-papers/2025-01-10.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-10-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 145,
+          "page_path": "daily-papers/2025-01-10-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 47,
+          "page_path": "daily-papers/2025-01-10-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-09",
+      "count": 345,
+      "api_path": "api/daily/2025-01-09.json",
+      "page_path": "daily-papers/2025-01-09.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 171,
+          "page_path": "daily-papers/2025-01-09-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 128,
+          "page_path": "daily-papers/2025-01-09-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 46,
+          "page_path": "daily-papers/2025-01-09-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-08",
+      "count": 420,
+      "api_path": "api/daily/2025-01-08.json",
+      "page_path": "daily-papers/2025-01-08.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 152,
+          "page_path": "daily-papers/2025-01-08-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 233,
+          "page_path": "daily-papers/2025-01-08-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 35,
+          "page_path": "daily-papers/2025-01-08-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-07",
+      "count": 321,
+      "api_path": "api/daily/2025-01-07.json",
+      "page_path": "daily-papers/2025-01-07.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 153,
+          "page_path": "daily-papers/2025-01-07-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 122,
+          "page_path": "daily-papers/2025-01-07-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 46,
+          "page_path": "daily-papers/2025-01-07-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-06",
+      "count": 350,
+      "api_path": "api/daily/2025-01-06.json",
+      "page_path": "daily-papers/2025-01-06.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 162,
+          "page_path": "daily-papers/2025-01-06-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 132,
+          "page_path": "daily-papers/2025-01-06-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 56,
+          "page_path": "daily-papers/2025-01-06-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-05",
+      "count": 99,
+      "api_path": "api/daily/2025-01-05.json",
+      "page_path": "daily-papers/2025-01-05.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-05-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 67,
+          "page_path": "daily-papers/2025-01-05-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 32,
+          "page_path": "daily-papers/2025-01-05-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-04",
+      "count": 150,
+      "api_path": "api/daily/2025-01-04.json",
+      "page_path": "daily-papers/2025-01-04.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-04-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 146,
+          "page_path": "daily-papers/2025-01-04-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 4,
+          "page_path": "daily-papers/2025-01-04-medrxiv.md"
+        }
+      }
+    },
+    {
+      "date": "2025-01-03",
+      "count": 180,
+      "api_path": "api/daily/2025-01-03.json",
+      "page_path": "daily-papers/2025-01-03.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-01-03-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 135,
+          "page_path": "daily-papers/2025-01-03-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 45,
+          "page_path": "daily-papers/2025-01-03-medrxiv.md"
+        }
+      }
+    }
+  ],
+  "latest_date": "2026-05-01"
+}
