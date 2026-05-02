@@ -6,12 +6,21 @@ import random
 import re
 import smtplib
 import subprocess
+import sys
 import tempfile
 import time
 from datetime import UTC, date, datetime, timedelta
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 from pathlib import Path
+
+
+def env_int(name: str, default: int, minimum: int = 1) -> int:
+    try:
+        value = int(os.getenv(name, ""))
+    except ValueError:
+        return default
+    return max(minimum, value)
 
 
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1"
@@ -38,6 +47,7 @@ DEFAULT_QUERY = (
     "cs.NE OR cs.MA OR cs.LG OR cs.CV OR cs.CL OR cs.AI "
     "OR q-bio.BM OR q-bio.CB OR q-bio.GN OR q-bio.MN"
 )
+API_INDEX_PAGE_SIZE = env_int("API_INDEX_PAGE_SIZE", 100)
 
 FAMOUS_QUOTES = [
     "The only way to do great work is to love what you do. - Steve Jobs",
@@ -154,6 +164,18 @@ def paper_id(date_str: str, source: str, paper: dict) -> str:
 
 def json_dump(data: dict | list) -> str:
     return json.dumps(data, ensure_ascii=False, indent=2) + "\n"
+
+
+def chunked(items: list, size: int):
+    for start in range(0, len(items), size):
+        yield start // size + 1, items[start : start + size]
+
+
+def remove_stale_json_files(directory: Path) -> None:
+    if not directory.exists():
+        return
+    for path in directory.glob("*.json"):
+        path.unlink()
 
 
 def split_markdown_table_row(line: str) -> list:
@@ -343,6 +365,60 @@ class PaperManager:
 
     def source_raw_path(self, date_str: str, source: str) -> Path:
         return self.api_raw_dir / f"{date_str}-{source}.json"
+
+    def api_public_path(self, path: Path) -> str:
+        return path.relative_to(self.docs_dir).as_posix()
+
+    def existing_generated_at(self, path: Path) -> str:
+        if not path.exists():
+            return ""
+        try:
+            data = json.loads(path.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            return ""
+        return clean_text(data.get("generated_at"))
+
+    def write_paginated_api_payload(self, path: Path, payload: dict, item_key: str, items: list) -> None:
+        page_dir = path.with_suffix("")
+        remove_stale_json_files(page_dir)
+        page_dir.mkdir(parents=True, exist_ok=True)
+
+        pages = []
+        for page_number, page_items in chunked(items, API_INDEX_PAGE_SIZE):
+            page_path = page_dir / f"{page_number:04d}.json"
+            page_payload = {
+                "version": payload.get("version", 1),
+                "generated_at": payload.get("generated_at", ""),
+                "page": page_number,
+                "page_size": API_INDEX_PAGE_SIZE,
+                "count": len(page_items),
+                "total_count": len(items),
+                item_key: page_items,
+            }
+            for key in ("source", "source_label", "latest_date"):
+                if key in payload:
+                    page_payload[key] = payload[key]
+            atomic_write(page_path, json_dump(page_payload))
+            pages.append(
+                {
+                    "page": page_number,
+                    "count": len(page_items),
+                    "api_path": self.api_public_path(page_path),
+                }
+            )
+
+        manifest = dict(payload)
+        manifest.pop(item_key, None)
+        manifest.update(
+            {
+                "chunked": True,
+                "chunk_key": item_key,
+                "page_size": API_INDEX_PAGE_SIZE,
+                "page_count": len(pages),
+                "pages": pages,
+            }
+        )
+        atomic_write(path, json_dump(manifest))
 
     def save_daily_papers(self, papers: list, source: str) -> None:
         source = source_slug(source)
@@ -610,10 +686,12 @@ class PaperManager:
 
         for date_str in dates:
             daily_payload = self.daily_api_payload(date_str)
-            daily_payload["generated_at"] = generated_at
-            atomic_write(self.api_daily_dir / f"{date_str}.json", json_dump(daily_payload))
+            daily_path = self.api_daily_dir / f"{date_str}.json"
+            daily_payload["generated_at"] = self.existing_generated_at(daily_path) or generated_at
+            atomic_write(daily_path, json_dump(daily_payload))
             if latest_payload is None:
-                latest_payload = daily_payload
+                latest_payload = dict(daily_payload)
+                latest_payload["generated_at"] = generated_at
 
             date_entries.append(
                 {
@@ -639,15 +717,16 @@ class PaperManager:
             "generated_at": generated_at,
             "latest_date": date_entries[0]["date"] if date_entries else "",
             "count": len(date_entries),
-            "dates": date_entries,
             "endpoints": {
                 "latest": "api/latest.json",
                 "index": "api/index.json",
+                "index_page": "api/index/{page}.json",
                 "daily": "api/daily/{YYYY-MM-DD}.json",
                 "source_index": "api/source/{arxiv|biorxiv|medrxiv}.json",
+                "source_index_page": "api/source/{arxiv|biorxiv|medrxiv}/{page}.json",
             },
         }
-        atomic_write(self.api_dir / "index.json", json_dump(index_payload))
+        self.write_paginated_api_payload(self.api_dir / "index.json", index_payload, "dates", date_entries)
         atomic_write(
             self.api_dir / "latest.json",
             json_dump(latest_payload or {"version": 1, "generated_at": generated_at, "count": 0, "papers": []}),
@@ -660,9 +739,13 @@ class PaperManager:
                 "source": source,
                 "source_label": SOURCE_LABELS[source],
                 "count": len(source_entries[source]),
-                "dates": source_entries[source],
             }
-            atomic_write(self.api_source_dir / f"{source}.json", json_dump(payload))
+            self.write_paginated_api_payload(
+                self.api_source_dir / f"{source}.json",
+                payload,
+                "dates",
+                source_entries[source],
+            )
 
     def export_obsidian(self, vault_path: str, folder: str = "Arxiv Daily", export_all: bool = False) -> int:
         vault = Path(vault_path).expanduser()
@@ -849,7 +932,7 @@ class PaperManager:
 
 
 def build_mkdocs_site() -> None:
-    subprocess.run(["mkdocs", "build"], check=True)
+    subprocess.run([sys.executable, "-m", "mkdocs", "build"], check=True)
 
 
 def get_balance():

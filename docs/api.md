@@ -5,11 +5,58 @@
 | 用途 | 路径 |
 |------|------|
 | 最新一天论文 | `api/latest.json` |
-| 日期索引 | `api/index.json` |
+| 日期索引清单 | `api/index.json` |
+| 日期索引分页 | `api/index/0001.json` |
 | 指定日期 | `api/daily/YYYY-MM-DD.json` |
-| arXiv 日期索引 | `api/source/arxiv.json` |
-| bioRxiv 日期索引 | `api/source/biorxiv.json` |
-| medRxiv 日期索引 | `api/source/medrxiv.json` |
+| arXiv 日期索引清单 | `api/source/arxiv.json` |
+| bioRxiv 日期索引清单 | `api/source/biorxiv.json` |
+| medRxiv 日期索引清单 | `api/source/medrxiv.json` |
+| 来源日期索引分页 | `api/source/{source}/0001.json` |
+
+`api/index.json` 和 `api/source/{source}.json` 只保存分页清单，避免历史归档增长后生成单个大体积 JSON。客户端应先读取清单中的 `pages[].api_path`，再按需读取对应分页。
+
+`api/index.json` 的主体结构：
+
+```json
+{
+  "version": 1,
+  "generated_at": "2026-01-06T00:00:00Z",
+  "latest_date": "2026-01-06",
+  "count": 300,
+  "chunked": true,
+  "chunk_key": "dates",
+  "page_size": 100,
+  "page_count": 3,
+  "pages": [
+    {
+      "page": 1,
+      "count": 100,
+      "api_path": "api/index/0001.json"
+    }
+  ]
+}
+```
+
+`api/index/0001.json` 的主体结构：
+
+```json
+{
+  "version": 1,
+  "generated_at": "2026-01-06T00:00:00Z",
+  "page": 1,
+  "page_size": 100,
+  "count": 100,
+  "total_count": 300,
+  "dates": [
+    {
+      "date": "2026-01-06",
+      "count": 30,
+      "api_path": "api/daily/2026-01-06.json",
+      "page_path": "daily-papers/2026-01-06.md"
+    }
+  ]
+}
+```
 
 ## 返回字段
 

@@ -10,6 +10,10 @@ nav:
     - medRxiv: medrxiv_papers.md
 theme:
     name: 'material'
+plugins:
+  - search
+hooks:
+  - hooks/search_exclude.py
 extra_css:
     - new_style.css
 validation:

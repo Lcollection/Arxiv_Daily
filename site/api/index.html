@@ -588,27 +588,73 @@
 <td><code>api/latest.json</code></td>
 </tr>
 <tr>
-<td>日期索引</td>
+<td>日期索引清单</td>
 <td><code>api/index.json</code></td>
+</tr>
+<tr>
+<td>日期索引分页</td>
+<td><code>api/index/0001.json</code></td>
 </tr>
 <tr>
 <td>指定日期</td>
 <td><code>api/daily/YYYY-MM-DD.json</code></td>
 </tr>
 <tr>
-<td>arXiv 日期索引</td>
+<td>arXiv 日期索引清单</td>
 <td><code>api/source/arxiv.json</code></td>
 </tr>
 <tr>
-<td>bioRxiv 日期索引</td>
+<td>bioRxiv 日期索引清单</td>
 <td><code>api/source/biorxiv.json</code></td>
 </tr>
 <tr>
-<td>medRxiv 日期索引</td>
+<td>medRxiv 日期索引清单</td>
 <td><code>api/source/medrxiv.json</code></td>
+</tr>
+<tr>
+<td>来源日期索引分页</td>
+<td><code>api/source/{source}/0001.json</code></td>
 </tr>
 </tbody>
 </table>
+<p><code>api/index.json</code> 和 <code>api/source/{source}.json</code> 只保存分页清单，避免历史归档增长后生成单个大体积 JSON。客户端应先读取清单中的 <code>pages[].api_path</code>，再按需读取对应分页。</p>
+<p><code>api/index.json</code> 的主体结构：</p>
+<pre><code class="language-json">{
+  &quot;version&quot;: 1,
+  &quot;generated_at&quot;: &quot;2026-01-06T00:00:00Z&quot;,
+  &quot;latest_date&quot;: &quot;2026-01-06&quot;,
+  &quot;count&quot;: 300,
+  &quot;chunked&quot;: true,
+  &quot;chunk_key&quot;: &quot;dates&quot;,
+  &quot;page_size&quot;: 100,
+  &quot;page_count&quot;: 3,
+  &quot;pages&quot;: [
+    {
+      &quot;page&quot;: 1,
+      &quot;count&quot;: 100,
+      &quot;api_path&quot;: &quot;api/index/0001.json&quot;
+    }
+  ]
+}
+</code></pre>
+<p><code>api/index/0001.json</code> 的主体结构：</p>
+<pre><code class="language-json">{
+  &quot;version&quot;: 1,
+  &quot;generated_at&quot;: &quot;2026-01-06T00:00:00Z&quot;,
+  &quot;page&quot;: 1,
+  &quot;page_size&quot;: 100,
+  &quot;count&quot;: 100,
+  &quot;total_count&quot;: 300,
+  &quot;dates&quot;: [
+    {
+      &quot;date&quot;: &quot;2026-01-06&quot;,
+      &quot;count&quot;: 30,
+      &quot;api_path&quot;: &quot;api/daily/2026-01-06.json&quot;,
+      &quot;page_path&quot;: &quot;daily-papers/2026-01-06.md&quot;
+    }
+  ]
+}
+</code></pre>
 <h2 id="_1">返回字段</h2>
 <p><code>api/daily/YYYY-MM-DD.json</code> 的主体结构：</p>
 <pre><code class="language-json">{
