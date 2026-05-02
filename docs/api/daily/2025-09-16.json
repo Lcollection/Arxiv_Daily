@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-09-16",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-16-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-09-16-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-16-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-16.md",
+  "papers": [
+    {
+      "id": "247dbde856823905",
+      "date": "2025-09-16",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "在实验室中诱导铜绿假单胞菌慢性感染表型需要多长时间？基于囊性纤维化肺模型转录组分析的启示。",
+      "translated_title": "在实验室中诱导铜绿假单胞菌慢性感染表型需要多长时间？基于囊性纤维化肺模型转录组分析的启示。",
+      "author": "Harrington, N. E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.06.30.498312",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "7a7f25e77d93764c",
+      "date": "2025-09-16",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过毒素产生促进生态系统多样性",
+      "translated_title": "通过毒素产生促进生态系统多样性",
+      "author": "Lui, G. C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.03.06.531399",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "65ef50aae2789e25",
+      "date": "2025-09-16",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "空间异质性抑制将序列活动投射至独特的神经子空间",
+      "translated_title": "空间异质性抑制将序列活动投射至独特的神经子空间",
+      "author": "Lehr, A. B.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.09.15.557865",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "cfde02e25c3a94d1",
+      "date": "2025-09-16",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "发育中的少突胶质细胞通过介导同步自发性活动来调节大脑功能。",
+      "translated_title": "发育中的少突胶质细胞通过介导同步自发性活动来调节大脑功能。",
+      "author": "Masumura, R.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.06.590880",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

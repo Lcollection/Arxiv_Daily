@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-08-28",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-28-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-08-28-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-28-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-28.md",
+  "papers": [
+    {
+      "id": "712891ec509e0729",
+      "date": "2025-08-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "在酵母中构建抗降解的信使RNA",
+      "translated_title": "在酵母中构建抗降解的信使RNA",
+      "author": "Franklin, A. L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2020.06.25.169177",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "6da75041feeaafd5",
+      "date": "2025-08-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "奥卡姆剃刀原则如何指导人类决策",
+      "translated_title": "奥卡姆剃刀原则如何指导人类决策",
+      "author": "Piasini, E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.01.10.523479",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "476e466dbfd64acf",
+      "date": "2025-08-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "听觉皮层下行阶段中音位拓扑结构未被保留。",
+      "translated_title": "听觉皮层下行阶段中音位拓扑结构未被保留。",
+      "author": "Gu, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.25.595883",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "7bedfa0e3f15361c",
+      "date": "2025-08-28",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "大肠杆菌不计数单个分子。",
+      "translated_title": "大肠杆菌不计数单个分子。",
+      "author": "Mattingly, H. H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.07.09.602750",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

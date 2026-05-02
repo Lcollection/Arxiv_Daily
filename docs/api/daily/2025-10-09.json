@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "date": "2025-10-09",
+  "count": 11,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 2,
+      "page_path": "daily-papers/2025-10-09-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 9,
+      "page_path": "daily-papers/2025-10-09-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-09-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-09.md",
+  "papers": [
+    {
+      "id": "a516f09e4ae44709",
+      "date": "2025-10-09",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "用于高效长上下文建模的人工海马体网络",
+      "translated_title": "用于高效长上下文建模的人工海马体网络",
+      "author": "Yunhao Fang",
+      "summary": "长序列建模面临一个根本性权衡：类RNN模型中固定大小压缩内存的高效性与基于注意力机制的Transformer无损增长内存的精确性。受认知科学中多存储模型的启发，我们提出了人工神经网络的内存框架。该方法将Transformer的KV缓存滑动窗口作为无损短期记忆，同时通过可学习的\"人工海马网络\"（AHN）将窗口外信息递归压缩为固定尺寸的紧凑长期记忆。为验证该框架，我们采用现代类RNN架构（包括Mamba2、DeltaNet和门控DeltaNet）实例化AHN模块。在长上下文基准测试LV-Eval和InfiniteBench上的大量实验表明，增强AHN的模型始终优于滑动窗口基线，达到与全注意力模型相当甚至更优的性能，同时显著降低计算和内存需求。例如，为Qwen2.5-3B-Instruct集成AHN后，推理FLOPs降低40.5%，内存缓存减少74.0%，同时在LV-Eval（128k序列长度）上的平均得分从4.41提升至5.88。代码已开源：https://github.com/ByteDance-Seed/AHN。",
+      "translated_summary": "长序列建模面临一个根本性权衡：类RNN模型中固定大小压缩内存的高效性与基于注意力机制的Transformer无损增长内存的精确性。受认知科学中多存储模型的启发，我们提出了人工神经网络的内存框架。该方法将Transformer的KV缓存滑动窗口作为无损短期记忆，同时通过可学习的\"人工海马网络\"（AHN）将窗口外信息递归压缩为固定尺寸的紧凑长期记忆。为验证该框架，我们采用现代类RNN架构（包括Mamba2、DeltaNet和门控DeltaNet）实例化AHN模块。在长上下文基准测试LV-Eval和InfiniteBench上的大量实验表明，增强AHN的模型始终优于滑动窗口基线，达到与全注意力模型相当甚至更优的性能，同时显著降低计算和内存需求。例如，为Qwen2.5-3B-Instruct集成AHN后，推理FLOPs降低40.5%，内存缓存减少74.0%，同时在LV-Eval（128k序列长度）上的平均得分从4.41提升至5.88。代码已开源：https://github.com/ByteDance-Seed/AHN。",
+      "pdf_url": "http://arxiv.org/pdf/2510.07318v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "3dc0443506bf62fc",
+      "date": "2025-10-09",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "h1: 通过强化学习引导大语言模型实现长程推理",
+      "translated_title": "h1: 通过强化学习引导大语言模型实现长程推理",
+      "author": "Sumeet Ramesh Motwani",
+      "summary": "大型语言模型在短程推理任务中表现卓越，但随着推理跨度的增加，其性能会出现下降。现有解决方案主要依赖推理时支架或昂贵的步骤级监督，这两种方法均难以扩展。本研究提出一种可扩展的方法，仅利用现有丰富的短程数据即可引导长程推理能力。我们的方法通过合成将简单问题组合成具有任意长度的复杂多步依赖链，并基于仅结果奖励机制在自动提升复杂度的课程体系下训练模型，使强化学习训练能够突破饱和限制实现更大规模扩展。实验表明该方法具有显著泛化能力：基于六年级数学题（GSM8K）构建的课程训练，可将竞赛级长跨度基准测试（GSM-Symbolic、MATH-500、AIME）的准确率最高提升2.06倍。值得注意的是，即使在较高pass@k指标下，我们的长程改进效果仍显著优于基线，证明模型能在强化学习中习得新的推理路径。理论分析表明，基于结果奖励的课程式强化学习相比全跨度训练实现了样本复杂度的指数级改进，其训练信号强度可与密集监督相媲美。因此，本研究为仅利用现有数据扩展长程问题强化学习训练提供了一条高效路径。",
+      "translated_summary": "大型语言模型在短程推理任务中表现卓越，但随着推理跨度的增加，其性能会出现下降。现有解决方案主要依赖推理时支架或昂贵的步骤级监督，这两种方法均难以扩展。本研究提出一种可扩展的方法，仅利用现有丰富的短程数据即可引导长程推理能力。我们的方法通过合成将简单问题组合成具有任意长度的复杂多步依赖链，并基于仅结果奖励机制在自动提升复杂度的课程体系下训练模型，使强化学习训练能够突破饱和限制实现更大规模扩展。实验表明该方法具有显著泛化能力：基于六年级数学题（GSM8K）构建的课程训练，可将竞赛级长跨度基准测试（GSM-Symbolic、MATH-500、AIME）的准确率最高提升2.06倍。值得注意的是，即使在较高pass@k指标下，我们的长程改进效果仍显著优于基线，证明模型能在强化学习中习得新的推理路径。理论分析表明，基于结果奖励的课程式强化学习相比全跨度训练实现了样本复杂度的指数级改进，其训练信号强度可与密集监督相媲美。因此，本研究为仅利用现有数据扩展长程问题强化学习训练提供了一条高效路径。",
+      "pdf_url": "http://arxiv.org/pdf/2510.07312v1",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "adb467a8e3752de2",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "鉴定GTF2IRD1为急性髓系白血病必需的新型转录因子",
+      "translated_title": "鉴定GTF2IRD1为急性髓系白血病必需的新型转录因子",
+      "author": "Heshmati, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.08.09.503300",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "c9bee5d7f640b5aa",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "mosna揭示了不同类型的细胞相互作用，可预测癌症免疫疗法的疗效及患者生存状况。",
+      "translated_title": "mosna揭示了不同类型的细胞相互作用，可预测癌症免疫疗法的疗效及患者生存状况。",
+      "author": "Coullomb, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.03.16.532947",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "d8411d63052a1ffe",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "从单细胞解剖重建库中提取近似连接组的方法",
+      "translated_title": "从单细胞解剖重建库中提取近似连接组的方法",
+      "author": "Manjunatha, K. K. H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.05.21.541471",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "3e2e2d88f86bc3bf",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "视觉工作记忆中空间特异性干扰偏向的神经基础",
+      "translated_title": "视觉工作记忆中空间特异性干扰偏向的神经基础",
+      "author": "Raya, D. V.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.24.573161",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "adee7628a2095c9a",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "空间靶向抑制节律对神经元整合产生差异性影响",
+      "translated_title": "空间靶向抑制节律对神经元整合产生差异性影响",
+      "author": "Headley, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.01.17.576048",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "ded10105d5fe7a9e",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "编码序列起始处的碱基组成调控大肠杆菌中翻译起始与mRNA降解之间的平衡。",
+      "translated_title": "编码序列起始处的碱基组成调控大肠杆菌中翻译起始与mRNA降解之间的平衡。",
+      "author": "Liponska, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.21.586065",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "c9edb68716fc56fb",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "微生物生态系统中的涌现可预测性",
+      "translated_title": "微生物生态系统中的涌现可预测性",
+      "author": "Moran, J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.26.586882",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "42eefe7b6a12642b",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "在自然刺激条件下，大脑活动偏离典型模式与人格特质存在关联",
+      "translated_title": "在自然刺激条件下，大脑活动偏离典型模式与人格特质存在关联",
+      "author": "Jajcay, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.23.586759",
+      "paper_url": "",
+      "rank": 8
+    },
+    {
+      "id": "43af112b0122b5a8",
+      "date": "2025-10-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "外源肉豆蔻酸可促进共生丛枝菌根真菌的生长，但会破坏其与宿主植物间的碳-磷交换平衡。",
+      "translated_title": "外源肉豆蔻酸可促进共生丛枝菌根真菌的生长，但会破坏其与宿主植物间的碳-磷交换平衡。",
+      "author": "Chen, H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.04.26.591230",
+      "paper_url": "",
+      "rank": 9
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

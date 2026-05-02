@@ -1,0 +1,110 @@
+{
+  "version": 1,
+  "date": "2025-09-03",
+  "count": 6,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-03-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 5,
+      "page_path": "daily-papers/2025-09-03-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-03-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-03.md",
+  "papers": [
+    {
+      "id": "35562a44d5fb11e3",
+      "date": "2025-09-03",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "DriveQA：通过驾驶知识测试",
+      "translated_title": "DriveQA：通过驾驶知识测试",
+      "author": "Maolin Wei",
+      "summary": "若当前让大型语言模型（LLM）参加驾驶知识考试，能否通过？相较于现有自动驾驶基准测试中的标准空间与视觉问答（QA）任务，驾驶知识考试要求全面掌握所有交通规则、标志标识及路权原则。人类驾驶员必须能辨识现实数据集中极少出现的各类边缘案例方能通过考试。本研究提出DriveQA——一个全面开源的文本与视觉基准测试体系，其详尽覆盖交通法规与场景化应用。通过DriveQA实验我们发现：（1）最先进的LLM与多模态LLM（MLLM）在基础交通规则方面表现良好，但在数值推理、复杂路权场景、交通标志变体及空间布局方面存在显著缺陷；（2）基于DriveQA的微调能全面提升多类别准确率，尤其在禁令标志识别与交叉路口决策方面；（3）DriveQA-V中的受控变量揭示了模型对光照、视角、距离及天气条件等环境因素的敏感性；（4）基于DriveQA的预训练可增强下游驾驶任务性能，在nuScenes和BDD等真实数据集上取得更优结果，同时证明模型能够内化文本与合成交通知识，在下游QA任务中实现有效泛化。",
+      "translated_summary": "若当前让大型语言模型（LLM）参加驾驶知识考试，能否通过？相较于现有自动驾驶基准测试中的标准空间与视觉问答（QA）任务，驾驶知识考试要求全面掌握所有交通规则、标志标识及路权原则。人类驾驶员必须能辨识现实数据集中极少出现的各类边缘案例方能通过考试。本研究提出DriveQA——一个全面开源的文本与视觉基准测试体系，其详尽覆盖交通法规与场景化应用。通过DriveQA实验我们发现：（1）最先进的LLM与多模态LLM（MLLM）在基础交通规则方面表现良好，但在数值推理、复杂路权场景、交通标志变体及空间布局方面存在显著缺陷；（2）基于DriveQA的微调能全面提升多类别准确率，尤其在禁令标志识别与交叉路口决策方面；（3）DriveQA-V中的受控变量揭示了模型对光照、视角、距离及天气条件等环境因素的敏感性；（4）基于DriveQA的预训练可增强下游驾驶任务性能，在nuScenes和BDD等真实数据集上取得更优结果，同时证明模型能够内化文本与合成交通知识，在下游QA任务中实现有效泛化。",
+      "pdf_url": "http://arxiv.org/pdf/2508.21824v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "c7bbf58b7ca65e82",
+      "date": "2025-09-03",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "重建尼安德特人三维基因组结构揭示染色质折叠模式塑造表型与序列分化",
+      "translated_title": "重建尼安德特人三维基因组结构揭示染色质折叠模式塑造表型与序列分化",
+      "author": "McArthur, E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.02.07.479462",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "289aac71ff4ada83",
+      "date": "2025-09-03",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "老年人进行肩部观察时与年龄相关的平衡困难增加了其骑行风险",
+      "translated_title": "老年人进行肩部观察时与年龄相关的平衡困难增加了其骑行风险",
+      "author": "Afschrift, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.03.01.481993",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "ed2f29a991b034a1",
+      "date": "2025-09-03",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "反复肺部炎症引发的神经血管单元中性粒细胞增多动力学",
+      "translated_title": "反复肺部炎症引发的神经血管单元中性粒细胞增多动力学",
+      "author": "Chiang, W.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.10.16.562508",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "8cddc6659e7f5a75",
+      "date": "2025-09-03",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "群体分析揭示自然觅食过程中内侧前额叶皮层的异质性编码特征",
+      "translated_title": "群体分析揭示自然觅食过程中内侧前额叶皮层的异质性编码特征",
+      "author": "Jeong, J. H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.14.567066",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "288d4a2c3b04c7ed",
+      "date": "2025-09-03",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "强直性与阶段性觉醒之间的动态相互作用塑造注意力以优化表现。",
+      "translated_title": "强直性与阶段性觉醒之间的动态相互作用塑造注意力以优化表现。",
+      "author": "Grandjean, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.22.586259",
+      "paper_url": "",
+      "rank": 5
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "date": "2025-09-07",
+  "count": 5,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-07-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 5,
+      "page_path": "daily-papers/2025-09-07-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-07-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-07.md",
+  "papers": [
+    {
+      "id": "e8eeb6fb86ba9e8a",
+      "date": "2025-09-07",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "双语语言处理依赖于由各自语言调节的共享语义表征体系。",
+      "translated_title": "双语语言处理依赖于由各自语言调节的共享语义表征体系。",
+      "author": "Chen, C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.24.600505",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "d8d38e8b7848332a",
+      "date": "2025-09-07",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "被边缘案例所迷惑：现有方法能否借助机器学习准确预测T细胞特异性？",
+      "translated_title": "被边缘案例所迷惑：现有方法能否借助机器学习准确预测T细胞特异性？",
+      "author": "Culka, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.23.619492",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "65e7e2bfdd2676af",
+      "date": "2025-09-07",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "膳食蛋白质来源塑造肠道微生物结构及预测功能：一项基于机器学习的荟萃分析",
+      "translated_title": "膳食蛋白质来源塑造肠道微生物结构及预测功能：一项基于机器学习的荟萃分析",
+      "author": "ADEJUMO, S. A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.04.23.650130",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "c3646ca2f9092f93",
+      "date": "2025-09-07",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "内皮细胞损伤程度取决于表面电荷与细胞外钙离子浓度",
+      "translated_title": "内皮细胞损伤程度取决于表面电荷与细胞外钙离子浓度",
+      "author": "Cleary, J. H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.07.13.664578",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "b20bd0308cb907f9",
+      "date": "2025-09-07",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "原代皮层神经元沉淀并排出具有类骨前驱体超微结构的大型线粒体相关钙磷片层。",
+      "translated_title": "原代皮层神经元沉淀并排出具有类骨前驱体超微结构的大型线粒体相关钙磷片层。",
+      "author": "Anderson, E. D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.08.04.668590",
+      "paper_url": "",
+      "rank": 5
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

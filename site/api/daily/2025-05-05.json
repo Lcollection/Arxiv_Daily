@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "date": "2025-05-05",
+  "count": 1,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-05-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-05-05-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-05-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-05-05.md",
+  "papers": [
+    {
+      "id": "ed326a2f1e923608",
+      "date": "2025-05-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类与猕猴丘脑内解剖连接的空间范围随大脑皮层层级结构而变化",
+      "translated_title": "人类与猕猴丘脑内解剖连接的空间范围随大脑皮层层级结构而变化",
+      "author": "Howell, A. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.07.22.550168",
+      "paper_url": "",
+      "rank": 1
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

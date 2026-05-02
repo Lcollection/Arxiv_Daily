@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "date": "2025-08-23",
+  "count": 5,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-23-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 5,
+      "page_path": "daily-papers/2025-08-23-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-23-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-23.md",
+  "papers": [
+    {
+      "id": "2b3c1e886dc0a03e",
+      "date": "2025-08-23",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "PHR1与PHL1介导快速高光响应及对高光合活性的适应过程",
+      "translated_title": "PHR1与PHL1介导快速高光响应及对高光合活性的适应过程",
+      "author": "Ackermann, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.03.11.532192",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "949fff762c97462c",
+      "date": "2025-08-23",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "多对相位调制时域干涉电刺激与功能磁共振成像联合应用",
+      "translated_title": "多对相位调制时域干涉电刺激与功能磁共振成像联合应用",
+      "author": "Savvateev, I.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.21.571679",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "bc9e98abcc889068",
+      "date": "2025-08-23",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "大规模复合假设检验在组学数据分析中的应用。",
+      "translated_title": "大规模复合假设检验在组学数据分析中的应用。",
+      "author": "De Walsche, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.17.585412",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "0c0138b49517fbfb",
+      "date": "2025-08-23",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "瞬时滞后染色体导致原发性小头畸形",
+      "translated_title": "瞬时滞后染色体导致原发性小头畸形",
+      "author": "Doria, E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.02.592199",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "e86c3d4814b14494",
+      "date": "2025-08-23",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "外周胶质细胞与神经元共同调控果蝇神经肌肉接头处活动诱导的突触重塑",
+      "translated_title": "外周胶质细胞与神经元共同调控果蝇神经肌肉接头处活动诱导的突触重塑",
+      "author": "Chang, Y.-C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.27.600908",
+      "paper_url": "",
+      "rank": 5
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

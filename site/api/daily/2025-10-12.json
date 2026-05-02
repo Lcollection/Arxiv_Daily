@@ -1,0 +1,138 @@
+{
+  "version": 1,
+  "date": "2025-10-12",
+  "count": 8,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-12-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 8,
+      "page_path": "daily-papers/2025-10-12-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-12-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-12.md",
+  "papers": [
+    {
+      "id": "8c272f0b68fff896",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类在根据运动判断物体属性时，会切换使用不同的启发式策略，而非整合多种线索。",
+      "translated_title": "人类在根据运动判断物体属性时，会切换使用不同的启发式策略，而非整合多种线索。",
+      "author": "Paulun, V. C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.03.24.534031",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "94cf101513fd425d",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "纤毛ARL13B对成年小鼠体重调节至关重要",
+      "translated_title": "纤毛ARL13B对成年小鼠体重调节至关重要",
+      "author": "Terry, T. T.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.08.02.551695",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "343f76c5be7b15ef",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "系统发育树上连续性状的随机特征映射",
+      "translated_title": "系统发育树上连续性状的随机特征映射",
+      "author": "Martin, B. S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.12.607655",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "2a428ec6e0cb2e43",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "一种优化的7T同步脑电图-功能磁共振成像框架，可实现安全、高质量的人脑成像，具备毫秒级时间分辨率与亚毫米级空间分辨率",
+      "translated_title": "一种优化的7T同步脑电图-功能磁共振成像框架，可实现安全、高质量的人脑成像，具备毫秒级时间分辨率与亚毫米级空间分辨率",
+      "author": "Sainz Martinez, C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.23.609301",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "1e1b8992e2cad1e0",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "分支状肌动蛋白聚合驱动侵入性突起形成，以促进骨骼肌再生过程中的成肌细胞融合",
+      "translated_title": "分支状肌动蛋白聚合驱动侵入性突起形成，以促进骨骼肌再生过程中的成肌细胞融合",
+      "author": "Lu, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.30.615960",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "29e82baaaa194ab3",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "血影蛋白协调细胞形态与信号传导，这对表皮分化至关重要",
+      "translated_title": "血影蛋白协调细胞形态与信号传导，这对表皮分化至关重要",
+      "author": "Soffer, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.17.618796",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "3261bf2457b70055",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过REDCAT实现单细胞类型特异性代谢活动的全光学多模态图谱绘制",
+      "translated_title": "通过REDCAT实现单细胞类型特异性代谢活动的全光学多模态图谱绘制",
+      "author": "Shi, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.07.622511",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "fac9616475090f93",
+      "date": "2025-10-12",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "蒂尔韦单抗与AXL复合物的结构分析",
+      "translated_title": "蒂尔韦单抗与AXL复合物的结构分析",
+      "author": "Christakou, E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.12.04.626834",
+      "paper_url": "",
+      "rank": 8
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

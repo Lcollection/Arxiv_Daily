@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-09-09",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-09-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-09-09-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-09-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-09.md",
+  "papers": [
+    {
+      "id": "62c8ab809613e857",
+      "date": "2025-09-09",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "将完整扩散轨迹与细粒度人类偏好直接对齐",
+      "translated_title": "将完整扩散轨迹与细粒度人类偏好直接对齐",
+      "author": "Xiangwei Shen",
+      "summary": "近期研究表明，通过可微分奖励机制直接对齐扩散模型与人类偏好具有显著效果。然而，现有方法存在两个主要挑战：（1）依赖多步去噪过程进行梯度计算的奖励评分，计算成本高昂，导致优化仅限于少数扩散步骤；（2）往往需要持续离线调整奖励模型以实现理想的美学品质，例如照片级真实感或精确的光影效果。为克服多步去噪的局限性，我们提出Direct-Align方法——通过预定义噪声先验，利用扩散状态即噪声与目标图像间插值的特性，通过插值计算有效恢复任意时间步的原始图像，从而避免后期时间步的过度优化。进一步，我们提出语义相对偏好优化（SRPO），将奖励构建为文本条件信号。该方法通过正负提示增强实现奖励的在线调整，降低对离线奖励微调的依赖。通过对FLUX.1.dev模型实施优化去噪与在线奖励调整的微调，其人类评估真实感与美学质量提升超3倍。",
+      "translated_summary": "近期研究表明，通过可微分奖励机制直接对齐扩散模型与人类偏好具有显著效果。然而，现有方法存在两个主要挑战：（1）依赖多步去噪过程进行梯度计算的奖励评分，计算成本高昂，导致优化仅限于少数扩散步骤；（2）往往需要持续离线调整奖励模型以实现理想的美学品质，例如照片级真实感或精确的光影效果。为克服多步去噪的局限性，我们提出Direct-Align方法——通过预定义噪声先验，利用扩散状态即噪声与目标图像间插值的特性，通过插值计算有效恢复任意时间步的原始图像，从而避免后期时间步的过度优化。进一步，我们提出语义相对偏好优化（SRPO），将奖励构建为文本条件信号。该方法通过正负提示增强实现奖励的在线调整，降低对离线奖励微调的依赖。通过对FLUX.1.dev模型实施优化去噪与在线奖励调整的微调，其人类评估真实感与美学质量提升超3倍。",
+      "pdf_url": "http://arxiv.org/pdf/2509.06942v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "ee3df52178f72080",
+      "date": "2025-09-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过可逆神经活动操作区分脑回路的指令性与许可性作用",
+      "translated_title": "通过可逆神经活动操作区分脑回路的指令性与许可性作用",
+      "author": "Quintana, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.05.11.540397",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "6a022998f4268dc5",
+      "date": "2025-09-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "体外人类血管模型用于研究脑膜炎奈瑟菌定植与血管损伤",
+      "translated_title": "体外人类血管模型用于研究脑膜炎奈瑟菌定植与血管损伤",
+      "author": "Pinon, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.09.579276",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "5c166f35fbc12b82",
+      "date": "2025-09-09",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "扁形动物无腔目繁殖过程中的发育、再生及行为动态研究",
+      "translated_title": "扁形动物无腔目繁殖过程中的发育、再生及行为动态研究",
+      "author": "Chandra, V.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.07.09.602770",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-08-22",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-08-22-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-08-22-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-22-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-22.md",
+  "papers": [
+    {
+      "id": "909585dd3c36e9b3",
+      "date": "2025-08-22",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "通过具备秩感知束GRPO的Transformer模型发现隐藏代数结构",
+      "translated_title": "通过具备秩感知束GRPO的Transformer模型发现隐藏代数结构",
+      "author": "Jaeha Lee",
+      "summary": "近期研究进一步扩展了Transformer模型在逻辑推理与符号计算方面的能力。本文重点探究其在函数分解背景下发现非线性潜在模式的潜力，聚焦于极具挑战性的多元多项式分解这一代数任务。该问题在科学与工程领域具有广泛应用，被证明属于NP难问题，对精确性与洞察力均有极高要求。我们的贡献主要体现在三个方面：首先，开发了能够精细控制问题复杂度的合成数据生成流程；其次，通过监督学习训练Transformer模型，并从规模扩展行为和泛化能力等四个关键维度进行评估；最后，提出了束分组相对策略优化（BGRPO）——一种适用于困难代数问题的秩感知强化学习方法。采用BGRPO进行微调可在将束宽度缩减高达50%的同时提升准确率，使推理计算量降低约75%。此外，我们的模型在多项式简化任务中展现出竞争优势，在多类场景下性能超越Mathematica。",
+      "translated_summary": "近期研究进一步扩展了Transformer模型在逻辑推理与符号计算方面的能力。本文重点探究其在函数分解背景下发现非线性潜在模式的潜力，聚焦于极具挑战性的多元多项式分解这一代数任务。该问题在科学与工程领域具有广泛应用，被证明属于NP难问题，对精确性与洞察力均有极高要求。我们的贡献主要体现在三个方面：首先，开发了能够精细控制问题复杂度的合成数据生成流程；其次，通过监督学习训练Transformer模型，并从规模扩展行为和泛化能力等四个关键维度进行评估；最后，提出了束分组相对策略优化（BGRPO）——一种适用于困难代数问题的秩感知强化学习方法。采用BGRPO进行微调可在将束宽度缩减高达50%的同时提升准确率，使推理计算量降低约75%。此外，我们的模型在多项式简化任务中展现出竞争优势，在多类场景下性能超越Mathematica。",
+      "pdf_url": "http://arxiv.org/pdf/2508.15766v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "b06080baf408ab52",
+      "date": "2025-08-22",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "夜间人工光照改变一年生草本植物的形态、物候及繁殖能力",
+      "translated_title": "夜间人工光照改变一年生草本植物的形态、物候及繁殖能力",
+      "author": "Xiao, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.12.11.519667",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "84e4f559b76752f7",
+      "date": "2025-08-22",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类作为超级捕食者是否总是极度可怕？关于野生动物对人类互动行为反应的荟萃分析",
+      "translated_title": "人类作为超级捕食者是否总是极度可怕？关于野生动物对人类互动行为反应的荟萃分析",
+      "author": "Dsouza, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.27.609826",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "dcb9407d8280fc1e",
+      "date": "2025-08-22",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "实现信号受体配体特异性的非平衡策略",
+      "translated_title": "实现信号受体配体特异性的非平衡策略",
+      "author": "Goetz, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.01.615884",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

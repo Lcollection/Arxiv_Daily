@@ -1,0 +1,166 @@
+{
+  "version": 1,
+  "date": "2025-10-10",
+  "count": 10,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-10-10-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 6,
+      "page_path": "daily-papers/2025-10-10-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-10-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-10.md",
+  "papers": [
+    {
+      "id": "98d72d7d261adc07",
+      "date": "2025-10-10",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "结合卷积与点云架构重建局部密度场",
+      "translated_title": "结合卷积与点云架构重建局部密度场",
+      "author": "Baptiste Barthe-Gold",
+      "summary": "我们构建了一个神经网络，用于根据暗物质晕的视向本动速度——即暗物质场的偏置示踪体——对局部暗物质密度场进行回归分析。该网络架构融合了卷积U-Net与点云DeepSets，这种组合能够有效利用小尺度信息，相较于单一U-Net方法显著提升了重建质量。具体而言，我们的混合网络在小尺度上对聚类振幅和相位的还原能力均优于单一U-Net模型。",
+      "translated_summary": "我们构建了一个神经网络，用于根据暗物质晕的视向本动速度——即暗物质场的偏置示踪体——对局部暗物质密度场进行回归分析。该网络架构融合了卷积U-Net与点云DeepSets，这种组合能够有效利用小尺度信息，相较于单一U-Net方法显著提升了重建质量。具体而言，我们的混合网络在小尺度上对聚类振幅和相位的还原能力均优于单一U-Net模型。",
+      "pdf_url": "http://arxiv.org/pdf/2510.08573v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "efa0d1113219f871",
+      "date": "2025-10-10",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "谁说神经网络不是线性的？",
+      "translated_title": "谁说神经网络不是线性的？",
+      "author": "Nimrod Berman",
+      "summary": "神经网络以非线性特性著称。然而线性性是相对于一对向量空间$f$$:$$X$$\\to$$Y$定义的。是否存在这样一对非标准向量空间，使得传统非线性函数在该空间中呈现线性特性？本文提出一种通过构造显式构建此类向量空间的方法。研究发现，若将线性算子$A$嵌入两个可逆神经网络之间，即$f(x)=g_y^{-1}(A g_x(x))$，则相应的向量空间$X$和$Y$可由$g_x$和$g_y$导出的新定义向量加法与数乘运算所诱导。我们将此类架构命名为线性化器。该框架使得包括奇异值分解、伪逆、正交投影等在内的线性代数全系工具可应用于非线性映射。进一步地，我们证明共享神经网络的两个线性化器的复合仍构成线性化器。利用这一特性，我们演示了采用该架构训练扩散模型可使数百步采样过程坍缩为单步采样。我们还运用该框架在网络中实现幂等性约束（即$f(f(x))=f(x)$），构建出全局投影生成模型，并展示了模块化风格迁移的应用。",
+      "translated_summary": "神经网络以非线性特性著称。然而线性性是相对于一对向量空间$f$$:$$X$$\\to$$Y$定义的。是否存在这样一对非标准向量空间，使得传统非线性函数在该空间中呈现线性特性？本文提出一种通过构造显式构建此类向量空间的方法。研究发现，若将线性算子$A$嵌入两个可逆神经网络之间，即$f(x)=g_y^{-1}(A g_x(x))$，则相应的向量空间$X$和$Y$可由$g_x$和$g_y$导出的新定义向量加法与数乘运算所诱导。我们将此类架构命名为线性化器。该框架使得包括奇异值分解、伪逆、正交投影等在内的线性代数全系工具可应用于非线性映射。进一步地，我们证明共享神经网络的两个线性化器的复合仍构成线性化器。利用这一特性，我们演示了采用该架构训练扩散模型可使数百步采样过程坍缩为单步采样。我们还运用该框架在网络中实现幂等性约束（即$f(f(x))=f(x)$），构建出全局投影生成模型，并展示了模块化风格迁移的应用。",
+      "pdf_url": "http://arxiv.org/pdf/2510.08570v1",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "e563c21736b63fe2",
+      "date": "2025-10-10",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "矩阵：面向鲁棒工具使用推理的多模态智能体调优",
+      "translated_title": "矩阵：面向鲁棒工具使用推理的多模态智能体调优",
+      "author": "Tajamul Ashraf",
+      "summary": "视觉语言模型（VLMs）正越来越多地被部署为可调用外部工具的控制器，用于复杂推理与决策任务。然而，高质量多模态轨迹数据的稀缺性及人工标注的高成本，仍制约着其效能提升。为此，我们提出一种以视觉为中心的智能体调优框架，通过自动合成多模态轨迹、生成分步偏好对，训练出具备鲁棒工具使用推理能力的VLM控制器。我们的技术路径首先构建了M-TRACE数据集——包含28.5万个多模态任务与17.7万条已验证轨迹的大规模数据集，为实现基于模仿学习的轨迹调优奠定基础。在此基础上，我们开发了MATRIX智能体控制器，通过对M-TRACE进行微调实现分步工具推理。为进一步提升对齐精度，我们推出Pref-X数据集——包含1.1万个自动生成的偏好对，并通过分步偏好学习对MATRIX进行优化。在Agent-X、GTA和GAIA三大基准测试中，MATRIX均持续超越开源与闭源VLM模型，展现出可扩展且高效的多模态工具使用能力。项目数据与代码已发布于：https://github.com/mbzuai-oryx/MATRIX",
+      "translated_summary": "视觉语言模型（VLMs）正越来越多地被部署为可调用外部工具的控制器，用于复杂推理与决策任务。然而，高质量多模态轨迹数据的稀缺性及人工标注的高成本，仍制约着其效能提升。为此，我们提出一种以视觉为中心的智能体调优框架，通过自动合成多模态轨迹、生成分步偏好对，训练出具备鲁棒工具使用推理能力的VLM控制器。我们的技术路径首先构建了M-TRACE数据集——包含28.5万个多模态任务与17.7万条已验证轨迹的大规模数据集，为实现基于模仿学习的轨迹调优奠定基础。在此基础上，我们开发了MATRIX智能体控制器，通过对M-TRACE进行微调实现分步工具推理。为进一步提升对齐精度，我们推出Pref-X数据集——包含1.1万个自动生成的偏好对，并通过分步偏好学习对MATRIX进行优化。在Agent-X、GTA和GAIA三大基准测试中，MATRIX均持续超越开源与闭源VLM模型，展现出可扩展且高效的多模态工具使用能力。项目数据与代码已发布于：https://github.com/mbzuai-oryx/MATRIX",
+      "pdf_url": "http://arxiv.org/pdf/2510.08567v1",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "ba3451be9d9cfaa0",
+      "date": "2025-10-10",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "如何教授大型多模态模型新技能",
+      "translated_title": "如何教授大型多模态模型新技能",
+      "author": "Zhen Zhu",
+      "summary": "如何在不消除已有能力的前提下，让大型多模态模型（LMMs）学习新技能？我们通过在三个模型系列上对五项目标技能进行连续微调，同时监测八个保留基准测试的通用能力展开研究。研究发现：针对性微调后在保留任务中表现出的明显\"遗忘\"现象，在后续阶段可能部分恢复。我们将这种行为归因于输出词元分布的可测量偏移，并通过与遗忘程度同步变化的计数偏差探针实验得以验证。基于此发现，我们提出了两种简单且稳健的调优方案：（i）仅更新自注意力投射层；（ii）仅更新MLP门控与上行投射层，同时冻结下行投射层。跨模型与任务的实验表明，这些方法在实现显著目标增益的同时，能最大限度保持保留任务的性能。代码已开源：https://github.com/jessemelpolio/LMM_CL",
+      "translated_summary": "如何在不消除已有能力的前提下，让大型多模态模型（LMMs）学习新技能？我们通过在三个模型系列上对五项目标技能进行连续微调，同时监测八个保留基准测试的通用能力展开研究。研究发现：针对性微调后在保留任务中表现出的明显\"遗忘\"现象，在后续阶段可能部分恢复。我们将这种行为归因于输出词元分布的可测量偏移，并通过与遗忘程度同步变化的计数偏差探针实验得以验证。基于此发现，我们提出了两种简单且稳健的调优方案：（i）仅更新自注意力投射层；（ii）仅更新MLP门控与上行投射层，同时冻结下行投射层。跨模型与任务的实验表明，这些方法在实现显著目标增益的同时，能最大限度保持保留任务的性能。代码已开源：https://github.com/jessemelpolio/LMM_CL",
+      "pdf_url": "http://arxiv.org/pdf/2510.08564v1",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "385637905d7fbe71",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "基于辐射杂合细胞与CRISPRi技术构建的互补人类基因互作图谱",
+      "translated_title": "基于辐射杂合细胞与CRISPRi技术构建的互补人类基因互作图谱",
+      "author": "Smith, D. J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.05.579036",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "68edbdc41be0072a",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类癫痫及发作后失语症中的功能连接流状态及其多重动态变化",
+      "translated_title": "人类癫痫及发作后失语症中的功能连接流状态及其多重动态变化",
+      "author": "Pedreschi, N.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.10.593507",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "28df7646e75a7291",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "线粒体的动态变化支持小胶质细胞的表型可塑性",
+      "translated_title": "线粒体的动态变化支持小胶质细胞的表型可塑性",
+      "author": "Espinoza, K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.05.18.594002",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "6539f586543b5e83",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "基于性状的指标：优先保护面临灭绝风险的功能性不可替代物种",
+      "translated_title": "基于性状的指标：优先保护面临灭绝风险的功能性不可替代物种",
+      "author": "Webster, C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.05.597292",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "2a89d95ac75da1ab",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "分子追踪与培养研究表明：氨氧化古菌正成为人类皮肤微生物群中的新兴共生体",
+      "translated_title": "分子追踪与培养研究表明：氨氧化古菌正成为人类皮肤微生物群中的新兴共生体",
+      "author": "Mahnert, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.05.606590",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "132e9d6a8b6ae063",
+      "date": "2025-10-10",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "TRPV3通道活性有助于皮质神经元在发热期间保持活跃状态",
+      "translated_title": "TRPV3通道活性有助于皮质神经元在发热期间保持活跃状态",
+      "author": "Shen, Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.09.612112",
+      "paper_url": "",
+      "rank": 6
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

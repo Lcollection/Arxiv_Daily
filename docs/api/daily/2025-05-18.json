@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "date": "2025-05-18",
+  "count": 1,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-18-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-05-18-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-18-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-05-18.md",
+  "papers": [
+    {
+      "id": "fdf59a54b01a47d1",
+      "date": "2025-05-18",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "新皮层中由VIP中间神经元介导的抑制性与去抑制性神经环路",
+      "translated_title": "新皮层中由VIP中间神经元介导的抑制性与去抑制性神经环路",
+      "author": "Dellal, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.02.26.640383",
+      "paper_url": "",
+      "rank": 1
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

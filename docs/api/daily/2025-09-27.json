@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "date": "2025-09-27",
+  "count": 9,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-27-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 8,
+      "page_path": "daily-papers/2025-09-27-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-27-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-27.md",
+  "papers": [
+    {
+      "id": "932f4672d26344ba",
+      "date": "2025-09-27",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "SciReasoner：奠定跨学科科学推理基础",
+      "translated_title": "SciReasoner：奠定跨学科科学推理基础",
+      "author": "Yizhou Wang",
+      "summary": "我们提出一种科学推理基础模型，该模型实现了自然语言与异构科学表征的对齐。该模型基于包含科学文本、纯序列及序列-文本对的206B标记语料库进行预训练，随后通过40M指令进行指令微调对齐，采用退火冷启动自举法激发长链思维推理，并结合任务特定奖励塑造的强化学习机制，从而培养出严谨的科学推理能力。该模型支持五大能力体系，覆盖工作流中多达103项任务：(i)文本与科学格式间的精准转换，(ii)文本/知识提取，(iii)属性预测，(iv)属性分类，(v)无条件与条件序列生成与设计。相较于专业系统，我们的方法拓展了指令覆盖范围，提升了跨领域泛化能力，并增强了输出保真度。我们详细阐述了数据策展与训练流程，论证了跨学科学习如何强化知识迁移与下游任务可靠性。该模型、指令微调数据集及评估代码已开源，访问地址为https://huggingface.co/SciReason 与 https://github.com/open-sciencelab/SciReason。",
+      "translated_summary": "我们提出一种科学推理基础模型，该模型实现了自然语言与异构科学表征的对齐。该模型基于包含科学文本、纯序列及序列-文本对的206B标记语料库进行预训练，随后通过40M指令进行指令微调对齐，采用退火冷启动自举法激发长链思维推理，并结合任务特定奖励塑造的强化学习机制，从而培养出严谨的科学推理能力。该模型支持五大能力体系，覆盖工作流中多达103项任务：(i)文本与科学格式间的精准转换，(ii)文本/知识提取，(iii)属性预测，(iv)属性分类，(v)无条件与条件序列生成与设计。相较于专业系统，我们的方法拓展了指令覆盖范围，提升了跨领域泛化能力，并增强了输出保真度。我们详细阐述了数据策展与训练流程，论证了跨学科学习如何强化知识迁移与下游任务可靠性。该模型、指令微调数据集及评估代码已开源，访问地址为https://huggingface.co/SciReason 与 https://github.com/open-sciencelab/SciReason。",
+      "pdf_url": "http://arxiv.org/pdf/2509.21320v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "fe983981e57a22fe",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "生物物理建模确定了一种最优的混合变形虫-间充质机制，可实现T细胞最大迁移速度",
+      "translated_title": "生物物理建模确定了一种最优的混合变形虫-间充质机制，可实现T细胞最大迁移速度",
+      "author": "Alonso Matilla, R.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.10.29.564655",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "078db588e08108c8",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "p53调控核结构以降低致癌物敏感性与致突变潜能",
+      "translated_title": "p53调控核结构以降低致癌物敏感性与致突变潜能",
+      "author": "King, D. A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.14.613067",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "c04e7e9eb356c5aa",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "填补秀丽隐杆线虫连接组与全脑活动之间的鸿沟",
+      "translated_title": "填补秀丽隐杆线虫连接组与全脑活动之间的鸿沟",
+      "author": "Creamer, M. S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.22.614271",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "75a160b904c15987",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过抑制Notch信号通路实现细胞重编程，再生毛细胞和传入神经元以恢复平衡感",
+      "translated_title": "通过抑制Notch信号通路实现细胞重编程，再生毛细胞和传入神经元以恢复平衡感",
+      "author": "Lahlou, H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.02.616053",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "b7daaea79f9549b2",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "非线性脑连接：从神经元到网络的量化、来源与定位。",
+      "translated_title": "非线性脑连接：从神经元到网络的量化、来源与定位。",
+      "author": "Raffaelli, G. T.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.17.623635",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "0264da11e19b477e",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "着丝粒近端交叉干扰减数分裂中同源染色体的正常分离",
+      "translated_title": "着丝粒近端交叉干扰减数分裂中同源染色体的正常分离",
+      "author": "Sen, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.18.624114",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "f53b879d6fbc4331",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "控制二元与加权网络中的互惠性：一种新型密度守恒方法",
+      "translated_title": "控制二元与加权网络中的互惠性：一种新型密度守恒方法",
+      "author": "Hadaeghi, F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.24.625064",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "67d95d356e90486d",
+      "date": "2025-09-27",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "HsbA抑制恶臭假单胞菌稳定期生物膜的形成",
+      "translated_title": "HsbA抑制恶臭假单胞菌稳定期生物膜的形成",
+      "author": "Pulido Sanchez, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.11.25.625174",
+      "paper_url": "",
+      "rank": 8
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

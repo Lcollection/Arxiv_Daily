@@ -1,763 +1,425 @@
 # 每日论文索引
 
-| 日期 | arXiv | bioRxiv | medRxiv |
-|------|-------|---------|---------|
-| 2026 | - | - | - |
-| 2025 | - | - | - |
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Arxiv Daily
-
-
-DeepSeek，你记一下我做如下部署 -- 101
+论文已按日期拆分归档；首页只保留日期入口，避免所有历史文章挤在单个页面。
+
+最近更新：[2026-01-06](daily-papers/2026-01-06.md)
+
+| 日期 | 每日汇总 | arXiv | bioRxiv | medRxiv |
+|------|----------|-------|---------|---------|
+| 2026-01-06 | [每日汇总](daily-papers/2026-01-06.md) | [arXiv](daily-papers/2026-01-06-arxiv.md) | [bioRxiv](daily-papers/2026-01-06-biorxiv.md) | [medRxiv](daily-papers/2026-01-06-medrxiv.md) |
+| 2026-01-05 | [每日汇总](daily-papers/2026-01-05.md) | [arXiv](daily-papers/2026-01-05-arxiv.md) | [bioRxiv](daily-papers/2026-01-05-biorxiv.md) | [medRxiv](daily-papers/2026-01-05-medrxiv.md) |
+| 2026-01-04 | [每日汇总](daily-papers/2026-01-04.md) | [arXiv](daily-papers/2026-01-04-arxiv.md) | [bioRxiv](daily-papers/2026-01-04-biorxiv.md) | [medRxiv](daily-papers/2026-01-04-medrxiv.md) |
+| 2026-01-03 | [每日汇总](daily-papers/2026-01-03.md) | [arXiv](daily-papers/2026-01-03-arxiv.md) | [bioRxiv](daily-papers/2026-01-03-biorxiv.md) | [medRxiv](daily-papers/2026-01-03-medrxiv.md) |
+| 2026-01-02 | [每日汇总](daily-papers/2026-01-02.md) | [arXiv](daily-papers/2026-01-02-arxiv.md) | [bioRxiv](daily-papers/2026-01-02-biorxiv.md) | [medRxiv](daily-papers/2026-01-02-medrxiv.md) |
+| 2026-01-01 | [每日汇总](daily-papers/2026-01-01.md) | [arXiv](daily-papers/2026-01-01-arxiv.md) | [bioRxiv](daily-papers/2026-01-01-biorxiv.md) | [medRxiv](daily-papers/2026-01-01-medrxiv.md) |
+| 2025-12-31 | [每日汇总](daily-papers/2025-12-31.md) | [arXiv](daily-papers/2025-12-31-arxiv.md) | [bioRxiv](daily-papers/2025-12-31-biorxiv.md) | [medRxiv](daily-papers/2025-12-31-medrxiv.md) |
+| 2025-12-30 | [每日汇总](daily-papers/2025-12-30.md) | [arXiv](daily-papers/2025-12-30-arxiv.md) | [bioRxiv](daily-papers/2025-12-30-biorxiv.md) | [medRxiv](daily-papers/2025-12-30-medrxiv.md) |
+| 2025-12-29 | [每日汇总](daily-papers/2025-12-29.md) | [arXiv](daily-papers/2025-12-29-arxiv.md) | [bioRxiv](daily-papers/2025-12-29-biorxiv.md) | [medRxiv](daily-papers/2025-12-29-medrxiv.md) |
+| 2025-12-28 | [每日汇总](daily-papers/2025-12-28.md) | [arXiv](daily-papers/2025-12-28-arxiv.md) | [bioRxiv](daily-papers/2025-12-28-biorxiv.md) | [medRxiv](daily-papers/2025-12-28-medrxiv.md) |
+| 2025-12-27 | [每日汇总](daily-papers/2025-12-27.md) | [arXiv](daily-papers/2025-12-27-arxiv.md) | [bioRxiv](daily-papers/2025-12-27-biorxiv.md) | [medRxiv](daily-papers/2025-12-27-medrxiv.md) |
+| 2025-12-26 | [每日汇总](daily-papers/2025-12-26.md) | [arXiv](daily-papers/2025-12-26-arxiv.md) | [bioRxiv](daily-papers/2025-12-26-biorxiv.md) | [medRxiv](daily-papers/2025-12-26-medrxiv.md) |
+| 2025-12-25 | [每日汇总](daily-papers/2025-12-25.md) | [arXiv](daily-papers/2025-12-25-arxiv.md) | [bioRxiv](daily-papers/2025-12-25-biorxiv.md) | [medRxiv](daily-papers/2025-12-25-medrxiv.md) |
+| 2025-12-24 | [每日汇总](daily-papers/2025-12-24.md) | [arXiv](daily-papers/2025-12-24-arxiv.md) | [bioRxiv](daily-papers/2025-12-24-biorxiv.md) | [medRxiv](daily-papers/2025-12-24-medrxiv.md) |
+| 2025-12-23 | [每日汇总](daily-papers/2025-12-23.md) | [arXiv](daily-papers/2025-12-23-arxiv.md) | [bioRxiv](daily-papers/2025-12-23-biorxiv.md) | [medRxiv](daily-papers/2025-12-23-medrxiv.md) |
+| 2025-12-22 | [每日汇总](daily-papers/2025-12-22.md) | [arXiv](daily-papers/2025-12-22-arxiv.md) | [bioRxiv](daily-papers/2025-12-22-biorxiv.md) | [medRxiv](daily-papers/2025-12-22-medrxiv.md) |
+| 2025-12-21 | [每日汇总](daily-papers/2025-12-21.md) | [arXiv](daily-papers/2025-12-21-arxiv.md) | [bioRxiv](daily-papers/2025-12-21-biorxiv.md) | [medRxiv](daily-papers/2025-12-21-medrxiv.md) |
+| 2025-12-20 | [每日汇总](daily-papers/2025-12-20.md) | [arXiv](daily-papers/2025-12-20-arxiv.md) | [bioRxiv](daily-papers/2025-12-20-biorxiv.md) | [medRxiv](daily-papers/2025-12-20-medrxiv.md) |
+| 2025-12-19 | [每日汇总](daily-papers/2025-12-19.md) | [arXiv](daily-papers/2025-12-19-arxiv.md) | [bioRxiv](daily-papers/2025-12-19-biorxiv.md) | [medRxiv](daily-papers/2025-12-19-medrxiv.md) |
+| 2025-12-18 | [每日汇总](daily-papers/2025-12-18.md) | [arXiv](daily-papers/2025-12-18-arxiv.md) | [bioRxiv](daily-papers/2025-12-18-biorxiv.md) | [medRxiv](daily-papers/2025-12-18-medrxiv.md) |
+| 2025-12-17 | [每日汇总](daily-papers/2025-12-17.md) | [arXiv](daily-papers/2025-12-17-arxiv.md) | [bioRxiv](daily-papers/2025-12-17-biorxiv.md) | [medRxiv](daily-papers/2025-12-17-medrxiv.md) |
+| 2025-12-16 | [每日汇总](daily-papers/2025-12-16.md) | [arXiv](daily-papers/2025-12-16-arxiv.md) | [bioRxiv](daily-papers/2025-12-16-biorxiv.md) | [medRxiv](daily-papers/2025-12-16-medrxiv.md) |
+| 2025-12-15 | [每日汇总](daily-papers/2025-12-15.md) | [arXiv](daily-papers/2025-12-15-arxiv.md) | [bioRxiv](daily-papers/2025-12-15-biorxiv.md) | [medRxiv](daily-papers/2025-12-15-medrxiv.md) |
+| 2025-12-14 | [每日汇总](daily-papers/2025-12-14.md) | [arXiv](daily-papers/2025-12-14-arxiv.md) | [bioRxiv](daily-papers/2025-12-14-biorxiv.md) | [medRxiv](daily-papers/2025-12-14-medrxiv.md) |
+| 2025-12-13 | [每日汇总](daily-papers/2025-12-13.md) | [arXiv](daily-papers/2025-12-13-arxiv.md) | [bioRxiv](daily-papers/2025-12-13-biorxiv.md) | [medRxiv](daily-papers/2025-12-13-medrxiv.md) |
+| 2025-12-12 | [每日汇总](daily-papers/2025-12-12.md) | [arXiv](daily-papers/2025-12-12-arxiv.md) | [bioRxiv](daily-papers/2025-12-12-biorxiv.md) | [medRxiv](daily-papers/2025-12-12-medrxiv.md) |
+| 2025-12-11 | [每日汇总](daily-papers/2025-12-11.md) | [arXiv](daily-papers/2025-12-11-arxiv.md) | [bioRxiv](daily-papers/2025-12-11-biorxiv.md) | [medRxiv](daily-papers/2025-12-11-medrxiv.md) |
+| 2025-12-10 | [每日汇总](daily-papers/2025-12-10.md) | [arXiv](daily-papers/2025-12-10-arxiv.md) | [bioRxiv](daily-papers/2025-12-10-biorxiv.md) | [medRxiv](daily-papers/2025-12-10-medrxiv.md) |
+| 2025-12-09 | [每日汇总](daily-papers/2025-12-09.md) | [arXiv](daily-papers/2025-12-09-arxiv.md) | [bioRxiv](daily-papers/2025-12-09-biorxiv.md) | [medRxiv](daily-papers/2025-12-09-medrxiv.md) |
+| 2025-12-07 | [每日汇总](daily-papers/2025-12-07.md) | [arXiv](daily-papers/2025-12-07-arxiv.md) | [bioRxiv](daily-papers/2025-12-07-biorxiv.md) | [medRxiv](daily-papers/2025-12-07-medrxiv.md) |
+| 2025-12-06 | [每日汇总](daily-papers/2025-12-06.md) | [arXiv](daily-papers/2025-12-06-arxiv.md) | [bioRxiv](daily-papers/2025-12-06-biorxiv.md) | [medRxiv](daily-papers/2025-12-06-medrxiv.md) |
+| 2025-12-05 | [每日汇总](daily-papers/2025-12-05.md) | [arXiv](daily-papers/2025-12-05-arxiv.md) | [bioRxiv](daily-papers/2025-12-05-biorxiv.md) | [medRxiv](daily-papers/2025-12-05-medrxiv.md) |
+| 2025-12-04 | [每日汇总](daily-papers/2025-12-04.md) | [arXiv](daily-papers/2025-12-04-arxiv.md) | [bioRxiv](daily-papers/2025-12-04-biorxiv.md) | [medRxiv](daily-papers/2025-12-04-medrxiv.md) |
+| 2025-12-03 | [每日汇总](daily-papers/2025-12-03.md) | [arXiv](daily-papers/2025-12-03-arxiv.md) | [bioRxiv](daily-papers/2025-12-03-biorxiv.md) | [medRxiv](daily-papers/2025-12-03-medrxiv.md) |
+| 2025-12-02 | [每日汇总](daily-papers/2025-12-02.md) | [arXiv](daily-papers/2025-12-02-arxiv.md) | [bioRxiv](daily-papers/2025-12-02-biorxiv.md) | [medRxiv](daily-papers/2025-12-02-medrxiv.md) |
+| 2025-12-01 | [每日汇总](daily-papers/2025-12-01.md) | [arXiv](daily-papers/2025-12-01-arxiv.md) | [bioRxiv](daily-papers/2025-12-01-biorxiv.md) | [medRxiv](daily-papers/2025-12-01-medrxiv.md) |
+| 2025-11-30 | [每日汇总](daily-papers/2025-11-30.md) | [arXiv](daily-papers/2025-11-30-arxiv.md) | [bioRxiv](daily-papers/2025-11-30-biorxiv.md) | [medRxiv](daily-papers/2025-11-30-medrxiv.md) |
+| 2025-11-29 | [每日汇总](daily-papers/2025-11-29.md) | [arXiv](daily-papers/2025-11-29-arxiv.md) | [bioRxiv](daily-papers/2025-11-29-biorxiv.md) | [medRxiv](daily-papers/2025-11-29-medrxiv.md) |
+| 2025-11-28 | [每日汇总](daily-papers/2025-11-28.md) | [arXiv](daily-papers/2025-11-28-arxiv.md) | [bioRxiv](daily-papers/2025-11-28-biorxiv.md) | [medRxiv](daily-papers/2025-11-28-medrxiv.md) |
+| 2025-11-27 | [每日汇总](daily-papers/2025-11-27.md) | [arXiv](daily-papers/2025-11-27-arxiv.md) | [bioRxiv](daily-papers/2025-11-27-biorxiv.md) | [medRxiv](daily-papers/2025-11-27-medrxiv.md) |
+| 2025-11-26 | [每日汇总](daily-papers/2025-11-26.md) | [arXiv](daily-papers/2025-11-26-arxiv.md) | [bioRxiv](daily-papers/2025-11-26-biorxiv.md) | [medRxiv](daily-papers/2025-11-26-medrxiv.md) |
+| 2025-11-25 | [每日汇总](daily-papers/2025-11-25.md) | [arXiv](daily-papers/2025-11-25-arxiv.md) | [bioRxiv](daily-papers/2025-11-25-biorxiv.md) | [medRxiv](daily-papers/2025-11-25-medrxiv.md) |
+| 2025-11-24 | [每日汇总](daily-papers/2025-11-24.md) | [arXiv](daily-papers/2025-11-24-arxiv.md) | [bioRxiv](daily-papers/2025-11-24-biorxiv.md) | [medRxiv](daily-papers/2025-11-24-medrxiv.md) |
+| 2025-11-23 | [每日汇总](daily-papers/2025-11-23.md) | [arXiv](daily-papers/2025-11-23-arxiv.md) | [bioRxiv](daily-papers/2025-11-23-biorxiv.md) | [medRxiv](daily-papers/2025-11-23-medrxiv.md) |
+| 2025-11-22 | [每日汇总](daily-papers/2025-11-22.md) | [arXiv](daily-papers/2025-11-22-arxiv.md) | [bioRxiv](daily-papers/2025-11-22-biorxiv.md) | [medRxiv](daily-papers/2025-11-22-medrxiv.md) |
+| 2025-11-21 | [每日汇总](daily-papers/2025-11-21.md) | [arXiv](daily-papers/2025-11-21-arxiv.md) | [bioRxiv](daily-papers/2025-11-21-biorxiv.md) | [medRxiv](daily-papers/2025-11-21-medrxiv.md) |
+| 2025-11-20 | [每日汇总](daily-papers/2025-11-20.md) | [arXiv](daily-papers/2025-11-20-arxiv.md) | [bioRxiv](daily-papers/2025-11-20-biorxiv.md) | [medRxiv](daily-papers/2025-11-20-medrxiv.md) |
+| 2025-11-19 | [每日汇总](daily-papers/2025-11-19.md) | [arXiv](daily-papers/2025-11-19-arxiv.md) | [bioRxiv](daily-papers/2025-11-19-biorxiv.md) | [medRxiv](daily-papers/2025-11-19-medrxiv.md) |
+| 2025-11-18 | [每日汇总](daily-papers/2025-11-18.md) | [arXiv](daily-papers/2025-11-18-arxiv.md) | [bioRxiv](daily-papers/2025-11-18-biorxiv.md) | [medRxiv](daily-papers/2025-11-18-medrxiv.md) |
+| 2025-11-17 | [每日汇总](daily-papers/2025-11-17.md) | [arXiv](daily-papers/2025-11-17-arxiv.md) | [bioRxiv](daily-papers/2025-11-17-biorxiv.md) | [medRxiv](daily-papers/2025-11-17-medrxiv.md) |
+| 2025-11-16 | [每日汇总](daily-papers/2025-11-16.md) | [arXiv](daily-papers/2025-11-16-arxiv.md) | [bioRxiv](daily-papers/2025-11-16-biorxiv.md) | [medRxiv](daily-papers/2025-11-16-medrxiv.md) |
+| 2025-11-15 | [每日汇总](daily-papers/2025-11-15.md) | [arXiv](daily-papers/2025-11-15-arxiv.md) | [bioRxiv](daily-papers/2025-11-15-biorxiv.md) | [medRxiv](daily-papers/2025-11-15-medrxiv.md) |
+| 2025-11-14 | [每日汇总](daily-papers/2025-11-14.md) | [arXiv](daily-papers/2025-11-14-arxiv.md) | [bioRxiv](daily-papers/2025-11-14-biorxiv.md) | [medRxiv](daily-papers/2025-11-14-medrxiv.md) |
+| 2025-11-13 | [每日汇总](daily-papers/2025-11-13.md) | [arXiv](daily-papers/2025-11-13-arxiv.md) | [bioRxiv](daily-papers/2025-11-13-biorxiv.md) | [medRxiv](daily-papers/2025-11-13-medrxiv.md) |
+| 2025-11-12 | [每日汇总](daily-papers/2025-11-12.md) | [arXiv](daily-papers/2025-11-12-arxiv.md) | [bioRxiv](daily-papers/2025-11-12-biorxiv.md) | [medRxiv](daily-papers/2025-11-12-medrxiv.md) |
+| 2025-11-11 | [每日汇总](daily-papers/2025-11-11.md) | [arXiv](daily-papers/2025-11-11-arxiv.md) | [bioRxiv](daily-papers/2025-11-11-biorxiv.md) | [medRxiv](daily-papers/2025-11-11-medrxiv.md) |
+| 2025-11-10 | [每日汇总](daily-papers/2025-11-10.md) | [arXiv](daily-papers/2025-11-10-arxiv.md) | [bioRxiv](daily-papers/2025-11-10-biorxiv.md) | [medRxiv](daily-papers/2025-11-10-medrxiv.md) |
+| 2025-11-09 | [每日汇总](daily-papers/2025-11-09.md) | [arXiv](daily-papers/2025-11-09-arxiv.md) | [bioRxiv](daily-papers/2025-11-09-biorxiv.md) | [medRxiv](daily-papers/2025-11-09-medrxiv.md) |
+| 2025-11-08 | [每日汇总](daily-papers/2025-11-08.md) | [arXiv](daily-papers/2025-11-08-arxiv.md) | [bioRxiv](daily-papers/2025-11-08-biorxiv.md) | [medRxiv](daily-papers/2025-11-08-medrxiv.md) |
+| 2025-11-07 | [每日汇总](daily-papers/2025-11-07.md) | [arXiv](daily-papers/2025-11-07-arxiv.md) | [bioRxiv](daily-papers/2025-11-07-biorxiv.md) | [medRxiv](daily-papers/2025-11-07-medrxiv.md) |
+| 2025-11-06 | [每日汇总](daily-papers/2025-11-06.md) | [arXiv](daily-papers/2025-11-06-arxiv.md) | [bioRxiv](daily-papers/2025-11-06-biorxiv.md) | [medRxiv](daily-papers/2025-11-06-medrxiv.md) |
+| 2025-11-05 | [每日汇总](daily-papers/2025-11-05.md) | [arXiv](daily-papers/2025-11-05-arxiv.md) | [bioRxiv](daily-papers/2025-11-05-biorxiv.md) | [medRxiv](daily-papers/2025-11-05-medrxiv.md) |
+| 2025-11-04 | [每日汇总](daily-papers/2025-11-04.md) | [arXiv](daily-papers/2025-11-04-arxiv.md) | [bioRxiv](daily-papers/2025-11-04-biorxiv.md) | [medRxiv](daily-papers/2025-11-04-medrxiv.md) |
+| 2025-11-03 | [每日汇总](daily-papers/2025-11-03.md) | [arXiv](daily-papers/2025-11-03-arxiv.md) | [bioRxiv](daily-papers/2025-11-03-biorxiv.md) | [medRxiv](daily-papers/2025-11-03-medrxiv.md) |
+| 2025-11-02 | [每日汇总](daily-papers/2025-11-02.md) | [arXiv](daily-papers/2025-11-02-arxiv.md) | [bioRxiv](daily-papers/2025-11-02-biorxiv.md) | [medRxiv](daily-papers/2025-11-02-medrxiv.md) |
+| 2025-11-01 | [每日汇总](daily-papers/2025-11-01.md) | [arXiv](daily-papers/2025-11-01-arxiv.md) | [bioRxiv](daily-papers/2025-11-01-biorxiv.md) | [medRxiv](daily-papers/2025-11-01-medrxiv.md) |
+| 2025-10-31 | [每日汇总](daily-papers/2025-10-31.md) | [arXiv](daily-papers/2025-10-31-arxiv.md) | [bioRxiv](daily-papers/2025-10-31-biorxiv.md) | [medRxiv](daily-papers/2025-10-31-medrxiv.md) |
+| 2025-10-30 | [每日汇总](daily-papers/2025-10-30.md) | [arXiv](daily-papers/2025-10-30-arxiv.md) | [bioRxiv](daily-papers/2025-10-30-biorxiv.md) | [medRxiv](daily-papers/2025-10-30-medrxiv.md) |
+| 2025-10-29 | [每日汇总](daily-papers/2025-10-29.md) | [arXiv](daily-papers/2025-10-29-arxiv.md) | [bioRxiv](daily-papers/2025-10-29-biorxiv.md) | [medRxiv](daily-papers/2025-10-29-medrxiv.md) |
+| 2025-10-28 | [每日汇总](daily-papers/2025-10-28.md) | [arXiv](daily-papers/2025-10-28-arxiv.md) | [bioRxiv](daily-papers/2025-10-28-biorxiv.md) | [medRxiv](daily-papers/2025-10-28-medrxiv.md) |
+| 2025-10-27 | [每日汇总](daily-papers/2025-10-27.md) | [arXiv](daily-papers/2025-10-27-arxiv.md) | [bioRxiv](daily-papers/2025-10-27-biorxiv.md) | [medRxiv](daily-papers/2025-10-27-medrxiv.md) |
+| 2025-10-26 | [每日汇总](daily-papers/2025-10-26.md) | [arXiv](daily-papers/2025-10-26-arxiv.md) | [bioRxiv](daily-papers/2025-10-26-biorxiv.md) | [medRxiv](daily-papers/2025-10-26-medrxiv.md) |
+| 2025-10-25 | [每日汇总](daily-papers/2025-10-25.md) | [arXiv](daily-papers/2025-10-25-arxiv.md) | [bioRxiv](daily-papers/2025-10-25-biorxiv.md) | [medRxiv](daily-papers/2025-10-25-medrxiv.md) |
+| 2025-10-24 | [每日汇总](daily-papers/2025-10-24.md) | [arXiv](daily-papers/2025-10-24-arxiv.md) | [bioRxiv](daily-papers/2025-10-24-biorxiv.md) | [medRxiv](daily-papers/2025-10-24-medrxiv.md) |
+| 2025-10-23 | [每日汇总](daily-papers/2025-10-23.md) | [arXiv](daily-papers/2025-10-23-arxiv.md) | [bioRxiv](daily-papers/2025-10-23-biorxiv.md) | [medRxiv](daily-papers/2025-10-23-medrxiv.md) |
+| 2025-10-22 | [每日汇总](daily-papers/2025-10-22.md) | [arXiv](daily-papers/2025-10-22-arxiv.md) | [bioRxiv](daily-papers/2025-10-22-biorxiv.md) | [medRxiv](daily-papers/2025-10-22-medrxiv.md) |
+| 2025-10-21 | [每日汇总](daily-papers/2025-10-21.md) | [arXiv](daily-papers/2025-10-21-arxiv.md) | [bioRxiv](daily-papers/2025-10-21-biorxiv.md) | [medRxiv](daily-papers/2025-10-21-medrxiv.md) |
+| 2025-10-20 | [每日汇总](daily-papers/2025-10-20.md) | [arXiv](daily-papers/2025-10-20-arxiv.md) | [bioRxiv](daily-papers/2025-10-20-biorxiv.md) | [medRxiv](daily-papers/2025-10-20-medrxiv.md) |
+| 2025-10-19 | [每日汇总](daily-papers/2025-10-19.md) | [arXiv](daily-papers/2025-10-19-arxiv.md) | [bioRxiv](daily-papers/2025-10-19-biorxiv.md) | [medRxiv](daily-papers/2025-10-19-medrxiv.md) |
+| 2025-10-18 | [每日汇总](daily-papers/2025-10-18.md) | [arXiv](daily-papers/2025-10-18-arxiv.md) | [bioRxiv](daily-papers/2025-10-18-biorxiv.md) | [medRxiv](daily-papers/2025-10-18-medrxiv.md) |
+| 2025-10-17 | [每日汇总](daily-papers/2025-10-17.md) | [arXiv](daily-papers/2025-10-17-arxiv.md) | [bioRxiv](daily-papers/2025-10-17-biorxiv.md) | [medRxiv](daily-papers/2025-10-17-medrxiv.md) |
+| 2025-10-16 | [每日汇总](daily-papers/2025-10-16.md) | [arXiv](daily-papers/2025-10-16-arxiv.md) | [bioRxiv](daily-papers/2025-10-16-biorxiv.md) | [medRxiv](daily-papers/2025-10-16-medrxiv.md) |
+| 2025-10-15 | [每日汇总](daily-papers/2025-10-15.md) | [arXiv](daily-papers/2025-10-15-arxiv.md) | [bioRxiv](daily-papers/2025-10-15-biorxiv.md) | [medRxiv](daily-papers/2025-10-15-medrxiv.md) |
+| 2025-10-14 | [每日汇总](daily-papers/2025-10-14.md) | [arXiv](daily-papers/2025-10-14-arxiv.md) | [bioRxiv](daily-papers/2025-10-14-biorxiv.md) | [medRxiv](daily-papers/2025-10-14-medrxiv.md) |
+| 2025-10-13 | [每日汇总](daily-papers/2025-10-13.md) | [arXiv](daily-papers/2025-10-13-arxiv.md) | [bioRxiv](daily-papers/2025-10-13-biorxiv.md) | [medRxiv](daily-papers/2025-10-13-medrxiv.md) |
+| 2025-10-12 | [每日汇总](daily-papers/2025-10-12.md) | [arXiv](daily-papers/2025-10-12-arxiv.md) | [bioRxiv](daily-papers/2025-10-12-biorxiv.md) | [medRxiv](daily-papers/2025-10-12-medrxiv.md) |
+| 2025-10-11 | [每日汇总](daily-papers/2025-10-11.md) | [arXiv](daily-papers/2025-10-11-arxiv.md) | [bioRxiv](daily-papers/2025-10-11-biorxiv.md) | [medRxiv](daily-papers/2025-10-11-medrxiv.md) |
+| 2025-10-10 | [每日汇总](daily-papers/2025-10-10.md) | [arXiv](daily-papers/2025-10-10-arxiv.md) | [bioRxiv](daily-papers/2025-10-10-biorxiv.md) | [medRxiv](daily-papers/2025-10-10-medrxiv.md) |
+| 2025-10-09 | [每日汇总](daily-papers/2025-10-09.md) | [arXiv](daily-papers/2025-10-09-arxiv.md) | [bioRxiv](daily-papers/2025-10-09-biorxiv.md) | [medRxiv](daily-papers/2025-10-09-medrxiv.md) |
+| 2025-10-08 | [每日汇总](daily-papers/2025-10-08.md) | [arXiv](daily-papers/2025-10-08-arxiv.md) | [bioRxiv](daily-papers/2025-10-08-biorxiv.md) | [medRxiv](daily-papers/2025-10-08-medrxiv.md) |
+| 2025-10-07 | [每日汇总](daily-papers/2025-10-07.md) | [arXiv](daily-papers/2025-10-07-arxiv.md) | [bioRxiv](daily-papers/2025-10-07-biorxiv.md) | [medRxiv](daily-papers/2025-10-07-medrxiv.md) |
+| 2025-10-06 | [每日汇总](daily-papers/2025-10-06.md) | [arXiv](daily-papers/2025-10-06-arxiv.md) | [bioRxiv](daily-papers/2025-10-06-biorxiv.md) | [medRxiv](daily-papers/2025-10-06-medrxiv.md) |
+| 2025-10-05 | [每日汇总](daily-papers/2025-10-05.md) | [arXiv](daily-papers/2025-10-05-arxiv.md) | [bioRxiv](daily-papers/2025-10-05-biorxiv.md) | [medRxiv](daily-papers/2025-10-05-medrxiv.md) |
+| 2025-10-04 | [每日汇总](daily-papers/2025-10-04.md) | [arXiv](daily-papers/2025-10-04-arxiv.md) | [bioRxiv](daily-papers/2025-10-04-biorxiv.md) | [medRxiv](daily-papers/2025-10-04-medrxiv.md) |
+| 2025-10-03 | [每日汇总](daily-papers/2025-10-03.md) | [arXiv](daily-papers/2025-10-03-arxiv.md) | [bioRxiv](daily-papers/2025-10-03-biorxiv.md) | [medRxiv](daily-papers/2025-10-03-medrxiv.md) |
+| 2025-10-02 | [每日汇总](daily-papers/2025-10-02.md) | [arXiv](daily-papers/2025-10-02-arxiv.md) | [bioRxiv](daily-papers/2025-10-02-biorxiv.md) | [medRxiv](daily-papers/2025-10-02-medrxiv.md) |
+| 2025-10-01 | [每日汇总](daily-papers/2025-10-01.md) | [arXiv](daily-papers/2025-10-01-arxiv.md) | [bioRxiv](daily-papers/2025-10-01-biorxiv.md) | [medRxiv](daily-papers/2025-10-01-medrxiv.md) |
+| 2025-09-30 | [每日汇总](daily-papers/2025-09-30.md) | [arXiv](daily-papers/2025-09-30-arxiv.md) | [bioRxiv](daily-papers/2025-09-30-biorxiv.md) | [medRxiv](daily-papers/2025-09-30-medrxiv.md) |
+| 2025-09-29 | [每日汇总](daily-papers/2025-09-29.md) | [arXiv](daily-papers/2025-09-29-arxiv.md) | [bioRxiv](daily-papers/2025-09-29-biorxiv.md) | [medRxiv](daily-papers/2025-09-29-medrxiv.md) |
+| 2025-09-28 | [每日汇总](daily-papers/2025-09-28.md) | [arXiv](daily-papers/2025-09-28-arxiv.md) | [bioRxiv](daily-papers/2025-09-28-biorxiv.md) | [medRxiv](daily-papers/2025-09-28-medrxiv.md) |
+| 2025-09-27 | [每日汇总](daily-papers/2025-09-27.md) | [arXiv](daily-papers/2025-09-27-arxiv.md) | [bioRxiv](daily-papers/2025-09-27-biorxiv.md) | [medRxiv](daily-papers/2025-09-27-medrxiv.md) |
+| 2025-09-26 | [每日汇总](daily-papers/2025-09-26.md) | [arXiv](daily-papers/2025-09-26-arxiv.md) | [bioRxiv](daily-papers/2025-09-26-biorxiv.md) | [medRxiv](daily-papers/2025-09-26-medrxiv.md) |
+| 2025-09-25 | [每日汇总](daily-papers/2025-09-25.md) | [arXiv](daily-papers/2025-09-25-arxiv.md) | [bioRxiv](daily-papers/2025-09-25-biorxiv.md) | [medRxiv](daily-papers/2025-09-25-medrxiv.md) |
+| 2025-09-24 | [每日汇总](daily-papers/2025-09-24.md) | [arXiv](daily-papers/2025-09-24-arxiv.md) | [bioRxiv](daily-papers/2025-09-24-biorxiv.md) | [medRxiv](daily-papers/2025-09-24-medrxiv.md) |
+| 2025-09-23 | [每日汇总](daily-papers/2025-09-23.md) | [arXiv](daily-papers/2025-09-23-arxiv.md) | [bioRxiv](daily-papers/2025-09-23-biorxiv.md) | [medRxiv](daily-papers/2025-09-23-medrxiv.md) |
+| 2025-09-22 | [每日汇总](daily-papers/2025-09-22.md) | [arXiv](daily-papers/2025-09-22-arxiv.md) | [bioRxiv](daily-papers/2025-09-22-biorxiv.md) | [medRxiv](daily-papers/2025-09-22-medrxiv.md) |
+| 2025-09-21 | [每日汇总](daily-papers/2025-09-21.md) | [arXiv](daily-papers/2025-09-21-arxiv.md) | [bioRxiv](daily-papers/2025-09-21-biorxiv.md) | [medRxiv](daily-papers/2025-09-21-medrxiv.md) |
+| 2025-09-20 | [每日汇总](daily-papers/2025-09-20.md) | [arXiv](daily-papers/2025-09-20-arxiv.md) | [bioRxiv](daily-papers/2025-09-20-biorxiv.md) | [medRxiv](daily-papers/2025-09-20-medrxiv.md) |
+| 2025-09-19 | [每日汇总](daily-papers/2025-09-19.md) | [arXiv](daily-papers/2025-09-19-arxiv.md) | [bioRxiv](daily-papers/2025-09-19-biorxiv.md) | [medRxiv](daily-papers/2025-09-19-medrxiv.md) |
+| 2025-09-18 | [每日汇总](daily-papers/2025-09-18.md) | [arXiv](daily-papers/2025-09-18-arxiv.md) | [bioRxiv](daily-papers/2025-09-18-biorxiv.md) | [medRxiv](daily-papers/2025-09-18-medrxiv.md) |
+| 2025-09-17 | [每日汇总](daily-papers/2025-09-17.md) | [arXiv](daily-papers/2025-09-17-arxiv.md) | [bioRxiv](daily-papers/2025-09-17-biorxiv.md) | [medRxiv](daily-papers/2025-09-17-medrxiv.md) |
+| 2025-09-16 | [每日汇总](daily-papers/2025-09-16.md) | [arXiv](daily-papers/2025-09-16-arxiv.md) | [bioRxiv](daily-papers/2025-09-16-biorxiv.md) | [medRxiv](daily-papers/2025-09-16-medrxiv.md) |
+| 2025-09-15 | [每日汇总](daily-papers/2025-09-15.md) | [arXiv](daily-papers/2025-09-15-arxiv.md) | [bioRxiv](daily-papers/2025-09-15-biorxiv.md) | [medRxiv](daily-papers/2025-09-15-medrxiv.md) |
+| 2025-09-14 | [每日汇总](daily-papers/2025-09-14.md) | [arXiv](daily-papers/2025-09-14-arxiv.md) | [bioRxiv](daily-papers/2025-09-14-biorxiv.md) | [medRxiv](daily-papers/2025-09-14-medrxiv.md) |
+| 2025-09-13 | [每日汇总](daily-papers/2025-09-13.md) | [arXiv](daily-papers/2025-09-13-arxiv.md) | [bioRxiv](daily-papers/2025-09-13-biorxiv.md) | [medRxiv](daily-papers/2025-09-13-medrxiv.md) |
+| 2025-09-12 | [每日汇总](daily-papers/2025-09-12.md) | [arXiv](daily-papers/2025-09-12-arxiv.md) | [bioRxiv](daily-papers/2025-09-12-biorxiv.md) | [medRxiv](daily-papers/2025-09-12-medrxiv.md) |
+| 2025-09-11 | [每日汇总](daily-papers/2025-09-11.md) | [arXiv](daily-papers/2025-09-11-arxiv.md) | [bioRxiv](daily-papers/2025-09-11-biorxiv.md) | [medRxiv](daily-papers/2025-09-11-medrxiv.md) |
+| 2025-09-10 | [每日汇总](daily-papers/2025-09-10.md) | [arXiv](daily-papers/2025-09-10-arxiv.md) | [bioRxiv](daily-papers/2025-09-10-biorxiv.md) | [medRxiv](daily-papers/2025-09-10-medrxiv.md) |
+| 2025-09-09 | [每日汇总](daily-papers/2025-09-09.md) | [arXiv](daily-papers/2025-09-09-arxiv.md) | [bioRxiv](daily-papers/2025-09-09-biorxiv.md) | [medRxiv](daily-papers/2025-09-09-medrxiv.md) |
+| 2025-09-08 | [每日汇总](daily-papers/2025-09-08.md) | [arXiv](daily-papers/2025-09-08-arxiv.md) | [bioRxiv](daily-papers/2025-09-08-biorxiv.md) | [medRxiv](daily-papers/2025-09-08-medrxiv.md) |
+| 2025-09-07 | [每日汇总](daily-papers/2025-09-07.md) | [arXiv](daily-papers/2025-09-07-arxiv.md) | [bioRxiv](daily-papers/2025-09-07-biorxiv.md) | [medRxiv](daily-papers/2025-09-07-medrxiv.md) |
+| 2025-09-06 | [每日汇总](daily-papers/2025-09-06.md) | [arXiv](daily-papers/2025-09-06-arxiv.md) | [bioRxiv](daily-papers/2025-09-06-biorxiv.md) | [medRxiv](daily-papers/2025-09-06-medrxiv.md) |
+| 2025-09-05 | [每日汇总](daily-papers/2025-09-05.md) | [arXiv](daily-papers/2025-09-05-arxiv.md) | [bioRxiv](daily-papers/2025-09-05-biorxiv.md) | [medRxiv](daily-papers/2025-09-05-medrxiv.md) |
+| 2025-09-04 | [每日汇总](daily-papers/2025-09-04.md) | [arXiv](daily-papers/2025-09-04-arxiv.md) | [bioRxiv](daily-papers/2025-09-04-biorxiv.md) | [medRxiv](daily-papers/2025-09-04-medrxiv.md) |
+| 2025-09-03 | [每日汇总](daily-papers/2025-09-03.md) | [arXiv](daily-papers/2025-09-03-arxiv.md) | [bioRxiv](daily-papers/2025-09-03-biorxiv.md) | [medRxiv](daily-papers/2025-09-03-medrxiv.md) |
+| 2025-09-02 | [每日汇总](daily-papers/2025-09-02.md) | [arXiv](daily-papers/2025-09-02-arxiv.md) | [bioRxiv](daily-papers/2025-09-02-biorxiv.md) | [medRxiv](daily-papers/2025-09-02-medrxiv.md) |
+| 2025-09-01 | [每日汇总](daily-papers/2025-09-01.md) | [arXiv](daily-papers/2025-09-01-arxiv.md) | [bioRxiv](daily-papers/2025-09-01-biorxiv.md) | [medRxiv](daily-papers/2025-09-01-medrxiv.md) |
+| 2025-08-31 | [每日汇总](daily-papers/2025-08-31.md) | [arXiv](daily-papers/2025-08-31-arxiv.md) | [bioRxiv](daily-papers/2025-08-31-biorxiv.md) | [medRxiv](daily-papers/2025-08-31-medrxiv.md) |
+| 2025-08-30 | [每日汇总](daily-papers/2025-08-30.md) | [arXiv](daily-papers/2025-08-30-arxiv.md) | [bioRxiv](daily-papers/2025-08-30-biorxiv.md) | [medRxiv](daily-papers/2025-08-30-medrxiv.md) |
+| 2025-08-29 | [每日汇总](daily-papers/2025-08-29.md) | [arXiv](daily-papers/2025-08-29-arxiv.md) | [bioRxiv](daily-papers/2025-08-29-biorxiv.md) | [medRxiv](daily-papers/2025-08-29-medrxiv.md) |
+| 2025-08-28 | [每日汇总](daily-papers/2025-08-28.md) | [arXiv](daily-papers/2025-08-28-arxiv.md) | [bioRxiv](daily-papers/2025-08-28-biorxiv.md) | [medRxiv](daily-papers/2025-08-28-medrxiv.md) |
+| 2025-08-27 | [每日汇总](daily-papers/2025-08-27.md) | [arXiv](daily-papers/2025-08-27-arxiv.md) | [bioRxiv](daily-papers/2025-08-27-biorxiv.md) | [medRxiv](daily-papers/2025-08-27-medrxiv.md) |
+| 2025-08-26 | [每日汇总](daily-papers/2025-08-26.md) | [arXiv](daily-papers/2025-08-26-arxiv.md) | [bioRxiv](daily-papers/2025-08-26-biorxiv.md) | [medRxiv](daily-papers/2025-08-26-medrxiv.md) |
+| 2025-08-25 | [每日汇总](daily-papers/2025-08-25.md) | [arXiv](daily-papers/2025-08-25-arxiv.md) | [bioRxiv](daily-papers/2025-08-25-biorxiv.md) | [medRxiv](daily-papers/2025-08-25-medrxiv.md) |
+| 2025-08-24 | [每日汇总](daily-papers/2025-08-24.md) | [arXiv](daily-papers/2025-08-24-arxiv.md) | [bioRxiv](daily-papers/2025-08-24-biorxiv.md) | [medRxiv](daily-papers/2025-08-24-medrxiv.md) |
+| 2025-08-23 | [每日汇总](daily-papers/2025-08-23.md) | [arXiv](daily-papers/2025-08-23-arxiv.md) | [bioRxiv](daily-papers/2025-08-23-biorxiv.md) | [medRxiv](daily-papers/2025-08-23-medrxiv.md) |
+| 2025-08-22 | [每日汇总](daily-papers/2025-08-22.md) | [arXiv](daily-papers/2025-08-22-arxiv.md) | [bioRxiv](daily-papers/2025-08-22-biorxiv.md) | [medRxiv](daily-papers/2025-08-22-medrxiv.md) |
+| 2025-08-21 | [每日汇总](daily-papers/2025-08-21.md) | [arXiv](daily-papers/2025-08-21-arxiv.md) | [bioRxiv](daily-papers/2025-08-21-biorxiv.md) | [medRxiv](daily-papers/2025-08-21-medrxiv.md) |
+| 2025-08-20 | [每日汇总](daily-papers/2025-08-20.md) | [arXiv](daily-papers/2025-08-20-arxiv.md) | [bioRxiv](daily-papers/2025-08-20-biorxiv.md) | [medRxiv](daily-papers/2025-08-20-medrxiv.md) |
+| 2025-08-19 | [每日汇总](daily-papers/2025-08-19.md) | [arXiv](daily-papers/2025-08-19-arxiv.md) | [bioRxiv](daily-papers/2025-08-19-biorxiv.md) | [medRxiv](daily-papers/2025-08-19-medrxiv.md) |
+| 2025-08-18 | [每日汇总](daily-papers/2025-08-18.md) | [arXiv](daily-papers/2025-08-18-arxiv.md) | [bioRxiv](daily-papers/2025-08-18-biorxiv.md) | [medRxiv](daily-papers/2025-08-18-medrxiv.md) |
+| 2025-08-17 | [每日汇总](daily-papers/2025-08-17.md) | [arXiv](daily-papers/2025-08-17-arxiv.md) | [bioRxiv](daily-papers/2025-08-17-biorxiv.md) | [medRxiv](daily-papers/2025-08-17-medrxiv.md) |
+| 2025-08-16 | [每日汇总](daily-papers/2025-08-16.md) | [arXiv](daily-papers/2025-08-16-arxiv.md) | [bioRxiv](daily-papers/2025-08-16-biorxiv.md) | [medRxiv](daily-papers/2025-08-16-medrxiv.md) |
+| 2025-08-15 | [每日汇总](daily-papers/2025-08-15.md) | [arXiv](daily-papers/2025-08-15-arxiv.md) | [bioRxiv](daily-papers/2025-08-15-biorxiv.md) | [medRxiv](daily-papers/2025-08-15-medrxiv.md) |
+| 2025-08-14 | [每日汇总](daily-papers/2025-08-14.md) | [arXiv](daily-papers/2025-08-14-arxiv.md) | [bioRxiv](daily-papers/2025-08-14-biorxiv.md) | [medRxiv](daily-papers/2025-08-14-medrxiv.md) |
+| 2025-08-13 | [每日汇总](daily-papers/2025-08-13.md) | [arXiv](daily-papers/2025-08-13-arxiv.md) | [bioRxiv](daily-papers/2025-08-13-biorxiv.md) | [medRxiv](daily-papers/2025-08-13-medrxiv.md) |
+| 2025-08-12 | [每日汇总](daily-papers/2025-08-12.md) | [arXiv](daily-papers/2025-08-12-arxiv.md) | [bioRxiv](daily-papers/2025-08-12-biorxiv.md) | [medRxiv](daily-papers/2025-08-12-medrxiv.md) |
+| 2025-08-11 | [每日汇总](daily-papers/2025-08-11.md) | [arXiv](daily-papers/2025-08-11-arxiv.md) | [bioRxiv](daily-papers/2025-08-11-biorxiv.md) | [medRxiv](daily-papers/2025-08-11-medrxiv.md) |
+| 2025-08-10 | [每日汇总](daily-papers/2025-08-10.md) | [arXiv](daily-papers/2025-08-10-arxiv.md) | [bioRxiv](daily-papers/2025-08-10-biorxiv.md) | [medRxiv](daily-papers/2025-08-10-medrxiv.md) |
+| 2025-08-09 | [每日汇总](daily-papers/2025-08-09.md) | [arXiv](daily-papers/2025-08-09-arxiv.md) | [bioRxiv](daily-papers/2025-08-09-biorxiv.md) | [medRxiv](daily-papers/2025-08-09-medrxiv.md) |
+| 2025-08-08 | [每日汇总](daily-papers/2025-08-08.md) | [arXiv](daily-papers/2025-08-08-arxiv.md) | [bioRxiv](daily-papers/2025-08-08-biorxiv.md) | [medRxiv](daily-papers/2025-08-08-medrxiv.md) |
+| 2025-08-07 | [每日汇总](daily-papers/2025-08-07.md) | [arXiv](daily-papers/2025-08-07-arxiv.md) | [bioRxiv](daily-papers/2025-08-07-biorxiv.md) | [medRxiv](daily-papers/2025-08-07-medrxiv.md) |
+| 2025-08-06 | [每日汇总](daily-papers/2025-08-06.md) | [arXiv](daily-papers/2025-08-06-arxiv.md) | [bioRxiv](daily-papers/2025-08-06-biorxiv.md) | [medRxiv](daily-papers/2025-08-06-medrxiv.md) |
+| 2025-08-05 | [每日汇总](daily-papers/2025-08-05.md) | [arXiv](daily-papers/2025-08-05-arxiv.md) | [bioRxiv](daily-papers/2025-08-05-biorxiv.md) | [medRxiv](daily-papers/2025-08-05-medrxiv.md) |
+| 2025-08-04 | [每日汇总](daily-papers/2025-08-04.md) | [arXiv](daily-papers/2025-08-04-arxiv.md) | [bioRxiv](daily-papers/2025-08-04-biorxiv.md) | [medRxiv](daily-papers/2025-08-04-medrxiv.md) |
+| 2025-08-03 | [每日汇总](daily-papers/2025-08-03.md) | [arXiv](daily-papers/2025-08-03-arxiv.md) | [bioRxiv](daily-papers/2025-08-03-biorxiv.md) | [medRxiv](daily-papers/2025-08-03-medrxiv.md) |
+| 2025-08-02 | [每日汇总](daily-papers/2025-08-02.md) | [arXiv](daily-papers/2025-08-02-arxiv.md) | [bioRxiv](daily-papers/2025-08-02-biorxiv.md) | [medRxiv](daily-papers/2025-08-02-medrxiv.md) |
+| 2025-08-01 | [每日汇总](daily-papers/2025-08-01.md) | [arXiv](daily-papers/2025-08-01-arxiv.md) | [bioRxiv](daily-papers/2025-08-01-biorxiv.md) | [medRxiv](daily-papers/2025-08-01-medrxiv.md) |
+| 2025-07-31 | [每日汇总](daily-papers/2025-07-31.md) | [arXiv](daily-papers/2025-07-31-arxiv.md) | [bioRxiv](daily-papers/2025-07-31-biorxiv.md) | [medRxiv](daily-papers/2025-07-31-medrxiv.md) |
+| 2025-07-30 | [每日汇总](daily-papers/2025-07-30.md) | [arXiv](daily-papers/2025-07-30-arxiv.md) | [bioRxiv](daily-papers/2025-07-30-biorxiv.md) | [medRxiv](daily-papers/2025-07-30-medrxiv.md) |
+| 2025-07-29 | [每日汇总](daily-papers/2025-07-29.md) | [arXiv](daily-papers/2025-07-29-arxiv.md) | [bioRxiv](daily-papers/2025-07-29-biorxiv.md) | [medRxiv](daily-papers/2025-07-29-medrxiv.md) |
+| 2025-07-28 | [每日汇总](daily-papers/2025-07-28.md) | [arXiv](daily-papers/2025-07-28-arxiv.md) | [bioRxiv](daily-papers/2025-07-28-biorxiv.md) | [medRxiv](daily-papers/2025-07-28-medrxiv.md) |
+| 2025-07-27 | [每日汇总](daily-papers/2025-07-27.md) | [arXiv](daily-papers/2025-07-27-arxiv.md) | [bioRxiv](daily-papers/2025-07-27-biorxiv.md) | [medRxiv](daily-papers/2025-07-27-medrxiv.md) |
+| 2025-07-26 | [每日汇总](daily-papers/2025-07-26.md) | [arXiv](daily-papers/2025-07-26-arxiv.md) | [bioRxiv](daily-papers/2025-07-26-biorxiv.md) | [medRxiv](daily-papers/2025-07-26-medrxiv.md) |
+| 2025-07-25 | [每日汇总](daily-papers/2025-07-25.md) | [arXiv](daily-papers/2025-07-25-arxiv.md) | [bioRxiv](daily-papers/2025-07-25-biorxiv.md) | [medRxiv](daily-papers/2025-07-25-medrxiv.md) |
+| 2025-07-24 | [每日汇总](daily-papers/2025-07-24.md) | [arXiv](daily-papers/2025-07-24-arxiv.md) | [bioRxiv](daily-papers/2025-07-24-biorxiv.md) | [medRxiv](daily-papers/2025-07-24-medrxiv.md) |
+| 2025-07-23 | [每日汇总](daily-papers/2025-07-23.md) | [arXiv](daily-papers/2025-07-23-arxiv.md) | [bioRxiv](daily-papers/2025-07-23-biorxiv.md) | [medRxiv](daily-papers/2025-07-23-medrxiv.md) |
+| 2025-07-22 | [每日汇总](daily-papers/2025-07-22.md) | [arXiv](daily-papers/2025-07-22-arxiv.md) | [bioRxiv](daily-papers/2025-07-22-biorxiv.md) | [medRxiv](daily-papers/2025-07-22-medrxiv.md) |
+| 2025-07-21 | [每日汇总](daily-papers/2025-07-21.md) | [arXiv](daily-papers/2025-07-21-arxiv.md) | [bioRxiv](daily-papers/2025-07-21-biorxiv.md) | [medRxiv](daily-papers/2025-07-21-medrxiv.md) |
+| 2025-07-20 | [每日汇总](daily-papers/2025-07-20.md) | [arXiv](daily-papers/2025-07-20-arxiv.md) | [bioRxiv](daily-papers/2025-07-20-biorxiv.md) | [medRxiv](daily-papers/2025-07-20-medrxiv.md) |
+| 2025-07-19 | [每日汇总](daily-papers/2025-07-19.md) | [arXiv](daily-papers/2025-07-19-arxiv.md) | [bioRxiv](daily-papers/2025-07-19-biorxiv.md) | [medRxiv](daily-papers/2025-07-19-medrxiv.md) |
+| 2025-07-18 | [每日汇总](daily-papers/2025-07-18.md) | [arXiv](daily-papers/2025-07-18-arxiv.md) | [bioRxiv](daily-papers/2025-07-18-biorxiv.md) | [medRxiv](daily-papers/2025-07-18-medrxiv.md) |
+| 2025-07-17 | [每日汇总](daily-papers/2025-07-17.md) | [arXiv](daily-papers/2025-07-17-arxiv.md) | [bioRxiv](daily-papers/2025-07-17-biorxiv.md) | [medRxiv](daily-papers/2025-07-17-medrxiv.md) |
+| 2025-07-16 | [每日汇总](daily-papers/2025-07-16.md) | [arXiv](daily-papers/2025-07-16-arxiv.md) | [bioRxiv](daily-papers/2025-07-16-biorxiv.md) | [medRxiv](daily-papers/2025-07-16-medrxiv.md) |
+| 2025-07-15 | [每日汇总](daily-papers/2025-07-15.md) | [arXiv](daily-papers/2025-07-15-arxiv.md) | [bioRxiv](daily-papers/2025-07-15-biorxiv.md) | [medRxiv](daily-papers/2025-07-15-medrxiv.md) |
+| 2025-07-14 | [每日汇总](daily-papers/2025-07-14.md) | [arXiv](daily-papers/2025-07-14-arxiv.md) | [bioRxiv](daily-papers/2025-07-14-biorxiv.md) | [medRxiv](daily-papers/2025-07-14-medrxiv.md) |
+| 2025-07-13 | [每日汇总](daily-papers/2025-07-13.md) | [arXiv](daily-papers/2025-07-13-arxiv.md) | [bioRxiv](daily-papers/2025-07-13-biorxiv.md) | [medRxiv](daily-papers/2025-07-13-medrxiv.md) |
+| 2025-07-12 | [每日汇总](daily-papers/2025-07-12.md) | [arXiv](daily-papers/2025-07-12-arxiv.md) | [bioRxiv](daily-papers/2025-07-12-biorxiv.md) | [medRxiv](daily-papers/2025-07-12-medrxiv.md) |
+| 2025-07-11 | [每日汇总](daily-papers/2025-07-11.md) | [arXiv](daily-papers/2025-07-11-arxiv.md) | [bioRxiv](daily-papers/2025-07-11-biorxiv.md) | [medRxiv](daily-papers/2025-07-11-medrxiv.md) |
+| 2025-07-10 | [每日汇总](daily-papers/2025-07-10.md) | [arXiv](daily-papers/2025-07-10-arxiv.md) | [bioRxiv](daily-papers/2025-07-10-biorxiv.md) | [medRxiv](daily-papers/2025-07-10-medrxiv.md) |
+| 2025-07-09 | [每日汇总](daily-papers/2025-07-09.md) | [arXiv](daily-papers/2025-07-09-arxiv.md) | [bioRxiv](daily-papers/2025-07-09-biorxiv.md) | [medRxiv](daily-papers/2025-07-09-medrxiv.md) |
+| 2025-07-08 | [每日汇总](daily-papers/2025-07-08.md) | [arXiv](daily-papers/2025-07-08-arxiv.md) | [bioRxiv](daily-papers/2025-07-08-biorxiv.md) | [medRxiv](daily-papers/2025-07-08-medrxiv.md) |
+| 2025-07-07 | [每日汇总](daily-papers/2025-07-07.md) | [arXiv](daily-papers/2025-07-07-arxiv.md) | [bioRxiv](daily-papers/2025-07-07-biorxiv.md) | [medRxiv](daily-papers/2025-07-07-medrxiv.md) |
+| 2025-07-06 | [每日汇总](daily-papers/2025-07-06.md) | [arXiv](daily-papers/2025-07-06-arxiv.md) | [bioRxiv](daily-papers/2025-07-06-biorxiv.md) | [medRxiv](daily-papers/2025-07-06-medrxiv.md) |
+| 2025-07-05 | [每日汇总](daily-papers/2025-07-05.md) | [arXiv](daily-papers/2025-07-05-arxiv.md) | [bioRxiv](daily-papers/2025-07-05-biorxiv.md) | [medRxiv](daily-papers/2025-07-05-medrxiv.md) |
+| 2025-07-04 | [每日汇总](daily-papers/2025-07-04.md) | [arXiv](daily-papers/2025-07-04-arxiv.md) | [bioRxiv](daily-papers/2025-07-04-biorxiv.md) | [medRxiv](daily-papers/2025-07-04-medrxiv.md) |
+| 2025-07-03 | [每日汇总](daily-papers/2025-07-03.md) | [arXiv](daily-papers/2025-07-03-arxiv.md) | [bioRxiv](daily-papers/2025-07-03-biorxiv.md) | [medRxiv](daily-papers/2025-07-03-medrxiv.md) |
+| 2025-07-02 | [每日汇总](daily-papers/2025-07-02.md) | [arXiv](daily-papers/2025-07-02-arxiv.md) | [bioRxiv](daily-papers/2025-07-02-biorxiv.md) | [medRxiv](daily-papers/2025-07-02-medrxiv.md) |
+| 2025-07-01 | [每日汇总](daily-papers/2025-07-01.md) | [arXiv](daily-papers/2025-07-01-arxiv.md) | [bioRxiv](daily-papers/2025-07-01-biorxiv.md) | [medRxiv](daily-papers/2025-07-01-medrxiv.md) |
+| 2025-06-30 | [每日汇总](daily-papers/2025-06-30.md) | [arXiv](daily-papers/2025-06-30-arxiv.md) | [bioRxiv](daily-papers/2025-06-30-biorxiv.md) | [medRxiv](daily-papers/2025-06-30-medrxiv.md) |
+| 2025-06-29 | [每日汇总](daily-papers/2025-06-29.md) | [arXiv](daily-papers/2025-06-29-arxiv.md) | [bioRxiv](daily-papers/2025-06-29-biorxiv.md) | [medRxiv](daily-papers/2025-06-29-medrxiv.md) |
+| 2025-06-28 | [每日汇总](daily-papers/2025-06-28.md) | [arXiv](daily-papers/2025-06-28-arxiv.md) | [bioRxiv](daily-papers/2025-06-28-biorxiv.md) | [medRxiv](daily-papers/2025-06-28-medrxiv.md) |
+| 2025-06-27 | [每日汇总](daily-papers/2025-06-27.md) | [arXiv](daily-papers/2025-06-27-arxiv.md) | [bioRxiv](daily-papers/2025-06-27-biorxiv.md) | [medRxiv](daily-papers/2025-06-27-medrxiv.md) |
+| 2025-06-26 | [每日汇总](daily-papers/2025-06-26.md) | [arXiv](daily-papers/2025-06-26-arxiv.md) | [bioRxiv](daily-papers/2025-06-26-biorxiv.md) | [medRxiv](daily-papers/2025-06-26-medrxiv.md) |
+| 2025-06-25 | [每日汇总](daily-papers/2025-06-25.md) | [arXiv](daily-papers/2025-06-25-arxiv.md) | [bioRxiv](daily-papers/2025-06-25-biorxiv.md) | [medRxiv](daily-papers/2025-06-25-medrxiv.md) |
+| 2025-06-24 | [每日汇总](daily-papers/2025-06-24.md) | [arXiv](daily-papers/2025-06-24-arxiv.md) | [bioRxiv](daily-papers/2025-06-24-biorxiv.md) | [medRxiv](daily-papers/2025-06-24-medrxiv.md) |
+| 2025-06-23 | [每日汇总](daily-papers/2025-06-23.md) | [arXiv](daily-papers/2025-06-23-arxiv.md) | [bioRxiv](daily-papers/2025-06-23-biorxiv.md) | [medRxiv](daily-papers/2025-06-23-medrxiv.md) |
+| 2025-06-22 | [每日汇总](daily-papers/2025-06-22.md) | [arXiv](daily-papers/2025-06-22-arxiv.md) | [bioRxiv](daily-papers/2025-06-22-biorxiv.md) | [medRxiv](daily-papers/2025-06-22-medrxiv.md) |
+| 2025-06-21 | [每日汇总](daily-papers/2025-06-21.md) | [arXiv](daily-papers/2025-06-21-arxiv.md) | [bioRxiv](daily-papers/2025-06-21-biorxiv.md) | [medRxiv](daily-papers/2025-06-21-medrxiv.md) |
+| 2025-06-20 | [每日汇总](daily-papers/2025-06-20.md) | [arXiv](daily-papers/2025-06-20-arxiv.md) | [bioRxiv](daily-papers/2025-06-20-biorxiv.md) | [medRxiv](daily-papers/2025-06-20-medrxiv.md) |
+| 2025-06-17 | [每日汇总](daily-papers/2025-06-17.md) | [arXiv](daily-papers/2025-06-17-arxiv.md) | [bioRxiv](daily-papers/2025-06-17-biorxiv.md) | [medRxiv](daily-papers/2025-06-17-medrxiv.md) |
+| 2025-06-16 | [每日汇总](daily-papers/2025-06-16.md) | [arXiv](daily-papers/2025-06-16-arxiv.md) | [bioRxiv](daily-papers/2025-06-16-biorxiv.md) | [medRxiv](daily-papers/2025-06-16-medrxiv.md) |
+| 2025-06-15 | [每日汇总](daily-papers/2025-06-15.md) | [arXiv](daily-papers/2025-06-15-arxiv.md) | [bioRxiv](daily-papers/2025-06-15-biorxiv.md) | [medRxiv](daily-papers/2025-06-15-medrxiv.md) |
+| 2025-06-14 | [每日汇总](daily-papers/2025-06-14.md) | [arXiv](daily-papers/2025-06-14-arxiv.md) | [bioRxiv](daily-papers/2025-06-14-biorxiv.md) | [medRxiv](daily-papers/2025-06-14-medrxiv.md) |
+| 2025-06-13 | [每日汇总](daily-papers/2025-06-13.md) | [arXiv](daily-papers/2025-06-13-arxiv.md) | [bioRxiv](daily-papers/2025-06-13-biorxiv.md) | [medRxiv](daily-papers/2025-06-13-medrxiv.md) |
+| 2025-06-12 | [每日汇总](daily-papers/2025-06-12.md) | [arXiv](daily-papers/2025-06-12-arxiv.md) | [bioRxiv](daily-papers/2025-06-12-biorxiv.md) | [medRxiv](daily-papers/2025-06-12-medrxiv.md) |
+| 2025-06-11 | [每日汇总](daily-papers/2025-06-11.md) | [arXiv](daily-papers/2025-06-11-arxiv.md) | [bioRxiv](daily-papers/2025-06-11-biorxiv.md) | [medRxiv](daily-papers/2025-06-11-medrxiv.md) |
+| 2025-06-10 | [每日汇总](daily-papers/2025-06-10.md) | [arXiv](daily-papers/2025-06-10-arxiv.md) | [bioRxiv](daily-papers/2025-06-10-biorxiv.md) | [medRxiv](daily-papers/2025-06-10-medrxiv.md) |
+| 2025-06-09 | [每日汇总](daily-papers/2025-06-09.md) | [arXiv](daily-papers/2025-06-09-arxiv.md) | [bioRxiv](daily-papers/2025-06-09-biorxiv.md) | [medRxiv](daily-papers/2025-06-09-medrxiv.md) |
+| 2025-06-07 | [每日汇总](daily-papers/2025-06-07.md) | [arXiv](daily-papers/2025-06-07-arxiv.md) | [bioRxiv](daily-papers/2025-06-07-biorxiv.md) | [medRxiv](daily-papers/2025-06-07-medrxiv.md) |
+| 2025-06-06 | [每日汇总](daily-papers/2025-06-06.md) | [arXiv](daily-papers/2025-06-06-arxiv.md) | [bioRxiv](daily-papers/2025-06-06-biorxiv.md) | [medRxiv](daily-papers/2025-06-06-medrxiv.md) |
+| 2025-06-05 | [每日汇总](daily-papers/2025-06-05.md) | [arXiv](daily-papers/2025-06-05-arxiv.md) | [bioRxiv](daily-papers/2025-06-05-biorxiv.md) | [medRxiv](daily-papers/2025-06-05-medrxiv.md) |
+| 2025-06-04 | [每日汇总](daily-papers/2025-06-04.md) | [arXiv](daily-papers/2025-06-04-arxiv.md) | [bioRxiv](daily-papers/2025-06-04-biorxiv.md) | [medRxiv](daily-papers/2025-06-04-medrxiv.md) |
+| 2025-06-03 | [每日汇总](daily-papers/2025-06-03.md) | [arXiv](daily-papers/2025-06-03-arxiv.md) | [bioRxiv](daily-papers/2025-06-03-biorxiv.md) | [medRxiv](daily-papers/2025-06-03-medrxiv.md) |
+| 2025-06-02 | [每日汇总](daily-papers/2025-06-02.md) | [arXiv](daily-papers/2025-06-02-arxiv.md) | [bioRxiv](daily-papers/2025-06-02-biorxiv.md) | [medRxiv](daily-papers/2025-06-02-medrxiv.md) |
+| 2025-06-01 | [每日汇总](daily-papers/2025-06-01.md) | [arXiv](daily-papers/2025-06-01-arxiv.md) | [bioRxiv](daily-papers/2025-06-01-biorxiv.md) | [medRxiv](daily-papers/2025-06-01-medrxiv.md) |
+| 2025-05-31 | [每日汇总](daily-papers/2025-05-31.md) | [arXiv](daily-papers/2025-05-31-arxiv.md) | [bioRxiv](daily-papers/2025-05-31-biorxiv.md) | [medRxiv](daily-papers/2025-05-31-medrxiv.md) |
+| 2025-05-30 | [每日汇总](daily-papers/2025-05-30.md) | [arXiv](daily-papers/2025-05-30-arxiv.md) | [bioRxiv](daily-papers/2025-05-30-biorxiv.md) | [medRxiv](daily-papers/2025-05-30-medrxiv.md) |
+| 2025-05-29 | [每日汇总](daily-papers/2025-05-29.md) | [arXiv](daily-papers/2025-05-29-arxiv.md) | [bioRxiv](daily-papers/2025-05-29-biorxiv.md) | [medRxiv](daily-papers/2025-05-29-medrxiv.md) |
+| 2025-05-28 | [每日汇总](daily-papers/2025-05-28.md) | [arXiv](daily-papers/2025-05-28-arxiv.md) | [bioRxiv](daily-papers/2025-05-28-biorxiv.md) | [medRxiv](daily-papers/2025-05-28-medrxiv.md) |
+| 2025-05-27 | [每日汇总](daily-papers/2025-05-27.md) | [arXiv](daily-papers/2025-05-27-arxiv.md) | [bioRxiv](daily-papers/2025-05-27-biorxiv.md) | [medRxiv](daily-papers/2025-05-27-medrxiv.md) |
+| 2025-05-26 | [每日汇总](daily-papers/2025-05-26.md) | [arXiv](daily-papers/2025-05-26-arxiv.md) | [bioRxiv](daily-papers/2025-05-26-biorxiv.md) | [medRxiv](daily-papers/2025-05-26-medrxiv.md) |
+| 2025-05-25 | [每日汇总](daily-papers/2025-05-25.md) | [arXiv](daily-papers/2025-05-25-arxiv.md) | [bioRxiv](daily-papers/2025-05-25-biorxiv.md) | [medRxiv](daily-papers/2025-05-25-medrxiv.md) |
+| 2025-05-24 | [每日汇总](daily-papers/2025-05-24.md) | [arXiv](daily-papers/2025-05-24-arxiv.md) | [bioRxiv](daily-papers/2025-05-24-biorxiv.md) | [medRxiv](daily-papers/2025-05-24-medrxiv.md) |
+| 2025-05-23 | [每日汇总](daily-papers/2025-05-23.md) | [arXiv](daily-papers/2025-05-23-arxiv.md) | [bioRxiv](daily-papers/2025-05-23-biorxiv.md) | [medRxiv](daily-papers/2025-05-23-medrxiv.md) |
+| 2025-05-22 | [每日汇总](daily-papers/2025-05-22.md) | [arXiv](daily-papers/2025-05-22-arxiv.md) | [bioRxiv](daily-papers/2025-05-22-biorxiv.md) | [medRxiv](daily-papers/2025-05-22-medrxiv.md) |
+| 2025-05-21 | [每日汇总](daily-papers/2025-05-21.md) | [arXiv](daily-papers/2025-05-21-arxiv.md) | [bioRxiv](daily-papers/2025-05-21-biorxiv.md) | [medRxiv](daily-papers/2025-05-21-medrxiv.md) |
+| 2025-05-20 | [每日汇总](daily-papers/2025-05-20.md) | [arXiv](daily-papers/2025-05-20-arxiv.md) | [bioRxiv](daily-papers/2025-05-20-biorxiv.md) | [medRxiv](daily-papers/2025-05-20-medrxiv.md) |
+| 2025-05-19 | [每日汇总](daily-papers/2025-05-19.md) | [arXiv](daily-papers/2025-05-19-arxiv.md) | [bioRxiv](daily-papers/2025-05-19-biorxiv.md) | [medRxiv](daily-papers/2025-05-19-medrxiv.md) |
+| 2025-05-18 | [每日汇总](daily-papers/2025-05-18.md) | [arXiv](daily-papers/2025-05-18-arxiv.md) | [bioRxiv](daily-papers/2025-05-18-biorxiv.md) | [medRxiv](daily-papers/2025-05-18-medrxiv.md) |
+| 2025-05-17 | [每日汇总](daily-papers/2025-05-17.md) | [arXiv](daily-papers/2025-05-17-arxiv.md) | [bioRxiv](daily-papers/2025-05-17-biorxiv.md) | [medRxiv](daily-papers/2025-05-17-medrxiv.md) |
+| 2025-05-16 | [每日汇总](daily-papers/2025-05-16.md) | [arXiv](daily-papers/2025-05-16-arxiv.md) | [bioRxiv](daily-papers/2025-05-16-biorxiv.md) | [medRxiv](daily-papers/2025-05-16-medrxiv.md) |
+| 2025-05-15 | [每日汇总](daily-papers/2025-05-15.md) | [arXiv](daily-papers/2025-05-15-arxiv.md) | [bioRxiv](daily-papers/2025-05-15-biorxiv.md) | [medRxiv](daily-papers/2025-05-15-medrxiv.md) |
+| 2025-05-14 | [每日汇总](daily-papers/2025-05-14.md) | [arXiv](daily-papers/2025-05-14-arxiv.md) | [bioRxiv](daily-papers/2025-05-14-biorxiv.md) | [medRxiv](daily-papers/2025-05-14-medrxiv.md) |
+| 2025-05-13 | [每日汇总](daily-papers/2025-05-13.md) | [arXiv](daily-papers/2025-05-13-arxiv.md) | [bioRxiv](daily-papers/2025-05-13-biorxiv.md) | [medRxiv](daily-papers/2025-05-13-medrxiv.md) |
+| 2025-05-12 | [每日汇总](daily-papers/2025-05-12.md) | [arXiv](daily-papers/2025-05-12-arxiv.md) | [bioRxiv](daily-papers/2025-05-12-biorxiv.md) | [medRxiv](daily-papers/2025-05-12-medrxiv.md) |
+| 2025-05-11 | [每日汇总](daily-papers/2025-05-11.md) | [arXiv](daily-papers/2025-05-11-arxiv.md) | [bioRxiv](daily-papers/2025-05-11-biorxiv.md) | [medRxiv](daily-papers/2025-05-11-medrxiv.md) |
+| 2025-05-10 | [每日汇总](daily-papers/2025-05-10.md) | [arXiv](daily-papers/2025-05-10-arxiv.md) | [bioRxiv](daily-papers/2025-05-10-biorxiv.md) | [medRxiv](daily-papers/2025-05-10-medrxiv.md) |
+| 2025-05-09 | [每日汇总](daily-papers/2025-05-09.md) | [arXiv](daily-papers/2025-05-09-arxiv.md) | [bioRxiv](daily-papers/2025-05-09-biorxiv.md) | [medRxiv](daily-papers/2025-05-09-medrxiv.md) |
+| 2025-05-08 | [每日汇总](daily-papers/2025-05-08.md) | [arXiv](daily-papers/2025-05-08-arxiv.md) | [bioRxiv](daily-papers/2025-05-08-biorxiv.md) | [medRxiv](daily-papers/2025-05-08-medrxiv.md) |
+| 2025-05-07 | [每日汇总](daily-papers/2025-05-07.md) | [arXiv](daily-papers/2025-05-07-arxiv.md) | [bioRxiv](daily-papers/2025-05-07-biorxiv.md) | [medRxiv](daily-papers/2025-05-07-medrxiv.md) |
+| 2025-05-06 | [每日汇总](daily-papers/2025-05-06.md) | [arXiv](daily-papers/2025-05-06-arxiv.md) | [bioRxiv](daily-papers/2025-05-06-biorxiv.md) | [medRxiv](daily-papers/2025-05-06-medrxiv.md) |
+| 2025-05-05 | [每日汇总](daily-papers/2025-05-05.md) | [arXiv](daily-papers/2025-05-05-arxiv.md) | [bioRxiv](daily-papers/2025-05-05-biorxiv.md) | [medRxiv](daily-papers/2025-05-05-medrxiv.md) |
+| 2025-05-04 | [每日汇总](daily-papers/2025-05-04.md) | [arXiv](daily-papers/2025-05-04-arxiv.md) | [bioRxiv](daily-papers/2025-05-04-biorxiv.md) | [medRxiv](daily-papers/2025-05-04-medrxiv.md) |
+| 2025-05-03 | [每日汇总](daily-papers/2025-05-03.md) | [arXiv](daily-papers/2025-05-03-arxiv.md) | [bioRxiv](daily-papers/2025-05-03-biorxiv.md) | [medRxiv](daily-papers/2025-05-03-medrxiv.md) |
+| 2025-05-02 | [每日汇总](daily-papers/2025-05-02.md) | [arXiv](daily-papers/2025-05-02-arxiv.md) | [bioRxiv](daily-papers/2025-05-02-biorxiv.md) | [medRxiv](daily-papers/2025-05-02-medrxiv.md) |
+| 2025-05-01 | [每日汇总](daily-papers/2025-05-01.md) | [arXiv](daily-papers/2025-05-01-arxiv.md) | [bioRxiv](daily-papers/2025-05-01-biorxiv.md) | [medRxiv](daily-papers/2025-05-01-medrxiv.md) |
+| 2025-04-30 | [每日汇总](daily-papers/2025-04-30.md) | [arXiv](daily-papers/2025-04-30-arxiv.md) | [bioRxiv](daily-papers/2025-04-30-biorxiv.md) | [medRxiv](daily-papers/2025-04-30-medrxiv.md) |
+| 2025-04-29 | [每日汇总](daily-papers/2025-04-29.md) | [arXiv](daily-papers/2025-04-29-arxiv.md) | [bioRxiv](daily-papers/2025-04-29-biorxiv.md) | [medRxiv](daily-papers/2025-04-29-medrxiv.md) |
+| 2025-04-28 | [每日汇总](daily-papers/2025-04-28.md) | [arXiv](daily-papers/2025-04-28-arxiv.md) | [bioRxiv](daily-papers/2025-04-28-biorxiv.md) | [medRxiv](daily-papers/2025-04-28-medrxiv.md) |
+| 2025-04-27 | [每日汇总](daily-papers/2025-04-27.md) | [arXiv](daily-papers/2025-04-27-arxiv.md) | [bioRxiv](daily-papers/2025-04-27-biorxiv.md) | [medRxiv](daily-papers/2025-04-27-medrxiv.md) |
+| 2025-02-23 | [每日汇总](daily-papers/2025-02-23.md) | [arXiv](daily-papers/2025-02-23-arxiv.md) | [bioRxiv](daily-papers/2025-02-23-biorxiv.md) | [medRxiv](daily-papers/2025-02-23-medrxiv.md) |
+| 2025-02-22 | [每日汇总](daily-papers/2025-02-22.md) | [arXiv](daily-papers/2025-02-22-arxiv.md) | [bioRxiv](daily-papers/2025-02-22-biorxiv.md) | [medRxiv](daily-papers/2025-02-22-medrxiv.md) |
+| 2025-02-21 | [每日汇总](daily-papers/2025-02-21.md) | [arXiv](daily-papers/2025-02-21-arxiv.md) | [bioRxiv](daily-papers/2025-02-21-biorxiv.md) | [medRxiv](daily-papers/2025-02-21-medrxiv.md) |
+| 2025-02-20 | [每日汇总](daily-papers/2025-02-20.md) | [arXiv](daily-papers/2025-02-20-arxiv.md) | [bioRxiv](daily-papers/2025-02-20-biorxiv.md) | [medRxiv](daily-papers/2025-02-20-medrxiv.md) |
+| 2025-02-19 | [每日汇总](daily-papers/2025-02-19.md) | [arXiv](daily-papers/2025-02-19-arxiv.md) | [bioRxiv](daily-papers/2025-02-19-biorxiv.md) | [medRxiv](daily-papers/2025-02-19-medrxiv.md) |
+| 2025-02-18 | [每日汇总](daily-papers/2025-02-18.md) | [arXiv](daily-papers/2025-02-18-arxiv.md) | [bioRxiv](daily-papers/2025-02-18-biorxiv.md) | [medRxiv](daily-papers/2025-02-18-medrxiv.md) |
+| 2025-02-17 | [每日汇总](daily-papers/2025-02-17.md) | [arXiv](daily-papers/2025-02-17-arxiv.md) | [bioRxiv](daily-papers/2025-02-17-biorxiv.md) | [medRxiv](daily-papers/2025-02-17-medrxiv.md) |
+| 2025-02-15 | [每日汇总](daily-papers/2025-02-15.md) | [arXiv](daily-papers/2025-02-15-arxiv.md) | [bioRxiv](daily-papers/2025-02-15-biorxiv.md) | [medRxiv](daily-papers/2025-02-15-medrxiv.md) |
+| 2025-02-14 | [每日汇总](daily-papers/2025-02-14.md) | [arXiv](daily-papers/2025-02-14-arxiv.md) | [bioRxiv](daily-papers/2025-02-14-biorxiv.md) | [medRxiv](daily-papers/2025-02-14-medrxiv.md) |
+| 2025-02-13 | [每日汇总](daily-papers/2025-02-13.md) | [arXiv](daily-papers/2025-02-13-arxiv.md) | [bioRxiv](daily-papers/2025-02-13-biorxiv.md) | [medRxiv](daily-papers/2025-02-13-medrxiv.md) |
+| 2025-02-12 | [每日汇总](daily-papers/2025-02-12.md) | [arXiv](daily-papers/2025-02-12-arxiv.md) | [bioRxiv](daily-papers/2025-02-12-biorxiv.md) | [medRxiv](daily-papers/2025-02-12-medrxiv.md) |
+| 2025-02-11 | [每日汇总](daily-papers/2025-02-11.md) | [arXiv](daily-papers/2025-02-11-arxiv.md) | [bioRxiv](daily-papers/2025-02-11-biorxiv.md) | [medRxiv](daily-papers/2025-02-11-medrxiv.md) |
+| 2025-02-10 | [每日汇总](daily-papers/2025-02-10.md) | [arXiv](daily-papers/2025-02-10-arxiv.md) | [bioRxiv](daily-papers/2025-02-10-biorxiv.md) | [medRxiv](daily-papers/2025-02-10-medrxiv.md) |
+| 2025-02-09 | [每日汇总](daily-papers/2025-02-09.md) | [arXiv](daily-papers/2025-02-09-arxiv.md) | [bioRxiv](daily-papers/2025-02-09-biorxiv.md) | [medRxiv](daily-papers/2025-02-09-medrxiv.md) |
+| 2025-02-08 | [每日汇总](daily-papers/2025-02-08.md) | [arXiv](daily-papers/2025-02-08-arxiv.md) | [bioRxiv](daily-papers/2025-02-08-biorxiv.md) | [medRxiv](daily-papers/2025-02-08-medrxiv.md) |
+| 2025-02-07 | [每日汇总](daily-papers/2025-02-07.md) | [arXiv](daily-papers/2025-02-07-arxiv.md) | [bioRxiv](daily-papers/2025-02-07-biorxiv.md) | [medRxiv](daily-papers/2025-02-07-medrxiv.md) |
+| 2025-02-06 | [每日汇总](daily-papers/2025-02-06.md) | [arXiv](daily-papers/2025-02-06-arxiv.md) | [bioRxiv](daily-papers/2025-02-06-biorxiv.md) | [medRxiv](daily-papers/2025-02-06-medrxiv.md) |
+| 2025-02-03 | [每日汇总](daily-papers/2025-02-03.md) | [arXiv](daily-papers/2025-02-03-arxiv.md) | [bioRxiv](daily-papers/2025-02-03-biorxiv.md) | [medRxiv](daily-papers/2025-02-03-medrxiv.md) |
+| 2025-02-02 | [每日汇总](daily-papers/2025-02-02.md) | [arXiv](daily-papers/2025-02-02-arxiv.md) | [bioRxiv](daily-papers/2025-02-02-biorxiv.md) | [medRxiv](daily-papers/2025-02-02-medrxiv.md) |
+| 2025-02-01 | [每日汇总](daily-papers/2025-02-01.md) | [arXiv](daily-papers/2025-02-01-arxiv.md) | [bioRxiv](daily-papers/2025-02-01-biorxiv.md) | [medRxiv](daily-papers/2025-02-01-medrxiv.md) |
+| 2025-01-31 | [每日汇总](daily-papers/2025-01-31.md) | [arXiv](daily-papers/2025-01-31-arxiv.md) | [bioRxiv](daily-papers/2025-01-31-biorxiv.md) | [medRxiv](daily-papers/2025-01-31-medrxiv.md) |
+| 2025-01-30 | [每日汇总](daily-papers/2025-01-30.md) | [arXiv](daily-papers/2025-01-30-arxiv.md) | [bioRxiv](daily-papers/2025-01-30-biorxiv.md) | [medRxiv](daily-papers/2025-01-30-medrxiv.md) |
+| 2025-01-29 | [每日汇总](daily-papers/2025-01-29.md) | [arXiv](daily-papers/2025-01-29-arxiv.md) | [bioRxiv](daily-papers/2025-01-29-biorxiv.md) | [medRxiv](daily-papers/2025-01-29-medrxiv.md) |
+| 2025-01-28 | [每日汇总](daily-papers/2025-01-28.md) | [arXiv](daily-papers/2025-01-28-arxiv.md) | [bioRxiv](daily-papers/2025-01-28-biorxiv.md) | [medRxiv](daily-papers/2025-01-28-medrxiv.md) |
+| 2025-01-26 | [每日汇总](daily-papers/2025-01-26.md) | [arXiv](daily-papers/2025-01-26-arxiv.md) | [bioRxiv](daily-papers/2025-01-26-biorxiv.md) | [medRxiv](daily-papers/2025-01-26-medrxiv.md) |
+| 2025-01-25 | [每日汇总](daily-papers/2025-01-25.md) | [arXiv](daily-papers/2025-01-25-arxiv.md) | [bioRxiv](daily-papers/2025-01-25-biorxiv.md) | [medRxiv](daily-papers/2025-01-25-medrxiv.md) |
+| 2025-01-24 | [每日汇总](daily-papers/2025-01-24.md) | [arXiv](daily-papers/2025-01-24-arxiv.md) | [bioRxiv](daily-papers/2025-01-24-biorxiv.md) | [medRxiv](daily-papers/2025-01-24-medrxiv.md) |
+| 2025-01-23 | [每日汇总](daily-papers/2025-01-23.md) | [arXiv](daily-papers/2025-01-23-arxiv.md) | [bioRxiv](daily-papers/2025-01-23-biorxiv.md) | [medRxiv](daily-papers/2025-01-23-medrxiv.md) |
+| 2025-01-22 | [每日汇总](daily-papers/2025-01-22.md) | [arXiv](daily-papers/2025-01-22-arxiv.md) | [bioRxiv](daily-papers/2025-01-22-biorxiv.md) | [medRxiv](daily-papers/2025-01-22-medrxiv.md) |
+| 2025-01-21 | [每日汇总](daily-papers/2025-01-21.md) | [arXiv](daily-papers/2025-01-21-arxiv.md) | [bioRxiv](daily-papers/2025-01-21-biorxiv.md) | [medRxiv](daily-papers/2025-01-21-medrxiv.md) |
+| 2025-01-20 | [每日汇总](daily-papers/2025-01-20.md) | [arXiv](daily-papers/2025-01-20-arxiv.md) | [bioRxiv](daily-papers/2025-01-20-biorxiv.md) | [medRxiv](daily-papers/2025-01-20-medrxiv.md) |
+| 2025-01-19 | [每日汇总](daily-papers/2025-01-19.md) | [arXiv](daily-papers/2025-01-19-arxiv.md) | [bioRxiv](daily-papers/2025-01-19-biorxiv.md) | [medRxiv](daily-papers/2025-01-19-medrxiv.md) |
+| 2025-01-18 | [每日汇总](daily-papers/2025-01-18.md) | [arXiv](daily-papers/2025-01-18-arxiv.md) | [bioRxiv](daily-papers/2025-01-18-biorxiv.md) | [medRxiv](daily-papers/2025-01-18-medrxiv.md) |
+| 2025-01-17 | [每日汇总](daily-papers/2025-01-17.md) | [arXiv](daily-papers/2025-01-17-arxiv.md) | [bioRxiv](daily-papers/2025-01-17-biorxiv.md) | [medRxiv](daily-papers/2025-01-17-medrxiv.md) |
+| 2025-01-16 | [每日汇总](daily-papers/2025-01-16.md) | [arXiv](daily-papers/2025-01-16-arxiv.md) | [bioRxiv](daily-papers/2025-01-16-biorxiv.md) | [medRxiv](daily-papers/2025-01-16-medrxiv.md) |
+| 2025-01-15 | [每日汇总](daily-papers/2025-01-15.md) | [arXiv](daily-papers/2025-01-15-arxiv.md) | [bioRxiv](daily-papers/2025-01-15-biorxiv.md) | [medRxiv](daily-papers/2025-01-15-medrxiv.md) |
+| 2025-01-14 | [每日汇总](daily-papers/2025-01-14.md) | [arXiv](daily-papers/2025-01-14-arxiv.md) | [bioRxiv](daily-papers/2025-01-14-biorxiv.md) | [medRxiv](daily-papers/2025-01-14-medrxiv.md) |
+| 2025-01-13 | [每日汇总](daily-papers/2025-01-13.md) | [arXiv](daily-papers/2025-01-13-arxiv.md) | [bioRxiv](daily-papers/2025-01-13-biorxiv.md) | [medRxiv](daily-papers/2025-01-13-medrxiv.md) |
+| 2025-01-12 | [每日汇总](daily-papers/2025-01-12.md) | [arXiv](daily-papers/2025-01-12-arxiv.md) | [bioRxiv](daily-papers/2025-01-12-biorxiv.md) | [medRxiv](daily-papers/2025-01-12-medrxiv.md) |
+| 2025-01-11 | [每日汇总](daily-papers/2025-01-11.md) | [arXiv](daily-papers/2025-01-11-arxiv.md) | [bioRxiv](daily-papers/2025-01-11-biorxiv.md) | [medRxiv](daily-papers/2025-01-11-medrxiv.md) |
+| 2025-01-10 | [每日汇总](daily-papers/2025-01-10.md) | [arXiv](daily-papers/2025-01-10-arxiv.md) | [bioRxiv](daily-papers/2025-01-10-biorxiv.md) | [medRxiv](daily-papers/2025-01-10-medrxiv.md) |
+| 2025-01-09 | [每日汇总](daily-papers/2025-01-09.md) | [arXiv](daily-papers/2025-01-09-arxiv.md) | [bioRxiv](daily-papers/2025-01-09-biorxiv.md) | [medRxiv](daily-papers/2025-01-09-medrxiv.md) |
+| 2025-01-08 | [每日汇总](daily-papers/2025-01-08.md) | [arXiv](daily-papers/2025-01-08-arxiv.md) | [bioRxiv](daily-papers/2025-01-08-biorxiv.md) | [medRxiv](daily-papers/2025-01-08-medrxiv.md) |
+| 2025-01-07 | [每日汇总](daily-papers/2025-01-07.md) | [arXiv](daily-papers/2025-01-07-arxiv.md) | [bioRxiv](daily-papers/2025-01-07-biorxiv.md) | [medRxiv](daily-papers/2025-01-07-medrxiv.md) |
+| 2025-01-06 | [每日汇总](daily-papers/2025-01-06.md) | [arXiv](daily-papers/2025-01-06-arxiv.md) | [bioRxiv](daily-papers/2025-01-06-biorxiv.md) | [medRxiv](daily-papers/2025-01-06-medrxiv.md) |
+| 2025-01-05 | [每日汇总](daily-papers/2025-01-05.md) | [arXiv](daily-papers/2025-01-05-arxiv.md) | [bioRxiv](daily-papers/2025-01-05-biorxiv.md) | [medRxiv](daily-papers/2025-01-05-medrxiv.md) |
+| 2025-01-04 | [每日汇总](daily-papers/2025-01-04.md) | [arXiv](daily-papers/2025-01-04-arxiv.md) | [bioRxiv](daily-papers/2025-01-04-biorxiv.md) | [medRxiv](daily-papers/2025-01-04-medrxiv.md) |
+| 2025-01-03 | [每日汇总](daily-papers/2025-01-03.md) | [arXiv](daily-papers/2025-01-03-arxiv.md) | [bioRxiv](daily-papers/2025-01-03-biorxiv.md) | [medRxiv](daily-papers/2025-01-03-medrxiv.md) |
+| 2025-01-02 | [每日汇总](daily-papers/2025-01-02.md) | [arXiv](daily-papers/2025-01-02-arxiv.md) | [bioRxiv](daily-papers/2025-01-02-biorxiv.md) | [medRxiv](daily-papers/2025-01-02-medrxiv.md) |
+| 2025-01-01 | [每日汇总](daily-papers/2025-01-01.md) | [arXiv](daily-papers/2025-01-01-arxiv.md) | [bioRxiv](daily-papers/2025-01-01-biorxiv.md) | [medRxiv](daily-papers/2025-01-01-medrxiv.md) |
+| 2024-12-31 | [每日汇总](daily-papers/2024-12-31.md) | [arXiv](daily-papers/2024-12-31-arxiv.md) | [bioRxiv](daily-papers/2024-12-31-biorxiv.md) | [medRxiv](daily-papers/2024-12-31-medrxiv.md) |
+| 2024-12-30 | [每日汇总](daily-papers/2024-12-30.md) | [arXiv](daily-papers/2024-12-30-arxiv.md) | [bioRxiv](daily-papers/2024-12-30-biorxiv.md) | [medRxiv](daily-papers/2024-12-30-medrxiv.md) |
+| 2024-12-29 | [每日汇总](daily-papers/2024-12-29.md) | [arXiv](daily-papers/2024-12-29-arxiv.md) | [bioRxiv](daily-papers/2024-12-29-biorxiv.md) | [medRxiv](daily-papers/2024-12-29-medrxiv.md) |
+| 2024-12-28 | [每日汇总](daily-papers/2024-12-28.md) | [arXiv](daily-papers/2024-12-28-arxiv.md) | [bioRxiv](daily-papers/2024-12-28-biorxiv.md) | [medRxiv](daily-papers/2024-12-28-medrxiv.md) |
+| 2024-12-27 | [每日汇总](daily-papers/2024-12-27.md) | [arXiv](daily-papers/2024-12-27-arxiv.md) | [bioRxiv](daily-papers/2024-12-27-biorxiv.md) | [medRxiv](daily-papers/2024-12-27-medrxiv.md) |
+| 2024-12-26 | [每日汇总](daily-papers/2024-12-26.md) | [arXiv](daily-papers/2024-12-26-arxiv.md) | [bioRxiv](daily-papers/2024-12-26-biorxiv.md) | [medRxiv](daily-papers/2024-12-26-medrxiv.md) |
+| 2024-12-25 | [每日汇总](daily-papers/2024-12-25.md) | [arXiv](daily-papers/2024-12-25-arxiv.md) | [bioRxiv](daily-papers/2024-12-25-biorxiv.md) | [medRxiv](daily-papers/2024-12-25-medrxiv.md) |
+| 2024-12-24 | [每日汇总](daily-papers/2024-12-24.md) | [arXiv](daily-papers/2024-12-24-arxiv.md) | [bioRxiv](daily-papers/2024-12-24-biorxiv.md) | [medRxiv](daily-papers/2024-12-24-medrxiv.md) |
+| 2024-12-23 | [每日汇总](daily-papers/2024-12-23.md) | [arXiv](daily-papers/2024-12-23-arxiv.md) | [bioRxiv](daily-papers/2024-12-23-biorxiv.md) | [medRxiv](daily-papers/2024-12-23-medrxiv.md) |
+| 2024-12-22 | [每日汇总](daily-papers/2024-12-22.md) | [arXiv](daily-papers/2024-12-22-arxiv.md) | [bioRxiv](daily-papers/2024-12-22-biorxiv.md) | [medRxiv](daily-papers/2024-12-22-medrxiv.md) |
+| 2024-12-21 | [每日汇总](daily-papers/2024-12-21.md) | [arXiv](daily-papers/2024-12-21-arxiv.md) | [bioRxiv](daily-papers/2024-12-21-biorxiv.md) | [medRxiv](daily-papers/2024-12-21-medrxiv.md) |
+| 2024-12-20 | [每日汇总](daily-papers/2024-12-20.md) | [arXiv](daily-papers/2024-12-20-arxiv.md) | [bioRxiv](daily-papers/2024-12-20-biorxiv.md) | [medRxiv](daily-papers/2024-12-20-medrxiv.md) |
+| 2024-12-19 | [每日汇总](daily-papers/2024-12-19.md) | [arXiv](daily-papers/2024-12-19-arxiv.md) | [bioRxiv](daily-papers/2024-12-19-biorxiv.md) | [medRxiv](daily-papers/2024-12-19-medrxiv.md) |
+| 2024-12-18 | [每日汇总](daily-papers/2024-12-18.md) | [arXiv](daily-papers/2024-12-18-arxiv.md) | [bioRxiv](daily-papers/2024-12-18-biorxiv.md) | [medRxiv](daily-papers/2024-12-18-medrxiv.md) |
+| 2024-12-17 | [每日汇总](daily-papers/2024-12-17.md) | [arXiv](daily-papers/2024-12-17-arxiv.md) | [bioRxiv](daily-papers/2024-12-17-biorxiv.md) | [medRxiv](daily-papers/2024-12-17-medrxiv.md) |
+| 2024-12-16 | [每日汇总](daily-papers/2024-12-16.md) | [arXiv](daily-papers/2024-12-16-arxiv.md) | [bioRxiv](daily-papers/2024-12-16-biorxiv.md) | [medRxiv](daily-papers/2024-12-16-medrxiv.md) |
+| 2024-12-15 | [每日汇总](daily-papers/2024-12-15.md) | [arXiv](daily-papers/2024-12-15-arxiv.md) | [bioRxiv](daily-papers/2024-12-15-biorxiv.md) | [medRxiv](daily-papers/2024-12-15-medrxiv.md) |
+| 2024-12-14 | [每日汇总](daily-papers/2024-12-14.md) | [arXiv](daily-papers/2024-12-14-arxiv.md) | [bioRxiv](daily-papers/2024-12-14-biorxiv.md) | [medRxiv](daily-papers/2024-12-14-medrxiv.md) |
+| 2024-12-13 | [每日汇总](daily-papers/2024-12-13.md) | [arXiv](daily-papers/2024-12-13-arxiv.md) | [bioRxiv](daily-papers/2024-12-13-biorxiv.md) | [medRxiv](daily-papers/2024-12-13-medrxiv.md) |
+| 2024-12-12 | [每日汇总](daily-papers/2024-12-12.md) | [arXiv](daily-papers/2024-12-12-arxiv.md) | [bioRxiv](daily-papers/2024-12-12-biorxiv.md) | [medRxiv](daily-papers/2024-12-12-medrxiv.md) |
+| 2024-12-11 | [每日汇总](daily-papers/2024-12-11.md) | [arXiv](daily-papers/2024-12-11-arxiv.md) | [bioRxiv](daily-papers/2024-12-11-biorxiv.md) | [medRxiv](daily-papers/2024-12-11-medrxiv.md) |
+| 2024-12-10 | [每日汇总](daily-papers/2024-12-10.md) | [arXiv](daily-papers/2024-12-10-arxiv.md) | [bioRxiv](daily-papers/2024-12-10-biorxiv.md) | [medRxiv](daily-papers/2024-12-10-medrxiv.md) |
+| 2024-12-09 | [每日汇总](daily-papers/2024-12-09.md) | [arXiv](daily-papers/2024-12-09-arxiv.md) | [bioRxiv](daily-papers/2024-12-09-biorxiv.md) | [medRxiv](daily-papers/2024-12-09-medrxiv.md) |
+| 2024-12-08 | [每日汇总](daily-papers/2024-12-08.md) | [arXiv](daily-papers/2024-12-08-arxiv.md) | [bioRxiv](daily-papers/2024-12-08-biorxiv.md) | [medRxiv](daily-papers/2024-12-08-medrxiv.md) |
+| 2024-12-07 | [每日汇总](daily-papers/2024-12-07.md) | [arXiv](daily-papers/2024-12-07-arxiv.md) | [bioRxiv](daily-papers/2024-12-07-biorxiv.md) | [medRxiv](daily-papers/2024-12-07-medrxiv.md) |
+| 2024-12-06 | [每日汇总](daily-papers/2024-12-06.md) | [arXiv](daily-papers/2024-12-06-arxiv.md) | [bioRxiv](daily-papers/2024-12-06-biorxiv.md) | [medRxiv](daily-papers/2024-12-06-medrxiv.md) |
+| 2024-12-05 | [每日汇总](daily-papers/2024-12-05.md) | [arXiv](daily-papers/2024-12-05-arxiv.md) | [bioRxiv](daily-papers/2024-12-05-biorxiv.md) | [medRxiv](daily-papers/2024-12-05-medrxiv.md) |
+| 2024-12-04 | [每日汇总](daily-papers/2024-12-04.md) | [arXiv](daily-papers/2024-12-04-arxiv.md) | [bioRxiv](daily-papers/2024-12-04-biorxiv.md) | [medRxiv](daily-papers/2024-12-04-medrxiv.md) |
+| 2024-12-03 | [每日汇总](daily-papers/2024-12-03.md) | [arXiv](daily-papers/2024-12-03-arxiv.md) | [bioRxiv](daily-papers/2024-12-03-biorxiv.md) | [medRxiv](daily-papers/2024-12-03-medrxiv.md) |
+| 2024-12-02 | [每日汇总](daily-papers/2024-12-02.md) | [arXiv](daily-papers/2024-12-02-arxiv.md) | [bioRxiv](daily-papers/2024-12-02-biorxiv.md) | [medRxiv](daily-papers/2024-12-02-medrxiv.md) |
+| 2024-12-01 | [每日汇总](daily-papers/2024-12-01.md) | [arXiv](daily-papers/2024-12-01-arxiv.md) | [bioRxiv](daily-papers/2024-12-01-biorxiv.md) | [medRxiv](daily-papers/2024-12-01-medrxiv.md) |
+| 2024-11-30 | [每日汇总](daily-papers/2024-11-30.md) | [arXiv](daily-papers/2024-11-30-arxiv.md) | [bioRxiv](daily-papers/2024-11-30-biorxiv.md) | [medRxiv](daily-papers/2024-11-30-medrxiv.md) |
+| 2024-11-29 | [每日汇总](daily-papers/2024-11-29.md) | [arXiv](daily-papers/2024-11-29-arxiv.md) | [bioRxiv](daily-papers/2024-11-29-biorxiv.md) | [medRxiv](daily-papers/2024-11-29-medrxiv.md) |
+| 2024-11-28 | [每日汇总](daily-papers/2024-11-28.md) | [arXiv](daily-papers/2024-11-28-arxiv.md) | [bioRxiv](daily-papers/2024-11-28-biorxiv.md) | [medRxiv](daily-papers/2024-11-28-medrxiv.md) |
+| 2024-11-27 | [每日汇总](daily-papers/2024-11-27.md) | [arXiv](daily-papers/2024-11-27-arxiv.md) | [bioRxiv](daily-papers/2024-11-27-biorxiv.md) | [medRxiv](daily-papers/2024-11-27-medrxiv.md) |
+| 2024-11-26 | [每日汇总](daily-papers/2024-11-26.md) | [arXiv](daily-papers/2024-11-26-arxiv.md) | [bioRxiv](daily-papers/2024-11-26-biorxiv.md) | [medRxiv](daily-papers/2024-11-26-medrxiv.md) |
+| 2024-11-25 | [每日汇总](daily-papers/2024-11-25.md) | [arXiv](daily-papers/2024-11-25-arxiv.md) | [bioRxiv](daily-papers/2024-11-25-biorxiv.md) | [medRxiv](daily-papers/2024-11-25-medrxiv.md) |
+| 2024-11-24 | [每日汇总](daily-papers/2024-11-24.md) | [arXiv](daily-papers/2024-11-24-arxiv.md) | [bioRxiv](daily-papers/2024-11-24-biorxiv.md) | [medRxiv](daily-papers/2024-11-24-medrxiv.md) |
+| 2024-11-23 | [每日汇总](daily-papers/2024-11-23.md) | [arXiv](daily-papers/2024-11-23-arxiv.md) | [bioRxiv](daily-papers/2024-11-23-biorxiv.md) | [medRxiv](daily-papers/2024-11-23-medrxiv.md) |
+| 2024-11-22 | [每日汇总](daily-papers/2024-11-22.md) | [arXiv](daily-papers/2024-11-22-arxiv.md) | [bioRxiv](daily-papers/2024-11-22-biorxiv.md) | [medRxiv](daily-papers/2024-11-22-medrxiv.md) |
+| 2024-11-21 | [每日汇总](daily-papers/2024-11-21.md) | [arXiv](daily-papers/2024-11-21-arxiv.md) | [bioRxiv](daily-papers/2024-11-21-biorxiv.md) | [medRxiv](daily-papers/2024-11-21-medrxiv.md) |
+| 2024-11-20 | [每日汇总](daily-papers/2024-11-20.md) | [arXiv](daily-papers/2024-11-20-arxiv.md) | [bioRxiv](daily-papers/2024-11-20-biorxiv.md) | [medRxiv](daily-papers/2024-11-20-medrxiv.md) |
+| 2024-11-19 | [每日汇总](daily-papers/2024-11-19.md) | [arXiv](daily-papers/2024-11-19-arxiv.md) | [bioRxiv](daily-papers/2024-11-19-biorxiv.md) | [medRxiv](daily-papers/2024-11-19-medrxiv.md) |
+| 2024-11-18 | [每日汇总](daily-papers/2024-11-18.md) | [arXiv](daily-papers/2024-11-18-arxiv.md) | [bioRxiv](daily-papers/2024-11-18-biorxiv.md) | [medRxiv](daily-papers/2024-11-18-medrxiv.md) |
+| 2024-11-17 | [每日汇总](daily-papers/2024-11-17.md) | [arXiv](daily-papers/2024-11-17-arxiv.md) | [bioRxiv](daily-papers/2024-11-17-biorxiv.md) | [medRxiv](daily-papers/2024-11-17-medrxiv.md) |
+| 2024-11-16 | [每日汇总](daily-papers/2024-11-16.md) | [arXiv](daily-papers/2024-11-16-arxiv.md) | [bioRxiv](daily-papers/2024-11-16-biorxiv.md) | [medRxiv](daily-papers/2024-11-16-medrxiv.md) |
+| 2024-11-15 | [每日汇总](daily-papers/2024-11-15.md) | [arXiv](daily-papers/2024-11-15-arxiv.md) | [bioRxiv](daily-papers/2024-11-15-biorxiv.md) | [medRxiv](daily-papers/2024-11-15-medrxiv.md) |
+| 2024-11-14 | [每日汇总](daily-papers/2024-11-14.md) | [arXiv](daily-papers/2024-11-14-arxiv.md) | [bioRxiv](daily-papers/2024-11-14-biorxiv.md) | [medRxiv](daily-papers/2024-11-14-medrxiv.md) |
+| 2024-11-13 | [每日汇总](daily-papers/2024-11-13.md) | [arXiv](daily-papers/2024-11-13-arxiv.md) | [bioRxiv](daily-papers/2024-11-13-biorxiv.md) | [medRxiv](daily-papers/2024-11-13-medrxiv.md) |
+| 2024-11-12 | [每日汇总](daily-papers/2024-11-12.md) | [arXiv](daily-papers/2024-11-12-arxiv.md) | [bioRxiv](daily-papers/2024-11-12-biorxiv.md) | [medRxiv](daily-papers/2024-11-12-medrxiv.md) |
+| 2024-11-11 | [每日汇总](daily-papers/2024-11-11.md) | [arXiv](daily-papers/2024-11-11-arxiv.md) | [bioRxiv](daily-papers/2024-11-11-biorxiv.md) | [medRxiv](daily-papers/2024-11-11-medrxiv.md) |
+| 2024-11-10 | [每日汇总](daily-papers/2024-11-10.md) | [arXiv](daily-papers/2024-11-10-arxiv.md) | [bioRxiv](daily-papers/2024-11-10-biorxiv.md) | [medRxiv](daily-papers/2024-11-10-medrxiv.md) |
+| 2024-11-09 | [每日汇总](daily-papers/2024-11-09.md) | [arXiv](daily-papers/2024-11-09-arxiv.md) | [bioRxiv](daily-papers/2024-11-09-biorxiv.md) | [medRxiv](daily-papers/2024-11-09-medrxiv.md) |
+| 2024-11-08 | [每日汇总](daily-papers/2024-11-08.md) | [arXiv](daily-papers/2024-11-08-arxiv.md) | [bioRxiv](daily-papers/2024-11-08-biorxiv.md) | [medRxiv](daily-papers/2024-11-08-medrxiv.md) |
+| 2024-11-07 | [每日汇总](daily-papers/2024-11-07.md) | [arXiv](daily-papers/2024-11-07-arxiv.md) | [bioRxiv](daily-papers/2024-11-07-biorxiv.md) | [medRxiv](daily-papers/2024-11-07-medrxiv.md) |
+| 2024-11-06 | [每日汇总](daily-papers/2024-11-06.md) | [arXiv](daily-papers/2024-11-06-arxiv.md) | [bioRxiv](daily-papers/2024-11-06-biorxiv.md) | [medRxiv](daily-papers/2024-11-06-medrxiv.md) |
+| 2024-11-05 | [每日汇总](daily-papers/2024-11-05.md) | [arXiv](daily-papers/2024-11-05-arxiv.md) | [bioRxiv](daily-papers/2024-11-05-biorxiv.md) | [medRxiv](daily-papers/2024-11-05-medrxiv.md) |
+| 2024-11-04 | [每日汇总](daily-papers/2024-11-04.md) | [arXiv](daily-papers/2024-11-04-arxiv.md) | [bioRxiv](daily-papers/2024-11-04-biorxiv.md) | [medRxiv](daily-papers/2024-11-04-medrxiv.md) |
+| 2024-11-03 | [每日汇总](daily-papers/2024-11-03.md) | [arXiv](daily-papers/2024-11-03-arxiv.md) | [bioRxiv](daily-papers/2024-11-03-biorxiv.md) | [medRxiv](daily-papers/2024-11-03-medrxiv.md) |
+| 2024-11-02 | [每日汇总](daily-papers/2024-11-02.md) | [arXiv](daily-papers/2024-11-02-arxiv.md) | [bioRxiv](daily-papers/2024-11-02-biorxiv.md) | [medRxiv](daily-papers/2024-11-02-medrxiv.md) |
+| 2024-11-01 | [每日汇总](daily-papers/2024-11-01.md) | [arXiv](daily-papers/2024-11-01-arxiv.md) | [bioRxiv](daily-papers/2024-11-01-biorxiv.md) | [medRxiv](daily-papers/2024-11-01-medrxiv.md) |
+| 2024-10-31 | [每日汇总](daily-papers/2024-10-31.md) | [arXiv](daily-papers/2024-10-31-arxiv.md) | [bioRxiv](daily-papers/2024-10-31-biorxiv.md) | [medRxiv](daily-papers/2024-10-31-medrxiv.md) |
+| 2024-10-30 | [每日汇总](daily-papers/2024-10-30.md) | [arXiv](daily-papers/2024-10-30-arxiv.md) | [bioRxiv](daily-papers/2024-10-30-biorxiv.md) | [medRxiv](daily-papers/2024-10-30-medrxiv.md) |
+| 2024-10-29 | [每日汇总](daily-papers/2024-10-29.md) | [arXiv](daily-papers/2024-10-29-arxiv.md) | [bioRxiv](daily-papers/2024-10-29-biorxiv.md) | [medRxiv](daily-papers/2024-10-29-medrxiv.md) |
+| 2024-10-28 | [每日汇总](daily-papers/2024-10-28.md) | [arXiv](daily-papers/2024-10-28-arxiv.md) | [bioRxiv](daily-papers/2024-10-28-biorxiv.md) | [medRxiv](daily-papers/2024-10-28-medrxiv.md) |
+| 2024-10-27 | [每日汇总](daily-papers/2024-10-27.md) | [arXiv](daily-papers/2024-10-27-arxiv.md) | [bioRxiv](daily-papers/2024-10-27-biorxiv.md) | [medRxiv](daily-papers/2024-10-27-medrxiv.md) |
+| 2024-10-26 | [每日汇总](daily-papers/2024-10-26.md) | [arXiv](daily-papers/2024-10-26-arxiv.md) | [bioRxiv](daily-papers/2024-10-26-biorxiv.md) | [medRxiv](daily-papers/2024-10-26-medrxiv.md) |
+| 2024-10-25 | [每日汇总](daily-papers/2024-10-25.md) | [arXiv](daily-papers/2024-10-25-arxiv.md) | [bioRxiv](daily-papers/2024-10-25-biorxiv.md) | [medRxiv](daily-papers/2024-10-25-medrxiv.md) |
+| 2024-10-24 | [每日汇总](daily-papers/2024-10-24.md) | [arXiv](daily-papers/2024-10-24-arxiv.md) | [bioRxiv](daily-papers/2024-10-24-biorxiv.md) | [medRxiv](daily-papers/2024-10-24-medrxiv.md) |
+| 2024-10-23 | [每日汇总](daily-papers/2024-10-23.md) | [arXiv](daily-papers/2024-10-23-arxiv.md) | [bioRxiv](daily-papers/2024-10-23-biorxiv.md) | [medRxiv](daily-papers/2024-10-23-medrxiv.md) |
+| 2024-10-22 | [每日汇总](daily-papers/2024-10-22.md) | [arXiv](daily-papers/2024-10-22-arxiv.md) | [bioRxiv](daily-papers/2024-10-22-biorxiv.md) | [medRxiv](daily-papers/2024-10-22-medrxiv.md) |
+| 2024-10-21 | [每日汇总](daily-papers/2024-10-21.md) | [arXiv](daily-papers/2024-10-21-arxiv.md) | [bioRxiv](daily-papers/2024-10-21-biorxiv.md) | [medRxiv](daily-papers/2024-10-21-medrxiv.md) |
+| 2024-10-20 | [每日汇总](daily-papers/2024-10-20.md) | [arXiv](daily-papers/2024-10-20-arxiv.md) | [bioRxiv](daily-papers/2024-10-20-biorxiv.md) | [medRxiv](daily-papers/2024-10-20-medrxiv.md) |
+| 2024-10-19 | [每日汇总](daily-papers/2024-10-19.md) | [arXiv](daily-papers/2024-10-19-arxiv.md) | [bioRxiv](daily-papers/2024-10-19-biorxiv.md) | [medRxiv](daily-papers/2024-10-19-medrxiv.md) |
+| 2024-10-18 | [每日汇总](daily-papers/2024-10-18.md) | [arXiv](daily-papers/2024-10-18-arxiv.md) | [bioRxiv](daily-papers/2024-10-18-biorxiv.md) | [medRxiv](daily-papers/2024-10-18-medrxiv.md) |
+| 2024-10-17 | [每日汇总](daily-papers/2024-10-17.md) | [arXiv](daily-papers/2024-10-17-arxiv.md) | [bioRxiv](daily-papers/2024-10-17-biorxiv.md) | [medRxiv](daily-papers/2024-10-17-medrxiv.md) |
+| 2024-10-16 | [每日汇总](daily-papers/2024-10-16.md) | [arXiv](daily-papers/2024-10-16-arxiv.md) | [bioRxiv](daily-papers/2024-10-16-biorxiv.md) | [medRxiv](daily-papers/2024-10-16-medrxiv.md) |
+| 2024-10-15 | [每日汇总](daily-papers/2024-10-15.md) | [arXiv](daily-papers/2024-10-15-arxiv.md) | [bioRxiv](daily-papers/2024-10-15-biorxiv.md) | [medRxiv](daily-papers/2024-10-15-medrxiv.md) |
+| 2024-10-14 | [每日汇总](daily-papers/2024-10-14.md) | [arXiv](daily-papers/2024-10-14-arxiv.md) | [bioRxiv](daily-papers/2024-10-14-biorxiv.md) | [medRxiv](daily-papers/2024-10-14-medrxiv.md) |
+| 2024-10-13 | [每日汇总](daily-papers/2024-10-13.md) | [arXiv](daily-papers/2024-10-13-arxiv.md) | [bioRxiv](daily-papers/2024-10-13-biorxiv.md) | [medRxiv](daily-papers/2024-10-13-medrxiv.md) |
+| 2024-10-12 | [每日汇总](daily-papers/2024-10-12.md) | [arXiv](daily-papers/2024-10-12-arxiv.md) | [bioRxiv](daily-papers/2024-10-12-biorxiv.md) | [medRxiv](daily-papers/2024-10-12-medrxiv.md) |
+| 2024-10-11 | [每日汇总](daily-papers/2024-10-11.md) | [arXiv](daily-papers/2024-10-11-arxiv.md) | [bioRxiv](daily-papers/2024-10-11-biorxiv.md) | [medRxiv](daily-papers/2024-10-11-medrxiv.md) |
+| 2024-10-10 | [每日汇总](daily-papers/2024-10-10.md) | [arXiv](daily-papers/2024-10-10-arxiv.md) | [bioRxiv](daily-papers/2024-10-10-biorxiv.md) | [medRxiv](daily-papers/2024-10-10-medrxiv.md) |
+| 2024-10-08 | [每日汇总](daily-papers/2024-10-08.md) | [arXiv](daily-papers/2024-10-08-arxiv.md) | [bioRxiv](daily-papers/2024-10-08-biorxiv.md) | [medRxiv](daily-papers/2024-10-08-medrxiv.md) |
+| 2024-10-07 | [每日汇总](daily-papers/2024-10-07.md) | [arXiv](daily-papers/2024-10-07-arxiv.md) | [bioRxiv](daily-papers/2024-10-07-biorxiv.md) | [medRxiv](daily-papers/2024-10-07-medrxiv.md) |
+| 2024-10-06 | [每日汇总](daily-papers/2024-10-06.md) | [arXiv](daily-papers/2024-10-06-arxiv.md) | [bioRxiv](daily-papers/2024-10-06-biorxiv.md) | [medRxiv](daily-papers/2024-10-06-medrxiv.md) |
+| 2024-10-05 | [每日汇总](daily-papers/2024-10-05.md) | [arXiv](daily-papers/2024-10-05-arxiv.md) | [bioRxiv](daily-papers/2024-10-05-biorxiv.md) | [medRxiv](daily-papers/2024-10-05-medrxiv.md) |
+| 2024-10-04 | [每日汇总](daily-papers/2024-10-04.md) | [arXiv](daily-papers/2024-10-04-arxiv.md) | [bioRxiv](daily-papers/2024-10-04-biorxiv.md) | [medRxiv](daily-papers/2024-10-04-medrxiv.md) |
+| 2024-10-03 | [每日汇总](daily-papers/2024-10-03.md) | [arXiv](daily-papers/2024-10-03-arxiv.md) | [bioRxiv](daily-papers/2024-10-03-biorxiv.md) | [medRxiv](daily-papers/2024-10-03-medrxiv.md) |
+| 2024-10-02 | [每日汇总](daily-papers/2024-10-02.md) | [arXiv](daily-papers/2024-10-02-arxiv.md) | [bioRxiv](daily-papers/2024-10-02-biorxiv.md) | [medRxiv](daily-papers/2024-10-02-medrxiv.md) |
+| 2024-10-01 | [每日汇总](daily-papers/2024-10-01.md) | [arXiv](daily-papers/2024-10-01-arxiv.md) | [bioRxiv](daily-papers/2024-10-01-biorxiv.md) | [medRxiv](daily-papers/2024-10-01-medrxiv.md) |
+| 2024-09-30 | [每日汇总](daily-papers/2024-09-30.md) | [arXiv](daily-papers/2024-09-30-arxiv.md) | [bioRxiv](daily-papers/2024-09-30-biorxiv.md) | [medRxiv](daily-papers/2024-09-30-medrxiv.md) |
+| 2024-09-29 | [每日汇总](daily-papers/2024-09-29.md) | [arXiv](daily-papers/2024-09-29-arxiv.md) | [bioRxiv](daily-papers/2024-09-29-biorxiv.md) | [medRxiv](daily-papers/2024-09-29-medrxiv.md) |
+| 2024-09-28 | [每日汇总](daily-papers/2024-09-28.md) | [arXiv](daily-papers/2024-09-28-arxiv.md) | [bioRxiv](daily-papers/2024-09-28-biorxiv.md) | [medRxiv](daily-papers/2024-09-28-medrxiv.md) |
+| 2024-09-27 | [每日汇总](daily-papers/2024-09-27.md) | [arXiv](daily-papers/2024-09-27-arxiv.md) | [bioRxiv](daily-papers/2024-09-27-biorxiv.md) | [medRxiv](daily-papers/2024-09-27-medrxiv.md) |
+| 2024-09-25 | [每日汇总](daily-papers/2024-09-25.md) | [arXiv](daily-papers/2024-09-25-arxiv.md) | [bioRxiv](daily-papers/2024-09-25-biorxiv.md) | [medRxiv](daily-papers/2024-09-25-medrxiv.md) |
+| 2024-09-24 | [每日汇总](daily-papers/2024-09-24.md) | [arXiv](daily-papers/2024-09-24-arxiv.md) | [bioRxiv](daily-papers/2024-09-24-biorxiv.md) | [medRxiv](daily-papers/2024-09-24-medrxiv.md) |
+| 2024-09-23 | [每日汇总](daily-papers/2024-09-23.md) | [arXiv](daily-papers/2024-09-23-arxiv.md) | [bioRxiv](daily-papers/2024-09-23-biorxiv.md) | [medRxiv](daily-papers/2024-09-23-medrxiv.md) |
+| 2024-09-22 | [每日汇总](daily-papers/2024-09-22.md) | [arXiv](daily-papers/2024-09-22-arxiv.md) | [bioRxiv](daily-papers/2024-09-22-biorxiv.md) | [medRxiv](daily-papers/2024-09-22-medrxiv.md) |
+| 2024-09-21 | [每日汇总](daily-papers/2024-09-21.md) | [arXiv](daily-papers/2024-09-21-arxiv.md) | [bioRxiv](daily-papers/2024-09-21-biorxiv.md) | [medRxiv](daily-papers/2024-09-21-medrxiv.md) |
+| 2024-09-20 | [每日汇总](daily-papers/2024-09-20.md) | [arXiv](daily-papers/2024-09-20-arxiv.md) | [bioRxiv](daily-papers/2024-09-20-biorxiv.md) | [medRxiv](daily-papers/2024-09-20-medrxiv.md) |
+| 2024-09-19 | [每日汇总](daily-papers/2024-09-19.md) | [arXiv](daily-papers/2024-09-19-arxiv.md) | [bioRxiv](daily-papers/2024-09-19-biorxiv.md) | [medRxiv](daily-papers/2024-09-19-medrxiv.md) |
+| 2024-09-18 | [每日汇总](daily-papers/2024-09-18.md) | [arXiv](daily-papers/2024-09-18-arxiv.md) | [bioRxiv](daily-papers/2024-09-18-biorxiv.md) | [medRxiv](daily-papers/2024-09-18-medrxiv.md) |
+| 2024-09-17 | [每日汇总](daily-papers/2024-09-17.md) | [arXiv](daily-papers/2024-09-17-arxiv.md) | [bioRxiv](daily-papers/2024-09-17-biorxiv.md) | [medRxiv](daily-papers/2024-09-17-medrxiv.md) |
+| 2024-09-16 | [每日汇总](daily-papers/2024-09-16.md) | [arXiv](daily-papers/2024-09-16-arxiv.md) | [bioRxiv](daily-papers/2024-09-16-biorxiv.md) | [medRxiv](daily-papers/2024-09-16-medrxiv.md) |
+| 2024-09-15 | [每日汇总](daily-papers/2024-09-15.md) | [arXiv](daily-papers/2024-09-15-arxiv.md) | [bioRxiv](daily-papers/2024-09-15-biorxiv.md) | [medRxiv](daily-papers/2024-09-15-medrxiv.md) |
+| 2024-09-14 | [每日汇总](daily-papers/2024-09-14.md) | [arXiv](daily-papers/2024-09-14-arxiv.md) | [bioRxiv](daily-papers/2024-09-14-biorxiv.md) | [medRxiv](daily-papers/2024-09-14-medrxiv.md) |
+| 2024-09-13 | [每日汇总](daily-papers/2024-09-13.md) | [arXiv](daily-papers/2024-09-13-arxiv.md) | [bioRxiv](daily-papers/2024-09-13-biorxiv.md) | [medRxiv](daily-papers/2024-09-13-medrxiv.md) |
+| 2024-09-12 | [每日汇总](daily-papers/2024-09-12.md) | [arXiv](daily-papers/2024-09-12-arxiv.md) | [bioRxiv](daily-papers/2024-09-12-biorxiv.md) | [medRxiv](daily-papers/2024-09-12-medrxiv.md) |
+| 2024-09-11 | [每日汇总](daily-papers/2024-09-11.md) | [arXiv](daily-papers/2024-09-11-arxiv.md) | [bioRxiv](daily-papers/2024-09-11-biorxiv.md) | [medRxiv](daily-papers/2024-09-11-medrxiv.md) |
+| 2024-09-10 | [每日汇总](daily-papers/2024-09-10.md) | [arXiv](daily-papers/2024-09-10-arxiv.md) | [bioRxiv](daily-papers/2024-09-10-biorxiv.md) | [medRxiv](daily-papers/2024-09-10-medrxiv.md) |
+| 2024-09-09 | [每日汇总](daily-papers/2024-09-09.md) | [arXiv](daily-papers/2024-09-09-arxiv.md) | [bioRxiv](daily-papers/2024-09-09-biorxiv.md) | [medRxiv](daily-papers/2024-09-09-medrxiv.md) |
+| 2024-09-08 | [每日汇总](daily-papers/2024-09-08.md) | [arXiv](daily-papers/2024-09-08-arxiv.md) | [bioRxiv](daily-papers/2024-09-08-biorxiv.md) | [medRxiv](daily-papers/2024-09-08-medrxiv.md) |
+| 2024-09-07 | [每日汇总](daily-papers/2024-09-07.md) | [arXiv](daily-papers/2024-09-07-arxiv.md) | [bioRxiv](daily-papers/2024-09-07-biorxiv.md) | [medRxiv](daily-papers/2024-09-07-medrxiv.md) |
+| 2024-09-05 | [每日汇总](daily-papers/2024-09-05.md) | [arXiv](daily-papers/2024-09-05-arxiv.md) | [bioRxiv](daily-papers/2024-09-05-biorxiv.md) | [medRxiv](daily-papers/2024-09-05-medrxiv.md) |
+| 2024-09-04 | [每日汇总](daily-papers/2024-09-04.md) | [arXiv](daily-papers/2024-09-04-arxiv.md) | [bioRxiv](daily-papers/2024-09-04-biorxiv.md) | [medRxiv](daily-papers/2024-09-04-medrxiv.md) |

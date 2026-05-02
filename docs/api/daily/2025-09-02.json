@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "date": "2025-09-02",
+  "count": 3,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-02-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-09-02-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-02-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-02.md",
+  "papers": [
+    {
+      "id": "a75b7211cf912c7f",
+      "date": "2025-09-02",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "密度依赖与性别偏向扩散在分布区扩张过程中的演化：一个基因调控网络模型。",
+      "translated_title": "密度依赖与性别偏向扩散在分布区扩张过程中的演化：一个基因调控网络模型。",
+      "author": "Deshpande, J. N.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.07.18.549508",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "b14594097b7935b6",
+      "date": "2025-09-02",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "蚂蚁会陷入交通拥堵，并通过做出适应性决策来解决这些问题。",
+      "translated_title": "蚂蚁会陷入交通拥堵，并通过做出适应性决策来解决这些问题。",
+      "author": "Pathak, M. K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.09.13.557616",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "cb8afbb098962ff4",
+      "date": "2025-09-02",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "蚂蚁会陷入交通拥堵，并通过做出适应性决策来解决拥堵问题。",
+      "translated_title": "蚂蚁会陷入交通拥堵，并通过做出适应性决策来解决拥堵问题。",
+      "author": "Pathak, M. K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.09.13.557616",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,180 @@
+{
+  "version": 1,
+  "date": "2025-10-20",
+  "count": 11,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-10-20-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 8,
+      "page_path": "daily-papers/2025-10-20-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-20-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-20.md",
+  "papers": [
+    {
+      "id": "78a89f1fb768c337",
+      "date": "2025-10-20",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "PolySkill：通过多态抽象学习通用技能",
+      "translated_title": "PolySkill：通过多态抽象学习通用技能",
+      "author": "Simon Yu",
+      "summary": "大型语言模型（LLM）正从静态应用转向驱动智能体，使其在与外部环境交互过程中持续学习。例如，智能体可在浏览网页或切换工具时学习可复用技能。然而现有技能学习方法往往使技能过度特化于单一网站，缺乏泛化能力。我们提出PolySkill创新框架，使智能体能够学习具备泛化性与组合性的技能。其核心思想借鉴软件工程中的多态概念，将技能的抽象目标（实现功能）与具体实施（执行方式）解耦。实验表明我们的方法：（1）在已见网站上技能复用率提升1.7倍；（2）在Mind2Web数据集上成功率最高提升9.4%，在未见网站上提升13.9%，同时步骤数减少超20%；（3）在无预设任务的自主探索环境中，本框架提升任务生成质量，使智能体习得跨网站通用技能。通过让智能体自主识别并优化目标，PolySkill增强了智能体学习更优课程的能力，相比基线方法可获得更具泛化性的技能。这项研究为构建适应环境中持续学习智能体提供了可行路径。我们的研究证明，将技能目标与执行方式分离是开发能在开放网络持续学习与泛化的自主智能体的关键进展。",
+      "translated_summary": "大型语言模型（LLM）正从静态应用转向驱动智能体，使其在与外部环境交互过程中持续学习。例如，智能体可在浏览网页或切换工具时学习可复用技能。然而现有技能学习方法往往使技能过度特化于单一网站，缺乏泛化能力。我们提出PolySkill创新框架，使智能体能够学习具备泛化性与组合性的技能。其核心思想借鉴软件工程中的多态概念，将技能的抽象目标（实现功能）与具体实施（执行方式）解耦。实验表明我们的方法：（1）在已见网站上技能复用率提升1.7倍；（2）在Mind2Web数据集上成功率最高提升9.4%，在未见网站上提升13.9%，同时步骤数减少超20%；（3）在无预设任务的自主探索环境中，本框架提升任务生成质量，使智能体习得跨网站通用技能。通过让智能体自主识别并优化目标，PolySkill增强了智能体学习更优课程的能力，相比基线方法可获得更具泛化性的技能。这项研究为构建适应环境中持续学习智能体提供了可行路径。我们的研究证明，将技能目标与执行方式分离是开发能在开放网络持续学习与泛化的自主智能体的关键进展。",
+      "pdf_url": "http://arxiv.org/pdf/2510.15863v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "7c48154c64e94f87",
+      "date": "2025-10-20",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "PokeeResearch：基于AI反馈强化学习与稳健推理框架的高效深度研究",
+      "translated_title": "PokeeResearch：基于AI反馈强化学习与稳健推理框架的高效深度研究",
+      "author": "Yi Wan",
+      "summary": "工具增强型大语言模型正逐渐成为深度研究智能体，这类系统能够分解复杂查询、检索外部证据并生成基于事实的响应。然而现有智能体仍存在检索浅层化、对齐指标薄弱、工具使用行为脆弱等局限。我们推出PokeeResearch-7B——基于统一强化学习框架构建的70亿参数深度研究智能体，具备强鲁棒性、精准对齐性和高扩展性。该模型通过无标注AI反馈强化学习框架进行训练，利用基于大语言模型的奖励信号来优化策略，这些信号涵盖事实准确性、引用忠实度和指令遵循度。思维链驱动的多轮调用推理框架进一步通过自我验证和工具故障自适应恢复机制增强系统鲁棒性。在10个主流深度研究基准测试中，PokeeResearch-7B在70亿参数规模的深度研究智能体中实现了最先进性能。这表明精密的强化学习与推理设计能够培育出高效、稳健且符合研究级标准的AI智能体。该模型及推理代码已基于MIT许可证在https://github.com/Pokee-AI/PokeeResearchOSS开源。",
+      "translated_summary": "工具增强型大语言模型正逐渐成为深度研究智能体，这类系统能够分解复杂查询、检索外部证据并生成基于事实的响应。然而现有智能体仍存在检索浅层化、对齐指标薄弱、工具使用行为脆弱等局限。我们推出PokeeResearch-7B——基于统一强化学习框架构建的70亿参数深度研究智能体，具备强鲁棒性、精准对齐性和高扩展性。该模型通过无标注AI反馈强化学习框架进行训练，利用基于大语言模型的奖励信号来优化策略，这些信号涵盖事实准确性、引用忠实度和指令遵循度。思维链驱动的多轮调用推理框架进一步通过自我验证和工具故障自适应恢复机制增强系统鲁棒性。在10个主流深度研究基准测试中，PokeeResearch-7B在70亿参数规模的深度研究智能体中实现了最先进性能。这表明精密的强化学习与推理设计能够培育出高效、稳健且符合研究级标准的AI智能体。该模型及推理代码已基于MIT许可证在https://github.com/Pokee-AI/PokeeResearchOSS开源。",
+      "pdf_url": "http://arxiv.org/pdf/2510.15862v1",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "8d3a0cbed3454497",
+      "date": "2025-10-20",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "自认证原始对偶优化代理在大规模批量经济调度中的应用",
+      "translated_title": "自认证原始对偶优化代理在大规模批量经济调度中的应用",
+      "author": "Michael Klamkin",
+      "summary": "最新研究表明，经过训练的优化代理模型可实现高保真度，在大规模问题中平均最优间隙可控制在1%以下。然而最坏情况分析显示，存在分布内查询会导致最优间隙出现数量级增长，这使得实际应用中难以信赖其预测结果。本文旨在经典求解器与优化代理模型之间寻求平衡，通过用户自定义的最优性阈值实现具有可解释性速度-最优性权衡的可信部署。为此，我们提出一种混合求解器：利用对偶理论高效界定预测值的最优间隙边界，对无法验证最优性的查询自动切换至经典求解器。为提升混合求解器的加速性能，本文进一步提出结合原始问题与对偶问题代理训练的联合训练方法。在大型传输系统上的实验表明，该混合求解器具有高度可扩展性，相比基于并行化单纯形法的求解器可实现超1000倍的加速效果，同时确保最大最优间隙不超过2%。",
+      "translated_summary": "最新研究表明，经过训练的优化代理模型可实现高保真度，在大规模问题中平均最优间隙可控制在1%以下。然而最坏情况分析显示，存在分布内查询会导致最优间隙出现数量级增长，这使得实际应用中难以信赖其预测结果。本文旨在经典求解器与优化代理模型之间寻求平衡，通过用户自定义的最优性阈值实现具有可解释性速度-最优性权衡的可信部署。为此，我们提出一种混合求解器：利用对偶理论高效界定预测值的最优间隙边界，对无法验证最优性的查询自动切换至经典求解器。为提升混合求解器的加速性能，本文进一步提出结合原始问题与对偶问题代理训练的联合训练方法。在大型传输系统上的实验表明，该混合求解器具有高度可扩展性，相比基于并行化单纯形法的求解器可实现超1000倍的加速效果，同时确保最大最优间隙不超过2%。",
+      "pdf_url": "http://arxiv.org/pdf/2510.15850v1",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "d7ee05f1f4ffd1d1",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "使用受限玻尔兹曼机设计分子RNA开关",
+      "translated_title": "使用受限玻尔兹曼机设计分子RNA开关",
+      "author": "FERNANDEZ-DE-COSSIO-DIAZ, J.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.05.10.540155",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "9d861378380a1729",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "多基因评分可移植性中的三个开放性问题",
+      "translated_title": "多基因评分可移植性中的三个开放性问题",
+      "author": "Wang, J. Y.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.20.608703",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "875cfbd197757fda",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "家庭生活与镉摄入独立影响亚社会性昆虫后代的微生物群落构成",
+      "translated_title": "家庭生活与镉摄入独立影响亚社会性昆虫后代的微生物群落构成",
+      "author": "Cheutin, M.-C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.12.30.630762",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "7879fc1f5eaf9247",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "解脂耶氏酵母MATA与MATB菌株基因组序列组装与注释",
+      "translated_title": "解脂耶氏酵母MATA与MATB菌株基因组序列组装与注释",
+      "author": "Zali, N.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.03.24.645116",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "393a1b367ca797d9",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "不同组织中性别、年龄及遗传背景对DNA甲基化的影响",
+      "translated_title": "不同组织中性别、年龄及遗传背景对DNA甲基化的影响",
+      "author": "Diez, W. O.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.04.29.651179",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "2a8e195d99a4497c",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "阐明噬菌体抗防御蛋白的作用机制与进化关系",
+      "translated_title": "阐明噬菌体抗防御蛋白的作用机制与进化关系",
+      "author": "Murtazalieva, K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.06.06.658234",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "a9e13e44f721f129",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "颗粒生物膜的多尺度力学",
+      "translated_title": "颗粒生物膜的多尺度力学",
+      "author": "Mansson, L. K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.06.18.660425",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "8d93d639473da90d",
+      "date": "2025-10-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "人类基因调控的情境感知序列到功能模型",
+      "translated_title": "人类基因调控的情境感知序列到功能模型",
+      "author": "Aksu, E. D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.06.25.661447",
+      "paper_url": "",
+      "rank": 8
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,68 @@
+{
+  "version": 1,
+  "date": "2025-09-18",
+  "count": 3,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-18-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 2,
+      "page_path": "daily-papers/2025-09-18-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-18-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-18.md",
+  "papers": [
+    {
+      "id": "8797c9a0477beb77",
+      "date": "2025-09-18",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "语言模型的激活状态线性编码训练顺序的近期性",
+      "translated_title": "语言模型的激活状态线性编码训练顺序的近期性",
+      "author": "Dmitrii Krasheninnikov",
+      "summary": "我们通过实验证明，语言模型的激活值能够线性编码训练过程中信息被习得的时间顺序。我们的研究方案涉及构建一个具有明确训练顺序的模型：通过在六个互斥但性质相似的命名实体数据集上依次对Llama-3.2-1B模型进行微调。研究发现，六个训练数据集测试样本的平均激活值编码了训练顺序：当投影到二维子空间时，这些激活质心严格按训练顺序排列并呈直线分布。进一步研究表明，线性探针能以约90%的准确率区分\"早期\"与\"晚期\"实体，且该能力可泛化至探针自身训练时未见的实体。模型经微调后还能显式报告未见过实体的训练阶段（准确率约80%）。值得注意的是，这种时间信号似乎无法简单归因于激活强度、损失值或模型置信度的差异。本文论证了模型具备按信息获取时间进行区分的能力，这一发现对模型处理冲突数据及响应知识更新具有重要启示。",
+      "translated_summary": "我们通过实验证明，语言模型的激活值能够线性编码训练过程中信息被习得的时间顺序。我们的研究方案涉及构建一个具有明确训练顺序的模型：通过在六个互斥但性质相似的命名实体数据集上依次对Llama-3.2-1B模型进行微调。研究发现，六个训练数据集测试样本的平均激活值编码了训练顺序：当投影到二维子空间时，这些激活质心严格按训练顺序排列并呈直线分布。进一步研究表明，线性探针能以约90%的准确率区分\"早期\"与\"晚期\"实体，且该能力可泛化至探针自身训练时未见的实体。模型经微调后还能显式报告未见过实体的训练阶段（准确率约80%）。值得注意的是，这种时间信号似乎无法简单归因于激活强度、损失值或模型置信度的差异。本文论证了模型具备按信息获取时间进行区分的能力，这一发现对模型处理冲突数据及响应知识更新具有重要启示。",
+      "pdf_url": "http://arxiv.org/pdf/2509.14223v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "038f45d89871c191",
+      "date": "2025-09-18",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "分离脑卒中后手臂轻瘫中运动与维持功能的控制",
+      "translated_title": "分离脑卒中后手臂轻瘫中运动与维持功能的控制",
+      "author": "Hadjiosif, A. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.11.26.517884",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "6056f41ebf39e23e",
+      "date": "2025-09-18",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "极染色体通过纺锤体伸长驱动的微管枢转机制避免错误分离。",
+      "translated_title": "极染色体通过纺锤体伸长驱动的微管枢转机制避免错误分离。",
+      "author": "Koprivec, I.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.16.599200",
+      "paper_url": "",
+      "rank": 2
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

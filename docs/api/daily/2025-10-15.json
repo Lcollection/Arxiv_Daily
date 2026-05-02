@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "date": "2025-10-15",
+  "count": 9,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-10-15-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 8,
+      "page_path": "daily-papers/2025-10-15-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-15-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-15.md",
+  "papers": [
+    {
+      "id": "b2b16bed2d9bf07a",
+      "date": "2025-10-15",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "通过下一关键点预测实现万物检测",
+      "translated_title": "通过下一关键点预测实现万物检测",
+      "author": "Qing Jiang",
+      "summary": "长期以来，目标检测领域一直由基于坐标回归的传统模型主导，例如YOLO、DETR和Grounding DINO。尽管近期有研究尝试利用多模态大语言模型解决该任务，但仍面临召回率低、预测重复、坐标错位等挑战。本研究通过提出Rex-Omni弥合这一鸿沟——这是一个30亿参数规模的多模态大语言模型，实现了最先进的目标感知性能。在COCO和LVIS等基准测试中，Rex-Omni在零样本设定下达到甚至超越了基于回归的模型（如DINO、Grounding DINO）。这一突破得益于三大核心设计：1）任务建模：采用特殊令牌表征0至999的量化坐标，既降低模型学习难度又提升坐标预测的令牌效率；2）数据引擎：构建多类型数据引擎生成高质量定位、指代表达和指向标注数据，为训练提供语义丰富的监督信号；3）训练流程：采用两阶段训练策略，先在2200万数据上进行监督微调，再实施基于GRPO的强化学习后训练。该强化学习阶段通过几何感知奖励机制，有效弥合离散-连续坐标预测的鸿沟，提升检测框精度，并缓解初始监督微调阶段因教师引导特性导致的预测重复等不良现象。除常规检测任务外，Rex-Omni凭借其内在语言理解能力，还可实现目标指代、视觉提示、GUI定位、空间参照、OCR及关键点检测等多样化功能，这些能力均在专用基准上得到系统验证。我们相信Rex-Omni为构建更具通用性和语言感知能力的视觉感知系统开辟了新道路。",
+      "translated_summary": "长期以来，目标检测领域一直由基于坐标回归的传统模型主导，例如YOLO、DETR和Grounding DINO。尽管近期有研究尝试利用多模态大语言模型解决该任务，但仍面临召回率低、预测重复、坐标错位等挑战。本研究通过提出Rex-Omni弥合这一鸿沟——这是一个30亿参数规模的多模态大语言模型，实现了最先进的目标感知性能。在COCO和LVIS等基准测试中，Rex-Omni在零样本设定下达到甚至超越了基于回归的模型（如DINO、Grounding DINO）。这一突破得益于三大核心设计：1）任务建模：采用特殊令牌表征0至999的量化坐标，既降低模型学习难度又提升坐标预测的令牌效率；2）数据引擎：构建多类型数据引擎生成高质量定位、指代表达和指向标注数据，为训练提供语义丰富的监督信号；3）训练流程：采用两阶段训练策略，先在2200万数据上进行监督微调，再实施基于GRPO的强化学习后训练。该强化学习阶段通过几何感知奖励机制，有效弥合离散-连续坐标预测的鸿沟，提升检测框精度，并缓解初始监督微调阶段因教师引导特性导致的预测重复等不良现象。除常规检测任务外，Rex-Omni凭借其内在语言理解能力，还可实现目标指代、视觉提示、GUI定位、空间参照、OCR及关键点检测等多样化功能，这些能力均在专用基准上得到系统验证。我们相信Rex-Omni为构建更具通用性和语言感知能力的视觉感知系统开辟了新道路。",
+      "pdf_url": "http://arxiv.org/pdf/2510.12798v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "e910b0459666949b",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "撤回：人类颞叶声音区域对黑猩猩发声具有敏感性",
+      "translated_title": "撤回：人类颞叶声音区域对黑猩猩发声具有敏感性",
+      "author": "Ceravolo, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2020.10.29.360362",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "18029702ba4b3526",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "通过脉冲神经元群体中的强化学习实现时间刺激分割",
+      "translated_title": "通过脉冲神经元群体中的强化学习实现时间刺激分割",
+      "author": "Le Donne, L.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2020.12.22.424037",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "179e4c7d07323302",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "大西洋-北极极锋带真核浮游植物基因表达变化",
+      "translated_title": "大西洋-北极极锋带真核浮游植物基因表达变化",
+      "author": "Fremont, P.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.11.01.514737",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "ec50a28a294e5a5e",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "物种中自然选择的有效性影响氨基酸频率演化的方向。",
+      "translated_title": "物种中自然选择的有效性影响氨基酸频率演化的方向。",
+      "author": "McShea, H. S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.02.01.526552",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "e39ce4e4b5369708",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "共现选型交配与垂直文化传递对遗传关联度量的影响",
+      "translated_title": "共现选型交配与垂直文化传递对遗传关联度量的影响",
+      "author": "Herzig, A. F.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.04.08.536101",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "0d181c9483d6e23b",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "巨型增强子区隔化转录活性长基因",
+      "translated_title": "巨型增强子区隔化转录活性长基因",
+      "author": "Zhao, Z.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.07.19.549737",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "05a9fe9714cf6c22",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "SARS-CoV-2刺突蛋白抗体与登革病毒存在交叉反应，并在体外及体内实验中观察到感染增强现象。",
+      "translated_title": "SARS-CoV-2刺突蛋白抗体与登革病毒存在交叉反应，并在体外及体内实验中观察到感染增强现象。",
+      "author": "Jakhar, K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.10.09.557914",
+      "paper_url": "",
+      "rank": 7
+    },
+    {
+      "id": "0d64741ecb74c31f",
+      "date": "2025-10-15",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "工作记忆中动态空间更新时的对侧延迟活动",
+      "translated_title": "工作记忆中动态空间更新时的对侧延迟活动",
+      "author": "Chernik, C.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.27.582343",
+      "paper_url": "",
+      "rank": 8
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

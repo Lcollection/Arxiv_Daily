@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "date": "2025-09-05",
+  "count": 7,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-05-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 7,
+      "page_path": "daily-papers/2025-09-05-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-05-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-05.md",
+  "papers": [
+    {
+      "id": "b6d7af77bd896c74",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "求解随机恒化器滤波问题的路径逼近方法",
+      "translated_title": "求解随机恒化器滤波问题的路径逼近方法",
+      "author": "Fontenele Magalhaes, J. A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.01.17.524503",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "ad8607b34813093f",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "触觉交互过程中单个指纹脊的亚表层变形",
+      "translated_title": "触觉交互过程中单个指纹脊的亚表层变形",
+      "author": "Corniani, G.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.07.02.547395",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "d460efbdf35a3d14",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "单细胞转录组图谱揭示斑马鱼脑实质中存在驻留性树突状细胞",
+      "translated_title": "单细胞转录组图谱揭示斑马鱼脑实质中存在驻留性树突状细胞",
+      "author": "Rovira, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.07.27.550829",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "546134f54734d263",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "源自足月人类胎盘的多能细胞类型",
+      "translated_title": "源自足月人类胎盘的多能细胞类型",
+      "author": "Vadakke-Madathil, S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.08.02.551028",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "2350298a9b05d2de",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "脑源性神经营养因子通过放大神经元内在程序以增强人类运动神经元的轴突再生能力",
+      "translated_title": "脑源性神经营养因子通过放大神经元内在程序以增强人类运动神经元的轴突再生能力",
+      "author": "Vargas, J. N. S.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.06.565775",
+      "paper_url": "",
+      "rank": 5
+    },
+    {
+      "id": "ad8ec26b8389b6a9",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "单细胞RNA测序提示体重循环后存在一种新型脂质相关肥大细胞群体",
+      "translated_title": "单细胞RNA测序提示体重循环后存在一种新型脂质相关肥大细胞群体",
+      "author": "Kapadia, M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.12.566786",
+      "paper_url": "",
+      "rank": 6
+    },
+    {
+      "id": "7ec12f6dfa2e42d4",
+      "date": "2025-09-05",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "机械反馈驱动胚胎发生过程中的异步细胞分裂",
+      "translated_title": "机械反馈驱动胚胎发生过程中的异步细胞分裂",
+      "author": "Malmi-Kakkada, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.11.29.569235",
+      "paper_url": "",
+      "rank": 7
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

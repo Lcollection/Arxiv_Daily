@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "date": "2025-07-02",
+  "count": 1,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-07-02-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-07-02-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-07-02-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-07-02.md",
+  "papers": [
+    {
+      "id": "6ce025e9da35bf29",
+      "date": "2025-07-02",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "采用设计益生菌群落在小鼠体内实现肺部病原体的生态位排斥",
+      "translated_title": "采用设计益生菌群落在小鼠体内实现肺部病原体的生态位排斥",
+      "author": "Hern, K. E.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.02.578711",
+      "paper_url": "",
+      "rank": 1
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

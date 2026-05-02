@@ -1,0 +1,124 @@
+{
+  "version": 1,
+  "date": "2025-10-30",
+  "count": 7,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 2,
+      "page_path": "daily-papers/2025-10-30-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 5,
+      "page_path": "daily-papers/2025-10-30-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-10-30-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-10-30.md",
+  "papers": [
+    {
+      "id": "5721c47fce5a752f",
+      "date": "2025-10-30",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "大模型时代的多模态空间推理：综述与基准评测",
+      "translated_title": "大模型时代的多模态空间推理：综述与基准评测",
+      "author": "Xu Zheng",
+      "summary": "人类拥有通过视觉、听觉等多模态观察来理解空间的空间推理能力。大型多模态推理模型通过学习感知与推理扩展了这些能力，在各类空间任务中展现出卓越性能。然而针对这些模型的系统性综述与公开基准测试仍较为有限。本综述从多模态大语言模型（MLLMs）的最新进展切入，系统梳理多模态空间推理任务，并建立开放式评估基准。首先概述通用空间推理方法，重点分析后训练技术、可解释性及模型架构；突破传统二维任务范畴，深入探讨空间关系推理、场景与布局理解、三维空间中的视觉问答与定位；进一步评述具身智能领域的进展，包括视觉语言导航与行动模型；同时关注音频、第一视角视频等新兴模态如何通过新型传感器推动空间理解创新。本综述为蓬勃发展的多模态空间推理领域奠定了坚实基础并提供了前瞻视角。相关最新资料、代码及开放基准测试实现可通过以下链接获取：https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning。",
+      "translated_summary": "人类拥有通过视觉、听觉等多模态观察来理解空间的空间推理能力。大型多模态推理模型通过学习感知与推理扩展了这些能力，在各类空间任务中展现出卓越性能。然而针对这些模型的系统性综述与公开基准测试仍较为有限。本综述从多模态大语言模型（MLLMs）的最新进展切入，系统梳理多模态空间推理任务，并建立开放式评估基准。首先概述通用空间推理方法，重点分析后训练技术、可解释性及模型架构；突破传统二维任务范畴，深入探讨空间关系推理、场景与布局理解、三维空间中的视觉问答与定位；进一步评述具身智能领域的进展，包括视觉语言导航与行动模型；同时关注音频、第一视角视频等新兴模态如何通过新型传感器推动空间理解创新。本综述为蓬勃发展的多模态空间推理领域奠定了坚实基础并提供了前瞻视角。相关最新资料、代码及开放基准测试实现可通过以下链接获取：https://github.com/zhengxuJosh/Awesome-Spatial-Reasoning。",
+      "pdf_url": "http://arxiv.org/pdf/2510.25760v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "6b28692285f7c0dc",
+      "date": "2025-10-30",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "合成数据揭示相关多示例学习中的泛化差距",
+      "translated_title": "合成数据揭示相关多示例学习中的泛化差距",
+      "author": "Ethan Harvey",
+      "summary": "多示例学习（MIL）在医学影像分析中常被用于处理高分辨率二维图像的局部区块或三维体数据的切片进行分类。然而，传统MIL方法将各实例独立处理，忽略了实际应用中至关重要的上下文关联——例如相邻图像区块或切片之间的视觉特征关联。我们设计了一项合成分类任务，其中准确预测必须考虑相邻实例的特征。通过将现有通用MIL方法的性能与可通过解析形式获得的最优贝叶斯估计器进行量化对比，揭示了这些方法的局限性。实验结果表明，即使在数万个实例上从头开始训练，较新的相关MIL方法仍难以实现理论上的最佳泛化效果。",
+      "translated_summary": "多示例学习（MIL）在医学影像分析中常被用于处理高分辨率二维图像的局部区块或三维体数据的切片进行分类。然而，传统MIL方法将各实例独立处理，忽略了实际应用中至关重要的上下文关联——例如相邻图像区块或切片之间的视觉特征关联。我们设计了一项合成分类任务，其中准确预测必须考虑相邻实例的特征。通过将现有通用MIL方法的性能与可通过解析形式获得的最优贝叶斯估计器进行量化对比，揭示了这些方法的局限性。实验结果表明，即使在数万个实例上从头开始训练，较新的相关MIL方法仍难以实现理论上的最佳泛化效果。",
+      "pdf_url": "http://arxiv.org/pdf/2510.25759v1",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "45b42cb9472993d3",
+      "date": "2025-10-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "基于点击化学的大肠杆菌分子积累测定",
+      "translated_title": "基于点击化学的大肠杆菌分子积累测定",
+      "author": "Ongwae, G. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.06.20.545103",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "e5370077dd95b009",
+      "date": "2025-10-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "超氧化物歧化酶维持干细胞群体中的微环境稳态",
+      "translated_title": "超氧化物歧化酶维持干细胞群体中的微环境稳态",
+      "author": "Majhi, O.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.12.06.570086",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "7718d89d1e0fd50e",
+      "date": "2025-10-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "有丝分裂基因转换的高水平对于有效清除无性生殖生物中的有害突变至关重要。",
+      "translated_title": "有丝分裂基因转换的高水平对于有效清除无性生殖生物中的有害突变至关重要。",
+      "author": "Kopcak, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.08.30.610445",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "3dd60895e8341794",
+      "date": "2025-10-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "运动和认知序列任务在顶叶和前额叶皮层中表现出不同的渐进模式。",
+      "translated_title": "运动和认知序列任务在顶叶和前额叶皮层中表现出不同的渐进模式。",
+      "author": "Doyle, H.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.10.09.617499",
+      "paper_url": "",
+      "rank": 4
+    },
+    {
+      "id": "7f9eba3ff385d9d0",
+      "date": "2025-10-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "生殖隔离机制间的相互作用",
+      "translated_title": "生殖隔离机制间的相互作用",
+      "author": "Blanckaert, A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.02.20.639255",
+      "paper_url": "",
+      "rank": 5
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

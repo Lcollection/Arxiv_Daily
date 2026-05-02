@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-09-01",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-09-01-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-09-01-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-01-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-01.md",
+  "papers": [
+    {
+      "id": "467923f44c5ed4c4",
+      "date": "2025-09-01",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "DriveQA：通过驾驶知识测试",
+      "translated_title": "DriveQA：通过驾驶知识测试",
+      "author": "Maolin Wei",
+      "summary": "若当前让大型语言模型（LLM）参加驾驶知识考试，能否通过？与现有自动驾驶基准测试中标准的空间和视觉问答（QA）任务不同，驾驶知识考试要求全面掌握所有交通规则、标志标识和路权原则。人类驾驶员必须能辨识现实数据集中极少出现的各类边缘案例方能通过考试。本研究推出DriveQA——一个全面开源的文本与视觉基准测试体系，其详尽覆盖交通法规与场景化应用。通过DriveQA实验我们发现：（1）最先进的LLM与多模态LLM（MLLM）在基础交通规则方面表现良好，但在数值推理、复杂路权场景、交通标志变体及空间布局方面存在显著缺陷；（2）基于DriveQA的微调能全面提升多类别准确率，尤其在禁令标志识别和交叉路口决策方面；（3）DriveQA-V中的受控变量揭示了模型对光照、视角、距离及天气条件等环境因素的敏感度；（4）基于DriveQA的预训练能增强下游驾驶任务性能，在nuScenes和BDD等真实数据集上取得更好效果，同时证明模型可通过内化文本与合成交通知识，有效泛化至下游QA任务。",
+      "translated_summary": "若当前让大型语言模型（LLM）参加驾驶知识考试，能否通过？与现有自动驾驶基准测试中标准的空间和视觉问答（QA）任务不同，驾驶知识考试要求全面掌握所有交通规则、标志标识和路权原则。人类驾驶员必须能辨识现实数据集中极少出现的各类边缘案例方能通过考试。本研究推出DriveQA——一个全面开源的文本与视觉基准测试体系，其详尽覆盖交通法规与场景化应用。通过DriveQA实验我们发现：（1）最先进的LLM与多模态LLM（MLLM）在基础交通规则方面表现良好，但在数值推理、复杂路权场景、交通标志变体及空间布局方面存在显著缺陷；（2）基于DriveQA的微调能全面提升多类别准确率，尤其在禁令标志识别和交叉路口决策方面；（3）DriveQA-V中的受控变量揭示了模型对光照、视角、距离及天气条件等环境因素的敏感度；（4）基于DriveQA的预训练能增强下游驾驶任务性能，在nuScenes和BDD等真实数据集上取得更好效果，同时证明模型可通过内化文本与合成交通知识，有效泛化至下游QA任务。",
+      "pdf_url": "http://arxiv.org/pdf/2508.21824v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "b8df2239ef2641af",
+      "date": "2025-09-01",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "产前甲状腺激素暴露增加能否长期改变生理与行为？一项日本鹌鹑实验研究的启示。",
+      "translated_title": "产前甲状腺激素暴露增加能否长期改变生理与行为？一项日本鹌鹑实验研究的启示。",
+      "author": "Aho, K.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.03.22.533811",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "f79c481ad8398b2b",
+      "date": "2025-09-01",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "心脏抗原的肌肽化可减弱免疫原性反应并改善衰竭心脏功能",
+      "translated_title": "心脏抗原的肌肽化可减弱免疫原性反应并改善衰竭心脏功能",
+      "author": "Doelling, B.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.08.22.671840",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "05b85f2422083c8b",
+      "date": "2025-09-01",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "一项系统发育研究对理解非洲猪瘟全球大流行的贡献：从全球到地方尺度的传播分析",
+      "translated_title": "一项系统发育研究对理解非洲猪瘟全球大流行的贡献：从全球到地方尺度的传播分析",
+      "author": "Rossi, G.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2025.08.26.672323",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2025-08-26",
+  "count": 2,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-26-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 2,
+      "page_path": "daily-papers/2025-08-26-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-26-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-26.md",
+  "papers": [
+    {
+      "id": "1ef581b31730a8f2",
+      "date": "2025-08-26",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Meis1亚型多样性通过调控ATOH1在不同亚细胞区室的降解来协调神经祖细胞分化。",
+      "translated_title": "Meis1亚型多样性通过调控ATOH1在不同亚细胞区室的降解来协调神经祖细胞分化。",
+      "author": "Owa, T.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.08.17.504235",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "c31d5c9bbd353b78",
+      "date": "2025-08-26",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "长距离共表达的丧失是癌症中的一个常见特征。",
+      "translated_title": "长距离共表达的丧失是癌症中的一个常见特征。",
+      "author": "Garcia-Cortes, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.10.27.513947",
+      "paper_url": "",
+      "rank": 2
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

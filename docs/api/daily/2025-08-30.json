@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-08-30",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 1,
+      "page_path": "daily-papers/2025-08-30-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 3,
+      "page_path": "daily-papers/2025-08-30-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-08-30-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-08-30.md",
+  "papers": [
+    {
+      "id": "65b75a7b667e5d87",
+      "date": "2025-08-30",
+      "source": "arxiv",
+      "source_label": "arXiv",
+      "title": "实现可信金融推理的公平获取",
+      "translated_title": "实现可信金融推理的公平获取",
+      "author": "William Jurayj",
+      "summary": "根据美国国税局的数据，“普通美国人平均花费270美元和13小时用于报税”。即便在美国之外，税务申报也需要复杂的逻辑推理，涉及多重法规的应用与数值计算的结合。由于错误可能导致高昂的罚款，任何自动化系统都必须具备高精确度和可审计性，这使得现代大语言模型（LLMs）难以胜任此项任务。我们提出一种将大语言模型与符号求解器相结合的计算税务责任方法。通过在具有挑战性的法定推理评估（SARA）数据集上测试该系统的多个变体，我们引入了一种创新方法：基于实际税务错误处罚标准来估算系统部署成本。我们进一步证明，通过将明文法规预先翻译为形式逻辑程序，并结合智能检索的形式化案例表征示例，可显著提升系统在此任务中的表现，并将成本大幅降低至远低于现实世界平均水平。研究结果证明了神经符号架构在提升可靠税务援助普惠性方面的应用潜力与经济可行性。",
+      "translated_summary": "根据美国国税局的数据，“普通美国人平均花费270美元和13小时用于报税”。即便在美国之外，税务申报也需要复杂的逻辑推理，涉及多重法规的应用与数值计算的结合。由于错误可能导致高昂的罚款，任何自动化系统都必须具备高精确度和可审计性，这使得现代大语言模型（LLMs）难以胜任此项任务。我们提出一种将大语言模型与符号求解器相结合的计算税务责任方法。通过在具有挑战性的法定推理评估（SARA）数据集上测试该系统的多个变体，我们引入了一种创新方法：基于实际税务错误处罚标准来估算系统部署成本。我们进一步证明，通过将明文法规预先翻译为形式逻辑程序，并结合智能检索的形式化案例表征示例，可显著提升系统在此任务中的表现，并将成本大幅降低至远低于现实世界平均水平。研究结果证明了神经符号架构在提升可靠税务援助普惠性方面的应用潜力与经济可行性。",
+      "pdf_url": "http://arxiv.org/pdf/2508.21051v1",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "25ffbbd20aaed45d",
+      "date": "2025-08-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "使用探针捕获的靶向宏基因组学检测技术，在复杂微生物群落中发现的氮循环与甲烷循环基因多样性，较传统宏基因组学方法更为丰富。",
+      "translated_title": "使用探针捕获的靶向宏基因组学检测技术，在复杂微生物群落中发现的氮循环与甲烷循环基因多样性，较传统宏基因组学方法更为丰富。",
+      "author": "Siljanen, H. M. P.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2022.11.04.515048",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "4abd0afca747be33",
+      "date": "2025-08-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "古DNA揭示阿尔巴尼亚人的起源",
+      "translated_title": "古DNA揭示阿尔巴尼亚人的起源",
+      "author": "Davranoglou, L. R.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.06.05.543790",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "7d5ab645b804d323",
+      "date": "2025-08-30",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "单脉冲经颅磁刺激对桡侧腕屈肌牵张诱发长潜伏期反应的强度依赖性抑制",
+      "translated_title": "单脉冲经颅磁刺激对桡侧腕屈肌牵张诱发长潜伏期反应的强度依赖性抑制",
+      "author": "Helm, C. A.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.03.18.585555",
+      "paper_url": "",
+      "rank": 3
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

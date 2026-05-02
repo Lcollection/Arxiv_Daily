@@ -1,0 +1,82 @@
+{
+  "version": 1,
+  "date": "2025-09-20",
+  "count": 4,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-20-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 4,
+      "page_path": "daily-papers/2025-09-20-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-09-20-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-09-20.md",
+  "papers": [
+    {
+      "id": "1a17e3af8986ed15",
+      "date": "2025-09-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "剖析谷氨酰胺结合蛋白中配体结合与构象变化的机制",
+      "translated_title": "剖析谷氨酰胺结合蛋白中配体结合与构象变化的机制",
+      "author": "Han, Z.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2023.08.02.551720",
+      "paper_url": "",
+      "rank": 1
+    },
+    {
+      "id": "dcd16be594ed7f5d",
+      "date": "2025-09-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "可变剪接对拟南芥蛋白质组的影响",
+      "translated_title": "可变剪接对拟南芥蛋白质组的影响",
+      "author": "Reyes, A. V.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.02.29.582853",
+      "paper_url": "",
+      "rank": 2
+    },
+    {
+      "id": "60cc0cb160a54fb1",
+      "date": "2025-09-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "翅膀变形的结构动力学与神经表征。",
+      "translated_title": "翅膀变形的结构动力学与神经表征。",
+      "author": "Yarger, A. M.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.06.02.596338",
+      "paper_url": "",
+      "rank": 3
+    },
+    {
+      "id": "d61b823651a8586e",
+      "date": "2025-09-20",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "NuRD染色质重塑是修复秀丽隐杆线虫生殖系中外源性DNA双链断裂所必需的。",
+      "translated_title": "NuRD染色质重塑是修复秀丽隐杆线虫生殖系中外源性DNA双链断裂所必需的。",
+      "author": "Ananthaswamy, D.",
+      "summary": "",
+      "translated_summary": "",
+      "pdf_url": "https://doi.org/10.1101/2024.09.14.613027",
+      "paper_url": "",
+      "rank": 4
+    }
+  ],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

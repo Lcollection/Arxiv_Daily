@@ -1,0 +1,25 @@
+{
+  "version": 1,
+  "date": "2025-05-08",
+  "count": 0,
+  "sources": {
+    "arxiv": {
+      "source_label": "arXiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-08-arxiv.md"
+    },
+    "biorxiv": {
+      "source_label": "bioRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-08-biorxiv.md"
+    },
+    "medrxiv": {
+      "source_label": "medRxiv",
+      "count": 0,
+      "page_path": "daily-papers/2025-05-08-medrxiv.md"
+    }
+  },
+  "page_path": "daily-papers/2025-05-08.md",
+  "papers": [],
+  "generated_at": "2026-05-02T04:04:15Z"
+}

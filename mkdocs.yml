@@ -1,11 +1,17 @@
 site_name: Arxiv Daily
 nav:
   - 首页: index.md
+  - Agent API: api.md
   - 历史归档:
     - 最近更新: daily-papers/latest.md
-    - 按日期查看: 
-      - 索引: index.md
+    - 按日期查看: daily-papers/archive.md
+    - arXiv: arxiv_papers.md
+    - bioRxiv: biorxiv_papers.md
+    - medRxiv: medrxiv_papers.md
 theme:
     name: 'material'
 extra_css:
-    - docs/new_style.css
+    - new_style.css
+validation:
+  nav:
+    omitted_files: ignore
