@@ -1,8 +1,8 @@
 {
   "version": 1,
-  "generated_at": "2026-05-02T17:05:14Z",
-  "latest_date": "2026-01-06",
-  "count": 417,
+  "generated_at": "2026-05-02T19:20:54Z",
+  "latest_date": "2026-05-01",
+  "count": 418,
   "endpoints": {
     "latest": "api/latest.json",
     "index": "api/index.json",
@@ -38,7 +38,7 @@
     },
     {
       "page": 5,
-      "count": 17,
+      "count": 18,
       "api_path": "api/index/0005.json"
     }
   ]
