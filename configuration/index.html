@@ -486,6 +486,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        来源临时失败时的处理
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -790,6 +801,17 @@
   
 </li>
       
+        <li class="md-nav__item">
+  <a href="#_4" class="md-nav__link">
+    <span class="md-ellipsis">
+      
+        来源临时失败时的处理
+      
+    </span>
+  </a>
+  
+</li>
+      
     </ul>
   
 </nav>
@@ -838,6 +860,21 @@
 <td><code>ARXIV_LOOKBACK_DAYS</code> / <code>--arxiv-lookback-days</code></td>
 <td><code>5</code></td>
 <td>arXiv 目标日期没有论文时，向前最多回看 5 天，避免周末或无发布日返回空列表。</td>
+</tr>
+<tr>
+<td><code>ARXIV_PAGE_SIZE</code></td>
+<td><code>50</code></td>
+<td>arXiv API 每次请求的分页大小。调小可以降低单次请求压力。</td>
+</tr>
+<tr>
+<td><code>ARXIV_DELAY_SECONDS</code></td>
+<td><code>8.0</code></td>
+<td>arXiv API 分页请求之间的等待秒数。遇到 429 时可调大。</td>
+</tr>
+<tr>
+<td><code>ARXIV_NUM_RETRIES</code></td>
+<td><code>8</code></td>
+<td>arXiv 客户端请求失败时的重试次数。</td>
 </tr>
 <tr>
 <td><code>RXIV_KEYWORDS</code> / <code>--rxiv-keywords</code></td>
@@ -913,6 +950,14 @@
 <td><code>5</code></td>
 </tr>
 <tr>
+<td><code>ARXIV_DELAY_SECONDS</code></td>
+<td><code>12</code></td>
+</tr>
+<tr>
+<td><code>ARXIV_NUM_RETRIES</code></td>
+<td><code>10</code></td>
+</tr>
+<tr>
 <td><code>RXIV_KEYWORDS</code></td>
 <td><code>machine learning, single cell, genomics</code></td>
 </tr>
@@ -979,6 +1024,8 @@ SMTP_PORT=25
 </code></pre>
 <h2 id="arxiv-0">arXiv 返回 0 篇时的处理</h2>
 <p>arXiv 不是每天都有新论文发布。脚本默认先查 <code>PAPER_DATE</code> 指定日期；如果当天没有结果，会在 <code>ARXIV_LOOKBACK_DAYS</code> 范围内向前查找最近可用论文，并在 API 和页面中保留每篇论文的 <code>published_date</code>，避免把补取日期和实际发布日期混淆。</p>
+<h2 id="_4">来源临时失败时的处理</h2>
+<p>如果某个来源临时失败，例如 arXiv API 返回 429，脚本会先按 <code>ARXIV_DELAY_SECONDS</code> 和 <code>ARXIV_NUM_RETRIES</code> 的设置进行重试。仍然失败时，只要其他来源成功，任务会继续生成当天页面，并在失败来源的独立页面中写入“抓取失败”提示，避免 bioRxiv / medRxiv 等已抓到的结果被整次丢弃。只有所有来源都失败时，脚本才会让 GitHub Actions 失败。</p>
 
 
 
