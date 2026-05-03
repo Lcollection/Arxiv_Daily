@@ -168,6 +168,59 @@
     return "meta";
   }
 
+  function setSummaryState(details) {
+    var state = details.querySelector(".paper-summary__state");
+    if (state) {
+      state.textContent = details.open ? "收起" : "展开";
+    }
+  }
+
+  function enhanceSummaryElement(element, options) {
+    if (!element || element.dataset.paperSummaryEnhanced === "true") {
+      return;
+    }
+    if (!valueOrEmpty(element.textContent).trim()) {
+      return;
+    }
+
+    options = options || {};
+    var labelText = valueOrEmpty(options.label || element.dataset.label).trim() || "摘要";
+    var details = document.createElement("details");
+    details.className = "paper-summary";
+
+    var toggle = document.createElement("summary");
+    toggle.className = "paper-summary__toggle";
+
+    var label = document.createElement("span");
+    label.className = "paper-summary__label";
+    label.textContent = labelText;
+
+    var state = document.createElement("span");
+    state.className = "paper-summary__state";
+
+    var body = document.createElement("div");
+    body.className = "paper-summary__body";
+    while (element.firstChild) {
+      body.appendChild(element.firstChild);
+    }
+
+    toggle.appendChild(label);
+    toggle.appendChild(state);
+    details.appendChild(toggle);
+    details.appendChild(body);
+    details.addEventListener("toggle", function () {
+      setSummaryState(details);
+    });
+    setSummaryState(details);
+
+    if (options.replace) {
+      element.replaceWith(details);
+    } else {
+      element.dataset.paperSummaryEnhanced = "true";
+      element.appendChild(details);
+    }
+  }
+
   function enhanceSummaryTables() {
     var context = contextFromPath();
     if (!context || context.type !== "daily") {
@@ -189,10 +242,25 @@
         row.classList.add("paper-table__row");
         Array.prototype.forEach.call(row.children, function (cell, index) {
           var label = headers[index] || "";
+          var field = fieldName(label);
           cell.dataset.label = label;
-          cell.dataset.paperField = fieldName(label);
+          cell.dataset.paperField = field;
+          if (field === "summary") {
+            enhanceSummaryElement(cell, { label: label });
+          }
         });
       });
+    });
+  }
+
+  function enhancePaperItemSummaries() {
+    var context = contextFromPath();
+    if (!context) {
+      return;
+    }
+
+    document.querySelectorAll(".paper-item > p").forEach(function (paragraph) {
+      enhanceSummaryElement(paragraph, { label: "摘要", replace: true });
     });
   }
 
@@ -271,11 +339,13 @@
   if (typeof document$ !== "undefined" && document$.subscribe) {
     document$.subscribe(function () {
       enhanceSummaryTables();
+      enhancePaperItemSummaries();
       insertToolbar();
     });
   } else {
     document.addEventListener("DOMContentLoaded", function () {
       enhanceSummaryTables();
+      enhancePaperItemSummaries();
       insertToolbar();
     });
   }
