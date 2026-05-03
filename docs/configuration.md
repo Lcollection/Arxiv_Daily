@@ -10,6 +10,9 @@
 | `PAPER_DATE` / `--date` | 昨天 | 默认抓取脚本运行当天的前一天。GitHub Actions 已设置 `TZ=Asia/Shanghai`，因此定时任务按北京时间计算昨天。 |
 | `ARXIV_QUERY` / `--query` | 见下方 | 只作用于 arXiv。 |
 | `ARXIV_LOOKBACK_DAYS` / `--arxiv-lookback-days` | `5` | arXiv 目标日期没有论文时，向前最多回看 5 天，避免周末或无发布日返回空列表。 |
+| `ARXIV_PAGE_SIZE` | `50` | arXiv API 每次请求的分页大小。调小可以降低单次请求压力。 |
+| `ARXIV_DELAY_SECONDS` | `8.0` | arXiv API 分页请求之间的等待秒数。遇到 429 时可调大。 |
+| `ARXIV_NUM_RETRIES` | `8` | arXiv 客户端请求失败时的重试次数。 |
 | `RXIV_KEYWORDS` / `--rxiv-keywords` | 空 | 可选，按标题和摘要过滤 bioRxiv / medRxiv，多个关键词用逗号、分号或换行分隔。 |
 | `RXIV_EXCLUDE_KEYWORDS` / `--rxiv-exclude-keywords` | 空 | 可选，排除 bioRxiv / medRxiv 中命中的标题和摘要关键词。 |
 | `API_INDEX_PAGE_SIZE` | `100` | API 索引分页大小，用于避免生成过大的 JSON 文件。 |
@@ -39,6 +42,8 @@ GitHub Actions 里可以用仓库级 Variables 调整非敏感配置：
 | `PAPER_LIMIT` | `20` |
 | `ARXIV_QUERY` | `cat:cs.LG OR cat:cs.CL OR all:"large language model"` |
 | `ARXIV_LOOKBACK_DAYS` | `5` |
+| `ARXIV_DELAY_SECONDS` | `12` |
+| `ARXIV_NUM_RETRIES` | `10` |
 | `RXIV_KEYWORDS` | `machine learning, single cell, genomics` |
 | `RXIV_EXCLUDE_KEYWORDS` | `case report` |
 
@@ -99,3 +104,7 @@ python update_papers.py --skip-email
 ## arXiv 返回 0 篇时的处理
 
 arXiv 不是每天都有新论文发布。脚本默认先查 `PAPER_DATE` 指定日期；如果当天没有结果，会在 `ARXIV_LOOKBACK_DAYS` 范围内向前查找最近可用论文，并在 API 和页面中保留每篇论文的 `published_date`，避免把补取日期和实际发布日期混淆。
+
+## 来源临时失败时的处理
+
+如果某个来源临时失败，例如 arXiv API 返回 429，脚本会先按 `ARXIV_DELAY_SECONDS` 和 `ARXIV_NUM_RETRIES` 的设置进行重试。仍然失败时，只要其他来源成功，任务会继续生成当天页面，并在失败来源的独立页面中写入“抓取失败”提示，避免 bioRxiv / medRxiv 等已抓到的结果被整次丢弃。只有所有来源都失败时，脚本才会让 GitHub Actions 失败。

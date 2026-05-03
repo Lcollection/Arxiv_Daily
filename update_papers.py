@@ -24,6 +24,14 @@ def env_int(name: str, default: int, minimum: int = 1) -> int:
     return max(minimum, value)
 
 
+def env_float(name: str, default: float, minimum: float = 0.0) -> float:
+    try:
+        value = float(os.getenv(name, ""))
+    except ValueError:
+        return default
+    return max(minimum, value)
+
+
 DEEPSEEK_API_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 
@@ -117,6 +125,9 @@ DEFAULT_QUERY = " OR ".join(
 )
 API_INDEX_PAGE_SIZE = env_int("API_INDEX_PAGE_SIZE", 100)
 ARXIV_LOOKBACK_DAYS = env_int("ARXIV_LOOKBACK_DAYS", 5, minimum=0)
+ARXIV_PAGE_SIZE = env_int("ARXIV_PAGE_SIZE", 50)
+ARXIV_DELAY_SECONDS = env_float("ARXIV_DELAY_SECONDS", 8.0)
+ARXIV_NUM_RETRIES = env_int("ARXIV_NUM_RETRIES", 8, minimum=0)
 
 FAMOUS_QUOTES = [
     "The only way to do great work is to love what you do. - Steve Jobs",
@@ -153,6 +164,13 @@ def clean_text(value) -> str:
         return ""
     text = str(value).replace("\r\n", "\n").replace("\r", "\n")
     return re.sub(r"\s+", " ", text).strip()
+
+
+def display_error(value, limit: int = 500) -> str:
+    text = clean_text(value)
+    if len(text) <= limit:
+        return text
+    return text[: limit - 3].rstrip() + "..."
 
 
 def html_text(value) -> str:
@@ -404,7 +422,11 @@ def get_arxiv_papers(
 
     target = datetime.strptime(target_date, "%Y-%m-%d").date()
     earliest = target - timedelta(days=max(0, lookback_days))
-    client = arxiv.Client()
+    client = arxiv.Client(
+        page_size=ARXIV_PAGE_SIZE,
+        delay_seconds=ARXIV_DELAY_SECONDS,
+        num_retries=ARXIV_NUM_RETRIES,
+    )
     search = arxiv.Search(
         query=query,
         max_results=max(200, limit * 30),
@@ -590,7 +612,7 @@ class PaperManager:
         )
         write_json_payload(path, manifest)
 
-    def save_daily_papers(self, papers: list, source: str) -> None:
+    def save_daily_papers(self, papers: list, source: str, fetch_error: str = "") -> None:
         source = source_slug(source)
         label = SOURCE_LABELS[source]
         path = self.daily_source_path(self.target_date, source)
@@ -604,7 +626,9 @@ class PaperManager:
             f"# {label} {self.target_date}",
             "",
         ]
-        if not normalized:
+        if fetch_error:
+            lines.extend([f"> 抓取失败：{display_error(fetch_error)}", ""])
+        elif not normalized:
             lines.extend(["> 当天没有抓取到有效论文。", ""])
         else:
             lines.extend(
@@ -1313,11 +1337,13 @@ def fetch_all_sources(
             fetched[source] = fetcher()
         except Exception as exc:
             failures[source] = str(exc)
+            fetched[source] = []
+            print(f"{SOURCE_LABELS[source]} fetch failed: {exc}")
 
-    if failures:
+    if failures and len(failures) == len(fetchers):
         details = "; ".join(f"{source}: {error}" for source, error in failures.items())
         raise RuntimeError(f"Paper fetch failed; no daily files were written. {details}")
-    return fetched
+    return fetched, failures
 
 
 def parse_args() -> argparse.Namespace:
@@ -1366,7 +1392,7 @@ def main() -> None:
             print(f"Exported {exported} Obsidian notes.")
         return
 
-    fetched = fetch_all_sources(
+    fetched, failures = fetch_all_sources(
         target_date=target_date,
         query=args.query,
         limit=args.limit,
@@ -1377,7 +1403,7 @@ def main() -> None:
     )
 
     for source in SOURCE_ORDER:
-        manager.save_daily_papers(fetched[source], source)
+        manager.save_daily_papers(fetched[source], source, fetch_error=failures.get(source, ""))
 
     manager.rebuild_indexes()
 
