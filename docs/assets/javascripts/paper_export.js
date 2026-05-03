@@ -145,6 +145,57 @@
     toolbar.insertBefore(button, toolbar.querySelector(".paper-export__status"));
   }
 
+  function fieldName(label) {
+    var text = valueOrEmpty(label).replace(/\s+/g, "").toLowerCase();
+    if (text.indexOf("标题") !== -1 || text === "title") {
+      return text === "title" ? "original-title" : "title";
+    }
+    if (text.indexOf("作者") !== -1 || text.indexOf("author") !== -1) {
+      return "author";
+    }
+    if (text.indexOf("发布日期") !== -1 || text.indexOf("date") !== -1) {
+      return "date";
+    }
+    if (text.indexOf("pdf") !== -1) {
+      return "pdf";
+    }
+    if (text.indexOf("摘要") !== -1 || text.indexOf("abstract") !== -1 || text.indexOf("summary") !== -1) {
+      return "summary";
+    }
+    if (text.indexOf("代码") !== -1 || text.indexOf("repo") !== -1) {
+      return "repository";
+    }
+    return "meta";
+  }
+
+  function enhanceSummaryTables() {
+    var context = contextFromPath();
+    if (!context || context.type !== "daily") {
+      return;
+    }
+
+    document.querySelectorAll(".md-content table:not(.paper-table--summary)").forEach(function (table) {
+      var headers = Array.prototype.map.call(table.querySelectorAll("thead th"), function (cell) {
+        return valueOrEmpty(cell.textContent).trim();
+      });
+      if (!headers.length || !headers.some(function (header) {
+        return fieldName(header) === "summary";
+      })) {
+        return;
+      }
+
+      table.classList.add("paper-table--summary");
+      table.querySelectorAll("tbody tr").forEach(function (row) {
+        row.classList.add("paper-table__row");
+        Array.prototype.forEach.call(row.children, function (cell, index) {
+          var label = headers[index] || "";
+          cell.dataset.label = label;
+          cell.dataset.paperField = fieldName(label);
+        });
+      });
+    });
+  }
+
   function insertToolbar() {
     var context = contextFromPath();
     if (!context || document.querySelector(".paper-export")) {
@@ -218,8 +269,14 @@
   }
 
   if (typeof document$ !== "undefined" && document$.subscribe) {
-    document$.subscribe(insertToolbar);
+    document$.subscribe(function () {
+      enhanceSummaryTables();
+      insertToolbar();
+    });
   } else {
-    document.addEventListener("DOMContentLoaded", insertToolbar);
+    document.addEventListener("DOMContentLoaded", function () {
+      enhanceSummaryTables();
+      insertToolbar();
+    });
   }
 })();
