@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-05-05T23:50:19Z",
+  "generated_at": "2026-05-06T23:55:44Z",
   "source": "arxiv",
   "source_label": "arXiv",
-  "count": 422,
+  "count": 423,
   "chunked": true,
   "chunk_key": "dates",
   "page_size": 100,
@@ -31,7 +31,7 @@
     },
     {
       "page": 5,
-      "count": 22,
+      "count": 23,
       "api_path": "api/source/arxiv/0005.json"
     }
   ]
