@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-05-13T00:04:45Z",
+  "generated_at": "2026-05-14T00:01:21Z",
   "page": 3,
   "page_size": 100,
   "count": 100,
-  "total_count": 429,
+  "total_count": 430,
   "dates": [
+    {
+      "date": "2025-07-02",
+      "count": 0,
+      "api_path": "api/daily/2025-07-02.json",
+      "page_path": "daily-papers/2025-07-02-arxiv.md"
+    },
     {
       "date": "2025-07-01",
       "count": 0,
@@ -599,12 +605,6 @@
       "count": 166,
       "api_path": "api/daily/2025-01-15.json",
       "page_path": "daily-papers/2025-01-15-arxiv.md"
-    },
-    {
-      "date": "2025-01-14",
-      "count": 192,
-      "api_path": "api/daily/2025-01-14.json",
-      "page_path": "daily-papers/2025-01-14-arxiv.md"
     }
   ],
   "source": "arxiv",
