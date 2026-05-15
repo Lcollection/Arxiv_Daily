@@ -1,11 +1,34 @@
 {
   "version": 1,
-  "generated_at": "2026-05-15T00:01:04Z",
+  "generated_at": "2026-05-15T23:57:21Z",
   "page": 5,
   "page_size": 100,
-  "count": 31,
-  "total_count": 431,
+  "count": 32,
+  "total_count": 432,
   "dates": [
+    {
+      "date": "2024-10-07",
+      "count": 414,
+      "api_path": "api/daily/2024-10-07.json",
+      "page_path": "daily-papers/2024-10-07.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 200,
+          "page_path": "daily-papers/2024-10-07-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 153,
+          "page_path": "daily-papers/2024-10-07-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 61,
+          "page_path": "daily-papers/2024-10-07-medrxiv.md"
+        }
+      }
+    },
     {
       "date": "2024-10-06",
       "count": 148,
@@ -720,5 +743,5 @@
       }
     }
   ],
-  "latest_date": "2026-05-14"
+  "latest_date": "2026-05-15"
 }
