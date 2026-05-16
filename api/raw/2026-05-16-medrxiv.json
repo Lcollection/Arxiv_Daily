@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2026-05-16",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 3,
+  "papers": [
+    {
+      "id": "cd1cb62c1bab7e38",
+      "date": "2026-05-16",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Simulating a potential mpox outbreak: Implications for outbreak control in non-endemic settings",
+      "translated_title": "模拟潜在猴痘疫情：对非流行地区疫情控制的影响",
+      "author": "Cherian, P.",
+      "summary": "We construct a model for mpox outbreaks in low and middle-income countries where the disease is non-endemic, using India as an example. We simulate potential outbreak scenarios using BharatSim, a flexible agent-based simulation framework. The spread of mpox is modelled as being driven primarily through sexual contacts within a subnetwork of men who have sex with men (MSM), embedded within a larger network representing their household and workplace contacts. Our model allows for disease spread through this expanded network, including the possibility of heterosexual transmission. We quantify the outbreak size, the dynamics of infection within and outside the MSM subnetwork, and the implications of vaccination and prophylactic measures for curtailing disease spread. These results should inform planning and policy measures for mpox control in generic LMIC settings.",
+      "translated_summary": "我们以印度为例，构建了一个针对非流行性猴痘疫情在中低收入国家传播的模型。通过灵活基于智能体的模拟框架BharatSim，模拟了潜在的疫情暴发场景。模型假设猴痘主要通过男男性行为者（MSM）子网络中的性接触传播，该子网络嵌入在包含家庭和工作场所接触的更大社交网络中。我们的模型允许疾病通过这一扩展网络传播，包括异性性传播的可能性。我们量化了疫情规模、MSM子网络内外的感染动态，以及疫苗接种和预防措施对遏制疾病传播的影响。这些结果将为中低收入国家（LMIC）猴痘防控的规划与政策制定提供参考依据。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.06.29.25330499v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.06.29.25330499",
+      "rank": 1,
+      "published_date": "2026-05-16"
+    },
+    {
+      "id": "4d8d11c876657c18",
+      "date": "2026-05-16",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Privacy-preserving local language models accurately identify the presence and timing of self-harm in electronic mental health records",
+      "translated_title": "隐私保护下的本地语言模型能准确识别电子心理健康记录中自伤行为的存在及其发生时间。",
+      "author": "Kormilitzin, A.",
+      "summary": "Background: Self-harm, defined as intentional self-injury or self-poisoning irrespective of motivation, is the strongest risk factor for suicide and an important outcome for mental health care. Although highly prevalent in clinical populations, it is often imprecisely captured in routinely collected clinical data, where it is typically recorded and stored in unstructured, free-text format. Contemporary language models, such as GPT (OpenAI), Gemini (Google) and Claude (Anthropic) can analyse free-text clinical notes, but such cloud-based commercial and closed-source models may violate data governance of processing sensitive patient data. Objective: We evaluated whether a privacy-preserving language model running entirely within an institution's secure computing infrastructure (here, the UK National Health Service) could accurately identify the presence and timing of self-harm using electronic health records (EHRs) from secondary mental healthcare. Methods: A random sample of 1,352 clinical notes from the EHRs of people with a confirmed diagnosis of a psychiatric disorder, according to the International Classification of Diseases (ICD-10), was selected from Oxford Health NHS Foundation Trust. Each clinical note was annotated for (i) presence or absence of self-harm and (ii) its recency (90 days vs. > 90 days vs. unknown), constituting the gold-standard data set for model development and validation. Privacy-preserving locally served 27-billion-parameter Gemma 3 language model (\"Gemma3-27b\") was used as a core language model to identify self-harm along with its timing to generate a structured output per clinical record. The performance of Gemma3-27b model was compared against a strong baseline multi-label text classification model based on RoBERTa (Robustly Optimized BERT Pretraining Approach, a transformer-based language model) architecture. Model performance was evaluated using precision, recall, and the F1-score (harmonic mean of precision and recall), with 95% confidence intervals estimated from 1,000 bootstrap samples with replacement. Results: The Gemma3-27b model outperformed the RoBERTa classifier across all categories. Gemma3-27b achieved Precision = 0.92, Recall = 0.92 (sensitivity), and F1-score of 0.92 for notes containing self-harm, and Precision = 0.97, Recall = 0.97 (specificity), and F1-score of 0.97 for notes without self-harm. The performance of Gemma3-27b for recent self-harm was Precision = 0.84, Recall = 0.75, and F1-score of 0.79. The global weighted F1-score of Gemma3-27b across all categories was 0.88, compared to 0.85 for RoBERTa. Conclusions: The prompt-engineered local language model outperformed the multi-label text classification RoBERTa model on the task of ascertaining self-harm events and their timing, while requiring significantly fewer high-fidelity annotated data. This approach offers a practical solution for improving self-harm case ascertainment whilst adhering to strict data governance rules to potentially transform clinical monitoring and response to this critical public health challenge.",
+      "translated_summary": "背景：自伤，定义为不论动机如何的故意自我伤害或自我中毒，是自杀最强的风险因素，也是精神卫生保健的重要结局指标。尽管在临床人群中高度流行，但在常规收集的临床数据中往往难以精确捕捉，通常以非结构化的自由文本格式记录和存储。当代语言模型，如GPT（OpenAI）、Gemini（Google）和Claude（Anthropic），能够分析自由文本的临床记录，但这些基于云端的商业闭源模型可能违反处理敏感患者数据的数据治理规定。目的：我们评估了一种完全在机构安全计算基础设施（此处为英国国家医疗服务体系）内运行的隐私保护语言模型，能否利用二级精神卫生保健的电子健康记录准确识别自伤的存在及其发生时间。方法：从牛津健康NHS基金会信托的电子健康记录中，随机抽取了1,352份临床记录样本，这些记录来自根据国际疾病分类（ICD-10）确诊为精神障碍的患者。每份临床记录均标注了（i）是否存在自伤以及（ii）其近期性（90天内 vs. 超过90天 vs. 未知），构成了模型开发和验证的金标准数据集。使用隐私保护的本地服务270亿参数Gemma 3语言模型（\"Gemma3-27b\"）作为核心语言模型，识别自伤及其发生时间，为每份临床记录生成结构化输出。将Gemma3-27b模型的性能与基于RoBERTa（鲁棒优化的BERT预训练方法，一种基于Transformer的语言模型）架构的强基线多标签文本分类模型进行比较。模型性能通过精确率、召回率和F1分数（精确率和召回率的调和平均数）进行评估，95%置信区间通过1,000次有放回自助抽样估计。结果：Gemma3-27b模型在所有类别上均优于RoBERTa分类器。对于包含自伤的记录，Gemma3-27b的精确率为0.92，召回率为0.92（灵敏度），F1分数为0.92；对于无自伤的记录，精确率为0.97，召回率为0.97（特异度），F1分数为0.97。对于近期自伤，Gemma3-27b的精确率为0.84，召回率为0.75，F1分数为0.79。Gemma3-27b在所有类别上的全局加权F1分数为0.88，而RoBERTa为0.85。结论：经过提示工程优化的本地语言模型在识别自伤事件及其发生时间的任务上优于多标签文本分类RoBERTa模型，同时所需的高保真标注数据显著更少。该方法提供了一种实用解决方案，可在遵守严格数据治理规则的同时改进自伤病例的识别，从而有可能改变这一关键公共卫生挑战的临床监测和应对方式。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.10.27.25338892v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.10.27.25338892",
+      "rank": 2,
+      "published_date": "2026-05-16"
+    },
+    {
+      "id": "a74d003782eb1301",
+      "date": "2026-05-16",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Effectiveness of RMSSD-Based Adaptive Music Therapy (Skitii) in Reducing Treatment-Related Anxiety in Head and Neck Cancer Patients: Protocol for a Randomized Controlled Trial",
+      "translated_title": "基于RMSSD的自适应音乐疗法（Skitii）在减轻头颈癌患者治疗相关焦虑中的有效性：一项随机对照试验方案",
+      "author": "Adhikari, P.",
+      "summary": "Background: Head and neck cancer (HNC) patients experience clinically significant anxiety and depression in 65-85% of cases during active treatment. Current supportive care lacks personalized, real-time non-pharmacological interventions. Skitii is a novel HRV-adaptive music therapy system that uses continuous RMSSD (root mean square of successive differences) monitoring via a Polar H10 chest sensor to select music in real-time, targeting parasympathetic recovery (RMSSD >=30ms). Methods: This is a prospective, open-label, randomized controlled trial (1:1 allocation) at Yenepoya Medical College Hospital, Mangalore, India. Adults aged 18-75 years with confirmed head and neck cancer (any subsite, Stage I-IV) undergoing radiotherapy and/or chemotherapy with baseline distress (HADS >=8 or NCCN Distress Thermometer >=4) will be enrolled. Participants are randomized to Skitii adaptive music therapy (20-minute sessions, 3 times daily, 3 weeks) or static music therapy control. Skitii uses a two-phase algorithm: Phase 1 (0-2.5 minutes) uses heart rate as a stress proxy for immediate music selection; Phase 2 (2.5-20 minutes) uses RMSSD to adapt music every 2.5 minutes when physiological state changes by >=20%. Primary endpoints are HADS-Anxiety score and resting RMSSD at Week 3. Sample size is 70 (35 per arm), powered at 80% to detect a 2.5-point HADS difference (SD=3.8, alpha=0.05, 15% dropout). Analysis is ANCOVA, intent-to-treat. Discussion: This is the first randomized controlled trial evaluating RMSSD-based adaptive music therapy in cancer patients. The active control design isolates the effect of the adaptive algorithm from music exposure alone. If positive, results will support a scalable, cost-effective supportive care intervention with objective physiological monitoring, and provide the clinical evidence base for CDSCO Class B medical device approval for Skitii in India, with future CE Mark and FDA applications planned. Trial Registration: Clinical Trials Registry - India CTRI CTRI/2025/11/116732",
+      "translated_summary": "背景：头颈癌患者在积极治疗期间，65-85%的病例会出现临床显著的焦虑和抑郁。当前的支持性护理缺乏个性化、实时的非药物干预手段。Skitii是一种新型HRV自适应音乐治疗系统，通过Polar H10胸带传感器持续监测RMSSD（连续差值的均方根），实时选择音乐，以促进副交感神经恢复（RMSSD≥30ms）。方法：这是一项在印度芒格洛尔耶纳波亚医学院医院开展的前瞻性、开放标签、随机对照试验（1:1分配）。纳入标准为18-75岁确诊头颈癌（任何亚部位，I-IV期）并接受放疗和/或化疗、基线存在心理困扰（HADS≥8或NCCN痛苦温度计≥4）的成年患者。参与者被随机分配至Skitii自适应音乐治疗组（每次20分钟，每日3次，持续3周）或静态音乐治疗对照组。Skitii采用两阶段算法：第一阶段（0-2.5分钟）以心率作为压力代理指标进行即时音乐选择；第二阶段（2.5-20分钟）在生理状态变化≥20%时，每2.5分钟根据RMSSD调整音乐。主要终点为第3周的HADS焦虑评分和静息RMSSD。样本量为70例（每组35例），统计功效80%，可检测2.5分的HADS差异（SD=3.8，α=0.05，脱落率15%）。分析采用ANCOVA，意向性治疗原则。讨论：这是首个评估基于RMSSD的自适应音乐治疗在癌症患者中效果的随机对照试验。主动对照组设计可分离自适应算法相对于单纯音乐暴露的效应。若结果阳性，将支持一种可扩展、成本效益高且包含客观生理监测的支持性护理干预措施，并为Skitii在印度获得CDSCO B类医疗器械批准提供临床证据基础，未来计划申请CE标志和FDA批准。试验注册：印度临床试验注册中心CTRI CTRI/2025/11/116732",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.13.26353099v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.05.13.26353099",
+      "rank": 3,
+      "published_date": "2026-05-16"
+    }
+  ]
+}
