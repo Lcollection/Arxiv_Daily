@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2026-05-31",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 3,
+  "papers": [
+    {
+      "id": "c5fc45bcf580319c",
+      "date": "2026-05-31",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Pigeon-Guano-Contaminated Environments in Blantyre, Southern Malawi, are Reservoirs of Medically Important Fungi",
+      "translated_title": "马拉维南部布兰太尔地区受鸽粪污染的环境是重要医学真菌的储存库。",
+      "author": "Merico, B. J.",
+      "summary": "Close to 50% of all bird species are reservoirs of potentially pathogenic fungi, including those listed as priority by the World Health Organization. In Malawi, data on diversity, pathogenic potential, and ecological avian sources of medically important yeast are scarce. A cross-sectional study using a descriptive approach was conducted in Blantyre, Southern Malawi, to characterise medically important yeasts recovered from environments contaminated with excreta/guano from synanthropic pigeons. A total of 20 samples were collected from 4 peri-urban areas, which yielded 71 yeast isolates. To assess the pathogenic potential of the environmental isolates, we compared their phenotypic virulence traits with those of 21 clinical yeast isolates collected from referral hospital laboratories. Pichia kudriavzevii (39%) and Candida orthopsilosis (30%) were the commonly isolated species in the pigeon-guano-contaminated environments. Candida parapsilosis sensu stricto (29%) and Candida albicans (24%) constituted most of the clinical yeast isolates. Half of the species isolated in the pigeon-guano-contaminated environments were also identified among the clinical isolates. A majority of the environmental isolates showed virulence traits similar to or stronger than clinical isolates. The findings underscore the critical need for integrated surveillance under the One Health framework, especially in bird-inhabited spaces close to human settlements.",
+      "translated_summary": "近50%的鸟类物种携带潜在致病真菌，其中包括世界卫生组织列为优先关注的种类。在马拉维，关于医学重要酵母菌的多样性、致病潜力及鸟类生态来源的数据十分匮乏。本研究在马拉维南部布兰太尔采用描述性横断面研究方法，对受共栖鸽类排泄物/鸟粪污染环境中分离的医学重要酵母菌进行特征分析。从4个城郊区域共采集20份样本，分离出71株酵母菌。为评估环境分离株的致病潜力，我们将其表型毒力特征与转诊医院实验室收集的21株临床酵母菌分离株进行比较。鸽粪污染环境中常见菌种为库德里阿兹威氏毕赤酵母（39%）和正副假丝酵母（30%），临床分离株则以近平滑假丝酵母（29%）和白色假丝酵母（24%）为主。鸽粪污染环境中分离的菌种半数亦出现在临床分离株中。多数环境分离株表现出与临床菌株相当或更强的毒力特征。研究结果凸显了在\"同一健康\"框架下开展综合监测的迫切性，尤其需关注人类聚居区附近的鸟类栖息空间。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26354139v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.05.26.26354139",
+      "rank": 1,
+      "published_date": "2026-05-31"
+    },
+    {
+      "id": "8f683c2457aa7576",
+      "date": "2026-05-31",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Agent Role Structure and Operating Characteristics in Large Language Model Clinical Classification: A Comparative Study of Specialist and Deliberative Multi-Agent Protocols",
+      "translated_title": "大型语言模型临床分类中的智能体角色结构与运行特征：专家与协商式多智能体协议的比较研究",
+      "author": "Anderson, C. G.",
+      "summary": "Large language models (LLMs) are increasingly considered in clinical decision support, yet the architectural effects of role decomposition within multi-agent systems remain poorly isolated. Prior comparisons of single-agent and multi- agent prompting often confound workflow structure with changes in model configuration, training, or decoding. We present a controlled study evaluating whether specialist and generalist multi-agent protocols produce different operating characteristics under fixed inference conditions. Two deterministic protocols, Generic Deliberative (GD) and Feature- Specialist (FS), are evaluated under identical base weights, decoding settings, computational budget, and adjudication logic. The primary comparison isolates role structure and information routing, while feature-assignment and model-scale ablations evaluate boundary conditions. On the UCI Cleveland Heart Disease and Pima Indians Diabetes benchmarks, altering role structure produces substantial operating-characteristic shifts. Under the primary configuration (llama3.1:8b), Cleveland FS achieves higher accuracy (0.72 vs. 0.65) and macro-F1 (0.71 vs. 0.65), with a specificity-favoring operating point, whereas Pima GD achieves higher accuracy (0.68 vs. 0.51) and macro-F1 (0.64 vs. 0.49), while FS induces pronounced class asymmetry. Feature-pair ablations show that specialist feature assignment is a design lever, with FS accuracy ranging from 0.41 to 0.72. A model-scale ablation (qwen2.5:14b) shows that protocol-level effects interact with base-model capacity. Overall, internal role decomposition should not be treated as safety-neutral: it can act as a feature-conditioned architectural bias that changes evidence aggregation and shifts class-wise error profiles, indicating that prompt structure and architectural configuration should be explicitly tuned, validated, and reported in safety-sensitive LLM-based clinical decision systems.",
+      "translated_summary": "大型语言模型在临床决策支持中的应用日益受到关注，但多智能体系统中角色分解的架构效应仍缺乏清晰的隔离研究。此前对单智能体与多智能体提示的比较，常将工作流结构与模型配置、训练或解码方式的改变混为一谈。我们开展了一项受控研究，在固定推理条件下评估专家型与通才型多智能体协议是否会产生不同的运行特性。两种确定性协议——通用审议协议与特征专家协议——在相同基础权重、解码设置、计算预算和裁决逻辑下进行评估。主要比较隔离了角色结构与信息路由，而特征分配与模型规模消融实验则用于评估边界条件。在UCI克利夫兰心脏病数据集和皮马印第安人糖尿病数据集上，改变角色结构产生了显著的运行特性变化。在主要配置下，克利夫兰数据集上特征专家协议准确率更高，宏F1分数更优，且运行点偏向特异性；而皮马数据集上通用审议协议准确率与宏F1分数更高，特征专家协议则导致明显的类别不对称性。特征对消融实验表明，专家特征分配是一个设计杠杆，特征专家协议准确率范围从0.41到0.72。模型规模消融实验显示，协议层面的效应与基础模型容量存在交互作用。总体而言，内部角色分解不应被视为安全中性：它可能作为一种特征条件化的架构偏差，改变证据聚合方式并转移类别级错误分布，这表明在安全敏感型基于大型语言模型的临床决策系统中，提示结构与架构配置应被明确调优、验证并报告。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.02.22.26346818v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.02.22.26346818",
+      "rank": 2,
+      "published_date": "2026-05-31"
+    },
+    {
+      "id": "2076a7f4ae69ec66",
+      "date": "2026-05-31",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Genotype-Based Severity Scoring System in Wolfram Syndrome: Correlation with Onset of Cardinal Symptoms and WFS1 Gene Variant Types",
+      "translated_title": "基于基因型的Wolfram综合征严重程度评分系统：与核心症状发作及WFS1基因变异类型的相关性",
+      "author": "Oiknine, L.",
+      "summary": "Wolfram syndrome is a rare genetic disorder characterized by antibody-negative early-onset atypical diabetes mellitus, optic nerve atrophy, sensorineural hearing loss, diabetes insipidus (arginine vasopressin deficiency), and progressive neurodegeneration, with significant variability in disease severity. We assessed the accuracy of a genotype-based severity scoring system to predict the onset of cardinal symptoms in Wolfram syndrome. This system is based on the type of WFS1 variants (in-frame or out-of-frame) and their location relative to transmembrane domains. Severity scores were assigned to 324 patients with documented onset ages for diabetes mellitus, optic atrophy, hearing loss, and central diabetes insipidus (arginine-vasopressin deficiency). Our analysis revealed a clear association between the proposed genetic severity scoring system and earlier onset of diabetes mellitus and optic atrophy. Patients with in-frame variants outside transmembrane domains exhibited milder symptoms, especially WFS1 c.1672C>T (p.Arg558Cys) variant, whereas those with out-of-frame variants showed the earliest onset. Severity scores 3 and 4 did not follow the expected progression, suggesting that transmembrane domain involvement in both alleles may result in greater severity. To independently evaluate the proposed model, we developed a computational framework employing the classification rubric, which was able to confirm that the six-class system can be automatically annotated with 94.4% accuracy. Closer examination of the 7 cases that disagreed with the manual annotation helped improve the annotations and our scoring system, to deploy a three-class model, suggesting the value added by our automatic classifier. Taken together, these findings indicate that the genotype-based severity score is most informative for diabetes mellitus, more modestly informative for optic atrophy, and not currently useful for predicting the onset of hearing loss or diabetes insipidus. Because the analysis is based on observed events without time-to-event censoring and the three-tier consolidation is a post hoc summary of the same dataset, the results should be regarded as exploratory and hypothesis-generating rather than as a fully validated clinical prediction tool, while still offering useful insight into the genotype-related progression of Wolfram syndrome to guide future study.",
+      "translated_summary": "Wolfram综合征是一种罕见的遗传性疾病，其特征包括抗体阴性的早发性非典型糖尿病、视神经萎缩、感音神经性耳聋、尿崩症（精氨酸加压素缺乏）以及进行性神经退行性病变，且疾病严重程度存在显著差异。我们评估了基于基因型的严重程度评分系统在预测Wolfram综合征核心症状发病时间方面的准确性。该系统依据WFS1变异类型（框内或框外）及其相对于跨膜结构域的位置进行评分。我们对324名患者进行了严重程度评分，这些患者均有记录的糖尿病、视神经萎缩、耳聋和中枢性尿崩症（精氨酸加压素缺乏）发病年龄。分析显示，所提出的遗传严重程度评分系统与糖尿病和视神经萎缩的较早发病之间存在明确关联。携带跨膜结构域外框内变异的患者症状较轻，尤其是WFS1 c.1672C>T（p.Arg558Cys）变异，而携带框外变异的患者发病最早。严重程度评分3和4未遵循预期的进展模式，提示两个等位基因均涉及跨膜结构域可能导致更严重的症状。为独立评估该模型，我们开发了一个采用分类规则的计算框架，能够以94.4%的准确率自动标注六类系统。对与人工标注不一致的7个病例进行深入检查后，我们改进了标注和评分系统，并部署了三类模型，这表明自动分类器具有附加价值。综合来看，这些发现表明，基于基因型的严重程度评分对糖尿病最具预测价值，对视神经萎缩的预测价值中等，但目前对预测耳聋或尿崩症的发病时间无实际作用。由于分析基于已观察事件而未进行时间-事件删失处理，且三级整合是对同一数据集的事后总结，因此结果应视为探索性和假设生成性质，而非完全验证的临床预测工具，但仍可为Wolfram综合征基因型相关进展提供有价值的见解，以指导未来研究。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.03.24.26349216v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.03.24.26349216",
+      "rank": 3,
+      "published_date": "2026-05-31"
+    }
+  ]
+}
