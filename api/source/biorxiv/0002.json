@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-05-31T00:05:10Z",
+  "generated_at": "2026-06-01T00:09:44Z",
   "page": 2,
   "page_size": 100,
   "count": 100,
-  "total_count": 447,
+  "total_count": 448,
   "dates": [
+    {
+      "date": "2025-10-28",
+      "count": 7,
+      "api_path": "api/daily/2025-10-28.json",
+      "page_path": "daily-papers/2025-10-28-biorxiv.md"
+    },
     {
       "date": "2025-10-27",
       "count": 6,
@@ -599,12 +605,6 @@
       "count": 0,
       "api_path": "api/daily/2025-07-21.json",
       "page_path": "daily-papers/2025-07-21-biorxiv.md"
-    },
-    {
-      "date": "2025-07-20",
-      "count": 0,
-      "api_path": "api/daily/2025-07-20.json",
-      "page_path": "daily-papers/2025-07-20-biorxiv.md"
     }
   ],
   "source": "biorxiv",
