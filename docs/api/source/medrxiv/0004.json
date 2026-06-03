@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-02T00:15:56Z",
+  "generated_at": "2026-06-03T00:31:41Z",
   "page": 4,
   "page_size": 100,
   "count": 100,
-  "total_count": 449,
+  "total_count": 450,
   "dates": [
+    {
+      "date": "2025-02-06",
+      "count": 60,
+      "api_path": "api/daily/2025-02-06.json",
+      "page_path": "daily-papers/2025-02-06-medrxiv.md"
+    },
     {
       "date": "2025-02-03",
       "count": 57,
@@ -599,12 +605,6 @@
       "count": 63,
       "api_path": "api/daily/2024-10-27.json",
       "page_path": "daily-papers/2024-10-27-medrxiv.md"
-    },
-    {
-      "date": "2024-10-26",
-      "count": 4,
-      "api_path": "api/daily/2024-10-26.json",
-      "page_path": "daily-papers/2024-10-26-medrxiv.md"
     }
   ],
   "source": "medrxiv",

@@ -2,10 +2,11 @@
 
 论文已按日期拆分归档；首页只保留日期入口，避免所有历史文章挤在单个页面。
 
-最近更新：[2026-06-01](daily-papers/2026-06-01.md)
+最近更新：[2026-06-02](daily-papers/2026-06-02.md)
 
 | 日期 | 每日汇总 | arXiv | bioRxiv | medRxiv |
 |------|----------|-------|---------|---------|
+| 2026-06-02 | [每日汇总](daily-papers/2026-06-02.md) | [arXiv](daily-papers/2026-06-02-arxiv.md) | [bioRxiv](daily-papers/2026-06-02-biorxiv.md) | [medRxiv](daily-papers/2026-06-02-medrxiv.md) |
 | 2026-06-01 | [每日汇总](daily-papers/2026-06-01.md) | [arXiv](daily-papers/2026-06-01-arxiv.md) | [bioRxiv](daily-papers/2026-06-01-biorxiv.md) | [medRxiv](daily-papers/2026-06-01-medrxiv.md) |
 | 2026-05-31 | [每日汇总](daily-papers/2026-05-31.md) | [arXiv](daily-papers/2026-05-31-arxiv.md) | [bioRxiv](daily-papers/2026-05-31-biorxiv.md) | [medRxiv](daily-papers/2026-05-31-medrxiv.md) |
 | 2026-05-30 | [每日汇总](daily-papers/2026-05-30.md) | [arXiv](daily-papers/2026-05-30-arxiv.md) | [bioRxiv](daily-papers/2026-05-30-biorxiv.md) | [medRxiv](daily-papers/2026-05-30-medrxiv.md) |
