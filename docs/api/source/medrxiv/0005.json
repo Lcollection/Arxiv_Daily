@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-06-03T00:31:41Z",
+  "generated_at": "2026-06-04T01:45:50Z",
   "page": 5,
   "page_size": 100,
-  "count": 50,
-  "total_count": 450,
+  "count": 51,
+  "total_count": 451,
   "dates": [
+    {
+      "date": "2024-10-27",
+      "count": 63,
+      "api_path": "api/daily/2024-10-27.json",
+      "page_path": "daily-papers/2024-10-27-medrxiv.md"
+    },
     {
       "date": "2024-10-26",
       "count": 4,
