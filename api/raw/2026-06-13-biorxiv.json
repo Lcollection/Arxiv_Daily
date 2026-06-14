@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "date": "2026-06-13",
+  "source": "biorxiv",
+  "source_label": "bioRxiv",
+  "count": 2,
+  "papers": [
+    {
+      "id": "5cae677446717a59",
+      "date": "2026-06-13",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Variant annotation across homologous proteins (Paralogue Annotation) identifies disease-causing missense variants with high precision, and is widely applicable across protein families",
+      "translated_title": "跨同源蛋白的变异注释（旁系同源注释）能够以高精度识别致病性错义变异，并广泛适用于各类蛋白质家族。",
+      "author": "Li, N.",
+      "summary": "Background: Distinguishing pathogenic variants from those that are rare but benign remains a key challenge in clinical genetics, especially for variants not previously observed and characterised in humans. In vitro and in vivo functional characterisation are typically resource intensive, and model systems may not accurately predict influence on human disease. Many in silico tools have been developed to predict which variants are disease-causing, but typically lack precision. Here we demonstrate the applicability of a framework, called Paralogue Annotation, that draws on information from previously-characterised variants in homologous proteins to predict whether variants in a gene of interest are likely disease causing. Methods: We assessed the performance of Paralogue Annotation through three orthogonal approaches: (1) comparison to established in silico variant prediction tools using 47,360 missense variants from ClinVar across 3,524 genes representing a broad range of diverse protein classes, by calculating precision and sensitivity; (2) evaluation against large-scale functional assays of variant effect in TP53 and PPARG; and (3) comparing odd ratios calculated from case-control association tests for inherited cardiac arrhythmia syndromes, and neurodevelopmental disorders with epilepsy, stratifying variants by Paralogue Annotation. Results: Paralogue Annotation correctly annotates 4,328 ClinVar pathogenic variants, with 245 false positives, yielding a precision of 0.95. This increases to 0.99 with more stringent annotation parameters (requiring greater conservation of amino acids between annotated orthologues) at the expense of sensitivity. Compared to established tools, Paralogue Annotation has higher precision for identification of pathogenic variants, albeit with lower sensitivity across diverse test sets. Extending the technique by transferring annotations between homologous protein domains, rather than full-length protein paralogues, increases sensitivity. Rare variants predicted pathogenic by Paralogue Annotation were more strongly disease-associated (increased odds ratio) than unstratified rare variants for six out of eight genes tested with case-control cohort approaches. Conclusions: Paralogue Annotation has high precision for detection of pathogenic missense variants, outperforming in silico methods where data are available to make a prediction. As the number of characterised variants increases in reference datasets such as ClinVar, Paralogue Annotation will further increase in sensitivity and applicability.",
+      "translated_summary": "背景：在临床遗传学中，区分致病性变异与罕见但良性的变异仍是一项关键挑战，尤其是针对此前未在人类中观察和表征过的变异。体外和体内功能表征通常耗费大量资源，且模型系统可能无法准确预测其对人类疾病的影响。许多计算机工具已被开发用于预测哪些变异会导致疾病，但通常缺乏精确性。在此，我们展示了一种名为“旁系同源注释”的框架的适用性，该框架利用同源蛋白质中已表征变异的信息，预测目标基因中的变异是否可能致病。方法：我们通过三种正交方法评估了旁系同源注释的性能：（1）使用来自ClinVar的47,360个错义变异（涵盖3,524个基因，代表多种蛋白质类别），通过计算精确度和灵敏度，与已建立的计算机变异预测工具进行比较；（2）针对TP53和PPARG的大规模功能检测评估变异效应；（3）比较遗传性心脏心律失常综合征和神经发育障碍伴癫痫的病例对照关联检验中计算的比值比，按旁系同源注释对变异进行分层。结果：旁系同源注释正确注释了4,328个ClinVar致病性变异，假阳性为245个，精确度为0.95。采用更严格的注释参数（要求注释的直系同源物之间氨基酸保守性更高）时，精确度提升至0.99，但灵敏度有所降低。与已建立的工具相比，旁系同源注释在识别致病性变异方面具有更高的精确度，尽管在不同测试集中的灵敏度较低。通过在同源蛋白质结构域（而非全长蛋白质旁系同源物）之间转移注释来扩展该技术，可提高灵敏度。在病例对照队列方法测试的八个基因中，有六个基因中由旁系同源注释预测为致病性的罕见变异与疾病的关联性更强（比值比增加），优于未分层的罕见变异。结论：旁系同源注释在检测致病性错义变异方面具有高精确度，在可获得预测数据的情况下优于计算机方法。随着ClinVar等参考数据集中表征变异数量的增加，旁系同源注释的灵敏度和适用性将进一步提升。",
+      "pdf_url": "https://www.biorxiv.org/content/10.1101/2023.08.07.552236v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2023.08.07.552236",
+      "rank": 1,
+      "published_date": "2026-06-13"
+    },
+    {
+      "id": "45c9a34f472ae6e1",
+      "date": "2026-06-13",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Lipid Flippase Mediated Membrane Asymmetry Governs Extracellular Vesicles Biogenesis and Host Interactions in Cryptococcus neoformans",
+      "translated_title": "脂质翻转酶介导的膜不对称性调控新生隐球菌胞外囊泡生物发生及宿主相互作用",
+      "author": "Pawar, S.",
+      "summary": "Cryptococcus neoformans is the leading cause of fungal meningitis in immunocompromised patients. Alveolar macrophages are the first line of defense against Cryptococcus infection. Our previous study showed that deletion of Cdc50, the regulatory subunit of P4-ATPase (lipid flippase) complex, results in increased phagocytosis and macrophage killing, and avirulence in animal models. However, how fungal flippase dysfunction modulates Cryptococcus-macrophage interaction remains unknown. Here we identify Cdc50 as a central determinant of membrane lipid homeostasis, extracellular vesicle (EV) biogenesis and macrophage responses in C. neoformans. Our whole cell lipidomic analysis revealed that loss of Cdc50 disrupted membrane lipid homeostasis leading to phospholipid enrichment in cdc50{Delta} mutant, and a reduction in fatty acid production accompanied by pronounced ultrastructural defects in membrane architecture. Loss of Cdc50 also induced a hyper-vesiculating phenotype, with cdc50{Delta}producing significantly more extracellular vesicles (EVs) than wild type H99 cells. Lipidomic profiling of cdc50{Delta} EVs revealed enrichment of phospholipids, including phosphatidylserine (PS), indicating active lipid sorting during vesicle biogenesis. Functional analysis showed that EVs from the wildtype H99 suppress phagocytosis whereas cdc50{Delta} EVs enhance phagocytosis, indicating a differential macrophage priming. Despite increased PS externalization in cdc50{Delta} cells and EVs, macrophage recognition and uptake occur independent of PS-mediated efferocytosis pathways, including PS receptor MertK. Following macrophage uptake, cdc50{Delta} were intrinsically vulnerable to macrophage killing due to rapid phagosome acidification. Together, we demonstrate that Cdc50 dependent lipid homeostasis regulates EV production, lipid composition, membrane architecture and drives the intracellular fate of C. neoformans.",
+      "translated_summary": "新型隐球菌是免疫功能低下患者真菌性脑膜炎的首要病因。肺泡巨噬细胞是抵御隐球菌感染的第一道防线。我们既往研究表明，P4-ATP酶（脂质翻转酶）复合体调节亚基Cdc50的缺失会导致吞噬作用增强、巨噬细胞杀伤力提升，并在动物模型中呈现无毒力表型。然而，真菌翻转酶功能失调如何调控隐球菌与巨噬细胞的相互作用仍不清楚。本研究揭示Cdc50是新型隐球菌膜脂质稳态、胞外囊泡生物发生及巨噬细胞反应的核心决定因子。全细胞脂质组学分析显示，Cdc50缺失破坏了膜脂质稳态，导致cdc50Δ突变体磷脂富集，脂肪酸产量降低，并伴随显著的膜结构超微结构缺陷。Cdc50缺失还诱导了超囊泡化表型，cdc50Δ产生的胞外囊泡显著多于野生型H99细胞。cdc50Δ胞外囊泡的脂质组学分析显示磷脂（包括磷脂酰丝氨酸）富集，表明囊泡生物发生过程中存在活跃的脂质分选。功能分析表明，野生型H99的胞外囊泡抑制吞噬作用，而cdc50Δ的胞外囊泡则增强吞噬作用，提示存在差异性的巨噬细胞预激活。尽管cdc50Δ细胞和胞外囊泡的磷脂酰丝氨酸外化增加，但巨噬细胞的识别和摄取不依赖于磷脂酰丝氨酸介导的胞葬途径（包括磷脂酰丝氨酸受体MertK）。被巨噬细胞摄取后，cdc50Δ因吞噬体快速酸化而固有地易受巨噬细胞杀伤。综上，我们证明Cdc50依赖性脂质稳态调控胞外囊泡生成、脂质组成、膜结构，并决定新型隐球菌的胞内命运。",
+      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.06.12.731820v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.06.12.731820",
+      "rank": 2,
+      "published_date": "2026-06-13"
+    }
+  ]
+}
