@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "date": "2026-06-14",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 1,
+  "papers": [
+    {
+      "id": "bf49dae8fe0ad39f",
+      "date": "2026-06-14",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "MyeGPT: an AI agent for Multiple Myeloma",
+      "translated_title": "MyeGPT：一种用于多发性骨髓瘤的AI智能体",
+      "author": "Chang, J. G.",
+      "summary": "Today, advancements in our understanding of cancer biology are increasingly attributed to large-scale clinical-molecular datasets. The case in point for multiple myeloma - the second-most prevalent haematological malignancy - is the CoMMpass study, a dataset with the paired clinical and sequencing data of 1,143 patients. Given its complexity, the multi-omics data of CoMMpass demands programming skills which imposes a hurdle for experimental myeloma researchers who want to validate their hypotheses on population data. The rise of agentic AI over the past few years presents unparalleled opportunities to bridge this technical gap. We propose MyeGPT (Myeloma Generative Pretrained Transformer), an AI bioinformatician for multiple myeloma that relies on the CoMMpass dataset as its ground truth. MyeGPT converts natural language queries such as \"What are the characteristics of patients who relapse after induction therapy\" or \"Compare the overall survival of high vs normal NSD2 expression\" into de novo analyses backed on real data, then pro-actively generates plots to visualize the results. We develop a set of evaluation questions based on CoMMpass, complete with scoring criteria, and ran benchmarks to identify the best choice for LLMs and text-embedding models. We package MyeGPT as a ready-to-use browser application, enabling CoMMpass-grounded hypothesis validation from a smartphone.",
+      "translated_summary": "如今，我们对癌症生物学理解的进步日益归功于大规模临床分子数据集。以多发性骨髓瘤（第二常见的血液恶性肿瘤）为例，CoMMpass研究提供了包含1143名患者配对临床与测序数据的数据集。由于其复杂性，CoMMpass的多组学数据需要编程技能，这对希望基于人群数据验证假设的实验性骨髓瘤研究者构成了障碍。过去几年中，智能体AI的兴起为弥合这一技术鸿沟提供了前所未有的机遇。我们提出MyeGPT（骨髓瘤生成式预训练Transformer），这是一种以CoMMpass数据集为真实依据的多发性骨髓瘤AI生物信息学家。MyeGPT可将自然语言查询（如\"诱导治疗后复发的患者有何特征\"或\"比较高表达与正常表达NSD2患者的总体生存率\"）转化为基于真实数据的新分析，并主动生成可视化结果的图表。我们基于CoMMpass开发了一套评估问题及评分标准，通过基准测试确定大语言模型和文本嵌入模型的最佳选择。我们将MyeGPT封装为即用型浏览器应用，支持通过智能手机进行基于CoMMpass的假设验证。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.14.26353252v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.05.14.26353252",
+      "rank": 1,
+      "published_date": "2026-06-14"
+    }
+  ]
+}
