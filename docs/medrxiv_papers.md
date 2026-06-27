@@ -4,6 +4,7 @@
 
 | 日期 | 页面 |
 |------|------|
+| 2026-06-26 | [查看](daily-papers/2026-06-26-medrxiv.md) |
 | 2026-06-25 | [查看](daily-papers/2026-06-25-medrxiv.md) |
 | 2026-06-24 | [查看](daily-papers/2026-06-24-medrxiv.md) |
 | 2026-06-23 | [查看](daily-papers/2026-06-23-medrxiv.md) |
