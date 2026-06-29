@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2026-06-28",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 3,
+  "papers": [
+    {
+      "id": "01e2326c3a69bf83",
+      "date": "2026-06-28",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Blood Lead Levels and Alzheimer's Disease Mortality in NHANES: Addressing Temporal Confounding Through a Study Exit Covariate",
+      "translated_title": "NHANES中的血铅水平与阿尔茨海默病死亡率：通过研究退出协变量解决时间混杂问题",
+      "author": "Grossman, A.",
+      "summary": "Background: The relationship between blood lead levels (BLLs) and Alzheimers disease (AD) mortality remains unclear. Prior efforts are likely hampered by structural temporal confounding. In pooled historical cohorts with fixed mortality-linked ascertainment windows, differences in enrollment timing dictate individual follow-up duration, disproportionately concentrating cumulative person-time and advanced age within earlier cohorts. Crucially, across these same historical periods, environmental lead exposure steeply declined while clinical recognition and cause-of-death certification of AD expanded. This systematic imbalance forces earlier, higher-exposed cohorts to contribute more person-time during the modern high-ascertainment era, while later cohorts are right-censored prematurely. This confounds exposure with diagnostic landscape, biasing conventional survival estimates toward the null. Methods: In a two-phase design, we first replicated a prior Continuous NHANES (1999 to 2008) cohort with updated mortality follow-up through December 2019 (Phase 1), then expanded the sample by pooling Continuous NHANES with NHANES III (1988 to 1994) to evaluate 21,308 participants aged at least 40 years with 350 AD deaths (Phase 2). To correct for temporal confounding, we compared conventional Cox models with and without conditioning on a structural covariate: calendar time at study exit. Results: Phase 1 replication with extended follow-up neutralized the previously reported positive hazard ratio to an attenuated null (HR=1.00; 95% CI: 0.78,1.28). In Phase 2 pooled analyses, conventional Cox models also showed no meaningful overall association (HR=0.86; 95% CI: 0.70,1.05). However, incorporating the study exit covariate yielded a robust inverse association (HR=0.57; 95% CI: 0.46,0.70), which remained stable across categorical specifications and sensitivity analyses excluding early deaths (10-year exclusion: HR=0.54; 95% CI: 0.42,0.69). Exit-year stratified analyses revealed consistent within-stratum inverse associations, consistent with Simpsons paradox-type aggregation effects. Conclusions: Systematic differences in enrollment-driven person-time across evolving diagnostic eras profoundly distort exposure-disease relationships in long-latency historical cohorts. Conditioning on calendar time at study exit provides a method for equalizing the ascertainment landscape across heterogeneous study periods without restricting the sample or compromising model structure. However, the observed inverse association between BLL and AD should not be interpreted as evidence of a protective effect of lead exposure. Future studies are needed to establish the true nature of this relationship.",
+      "translated_summary": "背景：血铅水平与阿尔茨海默病死亡率之间的关系尚不明确。既往研究可能受到结构性时间混杂因素的影响。在具有固定死亡率关联观察窗口的合并历史队列中，入组时间的差异决定了每个个体的随访时长，导致早期队列集中了更多累积人时和老年人口。关键的是，在同一历史时期，环境铅暴露水平急剧下降，而阿尔茨海默病的临床识别和死因认证却逐步扩展。这种系统性失衡导致早期高暴露队列在现代高识别率时代贡献了更多人时，而后期队列则被提前右删失。这使暴露因素与诊断环境相互混杂，导致传统生存估计偏向无效假设。方法：采用两阶段设计，首先复制了既往连续NHANES（1999-2008年）队列，并将死亡率随访更新至2019年12月（第一阶段）；随后通过合并连续NHANES与NHANES III（1988-1994年）扩大样本，评估了21,308名年龄≥40岁的参与者，其中包含350例阿尔茨海默病死亡（第二阶段）。为校正时间混杂，我们比较了未调整和调整结构性协变量（研究退出时的日历时间）的传统Cox模型。结果：第一阶段延长随访的复制分析使既往报告的正向风险比减弱至无效值（HR=1.00；95% CI: 0.78,1.28）。在第二阶段合并分析中，传统Cox模型也未显示有意义的总体关联（HR=0.86；95% CI: 0.70,1.05）。然而，纳入研究退出协变量后，得到了稳健的负向关联（HR=0.57；95% CI: 0.46,0.70），该结果在分类变量设定和排除早期死亡的敏感性分析中保持稳定（排除10年死亡：HR=0.54；95% CI: 0.42,0.69）。按退出年份分层分析显示各层内均存在一致的负向关联，符合辛普森悖论式的聚合效应。结论：在长潜伏期历史队列中，由入组时间差异导致的系统性人时分布变化会深刻扭曲暴露-疾病关系。通过调整研究退出时的日历时间，可在不限制样本或破坏模型结构的前提下，均衡不同研究时期的识别环境。然而，观察到的血铅水平与阿尔茨海默病之间的负向关联不应被解释为铅暴露具有保护作用的证据。未来研究需进一步明确这一关系的真实性质。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2024.07.20.24310751v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2024.07.20.24310751",
+      "rank": 1,
+      "published_date": "2026-06-28"
+    },
+    {
+      "id": "5d37bea4d0e37250",
+      "date": "2026-06-28",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Age-Based Risk Estimates for C9orf72RE-related Diseases: Theoretical Developments and Added Value for Genetic Counselling",
+      "translated_title": "基于年龄的C9orf72RE相关疾病风险估计：理论进展及其对遗传咨询的附加价值",
+      "author": "de Vienne, D.",
+      "summary": "The C9orf72 hexanucleotide repeat expansion is the most common genetic cause of amyotrophic lateral sclerosis (ALS) or frontotemporal dementia (FTD). In genetic counseling, children of mutation carriers are often told that they have a 50% risk of carrying the mutation, but this figure does not take into account the fact that penetrance is age-related, with a unimodal distribution of disease onset around 58 years of age. Using a Bayesian approach, we developed a theory to calculate the probability of carrying the mutation for asymptomatic relatives (children/siblings and grandchildren/niblings) as well as the probability of developing ALS/FDT within a given time frame, based on their age. Using published data on age-related penetrance, we then calculated these probabilities and developed an online simulator that makes it easy to calculate them on a case-by-case basis. The conditional probabilities obtained can be very different from Mendelian values. For example, a 70-year-old asymptomatic child born to a carrier has approximately a 6% risk of being a carrier, which is far from 50%. For grandchildren, taking into account both their age and that of their parents also leads to figures that are much lower than those obtained if only their age were considered. For consultands, the decision to undergo testing is based in part on risk estimates. In this regard, the refined estimates and simulator we propose may prove to be valuable tools for genetic counseling for families affected by ALS/FTD linked to the C9orf72RE mutation. In addition, the formulas used in this study could also be used to calculate risk estimates for other diseases caused by autosomal dominant mutations with age-dependent penetrance.",
+      "translated_summary": "C9orf72六核苷酸重复扩增是肌萎缩侧索硬化症（ALS）或额颞叶痴呆（FTD）最常见的遗传病因。在遗传咨询中，突变携带者的子女常被告知有50%的突变携带风险，但该数值未考虑外显率与年龄相关的特性——疾病发病年龄呈单峰分布，中位年龄约58岁。我们采用贝叶斯方法，构建了基于年龄计算无症状亲属（子女/兄弟姐妹及孙辈/侄辈）突变携带概率的理论模型，同时可预测特定时间段内罹患ALS/FTD的概率。通过整合已发表的年龄相关外显率数据，我们计算了这些概率值，并开发了在线模拟器以便逐例计算。所得条件概率可能与孟德尔遗传值存在显著差异。例如，70岁无症状携带者子女的实际突变携带风险约为6%，远低于50%。对于孙辈而言，同时考虑其自身年龄与父母年龄后，所得风险值也显著低于仅考虑自身年龄的计算结果。对于咨询者而言，是否接受检测的决策部分基于风险评估。在此背景下，我们提出的精细化风险评估模型与模拟器，或将成为C9orf72RE突变相关ALS/FTD家族遗传咨询的重要工具。此外，本研究采用的公式体系也可推广至其他常染色体显性遗传且具有年龄依赖性外显率的疾病风险评估。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.08.08.25333050v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.08.08.25333050",
+      "rank": 2,
+      "published_date": "2026-06-28"
+    },
+    {
+      "id": "09523c24568ec9de",
+      "date": "2026-06-28",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Routine implementation of α-synuclein Seed Amplification Assays reveals high diagnostic performance and the limited value of Alzheimer disease fluid biomarkers for detecting α-synuclein co-pathology",
+      "translated_title": "常规实施α-synuclein种子扩增检测显示出高诊断性能，且阿尔茨海默病体液生物标志物在检测α-synuclein共病理方面价值有限。",
+      "author": "Jourdan, O.",
+      "summary": "Background In neurodegenerative diseases, the diagnostic value of -synuclein seed amplification assay (SAA) in routine clinical practice and its relationship with cognitive performance and fluid biomarkers remains incompletely characterized. In addition, although Alzheimer disease (AD) CSF and blood biomarkers accurately detect amyloid and tau pathology, their ability to identify concomitant -synuclein (Syn) pathology remains unknown. Methods We included 398 patients from the multicenter memory clinic ALZAN cohort. All participants underwent CSF and blood sampling with measurement of CSF biomarkers (A{beta}42/40, tau, p-tau181) and plasma biomarkers (A{beta}42/40, p-tau181, p-tau217, GFAP, NfL). Cognitive assessment was performed using the Mini-Mental State Examination (MMSE). Clinical diagnoses were independently confirmed by two senior neurologists. Syn status was determined by SAA (RT-QuIC). Results Of 398 patients, 19/20 patients with Lewy body dementia (LBD) (95.0%) and 32/203 patients with AD (15.8%) were SAA+. SAA-positivity presented a sensitivity of 95.0% (95%CI, 75.1-99.9), a specificity of 93.1% (95%CI, 88.3-96.4) for distinguishing LBD from patients without LBD or AD. In the entire cohort, SAA+ patients showed lower MMSE scores (p<0.01), lower CSF A{beta}42/40 ratio (p<0.01), and elevated plasma GFAP (p<0.05). However, within the AD subgroup, only CSF A{beta}42/40 differed marginally between SAA+ and SAA- patients, whereas CSF total tau, CSF p-tau181, plasma p-tau217, p-tau181, GFAP, and NfL showed no significant differences. Conclusions SAA accurately detects Syn pathology in routine memory clinic practice that is not captured by current AD CSF and blood biomarkers. These findings support SAA as a complementary biomarker for routine diagnosis and patient stratification.",
+      "translated_summary": "背景 在神经退行性疾病中，α-突触核蛋白种子扩增检测（SAA）在常规临床实践中的诊断价值及其与认知功能和体液生物标志物的关系尚未完全明确。此外，尽管阿尔茨海默病（AD）的脑脊液和血液生物标志物能准确检测淀粉样蛋白和tau蛋白病理，但其识别伴随性α-突触核蛋白（Syn）病理的能力仍属未知。方法 本研究纳入多中心记忆门诊ALZAN队列中的398例患者。所有受试者均采集脑脊液和血液样本，检测脑脊液生物标志物（Aβ42/40、tau、p-tau181）及血浆生物标志物（Aβ42/40、p-tau181、p-tau217、GFAP、NfL）。采用简易精神状态检查（MMSE）进行认知评估，临床诊断由两位资深神经科医生独立确认。通过SAA（RT-QuIC）确定α-突触核蛋白状态。结果 398例患者中，19/20例路易体痴呆（LBD）患者（95.0%）和32/203例AD患者（15.8%）为SAA阳性。SAA阳性在区分LBD与非LBD/AD患者时，灵敏度为95.0%（95%CI, 75.1-99.9），特异度为93.1%（95%CI, 88.3-96.4）。全队列中，SAA阳性患者MMSE评分更低（p<0.01），脑脊液Aβ42/40比值更低（p<0.01），血浆GFAP水平升高（p<0.05）。但在AD亚组中，仅脑脊液Aβ42/40在SAA阳性和阴性患者间存在边缘差异，而脑脊液总tau、脑脊液p-tau181、血浆p-tau217、p-tau181、GFAP和NfL均无显著差异。结论 SAA能准确检测常规记忆门诊实践中未被当前AD脑脊液和血液生物标志物捕获的α-突触核蛋白病理。这些发现支持SAA作为常规诊断和患者分层的补充生物标志物。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.04.21.26351389v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.04.21.26351389",
+      "rank": 3,
+      "published_date": "2026-06-28"
+    }
+  ]
+}
