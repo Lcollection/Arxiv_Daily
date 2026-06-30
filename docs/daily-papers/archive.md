@@ -2,6 +2,7 @@
 
 | 日期 | 每日汇总 | arXiv | bioRxiv | medRxiv |
 |------|----------|-------|---------|---------|
+| 2026-06-29 | [每日汇总](2026-06-29.md) | [arXiv](2026-06-29-arxiv.md) | [bioRxiv](2026-06-29-biorxiv.md) | [medRxiv](2026-06-29-medrxiv.md) |
 | 2026-06-28 | [每日汇总](2026-06-28.md) | [arXiv](2026-06-28-arxiv.md) | [bioRxiv](2026-06-28-biorxiv.md) | [medRxiv](2026-06-28-medrxiv.md) |
 | 2026-06-27 | [每日汇总](2026-06-27.md) | [arXiv](2026-06-27-arxiv.md) | [bioRxiv](2026-06-27-biorxiv.md) | [medRxiv](2026-06-27-medrxiv.md) |
 | 2026-06-26 | [每日汇总](2026-06-26.md) | [arXiv](2026-06-26-arxiv.md) | [bioRxiv](2026-06-26-biorxiv.md) | [medRxiv](2026-06-26-medrxiv.md) |
