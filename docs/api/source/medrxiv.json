@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-07-05T00:03:57Z",
+  "generated_at": "2026-07-06T00:07:13Z",
   "source": "medrxiv",
   "source_label": "medRxiv",
-  "count": 482,
+  "count": 483,
   "chunked": true,
   "chunk_key": "dates",
   "page_size": 100,
@@ -31,7 +31,7 @@
     },
     {
       "page": 5,
-      "count": 82,
+      "count": 83,
       "api_path": "api/source/medrxiv/0005.json"
     }
   ]
