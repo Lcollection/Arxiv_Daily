@@ -1,11 +1,34 @@
 {
   "version": 1,
-  "generated_at": "2026-07-06T00:07:13Z",
+  "generated_at": "2026-07-07T00:10:57Z",
   "page": 4,
   "page_size": 100,
   "count": 100,
-  "total_count": 483,
+  "total_count": 484,
   "dates": [
+    {
+      "date": "2025-05-14",
+      "count": 0,
+      "api_path": "api/daily/2025-05-14.json",
+      "page_path": "daily-papers/2025-05-14.md",
+      "sources": {
+        "arxiv": {
+          "source_label": "arXiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-arxiv.md"
+        },
+        "biorxiv": {
+          "source_label": "bioRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-biorxiv.md"
+        },
+        "medrxiv": {
+          "source_label": "medRxiv",
+          "count": 0,
+          "page_path": "daily-papers/2025-05-14-medrxiv.md"
+        }
+      }
+    },
     {
       "date": "2025-05-13",
       "count": 0,
@@ -2282,30 +2305,7 @@
           "page_path": "daily-papers/2024-11-30-medrxiv.md"
         }
       }
-    },
-    {
-      "date": "2024-11-29",
-      "count": 152,
-      "api_path": "api/daily/2024-11-29.json",
-      "page_path": "daily-papers/2024-11-29.md",
-      "sources": {
-        "arxiv": {
-          "source_label": "arXiv",
-          "count": 0,
-          "page_path": "daily-papers/2024-11-29-arxiv.md"
-        },
-        "biorxiv": {
-          "source_label": "bioRxiv",
-          "count": 87,
-          "page_path": "daily-papers/2024-11-29-biorxiv.md"
-        },
-        "medrxiv": {
-          "source_label": "medRxiv",
-          "count": 65,
-          "page_path": "daily-papers/2024-11-29-medrxiv.md"
-        }
-      }
     }
   ],
-  "latest_date": "2026-07-05"
+  "latest_date": "2026-07-06"
 }
