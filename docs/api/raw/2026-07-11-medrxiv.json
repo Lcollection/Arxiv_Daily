@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "date": "2026-07-11",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 4,
+  "papers": [
+    {
+      "id": "1642aeefe25c0405",
+      "date": "2026-07-11",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "PABformer: Multi-Channel Transformer-Based Physical Activity Representation Learning from Wearable Accelerometry for Prediction of Parkinson Disease",
+      "translated_title": "PABformer：基于多通道Transformer的可穿戴加速度计物理活动表征学习用于帕金森病预测",
+      "author": "He, K.",
+      "summary": "Parkinson disease (PD) is a prevalent neurodegenerative disorder whose early diagnosis and prediction remain challenging due to the delayed onset of overt motor symptoms and the complexity of long-term behavioral changes. Wearable accelerometers provide a scalable and non-invasive approach for monitoring physical activity (PA) in free-living environments and have emerged as a promising tool for PD prediction. However, existing accelerometer-based methods often rely on coarse summary statistics or models with limited ability to capture long-range temporal dependencies in multi-day accelerometer recordings. In this study, we propose PABformer, a multi-channel Transformer framework designed for long-term PA behavior representation learning from accelerometer data. PABformer introduces a channel-separation strategy to disentangle heterogeneous activity streams and leverages self-supervised pretraining to learn generalized behavioral representations. Using week-long accelerometer recordings from 96,463 participants in the UK Biobank, we pretrained PABformer and subsequently fine-tuned it for demographic attribute inference, PD diagnosis, and incident PD prediction. We compared PABformer against traditional statistical, machine learning approaches, recurrent deep learning models, and a standard Transformer without channel separation. Experimental results demonstrated that PABformer achieved superior performance in both PD classification and survival prediction tasks, as measured by precision-recall area under the curve (PRAUC) and concordance index (C-index), respectively. In addition, Grad-CAM analysis improved interpretability by identifying salient channel contributions associated with PD-related behavioral patterns. These findings demonstrate the potential of foundation models for wearable accelerometer data to advance early PD detection, disease risk prediction, and future precision health applications.",
+      "translated_summary": "帕金森病（PD）是一种常见的神经退行性疾病，由于明显运动症状的延迟出现以及长期行为变化的复杂性，其早期诊断和预测仍面临挑战。可穿戴加速度计提供了一种可扩展且非侵入性的方法，用于监测自由生活环境中的身体活动（PA），并已成为PD预测的有前景工具。然而，现有的基于加速度计的方法通常依赖粗略的汇总统计或模型，这些模型在捕捉多日加速度计记录中的长期时间依赖性方面能力有限。在本研究中，我们提出了PABformer，这是一种多通道Transformer框架，旨在从加速度计数据中学习长期PA行为表征。PABformer引入了通道分离策略以解耦异质性活动流，并利用自监督预训练学习通用行为表征。利用英国生物银行96,463名参与者为期一周的加速度计记录，我们对PABformer进行了预训练，随后针对人口属性推断、PD诊断和PD发病预测进行了微调。我们将PABformer与传统统计方法、机器学习方法、循环深度学习模型以及无通道分离的标准Transformer进行了比较。实验结果表明，PABformer在PD分类和生存预测任务中均取得了优越性能，分别通过精确率-召回率曲线下面积（PRAUC）和一致性指数（C-index）进行衡量。此外，Grad-CAM分析通过识别与PD相关行为模式相关的显著通道贡献，提高了可解释性。这些发现展示了可穿戴加速度计数据的基础模型在推进早期PD检测、疾病风险预测以及未来精准健康应用方面的潜力。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.08.12.25333460v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.08.12.25333460",
+      "rank": 1,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": "a91ddd2f9634651c",
+      "date": "2026-07-11",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Global shifts in thermal suitability and population at risk for dengue transmission by Aedes spp. mosquitoes under CMIP6 scenarios",
+      "translated_title": "CMIP6情景下伊蚊传播登革热的热适宜性全球变化及风险人口",
+      "author": "Ryan, S. J.",
+      "summary": "Dengue fever risk and burden has increased globally in the past decade, with record-breaking outbreaks driving high case numbers, outbreaks increasing in existing transmission suitable regions, and occurring in new locations. A combination of global change processes, including climate change, have provided the environmental backdrop for introductions and resurgences of mosquito-transmitted dengue virus. Understanding shifts in exposure risk is integral to public health preparedness. This study provides global mapping of the thermal suitability of dengue transmission for CMIP6 climate scenarios, across a range of general circulation models (GCMs), and we created spatially explicit demographic projections of transmission risk using year-matched RCP-SSP frameworks for demographic and emissions scenarios. Globally, poleward shifts in projected distributions of suitability for transmission for both Ae. aegypti and Ae. albopictus suitability are shown in both the near term (2030s) and longer term (2050). Under a middle of the road climate scenario (CMIP6 SSP2-4.5), regions in Africa and Asia are the major areas driving increases in year-round (12 months) population at risk (PAR) through 2050, with an anticipated net gain in 932 million people at risk for Ae. aegypti transmission and 24 million for Ae. albopictus, which includes multiple regions losing areas of year-round suitability as temperatures exceed the higher thermal boundary for transmission. In contrast, the estimated net increase in PAR for one or more months of transmission suitability at a global scale by 2050 is 3.29 billion people for Ae. aegypti transmission and 3.30 billion for Ae. albopictus transmission. This snapshot of a middle-of-the-road combination of climate and demographic driven increases in potential dengue transmission exposure emphasizes the importance of both expanding suitability in new areas, and growing populations in areas approaching and becoming exposed year-round. Globalization, urbanization, and shipping will continue to provide the potential for introductions into newly suitable areas as season lengths increase, sparking outbreaks in unexposed populations. This is compounded and becomes ever more probable as the number of people and places at year-round risk also increases. This project provides all global gridded outputs for onward mapping and reuse, to add to the toolkit to anticipate and prepare for prevention and response to dengue in a changing world.",
+      "translated_summary": "过去十年，全球登革热风险和疾病负担持续上升，创纪录的疫情暴发导致病例数激增，现有适宜传播区域疫情加剧，且新发地区不断出现。气候变化等全球变化过程的综合作用，为蚊媒传播的登革病毒引入和复发提供了环境背景。理解暴露风险的动态变化对公共卫生防范至关重要。本研究基于CMIP6气候情景，结合多种全球环流模型（GCMs），绘制了登革热传播热适宜性的全球地图，并利用年份匹配的RCP-SSP框架（涵盖人口与排放情景）构建了传播风险的空间显式人口预测。全球范围内，埃及伊蚊和白纹伊蚊传播适宜性的预测分布均呈现向极地迁移的趋势，这种变化在近期（2030年代）和远期（2050年）均有体现。在中度气候情景（CMIP6 SSP2-4.5）下，非洲和亚洲地区是推动全年（12个月）风险人口（PAR）增长的主要区域，预计到2050年，埃及伊蚊传播风险人口净增9.32亿，白纹伊蚊传播风险人口净增2400万——其中部分区域因温度超过传播热上限而失去全年适宜性。相比之下，到2050年全球范围内至少一个月具有传播适宜性的风险人口净增量更为显著：埃及伊蚊传播为32.9亿人，白纹伊蚊传播为33.0亿人。这一基于中度气候与人口情景的登革热潜在传播暴露快照表明，需同时关注新区域适宜性扩展，以及逐步接近并暴露于全年传播风险区域的人口增长。随着传播季节延长，全球化、城市化和航运将持续推动病毒向新适宜区域输入，在未暴露人群中引发疫情。而全年风险人口与风险区域的同步增长，更使这一趋势不断加剧。本项目提供所有全球网格化输出数据，供后续制图与再利用，以充实应对气候变化背景下登革热预防与响应的工具库。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.07.02.26357126v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.07.02.26357126",
+      "rank": 2,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": "6de0268e497b24a9",
+      "date": "2026-07-11",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Knowledge and practice toward pelvic floor health: a cross-sectional study protocol within the medical staff of national Athletics teams",
+      "translated_title": "国家运动队医务人员盆底健康知识与实践：一项横断面研究方案",
+      "author": "Giagio, S.",
+      "summary": "Objectives. This study will aim to assess the knowledge and practices related to pelvic floor (PF) health within the medical staff of national Athletics teams. Secondary objectives will be to a) explore differences in PF health knowledge across individual, professional, and contextual characteristics; b) examine whether individual clinical practices and team-level approaches toward PF health will vary across subgroups. Methods. This study will be an observational, cross-sectional design using a web-based survey, conducted during the World Athletics season from September 2025 to September 2026. Participants will include healthcare professionals who are part of the medical staff of national Athletics teams, such as physicians, physiotherapists, nurses, nutritionists, and other allied health professionals. The survey will assess demographic and professional characteristics, basic knowledge and practices related to PF health. The questionnaire will undergo expert review and pilot testing before implementation. Participation will be voluntary and anonymous, with responses securely stored. Data will be analyzed using descriptive statistics and comparative tests to explore group differences. Conclusions. Findings will provide insight into how medical staff address PF health within elite Athletics, highlighting potential gaps in knowledge and clinical practice. Data will inform educational initiatives and policy recommendations, supporting the integration of PF health into elite athlete care and sports medicine training programs.",
+      "translated_summary": "目的。本研究旨在评估国家田径队医务人员对盆底健康的认知与实践情况。次要目标包括：a) 探究不同个体、职业及情境特征下盆底健康知识的差异；b) 分析各亚组在个体临床实践与团队层面对盆底健康处理方式的差异。方法。本研究采用观察性横断面设计，通过在线问卷调查实施，调查时间为2025年9月至2026年9月世界田径赛季期间。研究对象为国家田径队医疗团队中的医疗专业人员，包括医生、物理治疗师、护士、营养师及其他相关健康专业人员。问卷将评估人口学与职业特征、盆底健康基础知识及实践情况。问卷在实施前将经过专家评审和预测试。参与为自愿且匿名，回复将安全存储。数据将通过描述性统计和比较检验进行分析，以探索组间差异。结论。研究结果将揭示精英田径运动中医疗人员处理盆底健康的现状，突出认知与临床实践中的潜在差距。数据将为教育举措和政策建议提供依据，支持将盆底健康纳入精英运动员护理及运动医学培训项目。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.09.16.25335684v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.09.16.25335684",
+      "rank": 3,
+      "published_date": "2026-07-11"
+    },
+    {
+      "id": "7ba580a6cdacc283",
+      "date": "2026-07-11",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Mapping Genetic Susceptibility to Urinary Tract Infection from Kidney Papilla to Bladder",
+      "translated_title": "从肾乳头到膀胱的尿路感染遗传易感性图谱",
+      "author": "Xu, K.",
+      "summary": "Urinary tract infections (UTIs) are among the most common bacterial infections, yet the genetic factors influencing susceptibility remain poorly understood. We performed a genome-wide association study of recurrent UTI involving 1,860,836 individuals (213,869 cases and 1,646,967 controls). We identified 36 independent non-HLA genome-wide significant loci encoding kidney epithelial and immune response genes and demonstrated that some loci have sex-specific effects. Integrative functional annotation, expression and protein quantitative trait locus colocalization, and single-cell multi-omic analyses revealed that UTI risk alleles preferentially modulated gene expression in kidney, ureter, and bladder epithelia. Multi-omic prioritization converged on a number of pathogenic pathways: epithelial barrier and mucosal glycocalyx defense (PSCA, UMOD, CLPTM1L, FUT2), innate immune regulation (FES, PTPRC, NEK7, HOTAIR, NFATC1, BTN3A2), infection resolution and regulated cell death (STK3, CASP7, TAX1BP1, ZFP36L2), epithelial identity maintenance (GLIS2, CLDN10, ZFHX3, SPDEF, MPP7), urinary tract development (FGFR2, BMP7, HGF, MET, HOXA9, TSHZ2, WNT7B/LINC00899), and nutritional immunity through iron sequestration (SLC11A2, FAM210B, RPS10). Approximately one-third of loci colocalized with gene expression in kidney tubules, suggesting direct modulation of epithelial host-defense programs. Among all loci, PSCA, which encodes a GPI-anchored epithelial surface protein expressed in the kidney papilla and urinary tract epithelia, emerged as the strongest candidate causal gene. We demonstrated that PSCA was secreted into urine, bound uropathogenic E. coli, and inhibited bacterial growth in vitro, implicating it as a constitutive epithelial defense factor. We also demonstrated that while PSCA was protective against urinary infections and duodenal ulcers, it was associated with increased risk of bladder, prostate, and gastric cancers, suggesting antagonistic pleiotropy between mucosal defenses and oncogenesis. Together, our findings define the polygenic architecture of UTI susceptibility, highlighting epithelial surface defense, innate immune regulation, developmental patterning, and nutritional immunity as central components of host defense, providing a new framework for host-directed, non-antibiotic interventions.",
+      "translated_summary": "尿路感染（UTI）是最常见的细菌感染之一，但其易感性的遗传因素仍不明确。我们对1,860,836人（213,869例患者与1,646,967例对照）进行了复发性尿路感染的全基因组关联研究，鉴定出36个独立于HLA的全基因组显著位点，这些位点编码肾上皮细胞和免疫应答基因，并发现部分位点具有性别特异性效应。通过整合功能注释、表达与蛋白质数量性状位点共定位分析，以及单细胞多组学分析，我们发现尿路感染风险等位基因优先调控肾、输尿管和膀胱上皮的基因表达。多组学优先排序聚焦于多个致病通路：上皮屏障与黏膜糖萼防御（PSCA、UMOD、CLPTM1L、FUT2）、先天免疫调控（FES、PTPRC、NEK7、HOTAIR、NFATC1、BTN3A2）、感染消退与调节性细胞死亡（STK3、CASP7、TAX1BP1、ZFP36L2）、上皮特性维持（GLIS2、CLDN10、ZFHX3、SPDEF、MPP7）、泌尿道发育（FGFR2、BMP7、HGF、MET、HOXA9、TSHZ2、WNT7B/LINC00899）以及通过铁螯合实现的营养免疫（SLC11A2、FAM210B、RPS10）。约三分之一的位点与肾小管基因表达共定位，提示其直接调控上皮宿主防御程序。在所有位点中，编码肾乳头和泌尿道上皮GPI锚定表面蛋白的PSCA基因被确定为最强候选致病基因。我们证实PSCA可分泌至尿液，结合尿路致病性大肠杆菌，并在体外抑制细菌生长，提示其作为组成型上皮防御因子的作用。同时发现PSCA虽能预防尿路感染和十二指肠溃疡，却与膀胱癌、前列腺癌和胃癌风险增加相关，提示黏膜防御与肿瘤发生之间存在拮抗性多效性。综上，本研究定义了尿路感染易感性的多基因架构，揭示上皮表面防御、先天免疫调控、发育模式形成和营养免疫是宿主防御的核心组分，为宿主导向的非抗生素干预提供了新框架。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.07.07.26357417v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.07.07.26357417",
+      "rank": 4,
+      "published_date": "2026-07-11"
+    }
+  ]
+}
