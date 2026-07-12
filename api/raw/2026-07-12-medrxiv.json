@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "date": "2026-07-12",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 1,
+  "papers": [
+    {
+      "id": "cf58b4a3494d2f51",
+      "date": "2026-07-12",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Population-scale burden analysis of rare damaging coding variants identifies novel risk genes for Alzheimer's disease and related dementias and Parkinson's disease and related disorders",
+      "translated_title": "人群规模的罕见有害编码变异负担分析识别出阿尔茨海默病及相关痴呆症和帕金森病及相关障碍的新型风险基因。",
+      "author": "Le Guen, Y.",
+      "summary": "Alzheimer's disease and related dementias (ADRD) and Parkinson's disease and related disorders (PDRD) have substantial genetic contributions, yet the role of rare damaging coding variants remains incompletely characterized at population scale. We performed gene-burden testing of loss-of-function and deleterious missense variants in biobanks and disease-focused sequencing cohorts, using calibrated proxy-phenotypes and diagnosed-case sensitivity analyses to increase power for late-onset disease. At study-wide significance, we confirmed rare-variant burden in established ADRD genes (TREM2, ABCA7, SORL1, PSEN1, GRN, ATP8B4, ABCA1) and PDRD genes (GBA1, LRRK2). We also identified novel ADRD burden signals at the previously implicated AD gene ADAM10 and at IMPA2, SYNE1 and SP140L, and novel PDRD associations at ANKRD27, CCL7, SKP1, USP19, and ZSCAN25. The strongest signal was observed for ANKRD27, where damaging variants clustered within domains mediating interactions with Rab GTPases and retromer components. Our results demonstrate the value of population-scale sequencing to identify rare coding risk genes for neurodegenerative diseases.",
+      "translated_summary": "阿尔茨海默病及相关痴呆症（ADRD）和帕金森病及相关疾病（PDRD）具有显著的遗传基础，但罕见有害编码变异在人群层面的作用尚未完全阐明。我们利用生物样本库和疾病定向测序队列，对功能缺失型变异和有害错义变异进行了基因负荷检测，采用校准代理表型和确诊病例敏感性分析以增强对晚发性疾病的统计效力。在全研究显著性水平上，我们确认了已知ADRD基因（TREM2、ABCA7、SORL1、PSEN1、GRN、ATP8B4、ABCA1）和PDRD基因（GBA1、LRRK2）的罕见变异负荷。同时，在既往关联的AD基因ADAM10以及IMPA2、SYNE1、SP140L中发现了新的ADRD负荷信号，在ANKRD27、CCL7、SKP1、USP19和ZSCAN25中发现了新的PDRD关联。最强信号来自ANKRD27，其有害变异聚集在介导与Rab GTP酶及逆转录复合体相互作用的结构域中。我们的研究结果证明了人群规模测序在识别神经退行性疾病罕见编码风险基因中的价值。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.03.03.26347540v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.03.03.26347540",
+      "rank": 1,
+      "published_date": "2026-07-12"
+    }
+  ]
+}
