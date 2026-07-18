@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "date": "2026-07-18",
+  "source": "biorxiv",
+  "source_label": "bioRxiv",
+  "count": 2,
+  "papers": [
+    {
+      "id": "c39770f6d6f9cce3",
+      "date": "2026-07-18",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Energy allocation explains how protozoan phenotypic traits change in response to temperature and resource supply",
+      "translated_title": "能量分配解释了原生动物表型特征如何随温度和资源供应变化。",
+      "author": "Perna, A.",
+      "summary": "To survive and reproduce, living organisms need to maintain an efficient balance between energy intake and energy expenditure. Changes in environmental conditions can disrupt previously efficient energy allocation strategies, and organisms are required to change their behaviour, physiology, or morphology to cope with the new environment. However, how multiple phenotypic traits interact with one another and with environmental conditions to shape energy allocation remains poorly understood. To better understand this type of phenotype-environment interactions, we develop a predictive framework, grounded in energetic and biophysical principles that allows us to make predictions on how metabolic rate and movement speed should change in response to environmental temperature and resource supply, differentiating between short-term, acute exposure to novel conditions and longer-term exposure that allows acclimation or adaptation. We tested these predictions by exposing axenic populations of the ciliate Tetrahymena pyriformis to different combinations of temperature and resource availability. We measured population growth, cell size, respiration, and movement. Acute increases in temperature led to higher movement speeds and respiration rates, consistent with expectations from physical scaling relationships such as the Boltzmann-Arrhenius equation and the viscous drag acting on movement. However, by around 3.5 days after the introduction of Tetrahymena into a novel environment, all measured traits shifted toward values closer to those of the original environment. These changes likely reflect phenotypic acclimation responses that restored a more efficient energy allocation under the new conditions. Changes in cell size played a key role in this process, by simultaneously affecting multiple phenotypic traits, including metabolic rate and the energetic costs of movement. In small microbial consumers like Tetrahymena, body size can change rapidly, relative to ecological and seasonal timescales. Changes in body size can therefore be effectively leveraged - alongside physiological and biochemical regulations - to cope with environmental changes.",
+      "translated_summary": "为了生存和繁殖，生物体需要在能量摄入与能量消耗之间维持高效平衡。环境条件的变化可能打破先前有效的能量分配策略，迫使生物体改变行为、生理或形态以适应新环境。然而，多表型性状之间如何相互作用，以及它们与环境条件如何共同塑造能量分配，目前仍知之甚少。为更深入理解这类表型-环境相互作用，我们基于能量学和生物物理学原理构建了一个预测框架，该框架能预测代谢率和运动速度如何响应环境温度与资源供给的变化，并区分短期急性暴露于新环境与允许驯化或适应的长期暴露。我们通过将无菌培养的梨形四膜虫暴露于不同温度与资源可用性组合来验证这些预测，测量了种群增长、细胞大小、呼吸作用和运动能力。急性温度升高导致运动速度和呼吸速率增加，这与玻尔兹曼-阿伦尼乌斯方程及运动粘滞阻力等物理尺度关系的预期一致。然而，在四膜虫引入新环境约3.5天后，所有测量性状均向原始环境数值趋近。这些变化可能反映了表型驯化响应，使生物体在新条件下恢复更高效的能量分配。细胞大小变化在此过程中起关键作用，它同时影响代谢率和运动能耗等多重表型性状。对于梨形四膜虫这类小型微生物消费者，其体型可在生态和季节时间尺度上快速变化。因此，体型变化可与生理生化调节协同作用，有效应对环境变化。",
+      "pdf_url": "https://www.biorxiv.org/content/10.1101/2023.07.25.550219v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2023.07.25.550219",
+      "rank": 1,
+      "published_date": "2026-07-18"
+    },
+    {
+      "id": "ed5a283614d10d60",
+      "date": "2026-07-18",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Human vault RNAs exhibit diverse expression patterns and inter-locus compensation",
+      "translated_title": "人类穹窿RNA表现出多样化的表达模式和位点间补偿。",
+      "author": "Hemphill, W. O.",
+      "summary": "In 1986, a class of small, noncoding RNAs was discovered in association with an enormous, enigmatic ribonucleoprotein complex - the \"vault\" particle - and thus dubbed vault RNAs (vtRNAs). However, it's since been recognized that the vast majority ([&ge;]95%) of these noncoding vtRNA molecules are not associated with the mysterious vaults, raising questions about their potential independent function(s). Moreover, humans express four vtRNAs from two different loci, and debate has arisen about whether the vtRNA paralogs share any functional connection, and whether they should remain classified together. Herein, we report the expression patterns of the four VTRNA paralogs in a variety of human cell lines, including various single- and multi-gene VTRNA-knockout cell lines. Knockout of one or more of the three VTRNA1 genes leads to increased expression of vtRNA2-1, suggesting that their biological functions are related. Additionally, we interrogated the effects of vtRNA knockout on HEK293T cell growth, viability, and viral infection, and were unable to replicate previously reported associations. Collectively, our findings point to a potential functional connection between even the most distantly related human vtRNA paralogs, while reaffirming that their biological roles and mechanisms still require critical study.",
+      "translated_summary": "1986年，一类小型非编码RNA被发现与一种巨大而神秘的核糖核蛋白复合体——“穹窿体”颗粒——相关联，因此被命名为穹窿体RNA（vtRNA）。然而，后续研究证实，绝大多数（≥95%）非编码vtRNA分子并不与神秘的穹窿体结合，这引发了对其潜在独立功能的疑问。此外，人类从两个不同基因座表达四种vtRNA，关于这些vtRNA旁系同源物是否存在功能关联、是否应继续归为一类，学界存在争议。本文报告了四种VTRNA旁系同源物在多种人类细胞系（包括多种单基因和多基因VTRNA敲除细胞系）中的表达模式。敲除一个或多个VTRNA1基因会导致vtRNA2-1表达上调，表明其生物学功能存在关联。同时，我们探究了vtRNA敲除对HEK293T细胞生长、存活及病毒感染的影响，但未能复现此前报道的关联性。综合而言，我们的研究揭示了人类vtRNA旁系同源物（即使亲缘关系最远者）间潜在的功能联系，同时重申其生物学作用与机制仍需深入探究。",
+      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.06.17.732918v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.06.17.732918",
+      "rank": 2,
+      "published_date": "2026-07-18"
+    }
+  ]
+}
