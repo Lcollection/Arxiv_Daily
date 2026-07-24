@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generated_at": "2026-07-24T00:08:31Z",
+  "page": 6,
+  "page_size": 100,
+  "count": 1,
+  "total_count": 501,
+  "dates": [
+    {
+      "date": "2024-09-04",
+      "count": 84,
+      "api_path": "api/daily/2024-09-04.json",
+      "page_path": "daily-papers/2024-09-04-medrxiv.md"
+    }
+  ],
+  "source": "medrxiv",
+  "source_label": "medRxiv"
+}
