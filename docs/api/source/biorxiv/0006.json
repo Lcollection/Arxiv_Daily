@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-07-29T00:01:11Z",
+  "generated_at": "2026-07-30T00:02:31Z",
   "page": 6,
   "page_size": 100,
-  "count": 6,
-  "total_count": 506,
+  "count": 7,
+  "total_count": 507,
   "dates": [
+    {
+      "date": "2024-09-11",
+      "count": 171,
+      "api_path": "api/daily/2024-09-11.json",
+      "page_path": "daily-papers/2024-09-11-biorxiv.md"
+    },
     {
       "date": "2024-09-10",
       "count": 232,
