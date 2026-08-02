@@ -1,0 +1,69 @@
+{
+  "version": 1,
+  "date": "2026-08-01",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 4,
+  "papers": [
+    {
+      "id": "dfb574853ebeafd0",
+      "date": "2026-08-01",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Self and Caregiver Reported Choice Making in Autistic Adults: Development and Validation of the AASPIRE Choices and Decisions Scale",
+      "translated_title": "自闭症成人自我及照护者报告的选择决策能力：AASPIRE选择与决策量表的发展与验证",
+      "author": "Kim, S. Y.",
+      "summary": "Self-determination has been assessed as an internal psychological construct. External factors may also affect self-determination, but opportunities to make choices and decisions remain understudied. We developed and evaluated the AASPIRE-Choices and Decisions Scale (AASPIRE-CDS), a new measure of autistic adults opportunities to make choices and decisions, using a community-based participatory approach. We created and refined the AASPIRE-CDS through an iterative process. Data, from the AASPIRE Outcomes Project, included 839 autistic adults participating through direct report, supported direct report, and caregiver report (CR). Exploratory and confirmatory analyses supported a unidimensional structure. Measurement invariance analyses supported configural, metric, and partial scalar invariance across report type without CR, and across living status, with and without CR. The AASPIRE-CDS showed high internal consistency, test-retest reliability, and preliminary responsiveness to change over time. Convergent validity analyses showed that higher AASPIRE-CDS scores were associated with greater self-determination and communication fluency, more independent living, and fewer support needs. The AASPIRE-CDS showed weaker (albeit significant) associations with quality of life, overall health, and employment satisfaction than the self-determination measure showed with these variables. This pattern suggests that opportunities for choice-making are related to, but distinct from, commonly used measures of self-determination. Findings support the AASPIRE-CDS as a valid and reliable measure of choice-making opportunities in autistic adults across support needs but suggest caution interpreting CR. They underscore the importance of supporting autistic adults choice-making and evaluating opportunities for choice alongside internal self-determination. Future research should use larger CR samples to examine the validity of caregiver-reported choice-making opportunities.",
+      "translated_summary": "自决已被评估为一种内部心理构念。外部因素也可能影响自决，但做出选择和决策的机会仍研究不足。我们采用社区参与式研究方法，开发并评估了AASPIRE-选择与决策量表（AASPIRE-CDS），这是一种衡量自闭症成人做出选择和决策机会的新工具。我们通过迭代过程创建并完善了AASPIRE-CDS。数据来自AASPIRE结果项目，包括839名自闭症成人，通过直接报告、支持性直接报告和照护者报告（CR）参与。探索性和验证性分析支持单维结构。测量不变性分析支持跨报告类型（不含CR）以及跨居住状态（含和不含CR）的构型、度量和部分标量不变性。AASPIRE-CDS显示出高内部一致性、重测信度，以及初步的随时间变化响应性。收敛效度分析显示，AASPIRE-CDS得分越高，自决和沟通流畅性越强，独立生活程度越高，支持需求越少。与自决测量相比，AASPIRE-CDS与生活质量、整体健康和就业满意度的关联较弱（尽管显著）。这一模式表明，选择机会与常用的自决测量相关但有所区别。研究结果支持AASPIRE-CDS作为衡量自闭症成人跨支持需求选择机会的有效可靠工具，但建议谨慎解读CR结果。研究强调了支持自闭症成人选择决策以及评估选择机会与内部自决并重的重要性。未来研究应使用更大的CR样本，以检验照护者报告的选择机会的有效性。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.07.26352693v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.05.07.26352693",
+      "rank": 1,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": "0aa51856764f1ac7",
+      "date": "2026-08-01",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Dietary Inflammatory Potential, Dietary Diversity and Micronutrient Adequacy Are Associated with Rheumatoid Arthritis and Autoantibody Burden: A Case-Control Study from India",
+      "translated_title": "饮食炎症潜力、饮食多样性与微量营养素充足性与类风湿关节炎及自身抗体负担相关：来自印度的病例对照研究",
+      "author": "Mahajan, H.",
+      "summary": "Background: Rheumatoid arthritis (RA) is a chronic autoimmune disease influenced by genetic and environmental factors, including diet. We examined the associations of dietary inflammatory potential, dietary diversity, and micronutrient adequacy with RA and RA-related autoantibodies in an urban Indian population. Methods: In this unmatched case-control study, 301 newly diagnosed RA cases and 314 healthy controls from Hyderabad, India, were enrolled. Dietary intake was assessed using a validated 131-item food frequency questionnaire (FFQ). Dietary inflammatory potential was estimated using the Dietary Inflammatory Index (DII), while dietary quality was assessed using Dietary Diversity Score (DDS) and mean probability of micronutrient adequacy (MPA). Rheumatoid factor (RF) and anti-cyclic citrullinated peptide (anti-CCP) antibodies were measured by ELISA. Multivariable regression models adjusted for age, sex, and BMI were used to assess associations. Population attributable fractions (PAFs) were estimated under a theoretical causal framework. Results: Compared with controls, RA cases had lower micronutrient adequacy (median MPA: 18.9% vs. 32.9%), lower dietary diversity (High DDS 50.2% vs. 74.2%), and higher dietary inflammatory scores (median DII: 2.18 vs. 0.37). Each 1-unit increase in DII was associated with higher odds of RA (AOR 1.17; 95% CI: 1.10, 1.24), whereas each 1-unit increase in DDS (AOR 0.73; 95% CI: 0.66, 0.81) and each 10% increase in MPA (AOR 0.88; 95% CI: 0.83, 0.94) were associated with lower odds of RA. High DDS and adequate micronutrient adequacy were also associated with lower RF and anti-CCP levels. Estimated PAFs for higher DII, low DDS, and nutrient inadequacy were 43.8%, 39.5%, and 37.5%, respectively. Conclusions: Poorer dietary quality, lower micronutrient adequacy, and a more pro-inflammatory dietary profile were associated with higher odds of RA and greater autoantibody burden.",
+      "translated_summary": "背景：类风湿关节炎（RA）是一种受遗传和环境因素（包括饮食）影响的慢性自身免疫性疾病。我们在印度城市人群中研究了膳食炎症潜力、膳食多样性和微量营养素充足性与RA及RA相关自身抗体的关联。方法：在这项非匹配病例对照研究中，招募了来自印度海得拉巴的301例新诊断RA病例和314名健康对照者。使用经过验证的131项食物频率问卷（FFQ）评估膳食摄入。膳食炎症潜力通过膳食炎症指数（DII）估算，而膳食质量通过膳食多样性评分（DDS）和微量营养素平均充足概率（MPA）评估。类风湿因子（RF）和抗环瓜氨酸肽（抗CCP）抗体通过ELISA测量。使用调整年龄、性别和BMI的多变量回归模型评估关联。在理论因果框架下估计人群归因分数（PAFs）。结果：与对照组相比，RA病例的微量营养素充足性较低（MPA中位数：18.9% vs. 32.9%），膳食多样性较低（高DDS：50.2% vs. 74.2%），膳食炎症评分较高（DII中位数：2.18 vs. 0.37）。DII每增加1个单位与RA风险升高相关（AOR 1.17；95% CI：1.10，1.24），而DDS每增加1个单位（AOR 0.73；95% CI：0.66，0.81）和MPA每增加10%（AOR 0.88；95% CI：0.83，0.94）与RA风险降低相关。高DDS和充足的微量营养素充足性也与较低的RF和抗CCP水平相关。高DII、低DDS和营养不足的估计PAFs分别为43.8%、39.5%和37.5%。结论：较差的膳食质量、较低的微量营养素充足性和更具促炎性的膳食特征与较高的RA风险和更大的自身抗体负担相关。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.11.18.25340542v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.11.18.25340542",
+      "rank": 2,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": "2c90c0c602097885",
+      "date": "2026-08-01",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Localizing at-risk and early psychosis populations along data-driven clinical, cognitive, and neuroanatomical spectra",
+      "translated_title": "在数据驱动的临床、认知及神经解剖学谱系上定位高风险及早期精神病群体",
+      "author": "Danyluik, M.",
+      "summary": "Background and Hypothesis: Psychotic disorders are increasingly recognized as the extreme end of a broader psychiatric continuum, with less afflicted stages including the non-help-seeking familial high-risk state (FHR), the help-seeking clinical high-risk state (CHR), and first episode psychosis (FEP). However, we lack comprehensive analyses which capture the diversity of clinical, cognitive, functional, and neuroanatomical markers across all three psychosis risk groups, limiting our understanding of how the multimodal phenotypes which define psychotic disorders vary in the broader scope of psychopathology. Study Design: We leveraged a sample of 70 FEP, 40 CHR, 43 FHR, and 41 healthy participants recruited from the same clinical and sociodemographic setting, profiled with a dense multimodal battery. Study Results: Treating our clinical dataset as a multidimensional spectrum, we saw that CHR expressed the most depression-anxiety symptoms, while FEP endorsed the most negative-cognitive-functioning abnormalities, though groups largely overlapped along these dimensions at the individual level. From a neuroimaging perspective, FEP was the only group to show cortical thickness reductions resembling those seen in schizophrenia, while no consistent anatomical pattern could be identified in CHR across our sample or two international replication cohorts. The dominant axis of brain-behaviour covariance captured a relationship between reduced cortical thickness and elevated negative and cognitive symptoms, a pattern seen equivalently in both CHR and FEP. Across groups, negative and cognitive symptoms also trended towards predicting lower functioning at 6-month follow-up. Conclusions: Our analysis suggests that CHR and FEP are characterized by marked phenotypic overlap, favouring transdiagnostic staging models which tailor care to each individual's unique symptom profile.",
+      "translated_summary": "背景与假设：精神病性障碍日益被视为更广泛精神病理连续谱的极端端，其较轻阶段包括非求助性家族高风险状态（FHR）、求助性临床高风险状态（CHR）和首发精神病（FEP）。然而，我们缺乏能够涵盖这三个精神病风险群体中临床、认知、功能和神经解剖标志物多样性的综合分析，这限制了我们理解定义精神病性障碍的多模态表型在更广泛精神病理学范围内如何变化。研究设计：我们利用了一个样本，包括70名FEP、40名CHR、43名FHR和41名健康参与者，这些参与者来自相同的临床和社会人口学背景，并通过密集的多模态电池进行评估。研究结果：将我们的临床数据集视为多维谱系，我们发现CHR表现出最多的抑郁-焦虑症状，而FEP则报告了最多的阴性-认知功能障碍异常，尽管在个体水平上，这些维度上的群体间存在大量重叠。从神经影像学角度看，FEP是唯一表现出类似精神分裂症中观察到的皮质厚度减少的群体，而在我们的样本或两个国际复制队列中，CHR中未能识别出一致的解剖模式。脑-行为协方差的主导轴捕捉到了皮质厚度减少与阴性及认知症状升高之间的关系，这种模式在CHR和FEP中均等同出现。在各组中，阴性及认知症状也趋向于预测6个月随访时的较低功能水平。结论：我们的分析表明，CHR和FEP以显著的表型重叠为特征，这支持跨诊断分期模型，该模型根据每个个体独特的症状谱定制护理。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.03.04.26347618v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.03.04.26347618",
+      "rank": 3,
+      "published_date": "2026-08-01"
+    },
+    {
+      "id": "e0e180ecbcefaa4d",
+      "date": "2026-08-01",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "From Sparse Data to Smart Decisions: Region-Specific Policy Evaluation via Simulation",
+      "translated_title": "从稀疏数据到智能决策：基于模拟的区域特定政策评估",
+      "author": "Dudley, C.",
+      "summary": "Effective infectious disease response requires region-specific guidance, because the contact structures that drive local transmission and shape intervention effects vary from community to community. Agent-based models (ABMs) represent these structures and the individual heterogeneity underlying them, which makes them well suited to local intervention analysis, but they are computationally expensive and fitting their parameters to data is difficult. We present a framework that avoids direct ABM fitting by using a surrogate ordinary differential equation (ODE) model as an intermediary between routine surveillance data and a mechanistically rich ABM. Such data rarely identify ABM parameters uniquely: many combinations of transmissibility, severity, and reporting can reproduce the same observed trajectories. Rather than committing to a single best-fit configuration, the framework retains the full set of ABM parameter combinations consistent with observed case and hospitalization data and propagates this uncertainty into every downstream intervention estimate. We apply the framework to COVID-19 in nine demographically distinct Michigan counties as an illustrative case study. For each county, we recover the ABM parameter regions consistent with local case and hospitalization data, verify that the calibrated model reproduces the observed trajectories, and then evaluate four non-pharmaceutical interventions across those regions. We find that the ranking and robustness of the interventions differ substantially across counties, and that simple demographic predictors do not reliably predict which will succeed. We use intervention implementation assumptions (e.g., for compliance and efficacy) drawn from COVID-19 literature, but the framework is general and can take user-specified assumptions and show what conclusions they would lead to. By coupling mechanistic ABMs with explicit uncertainty propagation, the approach provides a generic route to local, uncertainty-aware intervention analysis for COVID-19, influenza, measles, and other pathogens.",
+      "translated_summary": "有效的传染病应对需要针对特定区域的指导，因为驱动本地传播并影响干预效果的人群接触结构因社区而异。基于智能体的模型（ABMs）能够表征这些结构及其背后的个体异质性，因此非常适合本地干预分析，但其计算成本高，且将参数拟合到数据中较为困难。我们提出一个框架，通过使用替代的常微分方程（ODE）模型作为常规监测数据与机制丰富的ABM之间的中介，避免直接拟合ABM。此类数据很少能唯一确定ABM参数：许多传播性、严重性和报告率的组合都能重现相同的观测轨迹。该框架不承诺单一最佳拟合配置，而是保留与观测病例和住院数据一致的全部ABM参数组合，并将这种不确定性传播到每个下游干预估计中。我们将该框架应用于密歇根州九个不同人口特征的县作为示例案例研究。对每个县，我们恢复与本地病例和住院数据一致的ABM参数区域，验证校准模型能重现观测轨迹，然后在这些区域中评估四种非药物干预措施。我们发现，干预措施的排序和稳健性在各县间差异显著，且简单的人口统计预测因子无法可靠预测哪种措施会成功。我们使用来自COVID-19文献的干预实施假设（例如，关于依从性和有效性），但该框架是通用的，可以接受用户指定的假设并展示其会导向的结论。通过将机制性ABM与显式不确定性传播相结合，该方法为COVID-19、流感、麻疹及其他病原体提供了一条通用的本地化、不确定性感知干预分析路径。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2025.12.05.25341712v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2025.12.05.25341712",
+      "rank": 4,
+      "published_date": "2026-08-01"
+    }
+  ]
+}
