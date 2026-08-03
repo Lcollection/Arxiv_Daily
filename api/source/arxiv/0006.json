@@ -1,11 +1,17 @@
 {
   "version": 1,
-  "generated_at": "2026-08-01T23:59:25Z",
+  "generated_at": "2026-08-03T00:00:01Z",
   "page": 6,
   "page_size": 100,
-  "count": 10,
-  "total_count": 510,
+  "count": 11,
+  "total_count": 511,
   "dates": [
+    {
+      "date": "2024-09-15",
+      "count": 0,
+      "api_path": "api/daily/2024-09-15.json",
+      "page_path": "daily-papers/2024-09-15-arxiv.md"
+    },
     {
       "date": "2024-09-14",
       "count": 0,

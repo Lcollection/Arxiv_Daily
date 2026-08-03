@@ -1,25 +1,9 @@
 {
   "version": 1,
   "date": "2026-08-02",
-  "count": 17,
-  "sources": {
-    "arxiv": {
-      "source_label": "arXiv",
-      "count": 10,
-      "page_path": "daily-papers/2026-08-02-arxiv.md"
-    },
-    "biorxiv": {
-      "source_label": "bioRxiv",
-      "count": 6,
-      "page_path": "daily-papers/2026-08-02-biorxiv.md"
-    },
-    "medrxiv": {
-      "source_label": "medRxiv",
-      "count": 1,
-      "page_path": "daily-papers/2026-08-02-medrxiv.md"
-    }
-  },
-  "page_path": "daily-papers/2026-08-02.md",
+  "source": "arxiv",
+  "source_label": "arXiv",
+  "count": 10,
   "papers": [
     {
       "id": "5387cb000df98ef4",
@@ -170,112 +154,6 @@
       "paper_url": "http://arxiv.org/abs/2607.28608v1",
       "rank": 10,
       "published_date": "2026-07-30"
-    },
-    {
-      "id": "6a50b432df783462",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "Linguistic contextualization in the human hippocampus",
-      "translated_title": "人类海马体中的语言语境化",
-      "author": "Katlowitz, K.",
-      "summary": "Word meanings in language are contextualized by surrounding words. Inspired by the self-attention mechanism in transformer-based large language models (LLMs), we hypothesized that structural composition in the brain arises from combining canonical (non-contextual) word representations with those of nearby words. We analyzed single unit activity in the human hippocampus, a region involved in semantic and contextual processing, while n=10 participants listened to podcasts. We found that hippocampal neurons encoded word position within a clause, using both ordinal and frequency-domain positional encoding. Moreover, neural responses to specific words reflected both the words own lexical semantics and a weighted sum of the embeddings of preceding words. The relative weighting of these contextualizing words correlated with LLM self-attention weights. These findings suggest that contextualization in the brain makes use of vectorial shifts that have a resemblance to attentional reweighting in LLMs, and highlight the role of the mesial temporal lobe within the broader language network.",
-      "translated_summary": "语言中的词义受周围词语的语境化影响。受基于Transformer的大语言模型（LLMs）中自注意力机制的启发，我们假设大脑中的结构组合源于将规范（非语境）词表示与邻近词表示相结合。我们在人类海马体（一个参与语义和语境处理的区域）中分析了单神经元活动，同时让n=10名参与者收听播客。我们发现，海马体神经元通过序数和频域位置编码来编码从句内的词位置。此外，对特定词的神经反应既反映了该词自身的词汇语义，也反映了前序词嵌入的加权和。这些语境化词的相对权重与LLM自注意力权重相关。这些发现表明，大脑中的语境化利用了与LLM中注意力重新加权相似的向量位移，并强调了内侧颞叶在更广泛语言网络中的作用。",
-      "pdf_url": "https://www.biorxiv.org/content/10.1101/2025.06.23.661103v1.full.pdf",
-      "paper_url": "https://doi.org/10.1101/2025.06.23.661103",
-      "rank": 1,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "2f7a35464cf31686",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "STAR Suite: Transcriptomics processing in a single binary through AI-assisted development",
-      "translated_title": "STAR Suite：通过AI辅助开发在单一二进制文件中进行转录组学处理",
-      "author": "Hung, L.-H.",
-      "summary": "Single-cell transcriptomic assays - pooled CRISPR/Perturb-seq screens, clonal lineage tracing, and 10x Flex fixed RNA profiling - are central to modern biology, yet their processing has depended on Cell Ranger, a proprietary tool restricted to 10x products, with no open end-to-end pipeline for Perturb-seq or Flex. We present STAR Suite, which extends the STAR aligner into a single executable that processes bulk RNA-seq, scRNA-seq, Perturb-seq, 10x Flex, and SLAM-seq in one command, with no added dependencies. For single-cell assays it reproduces Cell Ranger 9.0.1 (gene-level Pearson 0.99-1.0) while running 3.6- to 5.7-fold faster, via novel exact-matching and alignment-validated hashing algorithms. Served to both AI agents and human operators through one validated interface, STAR Suite is the production standard for the NIH MorPhiC consortium; its 132,226 lines of C/C++ were built under a human-directed, AI-implemented workflow. Source code, workflow recipes, and per-run provenance are released under the MIT license",
-      "translated_summary": "单细胞转录组检测——包括混合CRISPR/Perturb-seq筛选、克隆谱系追踪以及10x Flex固定RNA分析——是现代生物学的核心，但其数据处理一直依赖Cell Ranger，这是一种专有工具，仅限于10x产品，且没有针对Perturb-seq或Flex的开放端到端流程。我们推出STAR Suite，它将STAR比对器扩展为单一可执行文件，通过一条命令处理bulk RNA-seq、scRNA-seq、Perturb-seq、10x Flex和SLAM-seq，无需额外依赖。对于单细胞检测，它复现了Cell Ranger 9.0.1的结果（基因水平Pearson相关系数0.99-1.0），同时运行速度快3.6至5.7倍，这得益于新颖的精确匹配和比对验证哈希算法。通过一个经过验证的接口服务于AI代理和人类操作员，STAR Suite是NIH MorPhiC联盟的生产标准；其132,226行C/C++代码是在人类指导、AI实施的流程下构建的。源代码、工作流配方和每次运行的溯源信息均在MIT许可证下发布。",
-      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.03.09.710580v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.03.09.710580",
-      "rank": 2,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "e692dc53b0b2bf53",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "Microtubule curling as an efficient readout to uncover fundamental concepts of axonal cell biology and neurodegeneration",
-      "translated_title": "微管卷曲作为揭示轴突细胞生物学和神经退行性变基本概念的高效读出指标",
-      "author": "Voelzmann, A.",
-      "summary": "Nerve fibres (aka axons) are the slender, up-to-meter-long processes of nerve cells that wire nervous systems. These delicate structures must survive for an organism's lifetime, making them prime lesion sites in neurodegeneration. Their long-term maintenance requires the homeostasis of complex local cell biology upheld by motor protein-driven transport along microtubule bundles that run uninterrupted along axons. To gain an understanding of axonal homeostasis, we report and discuss here the functional loss of 105 genes from a wide range of cell biological processes using a standardised Drosophila primary neuron system. ~40% of these gene deficiencies caused microtubule bundle disturbances referred to as 'microtubule-curling', which we use as an indicator of axonal atrophy. Our live imaging showed that microtubule-curling initiates in areas where axons widen, such as areas close to the soma, branch points or growth cones. In wild-type neurons, any initiated curling was contained, but it persisted as growing footprints in mutant curl-promoting conditions. Closer analyses of 20 curl-promoting conditions suggested a general classification into two groups: mutations affecting axonal physiology cause ROS-mediated microtubule-curling, whereas mutations causing motor hyperactivation or affecting microtubule-regulating proteins cause structurally induced ROS-independent curling. As will be discussed, our data provide consistent support for the previously proposed 'dependency cycle of local axon homeostasis' model which can explain the long-standing conundrum that genes from a wide range of cell biological processes often have mutational links to the same class of inherited neurodegenerative disease.",
-      "translated_summary": "神经纤维（又称轴突）是神经细胞的细长突起，长度可达一米，它们构成了神经系统的连接网络。这些脆弱结构必须存活于生物体整个生命周期，因此成为神经退行性疾病中的主要损伤部位。其长期维持依赖于复杂的局部细胞生物学稳态，这由运动蛋白驱动的沿微管束运输所支撑，这些微管束沿轴突不间断延伸。为了理解轴突稳态，我们使用标准化的果蝇初级神经元系统，报告并讨论了105个基因在多种细胞生物学过程中的功能丧失。约40%的这些基因缺陷导致微管束紊乱，称为“微管卷曲”，我们将其用作轴突萎缩的指标。我们的活体成像显示，微管卷曲起始于轴突变宽的区域，如靠近胞体、分支点或生长锥的区域。在野生型神经元中，任何起始的卷曲都被限制，但在促进卷曲的突变条件下，它持续存在并形成增长的足迹。对20种促进卷曲条件的进一步分析提出了一种大致分为两组的分类：影响轴突生理的突变导致ROS介导的微管卷曲，而引发运动蛋白过度激活或影响微管调节蛋白的突变则导致结构诱导的非ROS依赖性卷曲。正如将要讨论的，我们的数据为先前提出的“局部轴突稳态依赖循环”模型提供了一致支持，该模型可以解释一个长期存在的谜团：来自多种细胞生物学过程的基因常常与同一类遗传性神经退行性疾病存在突变关联。",
-      "pdf_url": "https://www.biorxiv.org/content/10.1101/2025.06.27.662005v1.full.pdf",
-      "paper_url": "https://doi.org/10.1101/2025.06.27.662005",
-      "rank": 3,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "467024ba5483bc18",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "Reconstructing whole-organism cell phylogenies with resolved ancestral transcriptional states",
-      "translated_title": "利用解析的祖先转录状态重建整个生物体的细胞系统发育",
-      "author": "Liu, Z.",
-      "summary": "Combining cell lineage tracing with single-cell RNA sequencing can reconstruct a phylogenetic tree to integrate single-cell transcriptomic atlas. However, the internal nodes of this tree - representing ancestral cells - remain transcriptionally silent, preventing along-lineage longitudinal tracing of cell state dynamics. Here, we overcome this by reconstructing high-resolution zygote-to-larva developmental cell phylogenies for 15 zebrafish larvae, with directly measured transcriptomes of the terminal nodes (i.e., sampled cells). Leveraging a set of lineage-committed upregulated genes (LUGs), we developed LUG-encoded ancestral projection (LEAP), a novel phylogeny-based computational framework, and successfully imputed the transcriptional states of internal nodes of the phylogenies. This enabled, for the first time in a non-nematode organism, lineage-informed longitudinal analysis of cell state dynamics throughout development. Our analysis revealed a major, previously unappreciated wave of fate specializations associated with hatching, distinct from the well-characterized events of gastrulation. Furthermore, we uncovered abundant incipient cell states that are already fate-determined but exhibit minimal transcriptional differentiation, revealing a hidden layer of developmental fate specializations. In sum, by resolving ancestral transcriptional states of a reconstructed cell phylogeny, this work paves the way for constructing lineage-resolved cell atlases in complex organisms to characterize comprehensive cell state dynamics.",
-      "translated_summary": "将细胞谱系追踪与单细胞RNA测序相结合，可以重建系统发育树，以整合单细胞转录组图谱。然而，该树的内部节点——代表祖先细胞——在转录上保持沉默，阻碍了沿谱系纵向追踪细胞状态动态。在此，我们通过重建15个斑马鱼幼虫的高分辨率合子到幼体发育细胞系统发育，并直接测量末端节点（即采样细胞）的转录组，克服了这一障碍。利用一组谱系定型上调基因（LUGs），我们开发了LUG编码祖先投影（LEAP），一种基于系统发育的新型计算框架，并成功推断了系统发育内部节点的转录状态。这首次在非线虫生物中实现了谱系信息指导的发育全程细胞状态动态纵向分析。我们的分析揭示了一个与孵化相关的主要且此前未被认识到的命运特化波，区别于已充分表征的原肠胚形成事件。此外，我们发现了大量已决定命运但转录分化极小的初始细胞状态，揭示了发育命运特化的隐藏层。总之，通过解析重建细胞系统发育的祖先转录状态，这项工作为构建复杂生物中谱系分辨的细胞图谱铺平了道路，以全面表征细胞状态动态。",
-      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.07.30.741939v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.07.30.741939",
-      "rank": 4,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "150fb0bc18cc1417",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "Long-distance dispersal drives global tropical distributions in a widespread moth lineage (Lepidoptera: Limacodidae)",
-      "translated_title": "远距离扩散驱动了广泛分布蛾类谱系（鳞翅目：刺蛾科）的全球热带分布格局",
-      "author": "Taberer, T. R.",
-      "summary": "Understanding how global biodiversity patterns arise is a central theme of biogeography, with contemporary theory recognising the roles of both dispersal and vicariance. Genera that are broadly distributed can provide important systems for disentangling the relative influence of these processes across evolutionary timescales. However, many lesser-studied groups, particularly those in the tropics, lack a densely sampled phylogeny which hinders robust inference of their evolutionary and biogeographic history. This study investigates the global diversification and systematics of the putative pantropical moth genus Parasa Moore (Lepidoptera: Limacodidae), with the aim of assessing the relative importance of dispersal and vicariance in shaping its distribution. Medium-coverage whole genome sequencing of specimens predominantly from museum collections were used to generate a globally sampled time-calibrated phylogeny of Parasa and associated genera (the Parasa-complex). Ancestral range estimation analyses were employed to infer geographical origins and possible dispersal times between bioregions. The Parasa-complex originated in Africa in the late Oligocene (~24 Ma) and, through a series of long-distance dispersal events during the early-mid Miocene, expanded into Asia (~23 Ma) and the Americas (~21 Ma). Across all regions, dispersal was the dominant process shaping present-day distributions, with a limited role of vicariance in some subregions. Phylogenetic analyses further demonstrated that Parasa is not a monophyletic genus, with multiple independent lineages contributing to its apparent pantropical distribution. These findings highlight a central role of long-distance dispersal in generating certain global distributions. The results support a dynamic model of range evolution involving rapid Miocene dispersal and subsequent regional diversification. In addition, the non-monophyly of Parasa requires substantial taxonomic revision, underscoring the importance of robust phylogenetic frameworks for interpreting global biodiversity patterns.",
-      "translated_summary": "理解全球生物多样性模式如何形成是生物地理学的核心主题，当代理论认识到扩散和隔离分化两者的作用。广泛分布的属可以为解开这些过程在进化时间尺度上的相对影响提供重要系统。然而，许多研究较少的类群，尤其是热带地区的类群，缺乏密集采样的系统发育树，这阻碍了对其进化和生物地理历史的稳健推断。本研究探讨了假定泛热带分布的蛾类属Parasa Moore（鳞翅目：刺蛾科）的全球多样化和系统学，旨在评估扩散和隔离分化在塑造其分布中的相对重要性。通过对主要来自博物馆标本的中等覆盖度全基因组测序，生成了Parasa及其相关属（Parasa复合群）的全球采样时间校准系统发育树。祖先范围估计分析被用于推断地理起源和生物区域间可能的扩散时间。Parasa复合群起源于非洲晚渐新世（约24百万年前），并通过早-中中新世的一系列长距离扩散事件，扩展到亚洲（约23百万年前）和美洲（约21百万年前）。在所有区域中，扩散是塑造现今分布的主导过程，而隔离分化在某些亚区域中的作用有限。系统发育分析进一步表明，Parasa并非单系属，多个独立谱系促成了其明显的泛热带分布。这些发现强调了长距离扩散在产生某些全球分布模式中的核心作用。结果支持一个动态的范围进化模型，涉及中新世快速扩散和随后的区域多样化。此外，Parasa的非单系性需要大量的分类修订，强调了稳健的系统发育框架在解释全球生物多样性模式中的重要性。",
-      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.05.16.724310v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.05.16.724310",
-      "rank": 5,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "7e46d48d48990c0c",
-      "date": "2026-08-02",
-      "source": "biorxiv",
-      "source_label": "bioRxiv",
-      "title": "Human brain microRNAs exhibit cell-type specificity and agedependence",
-      "translated_title": "人类大脑microRNA表现出细胞类型特异性和年龄依赖性",
-      "author": "Dubnov, S.",
-      "summary": "MicroRNAs play key roles in regulating brain processes ranging from neurogenesis to neurological disease and contribute to many cell-type-specific pathways. However, technical limitations of single-cell small RNA sequencing have confined most studies to bulk analyses of whole-tissue specimens, limiting our capacity to resolve the cell-type specificity of brain microRNAs and to study their roles in depth. To generate a comprehensive, cell-type-resolved atlas of microRNAs in the human brain, we isolated neurons, astrocytes, microglia and oligodendrocytes from fresh neurosurgery-derived brain samples and profiled their small RNA repertoires by RNA sequencing. The results revealed pronounced cell-type-associated differences in microRNA profiles, identified novel cell-type-specific microRNA markers and shed new light on the contribution of their originating genomic loci to cell-type specificity. We further characterized the cell-type dependence of microRNA strand preference and isomiR processing, and identified cell-type-dependent microRNA programs associated with brain ageing. Combined with an accompanying statistical tool for cell-type signal enrichment, our atlas provides a publicly available resource for cell-type-resolved microRNA analysis in the human brain.",
-      "translated_summary": "MicroRNAs在调控大脑过程中发挥关键作用，涵盖从神经发生到神经系统疾病，并参与多种细胞类型特异性通路。然而，单细胞小RNA测序的技术限制使大多数研究局限于整体组织样本的批量分析，限制了我们对大脑MicroRNAs细胞类型特异性的解析及其功能的深入研究。为生成人类大脑中全面、细胞类型分辨的MicroRNAs图谱，我们从新鲜神经外科手术来源的脑样本中分离出神经元、星形胶质细胞、小胶质细胞和少突胶质细胞，并通过RNA测序分析其小RNA谱系。结果显示，MicroRNA谱系存在显著的细胞类型相关差异，识别出新型细胞类型特异性MicroRNA标记，并揭示了其起源基因组位点对细胞类型特异性的贡献。我们进一步表征了MicroRNA链偏好性和isomiR加工的细胞类型依赖性，并识别出与大脑衰老相关的细胞类型依赖性MicroRNA程序。结合配套的细胞类型信号富集统计工具，我们的图谱为人类大脑中细胞类型分辨的MicroRNA分析提供了公开可用资源。",
-      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.01.04.697535v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.01.04.697535",
-      "rank": 6,
-      "published_date": "2026-08-02"
-    },
-    {
-      "id": "264d5bfd7940d78c",
-      "date": "2026-08-02",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Estimating the impact of different intermittent preventative treatment in pregnancy delivery strategies on low birth weight outcomes under moderate and high malaria transmission setting: A modelling study",
-      "translated_title": "评估不同妊娠期间歇性预防治疗分娩策略在中度和高度疟疾传播环境下对低出生体重结局的影响：一项建模研究",
-      "author": "Chakuvinga, L.",
-      "summary": "Introduction: Malaria during pregnancy is a major risk factor for low birth weight (LBW) in newborns, which in turn negatively affects the growth and development of the child. The World Health Organization (WHO) recommended interventions for pregnant women living in malaria endemic countries that include the use of intermittent preventive treatment in pregnancy (IPTp). However, WHO asserts that the coverage of pregnant women taking the recommended doses of IPTp are still very low. The primary goal of this study was to estimate the effects of increasing the coverage of doses of IPTp and to assess the effect of pregnancy timing in relation to seasonal transmission on malaria infections during pregnancy and neonates with LBW. We explored these effects in moderate and high transmission settings. Methods and Findings: A compartmental mathematical model depicting malaria during pregnancy with IPTp doses was formulated to analyze the effects of IPTp, insecticide treated net (ITN) use and seasonal variations in moderate and high malaria transmission settings. Our simulation findings suggest that increasing both ITN use and IPTp dose coverages to high levels, prevents 90% and 84% clinical cases for pregnancies starting in August in moderate and high transmission, respectively. Our model predicts that increasing the coverage of the first dose of IPTp to 90%, while lowering subsequent doses, averts 44% and 37% LBW cases for the August cohort in moderate and high transmission settings, respectively. Unprotected pregnancies overlapping the January peak in rainfall and malaria incidence during the third trimester experience the highest LBW burden. Conclusions: The highest IPTp coverage prevents the highest number of LBWs providing evidence of the benefits of scaling up IPTp. Overall, our results demonstrate that increasing ITN use has a substantial impact in reducing clinical malaria cases during pregnancy and improves birth outcomes. This highlights its importance as a key intervention, and the health benefits it would provide for malaria control goals for pregnant women. Pregnancies that overlap with the epidemic peaks in later trimesters lead to a rise in LBWs, indicating the necessity of protecting pregnant women at risk of malaria infection till delivery.",
-      "translated_summary": "引言：妊娠期疟疾是导致新生儿低出生体重（LBW）的主要风险因素，进而对儿童的生长发育产生负面影响。世界卫生组织（WHO）建议疟疾流行国家的孕妇采取干预措施，包括使用妊娠期间歇性预防治疗（IPTp）。然而，WHO指出，孕妇接受推荐剂量IPTp的覆盖率仍然很低。本研究的主要目标是评估提高IPTp剂量覆盖率的效果，并评估妊娠时间与季节性传播的关系对妊娠期疟疾感染及新生儿低出生体重的影响。我们在中度和高度传播环境中探讨了这些效应。方法与发现：构建了一个描述妊娠期疟疾及IPTp剂量的分区数学模型，以分析IPTp、杀虫剂处理蚊帐（ITN）使用及季节性变化在中度和高度疟疾传播环境中的效果。模拟结果表明，将ITN使用和IPTp剂量覆盖率均提高至高水平，可分别预防8月起始妊娠在中度和高度传播环境中90%和84%的临床病例。模型预测，将IPTp首剂覆盖率提高至90%，同时降低后续剂量，可分别避免中度和高度传播环境中8月队列44%和37%的低出生体重病例。未受保护且妊娠期第三孕期与1月降雨和疟疾发病率高峰重叠的妊娠，承受最高的低出生体重负担。结论：最高的IPTp覆盖率可预防最多的低出生体重病例，为扩大IPTp实施提供了益处证据。总体而言，我们的结果表明，提高ITN使用率在减少妊娠期临床疟疾病例方面具有显著影响，并改善出生结局。这凸显了其作为关键干预措施的重要性，以及为孕妇疟疾控制目标提供的健康益处。妊娠期与流行病高峰在后期重叠会导致低出生体重增加，表明有必要保护有疟疾感染风险的孕妇直至分娩。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.30.26354497v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.05.30.26354497",
-      "rank": 1,
-      "published_date": "2026-08-02"
     }
-  ],
-  "generated_at": "2026-08-03T00:00:01Z"
+  ]
 }
