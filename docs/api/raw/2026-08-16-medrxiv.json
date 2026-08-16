@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "date": "2026-08-16",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 1,
+  "papers": [
+    {
+      "id": "4665a78e63fcf74b",
+      "date": "2026-08-16",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Burden of Emergency and Operative Conditions in India: A state-level retrospective analysis from 1980 to 2023",
+      "translated_title": "印度急诊与手术疾病负担：1980年至2023年的邦级回顾性分析",
+      "author": "Gerardo, R.",
+      "summary": "Introduction: Disease burden is a crucial factor in determining healthcare policy and resource allocation. We analyzed the subnational burden of emergency and operative conditions in India from 1980 to 2023. Materials and Methods: We extracted mortality and disability-adjusted life-year (DALY) estimates for 31 Indian states and Union Territories from 1980 to 2023 from the Global Burden of Disease 2023 Study. We used existing expert-consensus-based classifications for defining emergency (30 conditions), operative (57 conditions), and emergency-operative conditions (7 conditions). We investigated rates per 100,000 people and proportions attributable to the above conditions, expressed as percentages of total mortality and DALYs. We conducted a post-hoc uncertainty analysis to calculate the mean and 95% uncertainty interval (UI) for each estimate. Results: In 2023, emergency (mortality rate: 340 deaths per 100,000, 95% UI [282, 416]; DALY rate: 13,732 DALYs per 100,000 people, 95% UI [11,492, 16,277]), operative (mortality rate: 158 deaths per 100,000, 95% UI [123, 196]; DALY rate: 7,284 DALYs per 100,000 people, 95% UI [5,765, 9,018]), and emergency-operative conditions (mortality rate:70 deaths per 100,000, 95% UI [58, 83]; DALY rate: 3,830 DALYs per 100,000 people, 95% UI [3,229, 4,396])accounted for 49.76% (95% UI [43.44%, 58.14%]), 23.12% (95% UI [19.05%, 27.52%]), and 10.31% (95% UI [8.96%, 11.58%]) of all-cause mortality and 40.88% (95% UI [36.91%, 45.40%]), 21.66% (95% UI [18.69%, 24.85%]), and 11.41% (95% UI [10.22%, 12.60%]) of all-cause DALYs, respectively. Telangana, Chhattisgarh, and Uttarakhand had high mortality and DALY rates for all three condition groups. From 1980 to 2023, mortality and DALY rates generally decreased across all conditions, with the largest decreases in emergency conditions. States such as Kerala and Goa did not show significant decreases in their mortality and DALY rates between 1980 and 2023. Conclusion: Despite significant nationwide improvements in healthcare, several states in India have shown a consistent trend over time, reporting a persistently high burden of emergency, operative, and emergency-operative conditions. Given the relatively large share of emergency and operative conditions in all-cause mortality, surgical care should be a high priority in national and state-level cross-sectoral policymaking.",
+      "translated_summary": "引言：疾病负担是决定医疗政策与资源配置的关键因素。我们分析了1980年至2023年印度各次国家级地区的急诊和手术相关疾病负担。材料与方法：我们从2023年全球疾病负担研究中提取了1980年至2023年印度31个邦和中央直辖区的死亡率和伤残调整生命年（DALY）估计值。我们采用基于专家共识的现有分类来定义急诊（30种疾病）、手术（57种疾病）和急诊手术（7种疾病）相关疾病。我们调查了每10万人中的发生率及上述疾病占总死亡率和DALY的比例（以百分比表示）。我们进行了事后不确定性分析，计算每项估计值的平均值和95%不确定性区间（UI）。结果：2023年，急诊（死亡率：每10万人340例死亡，95% UI [282, 416]；DALY率：每10万人13,732 DALYs，95% UI [11,492, 16,277]）、手术（死亡率：每10万人158例死亡，95% UI [123, 196]；DALY率：每10万人7,284 DALYs，95% UI [5,765, 9,018]）和急诊手术（死亡率：每10万人70例死亡，95% UI [58, 83]；DALY率：每10万人3,830 DALYs，95% UI [3,229, 4,396]）分别占全因死亡率的49.76%（95% UI [43.44%, 58.14%]）、23.12%（95% UI [19.05%, 27.52%]）和10.31%（95% UI [8.96%, 11.58%]），以及全因DALY的40.88%（95% UI [36.91%, 45.40%]）、21.66%（95% UI [18.69%, 24.85%]）和11.41%（95% UI [10.22%, 12.60%]）。特伦甘纳邦、恰蒂斯加尔邦和北阿坎德邦在所有三类疾病组中均表现出较高的死亡率和DALY率。从1980年到2023年，所有疾病的死亡率和DALY率普遍下降，其中急诊疾病的降幅最大。喀拉拉邦和果阿邦等邦在1980年至2023年间未显示出死亡率和DALY率的显著下降。结论：尽管全国医疗保健取得了显著改善，但印度多个邦随时间呈现持续趋势，报告急诊、手术和急诊手术相关疾病负担持续较高。鉴于急诊和手术相关疾病在全因死亡率中占比较大，外科护理应成为国家和邦级跨部门政策制定的高优先级事项。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.10.14.25337828v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.10.14.25337828",
+      "rank": 1,
+      "published_date": "2026-08-16"
+    }
+  ]
+}
