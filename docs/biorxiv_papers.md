@@ -4,6 +4,7 @@
 
 | 日期 | 页面 |
 |------|------|
+| 2026-08-20 | [查看](daily-papers/2026-08-20-biorxiv.md) |
 | 2026-08-19 | [查看](daily-papers/2026-08-19-biorxiv.md) |
 | 2026-08-18 | [查看](daily-papers/2026-08-18-biorxiv.md) |
 | 2026-08-17 | [查看](daily-papers/2026-08-17-biorxiv.md) |
