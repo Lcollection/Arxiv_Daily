@@ -1,0 +1,54 @@
+{
+  "version": 1,
+  "date": "2026-08-29",
+  "source": "medrxiv",
+  "source_label": "medRxiv",
+  "count": 3,
+  "papers": [
+    {
+      "id": "85f5da04b3380d1a",
+      "date": "2026-08-29",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Temperature and the Composition of Diets: Evidence from China",
+      "translated_title": "温度与饮食结构：来自中国的证据",
+      "author": "Chen, X.",
+      "summary": "How climate change affects human welfare depends not only on what food systems produce but on what individuals eat once food is on the table. Using three-day dietary recalls from the China Health and Nutrition Survey matched to county weather in the same three-day window, we show that short-run departures from comfort temperature raise the fat share of energy intake and the probability of a diet whose fat share exceeds the WHO threshold. Heat and cold raise the fat share through opposite margins, though the cold response is smaller and less precisely estimated. Under heat, total energy, carbohydrate, and protein intake fall, while absolute fat intake does not change detectably, so the fat share rises as a composition effect, even as total calories decline. Under cold, absolute fat intake appears to rise more than other macronutrients, an intake effect. A macronutrient decomposition is therefore essential: identical movements in total calories mask very different movements in diet quality, a distinction that calorie- or index-based measures cannot deliver. The responses align with physiological appetite regulation, though our design cannot separate physiology from other demand-side channels. Effects are larger for rural and lower-income households but smaller for those that own cooling and heating appliances. We read individual diet as a behavioral input to health capital through which temperature, and adaptive capacity, shape nutritional inequality.",
+      "translated_summary": "气候变化如何影响人类福祉，不仅取决于食物系统生产了什么，还取决于食物上桌后个体实际摄入了什么。利用中国健康与营养调查中三天饮食回顾数据，并将其与同一三天窗口内的县级天气相匹配，我们发现，短期偏离舒适温度会提高脂肪占能量摄入的比例，以及脂肪占比超过世界卫生组织阈值的饮食概率。高温和寒冷通过相反的边际途径提高脂肪占比，尽管寒冷条件下的反应较小且估计精度较低。在高温下，总能量、碳水化合物和蛋白质摄入量下降，而绝对脂肪摄入量无明显变化，因此脂肪占比上升是一种构成效应，即便总热量在减少。在寒冷条件下，绝对脂肪摄入量似乎比其他宏量营养素增加更多，这是一种摄入效应。因此，宏量营养素分解至关重要：总热量的相同变动掩盖了饮食质量的非常不同的变动，这是基于热量或指数的指标无法区分的。这些反应与生理性食欲调节一致，尽管我们的设计无法将生理机制与其他需求侧渠道分开。对农村和低收入家庭的影响更大，但对拥有制冷和取暖设备的家庭影响较小。我们将个体饮食视为健康资本的 behavioral 输入，通过这一输入，温度和适应能力塑造了营养不平等。",
+      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.04.08.25325375v1.full.pdf",
+      "paper_url": "https://doi.org/10.1101/2025.04.08.25325375",
+      "rank": 1,
+      "published_date": "2026-08-29"
+    },
+    {
+      "id": "dda7340eeb16eb4e",
+      "date": "2026-08-29",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Neonatal meconium reveals concurrent microplastic and metal exposure in an urban South Asian birth cohort",
+      "translated_title": "新生儿胎粪揭示南亚城市出生队列中微塑料与金属的同步暴露",
+      "author": "Zaman, I.",
+      "summary": "Neonatal meconium provides a non-invasive matrix for assessing prenatal or near-birth exposure to environmental contaminants. Although microplastics and metals have each been reported in human biological samples, integrated assessments of concurrent particle and metal exposure in meconium remain scarce, particularly in South Asia. In this cross-sectional biomonitoring study, meconium from 30 Cesarean-delivered neonates born in Dhaka, Bangladesh, was analyzed for microplastic occurrence, morphology, and polymer composition using stereomicroscopy, scanning electron microscopy, and Raman spectroscopy, and for fifteen metals using inductively coupled plasma mass spectrometry. Maternal breast milk from a subset of lactating mothers was analyzed as a complementary maternal exposure context. Microplastics were detected in all analyzable meconium samples (n=28), with a median burden of 149 particles/g wet weight, dominated by polyethylene terephthalate fragments and nylon fibers. All fifteen measured metals were also detected in all analyzable meconium samples, with median Pb and Cr concentrations of 1.18 and 3.92 {micro}g/g dry weight, respectively. No microplastic-metal associations remained significant after multiple-testing correction, suggesting partly distinct exposure or accumulation pathways. Here, we show that neonatal meconium captures concurrent microplastic and metal exposure in an urban South Asian birth cohort. This study provides one of the first integrated meconium-based assessments of concurrent microplastic and metal exposure from the region and highlights meconium as a practical matrix for early-life biomonitoring.",
+      "translated_summary": "新生儿胎便为评估产前或出生时环境污染物暴露提供了一种非侵入性生物样本。尽管微塑料和金属已分别在人类生物样本中被报道，但对胎便中颗粒物与金属联合暴露的综合评估仍较为稀缺，尤其是在南亚地区。在本横断面生物监测研究中，对孟加拉国达卡30名剖宫产新生儿胎便进行了分析，使用体视显微镜、扫描电子显微镜和拉曼光谱法检测微塑料的丰度、形态和聚合物组成，并使用电感耦合等离子体质谱法检测十五种金属。对部分哺乳期母亲的母乳进行了分析，作为母体暴露背景的补充。在所有可分析的胎便样本（n=28）中均检测到微塑料，中位负荷为149颗粒/克湿重，以聚对苯二甲酸乙二醇酯碎片和尼龙纤维为主。所有十五种金属也在所有可分析的胎便样本中被检测到，其中铅和铬的中位浓度分别为1.18和3.92微克/克干重。经多重检验校正后，微塑料与金属之间无显著关联，提示其暴露或累积途径部分不同。本研究显示，新生儿胎便能够捕获南亚城市出生队列中微塑料和金属的联合暴露。该研究提供了该地区基于胎便的微塑料与金属联合暴露综合评估之一，并强调胎便作为早期生命生物监测的实用基质。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.12.26352974v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.05.12.26352974",
+      "rank": 2,
+      "published_date": "2026-08-29"
+    },
+    {
+      "id": "fd0841730976952c",
+      "date": "2026-08-29",
+      "source": "medrxiv",
+      "source_label": "medRxiv",
+      "title": "Multi-biobank genome-wide association study of dermatochalasis implicates genes involved in skin biology and morphology",
+      "translated_title": "多生物样本库皮肤松弛症全基因组关联研究揭示参与皮肤生物学与形态发生的基因",
+      "author": "Rajueni, K.",
+      "summary": "ObjectiveThe objective of this study was to detect genetic factors associated with dermatochalasis using a genome-wide association study (GWAS) across three large cohorts. DesignGWAS meta-analysis ParticipantsA total of 13,200 dermatochalasis cases and 962,513 controls were included. MethodsA GWAS meta-analysis of dermatochalasis combining data from the FinnGen, the Estonian Biobank and the UK Biobank was conducted. We also performed colocalization analyses, a phenome-wide association study and age-at-onset analysis, and assessed genetic correlations with various diseases and traits. Main outcome measuresIdentification of genetic variants associated with dermatochalasis. ResultsWe identified 18 loci associated with dermatochalasis at genome-wide significance, 16 of which were novel. Most of these loci had genes involved in skin biology and cutaneous diseases, such as the genes encoding elastin (ELN) and Latent TGF-{beta} binding protein 1 (LTBP1). Phenome-wide association study revealed previous associations with morphology-related traits, while genetic correlation analysis highlighted multiple genetic correlations, especially with smoking and pain. ConclusionsWe detected 18 genetic loci associated with dermatochalasis, characterized these loci in detail and demonstrated their relevance in skin biology and related processes. These findings give novel information on the genetic background of dermatochalasis and provide a solid basis for further research.",
+      "translated_summary": "目的本研究旨在通过全基因组关联研究（GWAS），在三个大型队列中检测与眼睑皮肤松弛症相关的遗传因素。设计GWAS荟萃分析 参与者共纳入13,200例眼睑皮肤松弛症病例和962,513例对照组。方法对FinnGen、爱沙尼亚生物样本库和英国生物样本库的数据进行了眼睑皮肤松弛症的GWAS荟萃分析。我们还进行了共定位分析、全表型组关联研究和发病年龄分析，并评估了与多种疾病和性状的遗传相关性。主要结局指标识别与眼睑皮肤松弛症相关的遗传变异。结果我们在全基因组显著性水平上识别出18个与眼睑皮肤松弛症相关的位点，其中16个为新发现。这些位点中的大多数包含参与皮肤生物学和皮肤疾病的基因，如编码弹性蛋白（ELN）和潜在转化生长因子-β结合蛋白1（LTBP1）的基因。全表型组关联研究揭示了与形态相关性状的既往关联，而遗传相关性分析强调了多种遗传相关性，尤其是与吸烟和疼痛的相关性。结论我们检测到18个与眼睑皮肤松弛症相关的遗传位点，对这些位点进行了详细表征，并证明了它们在皮肤生物学及相关过程中的相关性。这些发现为眼睑皮肤松弛症的遗传背景提供了新信息，并为进一步研究奠定了坚实基础。",
+      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.08.04.26359692v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.08.04.26359692",
+      "rank": 3,
+      "published_date": "2026-08-29"
+    }
+  ]
+}
