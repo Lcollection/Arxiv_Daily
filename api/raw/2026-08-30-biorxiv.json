@@ -1,25 +1,9 @@
 {
   "version": 1,
   "date": "2026-08-30",
-  "count": 9,
-  "sources": {
-    "arxiv": {
-      "source_label": "arXiv",
-      "count": 0,
-      "page_path": "daily-papers/2026-08-30-arxiv.md"
-    },
-    "biorxiv": {
-      "source_label": "bioRxiv",
-      "count": 5,
-      "page_path": "daily-papers/2026-08-30-biorxiv.md"
-    },
-    "medrxiv": {
-      "source_label": "medRxiv",
-      "count": 4,
-      "page_path": "daily-papers/2026-08-30-medrxiv.md"
-    }
-  },
-  "page_path": "daily-papers/2026-08-30.md",
+  "source": "biorxiv",
+  "source_label": "bioRxiv",
+  "count": 5,
   "papers": [
     {
       "id": "49a045380caf3a9c",
@@ -95,67 +79,6 @@
       "paper_url": "https://doi.org/10.64898/2026.01.23.701304",
       "rank": 5,
       "published_date": "2026-08-30"
-    },
-    {
-      "id": "8c4746597af31e41",
-      "date": "2026-08-30",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Cardiorespiratory fitness, polygenic risk, and breast cancer in postmenopausal women: a prospective cohort study",
-      "translated_title": "绝经后女性心肺适能、多基因风险与乳腺癌：一项前瞻性队列研究",
-      "author": "Tanisawa, K.",
-      "summary": "BackgroundAlthough higher cardiorespiratory fitness (CRF) has been associated with lower breast cancer risk, whether CRF modifies the association between polygenic risk and breast cancer remains unclear. We examined the joint associations of cardiorespiratory fitness (CRF) and polygenic risk with incident breast cancer and whether higher CRF is associated with attenuation of excess breast cancer risk conferred by high polygenic risk in postmenopausal women. MethodsThis prospective cohort study included postmenopausal women from the UK Biobank. CRF was estimated using a submaximal cycle ergometer test, and genetic susceptibility was assessed using a breast cancer polygenic risk score (PRS). Associations of CRF and PRS with incident breast cancer were examined using Cox proportional hazards models with attained age as the underlying time scale. Analyses were conducted overall and stratified by age (40-59 and [&ge;]60 years) and body mass index (BMI) (<25 and [&ge;]25 kg/m2). Multiplicative and additive interactions were evaluated, with additive interaction assessed using the relative excess risk due to interaction (RERI). ResultsDuring a median follow-up of 10.7 years, 500 incident breast cancer cases were identified among 13,907 postmenopausal women. Higher CRF was associated with a lower incidence of breast cancer in a dose-response manner, whereas higher PRS was associated with progressively higher risk of incident breast cancer. Although multiplicative interaction was not significant, higher CRF was associated with attenuation of excess breast cancer risk conferred by high polygenic risk on the additive scale (RERI -0.88, 95% CI -1.57 to -0.18). This attenuation was particularly evident among women aged [&ge;]60 years and those with BMI [&ge;]25 kg/m2. ConclusionsHigher CRF was associated with a lower breast cancer risk and attenuation of excess breast cancer risk conferred by high polygenic risk, particularly among postmenopausal women at elevated baseline risk. These findings support further investigation of CRF as a potentially modifiable factor among women with elevated polygenic risk.",
-      "translated_summary": "背景：尽管较高的心肺适能（CRF）与较低的乳腺癌风险相关，但CRF是否改变多基因风险与乳腺癌之间的关联尚不清楚。我们研究了心肺适能（CRF）和多基因风险与绝经后女性偶发性乳腺癌的联合关联，以及较高CRF是否与高多基因风险所赋予的额外乳腺癌风险的减弱相关。方法：这项前瞻性队列研究纳入了来自英国生物银行的绝经后女性。CRF通过次极量自行车测力计测试估算，遗传易感性通过乳腺癌多基因风险评分（PRS）评估。使用Cox比例风险模型，以实际年龄作为基础时间尺度，检验CRF和PRS与偶发性乳腺癌的关联。分析总体进行，并按年龄（40-59岁和[≥]60岁）及体重指数（BMI）（<25和[≥]25 kg/m²）分层。评估了乘性和加性交互作用，加性交互作用通过交互作用导致的相对超额风险（RERI）评估。结果：在中位随访10.7年期间，13,907名绝经后女性中识别出500例偶发性乳腺癌病例。较高CRF与乳腺癌发病率降低呈剂量反应关系，而较高PRS与偶发性乳腺癌风险逐渐增加相关。尽管乘性交互作用不显著，但较高CRF与高多基因风险所赋予的额外乳腺癌风险在加性尺度上的减弱相关（RERI -0.88，95% CI -1.57至-0.18）。这种减弱在年龄[≥]60岁及BMI [≥]25 kg/m²的女性中尤为明显。结论：较高CRF与较低的乳腺癌风险及高多基因风险所赋予的额外乳腺癌风险的减弱相关，尤其是在基线风险较高的绝经后女性中。这些发现支持进一步研究CRF作为多基因风险升高女性中潜在可调节因素的作用。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.03.12.26347589v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.03.12.26347589",
-      "rank": 1,
-      "published_date": "2026-08-30"
-    },
-    {
-      "id": "ff3d9477da93cb04",
-      "date": "2026-08-30",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Forecasting glucose from CGM and sparse meal logs with a residual-gated multimodal transformer",
-      "translated_title": "基于残差门控多模态Transformer的CGM与稀疏膳食日志血糖预测",
-      "author": "Lee, J.",
-      "summary": "Forecasting glucose from continuous glucose monitoring in free-living settings is challenging because trajectories depend on endogenous dynamics and sparsely recorded meals. We developed $\\our$, a multimodal transformer that produces a complete CGM-based forecast and then adds a gated, meal-informed residual correction. The correction is controlled by combined self-reported and CGM-derived evidence of meal presence, scaled per forecast horizon, allowing for dietary context to improve predictions without requiring meal records. We evaluated $\\our$ in 1,752 adults without diabetes from the Framingham Heart Study. Participants wore Dexcom G6 Pro sensors and completed paired ASA24 dietary recalls. $\\our$ achieved the lowest mean absolute error across forecast horizons, meal-state strata, and glucose ranges compared with long short-term memory, transformer, and GluFormer model architectures. It also improved prediction of postprandial peak glucose, time-to-peak, positive incremental area under the curve, and time in the 70--140~mg/dL range. Participant-level cross-validation confirmed generalization to unseen participants.",
-      "translated_summary": "在自由生活环境中，基于连续血糖监测预测血糖具有挑战性，因为轨迹依赖于内源动态和稀疏记录的进餐信息。我们开发了$\\our$，一种多模态变换器，它生成完整的基于CGM的预测，然后添加一个门控、餐食信息驱动的残差校正。该校正由自我报告和CGM衍生的餐食存在证据联合控制，并按预测时间范围缩放，从而在不需餐食记录的情况下利用饮食背景改善预测。我们在弗雷明汉心脏研究的1,752名无糖尿病成人中评估了$\\our$。参与者佩戴Dexcom G6 Pro传感器，并完成配对的ASA24饮食回忆。与长短期记忆、变换器和GluFormer模型架构相比，$\\our$在预测时间范围、餐食状态分层和血糖范围上实现了最低的平均绝对误差。它还改善了餐后峰值血糖、达峰时间、正向增量曲线下面积以及70--140 mg/dL范围内时间的预测。参与者级别交叉验证确认了对未见参与者的泛化能力。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.06.01.26354646v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.06.01.26354646",
-      "rank": 2,
-      "published_date": "2026-08-30"
-    },
-    {
-      "id": "becb198ff3e06a0f",
-      "date": "2026-08-30",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Wearable sleep staging performance declines with sleep apnea severity and is sensitive to training-set composition in very severe sleep apnea",
-      "translated_title": "可穿戴睡眠分期性能随睡眠呼吸暂停严重程度增加而下降，且在极重度睡眠呼吸暂停中对训练集组成敏感。",
-      "author": "Ogaki, S.",
-      "summary": "We aimed to evaluate wearable sleep staging across sleep apnea severity, including very severe sleep apnea defined as an apnea-hypopnea index (AHI) [&ge;] 50 events/h, and to assess how training-set composition affects performance in this subgroup. We analyzed 552 overnight recordings: 318 from the Sleep Lab Dataset and 234 from the Hospital Dataset, of which 26.5% (N=62) had very severe sleep apnea. A deep learning model performed sleep staging from photoplethysmography-derived RR intervals and accelerometry recorded by a wrist-worn device. Baseline performance was assessed by 4-fold cross-validation using randomly partitioned folds from the combined datasets. We examined night-level associations with AHI severity. We also compared the baseline model with an ablation model trained on the same number of recordings but with all Sleep Lab Dataset recordings and lower-AHI Hospital Dataset recordings, evaluating both in the very severe subgroup. For 5-stage classification, Cohen's kappa was 0.586 in the Sleep Lab Dataset and 0.446 in the Hospital Dataset. Under 4-stage staging, the gap narrowed, with kappa values of 0.632 and 0.525, respectively. In the Hospital Dataset, kappa declined with AHI severity, with median kappa differing by about 0.2 between mild and very severe groups. In the very severe subgroup, kappa decreased from 0.365 (baseline) to 0.303 (ablation). Wearable sleep staging performance tended to decline across greater sleep apnea severity. Clinical utility may benefit from training data spanning the target severity spectrum and staging granularity matched to the intended use.",
-      "translated_summary": "我们旨在评估可穿戴睡眠分期在不同睡眠呼吸暂停严重程度下的表现，包括定义为呼吸暂停低通气指数（AHI）[≥] 50次/小时的极重度睡眠呼吸暂停，并评估训练集组成如何影响该亚组的表现。我们分析了552份夜间记录：318份来自睡眠实验室数据集，234份来自医院数据集，其中26.5%（N=62）患有极重度睡眠呼吸暂停。一个深度学习模型利用腕戴设备记录的光电容积脉搏波衍生的RR间期和加速度计数据进行睡眠分期。基线性能通过4折交叉验证评估，使用从合并数据集中随机划分的折。我们检查了夜间水平与AHI严重程度的关联。我们还比较了基线模型与消融模型，后者在相同数量的记录上训练，但包含所有睡眠实验室数据集记录和较低AHI的医院数据集记录，并在极重度亚组中评估两者。对于5阶段分类，Cohen's kappa在睡眠实验室数据集中为0.586，在医院数据集中为0.446。在4阶段分期下，差距缩小，kappa值分别为0.632和0.525。在医院数据集中，kappa随AHI严重程度下降，轻度与极重度组之间的中位kappa差异约为0.2。在极重度亚组中，kappa从0.365（基线）降至0.303（消融）。可穿戴睡眠分期性能倾向于随睡眠呼吸暂停严重程度增加而下降。临床实用性可能受益于训练数据覆盖目标严重程度谱，以及分期粒度与预期用途相匹配。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.04.09.26350266v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.04.09.26350266",
-      "rank": 3,
-      "published_date": "2026-08-30"
-    },
-    {
-      "id": "2d5b61d2c6bb330c",
-      "date": "2026-08-30",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Novel document-level measures and their performance for active learning uncertainty sampling: a use case for automatic CDSS ontology curation",
-      "translated_title": "面向主动学习不确定性采样的新型文档级度量及其性能评估：自动CDSS本体策展的应用案例",
-      "author": "Alluri, S.",
-      "summary": "Human-in-the-loop active learning (AL) can identify key phrases to facilitate biomedical ontology development, maintenance, and other curation tasks. However, determining which documents to annotate by humans is not straightforward. We explored new strategies to make the document selection process transparent, reproducible, and effective. Our AL pipeline modified a BiLSTM-CRF model using PubMed abstracts. We tested four novel document-level uncertainty aggregation strategies: KPSum, KPAvg, DocSum, and DocAvg, that operate over standard token-level uncertainty scores: Minimum Token Probability (MTP), Token Entropy (TE), and Margin. All strategies show significant improvement in early active learning cycles ({theta} to {theta}2) for recall and F1. The systematic evaluations show that KPSum (actual order) shows consistent improvement in both recall and F1. The weighted F1 ({beta} = 5, 10) provided complementary results to raw recall and F1 ({beta} = 1). Our work advances uncertainty sampling by introducing document-level uncertainty aggregation and shows promise in automating ontology curation.",
-      "translated_summary": "人在回路中的主动学习（AL）能够识别关键短语，以促进生物医学本体开发、维护及其他策展任务。然而，确定哪些文档应由人工标注并非易事。我们探索了新策略，使文档选择过程透明、可重复且有效。我们的AL流程使用PubMed摘要修改了BiLSTM-CRF模型。我们测试了四种新颖的文档级不确定性聚合策略：KPSum、KPAvg、DocSum和DocAvg，这些策略基于标准词级不确定性分数：最小词概率（MTP）、词熵（TE）和边际。所有策略在早期主动学习周期（{theta}至{theta}2）中均显著改善了召回率和F1分数。系统评估显示，KPSum（实际顺序）在召回率和F1上均表现出一致改进。加权F1（{beta} = 5, 10）提供了与原始召回率和F1（{beta} = 1）互补的结果。我们的工作通过引入文档级不确定性聚合推进了不确定性采样，并显示出在自动化本体策展方面的潜力。",
-      "pdf_url": "https://www.medrxiv.org/content/10.1101/2025.04.15.25325868v1.full.pdf",
-      "paper_url": "https://doi.org/10.1101/2025.04.15.25325868",
-      "rank": 4,
-      "published_date": "2026-08-30"
     }
-  ],
-  "generated_at": "2026-08-31T01:13:50Z"
+  ]
 }
