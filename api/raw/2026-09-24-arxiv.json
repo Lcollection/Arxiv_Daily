@@ -1,25 +1,9 @@
 {
   "version": 1,
   "date": "2026-09-24",
+  "source": "arxiv",
+  "source_label": "arXiv",
   "count": 10,
-  "sources": {
-    "arxiv": {
-      "source_label": "arXiv",
-      "count": 10,
-      "page_path": "daily-papers/2026-09-24-arxiv.md"
-    },
-    "biorxiv": {
-      "source_label": "bioRxiv",
-      "count": 0,
-      "page_path": "daily-papers/2026-09-24-biorxiv.md"
-    },
-    "medrxiv": {
-      "source_label": "medRxiv",
-      "count": 0,
-      "page_path": "daily-papers/2026-09-24-medrxiv.md"
-    }
-  },
-  "page_path": "daily-papers/2026-09-24.md",
   "papers": [
     {
       "id": "a65fc8dacb2a398b",
@@ -171,6 +155,5 @@
       "rank": 10,
       "published_date": "2026-09-24"
     }
-  ],
-  "generated_at": "2026-09-25T01:18:22Z"
+  ]
 }
