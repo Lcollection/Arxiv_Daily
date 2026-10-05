@@ -1,25 +1,9 @@
 {
   "version": 1,
   "date": "2026-10-04",
-  "count": 14,
-  "sources": {
-    "arxiv": {
-      "source_label": "arXiv",
-      "count": 10,
-      "page_path": "daily-papers/2026-10-04-arxiv.md"
-    },
-    "biorxiv": {
-      "source_label": "bioRxiv",
-      "count": 0,
-      "page_path": "daily-papers/2026-10-04-biorxiv.md"
-    },
-    "medrxiv": {
-      "source_label": "medRxiv",
-      "count": 4,
-      "page_path": "daily-papers/2026-10-04-medrxiv.md"
-    }
-  },
-  "page_path": "daily-papers/2026-10-04.md",
+  "source": "arxiv",
+  "source_label": "arXiv",
+  "count": 10,
   "papers": [
     {
       "id": "fa13eb47a5c9c107",
@@ -170,67 +154,6 @@
       "paper_url": "http://arxiv.org/abs/2610.03273v1",
       "rank": 10,
       "published_date": "2026-10-02"
-    },
-    {
-      "id": "360f4b7c68b9bc78",
-      "date": "2026-10-04",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Can Large Language Models Diagnose Primary Immunodeficiency from Patient-Described Symptoms?",
-      "translated_title": "大型语言模型能否从患者描述的症状中诊断原发性免疫缺陷？",
-      "author": "Reteig, L. C.",
-      "summary": "Patients with primary immunodeficiency (PI) face prolonged diagnostic delays and may increasingly turn to large language models (LLMs) to interpret their symptoms during this period. We evaluated whether an LLM could recognize PI from symptom descriptions derived from interviews with 21 PI patients. In prior work, we showed that GPT-4o identified PI in 96% of cases when prompted with physician-written patient histories (Rider et al., 2025). Here, when prompted with symptom descriptions in patients' own words, GPT-5.2 identified PI in only 7 cases (33%), although it suggested general immune system concerns in 17 cases (81%). This expert-versus-patient gap may indicate that LLMs are sensitive to the language and framing of symptom descriptions, performing substantially worse when patients describe their own symptoms in everyday language than when clinicians summarize patient histories in structured medical terms. This study underscores the need to carefully evaluate how LLMs are used in patient-facing applications.",
-      "translated_summary": "原发性免疫缺陷(PI)患者面临漫长的诊断延迟，在此期间可能越来越多地求助于大型语言模型(LLM)来解读自身症状。我们评估了LLM能否从21名PI患者访谈所得的症状描述中识别出PI。在此前的研究中，我们已表明，当以医生撰写的患者病史作为提示时，GPT-4o在96%的病例中识别出了PI(Rider等，2025)。而在本研究中，当以患者自述的症状描述作为提示时，GPT-5.2仅在7例(33%)中识别出PI，尽管它在17例(81%)中提示了免疫系统方面的普遍担忧。这种专家与患者之间的差距可能表明，LLM对症状描述的语言和表述方式较为敏感，当患者用日常语言描述自身症状时，其表现明显逊于临床医生用结构化医学术语总结患者病史的情形。本研究凸显了审慎评估LLM在面向患者的应用中如何使用的重要性。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.05.26.26353818v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.05.26.26353818",
-      "rank": 1,
-      "published_date": "2026-10-04"
-    },
-    {
-      "id": "1e6447ec14fe766d",
-      "date": "2026-10-04",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Mental Stress-Induced Myocardial Ischemia and Cardiovascular Events in Women after a Premature Myocardial Infarction: A Prospective Cohort Study",
-      "translated_title": "女性早发心肌梗死后精神压力诱导的心肌缺血与心血管事件：一项前瞻性队列研究",
-      "author": "Vaccarino, V.",
-      "summary": "Background. Women with premature myocardial infarction (MI) have worse outcomes than similarly aged men despite less severe disease, and stress-related factors have been implicated. We examined sex differences in the association of mental stress-induced myocardial ischemia (MSIMI) with cardiovascular outcomes after premature MI and explored vascular and inflammatory mechanisms. Methods. We studied 602 individuals (mean age 51 years; 46% women) within 8 months of MI who underwent 99mTc-sestamibi myocardial perfusion imaging at rest and after mental stress. MSIMI was defined as a summed difference score [&ge;]3. We measured reactive hyperemia index (RHI) as peripheral microvascular reactivity to stress and interleukin-6 (IL-6) as inflammatory response to stress. The primary endpoint was cardiovascular death or nonfatal MI; the secondary endpoint added heart failure hospitalization. Cox proportional hazards models adjusted for sociodemographic factors, clinical, and psychiatric history. Results. MSIMI was more common in women than men (19.2% vs. 13.2%, p=0.04). Over a median follow-up of 34.2 months, 51 primary and 91 secondary endpoint events occurred. The hazard ratio (HR) of MSIMI for the primary endpoint was 3.2 (95% CI, 1.3, 7.6) in women and 1.9 (95% CI, 0.8, 4.5) in men (p for interaction=0.41), which remained similar after multivariable adjustment. The adjusted population attributable fraction was 27.6% (99% CI, 3.9%, 36.9%) in women and 11.1% (95% CI, ?5.8%, 18.4%) in men. In exploratory analyses, all MSIMI-related primary endpoint events among women occurred in Black women (HR, 4.3; 95% CI, 1.7?11.1). Associations with the secondary endpoint were weaker and attenuated after adjustment. IL-6 and RHI responses did not attenuate associations. Conclusions. Among women, MSIMI was associated with about threefold increased risk and over one quarter attributable fraction for cardiovascular death or nonfatal MI. Black women were at especially high risk. While larger studies are warranted to confirm sex differences and explore mechanisms, these data underscore the impact of emotional factors on morbidity and mortality in post-MI women.",
-      "translated_summary": "背景。早发心肌梗死（MI）女性尽管疾病严重程度较低，其预后仍比同龄男性更差，应激相关因素被认为与此有关。我们研究了早发MI后精神应激诱导的心肌缺血（MSIMI）与心血管结局关联中的性别差异，并探讨了血管和炎症机制。方法。我们研究了602例个体（平均年龄51岁；46%为女性），均在MI后8个月内，在静息状态和精神应激后接受了99mTc-司他比心肌灌注显像。MSIMI定义为总差值评分[&ge;]3。我们测量了反应性充血指数（RHI）作为外周微血管对应激的反应性，以及白细胞介素-6（IL-6）作为对应激的炎症反应。主要终点为心血管死亡或非致死性MI；次要终点在此基础上增加心力衰竭住院。Cox比例风险模型对社会人口学因素、临床病史和精神病史进行了校正。结果。MSIMI在女性中比男性更常见（19.2% vs. 13.2%，p=0.04）。在中位随访34.2个月期间，发生了51例主要终点事件和91例次要终点事件。MSIMI对主要终点的风险比（HR）在女性中为3.2（95% CI，1.3，7.6），在男性中为1.9（95% CI，0.8，4.5）（交互作用p=0.41），多变量校正后结果仍相似。校正后人群归因分数在女性中为27.6%（99% CI，3.9%，36.9%），在男性中为11.1%（95% CI，?5.8%，18.4%）。在探索性分析中，女性中所有与MSIMI相关的主要终点事件均发生在黑人女性中（HR，4.3；95% CI，1.7?11.1）。与次要终点的关联较弱，且在校正后减弱。IL-6和RHI反应并未减弱这些关联。结论。在女性中，MSIMI与心血管死亡或非致死性MI风险增加约三倍以及超过四分之一的人群归因分数相关。黑人女性风险尤其高。尽管需要更大规模的研究来确认性别差异并探讨机制，这些数据强调了情绪因素对MI后女性发病率和死亡率的影响。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.09.30.26364456v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.09.30.26364456",
-      "rank": 2,
-      "published_date": "2026-10-04"
-    },
-    {
-      "id": "499899c91f22bf0a",
-      "date": "2026-10-04",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Beyond tumor volume: connectomic measures of tumor burden provide superior prognostic information across tumor compartments in glioblastoma",
-      "translated_title": "超越肿瘤体积：肿瘤负荷的连接组学测量为胶质母细胞瘤各肿瘤区室提供更优的预后信息",
-      "author": "Falco-Roget, J.",
-      "summary": "Glioblastoma (GBM) is increasingly recognized as a disease that perturbs and interacts with distributed brain networks, yet its imaging-based prognostic assessment remains largely focused on local tumor extent. Here, we ask whether brain-wide tumor involvement provides a more robust representation of prognostic burden than conventional tumor volume. We analyze preoperative imaging from 999 patients with newly diagnosed GBM across multiple institutions, comparing volumetric measures with the lesion-tract density index (L-TDI), a tractography-derived measure of tumor involvement of white-matter pathways. Systematic survival analyses across tumor compartments and stratification thresholds reveal that the prognostic value of tumor volume is strongly dependent on analytical design and is largely confined to the contrast-enhancing compartment. In contrast, L-TDI shows robust associations with overall survival across thresholds and tumor compartments, outperforming volumetric measures and retaining prognostic value after adjustment for established clinical variables. These findings identify brain-wide tumor involvement as a robust dimension of GBM prognosis and delineate the conditions under which conventional volumetric measurements provide reliable survival information. These results highlight the prognostic relevance of considering GBM as a brain-wide disease, beyond its local anatomical extent.",
-      "translated_summary": "胶质母细胞瘤（GBM）日益被认为是一种扰动并与分布式脑网络相互作用的疾病，然而其基于影像的预后评估仍主要聚焦于局部肿瘤范围。在此，我们探讨全脑肿瘤累及是否比传统肿瘤体积能更稳健地表征预后负担。我们分析了来自多家机构的999例新诊断GBM患者的术前影像，比较了体积测量指标与病变-纤维束密度指数（L-TDI），后者是一种基于纤维束成像衍生的肿瘤累及白质通路的测量指标。跨肿瘤分区和分层阈值的系统性生存分析揭示，肿瘤体积的预后价值强烈依赖于分析设计，且主要局限于对比增强区域。相比之下，L-TDI在不同阈值和肿瘤分区中均显示出与总生存期的稳健关联，优于体积测量指标，并在校正已确立的临床变量后仍保留预后价值。这些发现将全脑肿瘤累及确定为GBM预后的一个稳健维度，并界定了传统体积测量提供可靠生存信息的条件。这些结果凸显了将GBM视为一种全脑疾病而非仅局限于其局部解剖范围的预后相关性。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.09.14.26362015v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.09.14.26362015",
-      "rank": 3,
-      "published_date": "2026-10-04"
-    },
-    {
-      "id": "83752a89f40baa4a",
-      "date": "2026-10-04",
-      "source": "medrxiv",
-      "source_label": "medRxiv",
-      "title": "Molecular Diagnosis as a Probability of Necessity",
-      "translated_title": "分子诊断作为必然性概率",
-      "author": "Belmont, J. W.",
-      "summary": "Genetic diagnosis requires attributing a patient's disease to variant(s). We formalize this attribution through the Probability of Necessity (PN), a counterfactual estimand modeling the probability that disease would not have occurred absent a germline variant given that both are observed, and we use PN to examine the logic and limitations of genetic diagnosis. PN is a property of a variant in a population and disease context, not of a variant alone. PN dissociates from penetrance: identical penetrance yields different PN depending on baseline disease risk and competing causes. Case selection biases PN estimation, favoring population-scale cohorts for estimation over ascertained case series. PN falls as the prevalence of competing causes rises, and among carriers it can fall with increasing polygenic liability even as penetrance rises. We adopt the mediated probability of causation as the Probability of Mediated Necessity (PMN), which updates PN using a biomarker proxying the variant's operative pathway. Using UK Biobank exome data, we estimate PN and PMN for rare LDLR variants in ischemic heart disease (IHD, ICD-10 I25), with hyperlipidemia (E78) as mediator, stratifying by ClinVar class and deleteriousness scores. PN resolves heterogeneity within the variant of uncertain significance (VUS) class beyond variant classification alone. In GBA1 carriers with Parkinson's disease, a mechanistically distinct, low-penetrance system, the same PN derived ordering of VUS holds, and PN is high despite modest penetrance. These results support causal necessity as a framework for genetic diagnosis, distinct from and complementary to variant classification, with implications for clinical and policy decisions in monogenic and common complex diseases.",
-      "translated_summary": "遗传诊断需要将患者的疾病归因于变异。我们通过必要性概率（PN）将这种归因形式化，PN是一种反事实估计量，建模在观察到疾病和胚系变异均存在的情况下，若缺失该变异则疾病不会发生的概率，并利用PN来审视遗传诊断的逻辑与局限。PN是变异在特定人群和疾病背景下的属性，而非变异本身的属性。PN与外显率相分离：相同的外显率会因基线疾病风险和竞争性病因的不同而产生不同的PN。病例选择会偏倚PN估计，因此相较于确诊的病例系列，人群规模队列更适合用于估计。PN随竞争性病因患病率的升高而下降，并且在携带者中，即使外显率上升，PN也可能随多基因易感性的增加而下降。我们采用中介因果概率作为中介必要性概率（PMN），它利用一个代理该变异作用通路的生物标志物来更新PN。利用英国生物银行外显子组数据，我们估计了罕见LDLR变异在缺血性心脏病（IHD，ICD-10 I25）中的PN和PMN，以高脂血症（E78）作为中介，并按ClinVar分类和有害性评分进行分层。PN能够解析意义不明确变异（VUS）类别内部超出变异分类本身的异质性。在患有帕金森病的GBA1携带者中，这是一个机制不同、低外显率的系统，同样的基于PN的VUS排序依然成立，且尽管外显率不高，PN却很高。这些结果支持将因果必要性作为遗传诊断的框架，它独立于变异分类并与之互补，对单基因病和常见复杂病的临床与政策决策具有启示意义。",
-      "pdf_url": "https://www.medrxiv.org/content/10.64898/2026.09.09.26362174v1.full.pdf",
-      "paper_url": "https://doi.org/10.64898/2026.09.09.26362174",
-      "rank": 4,
-      "published_date": "2026-10-04"
     }
-  ],
-  "generated_at": "2026-10-05T01:39:08Z"
+  ]
 }
