@@ -1,9 +1,9 @@
 {
   "version": 1,
-  "generated_at": "2026-10-11T01:35:58Z",
+  "generated_at": "2026-10-12T02:07:26Z",
   "source": "biorxiv",
   "source_label": "bioRxiv",
-  "count": 580,
+  "count": 581,
   "chunked": true,
   "chunk_key": "dates",
   "page_size": 100,
@@ -36,7 +36,7 @@
     },
     {
       "page": 6,
-      "count": 80,
+      "count": 81,
       "api_path": "api/source/biorxiv/0006.json"
     }
   ]
