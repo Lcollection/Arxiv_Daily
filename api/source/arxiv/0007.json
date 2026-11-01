@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "generated_at": "2026-11-01T01:55:02Z",
+  "page": 7,
+  "page_size": 100,
+  "count": 1,
+  "total_count": 601,
+  "dates": [
+    {
+      "date": "2024-09-04",
+      "count": 179,
+      "api_path": "api/daily/2024-09-04.json",
+      "page_path": "daily-papers/2024-09-04-arxiv.md"
+    }
+  ],
+  "source": "arxiv",
+  "source_label": "arXiv"
+}
