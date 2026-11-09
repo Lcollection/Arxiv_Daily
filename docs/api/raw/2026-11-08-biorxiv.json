@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "date": "2026-11-08",
+  "source": "biorxiv",
+  "source_label": "bioRxiv",
+  "count": 2,
+  "papers": [
+    {
+      "id": "07b667ddabcf3f0f",
+      "date": "2026-11-08",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Three-dimensional mapping of human lung fibrosis identifies spatial coupling between tissue microarchitecture and maladaptive repair states",
+      "translated_title": "人类肺纤维化的三维图谱揭示组织微架构与适应不良修复状态之间的空间耦合",
+      "author": "Bell, J. A.",
+      "summary": "Human lung fibrosis progressively destroys three-dimensional tissue architecture, yet how the structural microenvironment shapes cellular states remains unclear. Integrating 3D X-ray histology with spatial omics, we generate a volumetric multimodal atlas of human lung fibrosis that enables direct interrogation of relationships between tissue microarchitecture and spatial molecular programmes. We identify collapse of the alveolar-capillary unit - the coupled loss of alveolar type 1 epithelial cells, capillary endothelial cells, and basement membrane integrity - as a structural transition associated with early fibrogenesis. Surrounding transitional zones exhibit aberrant epithelial differentiation and proteolytic matrix remodelling, with epithelium shifting toward bronchiolised, airway-like states. Stromal activation converges on spatially restricted fibrogenic cores, sites of maximal collagen maturation and matrix stabilisation that function as signalling hubs within surrounding perifocal and vascular microenvironments. Molecular signatures of atlas-defined tissue states were associated with lung function and mortality across independent patient cohorts. Together, these data support a model in which fibrosis emerges as a spatial tissue-state process, with alveolar-capillary collapse redirecting repair towards mechanically stabilised niches that reinforce pathological remodelling.",
+      "translated_summary": "人类肺纤维化逐步破坏三维组织结构，然而结构微环境如何塑造细胞状态仍不清楚。我们将三维X射线组织学与空间组学相结合，构建了人类肺纤维化的体积多模态图谱，使得能够直接探究组织微结构与空间分子程序之间的关系。我们识别出肺泡-毛细血管单元的崩解——即肺泡1型上皮细胞、毛细血管内皮细胞和基底膜完整性的耦合丧失——作为与早期纤维化发生相关的结构转变。周围的过渡区表现出异常的上皮分化和蛋白水解性基质重塑，上皮向细支气管化、气道样状态转变。基质激活汇聚于空间受限的纤维化核心，这些区域是胶原成熟和基质稳定化程度最高的部位，在周围病灶周边和血管微环境中充当信号枢纽。图谱定义的组织状态的分子特征与独立患者队列中的肺功能和死亡率相关。总之，这些数据支持一个模型，即纤维化作为一个空间组织状态过程出现，肺泡-毛细血管崩解将修复重定向至机械稳定的微生态位，从而强化病理性重塑。",
+      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.05.764175v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.11.05.764175",
+      "rank": 1,
+      "published_date": "2026-11-08"
+    },
+    {
+      "id": "b5a245f8915e6b65",
+      "date": "2026-11-08",
+      "source": "biorxiv",
+      "source_label": "bioRxiv",
+      "title": "Proliferation and mutation as humoral immune response",
+      "translated_title": "增殖与突变作为体液免疫应答",
+      "author": "Meilijson, I.",
+      "summary": "The affinity maturation process, through which antibodies acquire relatively high affinity for an invading pathogen, involves complex mechanisms whose relative importance is not yet fully understood. This study proposes an analytical model of this process, to investigate the main factors governing proliferation and mutation and assess their respective roles. The model suggests that the immune system should not be expected to follow a single, rigid evolutionary pattern, as a wide range of proliferation and mutation strategies can yield nearly optimal outcomes. Keywords: Antibody, antigen, affinity, B-cell, mutation, proliferation",
+      "translated_summary": "亲和力成熟过程是抗体获得对入侵病原体相对较高亲和力的过程，涉及复杂的机制，其相对重要性尚未被完全理解。本研究提出该过程的分析模型，以考察控制增殖和突变的主要因素并评估它们各自的作用。模型表明，不应期望免疫系统遵循单一、固定的进化模式，因为广泛的增殖和突变策略都能产生接近最优的结果。关键词：抗体，抗原，亲和力，B细胞，突变，增殖",
+      "pdf_url": "https://www.biorxiv.org/content/10.64898/2026.11.06.764896v1.full.pdf",
+      "paper_url": "https://doi.org/10.64898/2026.11.06.764896",
+      "rank": 2,
+      "published_date": "2026-11-08"
+    }
+  ]
+}
